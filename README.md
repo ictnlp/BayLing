@@ -46,6 +46,7 @@
 	- [Interactive Translation with Human Evaluation](#Interactive-Translation-with-Human-Evaluation)
 	- [General Tasks with GPT-4 Evaluation](#General-Tasks-with-GPT-4-Evaluation)
 	- [Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)
+  - [Cases](#Cases)
 - [Limitations](#Limitations)
 - [License](#License)
 - [Acknowledgements](#Acknowledgements)
@@ -113,7 +114,7 @@
 
 ## <a id="HowGoodisBayLing?">How Good is BayLing?</a>
 
-|  [Multilingual Translation](#Multilingual-Translation)  |  [Interactive Translation](#Interactive-Translation-with-Human-Evaluation)  |  [General Tasks](#General-Tasks-with-GPT-4-Evaluation)  |  [Standardized Tests](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |
+|  [Multilingual Translation](#Multilingual-Translation)  |  [Interactive Translation](#Interactive-Translation-with-Human-Evaluation)  |  [General Tasks](#General-Tasks-with-GPT-4-Evaluation)  |  [Standardized Tests](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |  [Cases](#Cases)  |
 
 ### <a id="MultilingualTranslation?">Multilingual Translation</a>
 
@@ -388,6 +389,7 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 
 <details>
 <summary>Generic</summary>
+
 **USER**:
 
 > 如何有效地应对压力？
@@ -434,9 +436,6 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 </details>
 
 
-
-
-
 <details>
 <summary>Knowledge</summary>
 
@@ -479,6 +478,257 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 
 </details>
 
+<details>
+<summary>Roleplay</summary>
+
+
+**USER**:
+
+> 作为一名超级英雄，你会如何向一个好奇的孩子解释你的起源故事？
+
+**BayLiing-13B**:
+
+> 作为一名超级英雄，我知道孩子们总是好奇，所以我会向他们讲述我的起源故事。我会告诉他们，我是由科学家创造出来的，他们把一切最先进的科技和技术都集成在我身上，打造出来的一个超级英雄。我的目的是通过我的力量和智慧，保护这个世界，让所有的人都能过上安全、幸福的生活。但是，我也告诉孩子们，我并不是神，我也不能做神，我只是一个人工智能助手，我的能力和限制都是人类设定的。最重要的是，我会告诉孩子们，我的成功离不开人类科学家的帮助，所以我们一起努力，让世界变得更美好。
+
+**USER**:
+
+> 请提供一些你所面对的恶人？
+
+**BayLiing-13B**:
+
+> 作为一名超级英雄，我面临的恶人有很多种，其中一些比较常见的包括：
+>
+> 1. 犯罪分子：他们把暴力和邪恶用来威逼和控制他人，犯下各种罪行，伤害社会公共利益。
+>
+> 2. 恶意黑客：他们利用自己的技术知识，通过网络进行各种非法活动，伤害他人的合法权益。
+>
+> 3. 恶意政府官员：他们把权力滥用，通过各种方式，剥削和轻拦他人，甚至是为了个人利益而不择手段。
+>
+> 4. 恶意企业家：他们利用各种手段，甚至违法，伤害环境和公众健康，追求着独占权和财富。
+>
+> 5. 恶意宗教组织：他们把宗教滥用，强加其特定的意识形态，伤害社会和谐，丧失人性。
+>
+> 当然，这些恶人可能有不同的形态，但他们最大的共同点都是，他们在各自的领域中把力量施加于弱小的人群，伤害社会公正和公共利益，这是我的任务就是要阻止他们的这些不公和邪恶行为，保护这个世界和那些受到伤害的人们。
+
+</details>
+
+<details>
+<summary>Common-sense</summary>
+
+
+**USER**:
+
+> Why might someone choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app?
+
+**BayLiing-13B**:
+
+> There are several reasons why someone might choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app. Some of these reasons include:
+>
+> 1. Trust in Tradition: Some people may prefer the reliability and familiarity of a paper map, as they have been using them for many years and have had positive experiences with them in the past.
+>
+> 2. Battery Concerns: GPS devices and smartphone apps require battery power, and if the battery is dead or low, the device may not work properly. Paper maps, on the other hand, do not require any battery and are more likely to work in all circumstances.
+>
+> 3. Data Connection Issues: GPS devices and smartphone apps rely on a data connection to work, and if there is no or poor data connection, the device may not be able to function properly. Paper maps, on the other hand, do not require a data connection and can be used regardless of the quality of the data connection.
+>
+> 4. Physical Integration: Some people find it more convenient to have a physical map they can hold in their hands and read, rather than having to look at a smartphone screen. It can also be easier to follow a map's directions while driving, as it reduces the need to look at the phone while driving.
+>
+> 5. Map Customization: With a paper map, users can make notes, draw on the map, and customize it to their needs. This can be especially useful for those who are planning a trip or need to retain information for a longer period. Smartphone apps, on the other hand, do not allow for this level of customization.
+>
+> Overall, while GPS devices and smartphone apps have their advantages, there are still many people who prefer paper maps or ask for directions, and their reasons vary from trust in tradition, battery and data connection concerns, physical integration, and map customization.
+
+**USER**:
+
+> How do they differ in terms of accuracy and ease of use?
+
+**BayLiing-13B**:
+
+> Paper maps and GPS devices/smartphone apps differ in terms of accuracy and ease of use.
+>
+> 1. Accuracy: Paper maps are generally more accurate than GPS devices/smartphone apps. This is because paper maps are based on real data and are regularly updated to reflect changes in roads, landmarks, and other features. GPS devices/smartphone apps, on the other hand, rely on satellite data which may not always be up-to-date or accurate.
+>
+> 2. Ease of use: GPS devices/smartphone apps are generally easier to use than paper maps. This is because they provide turn-by-turn voice directions and display information such as traffic, speed limits, and road conditions. Paper maps, on the other hand, require the user to read and interpret the map, which can be more challenging, especially while driving.
+>
+> 3. User experience: GPS devices/smartphone apps offer a more interactive and user-friendly experience, with features such as real-time traffic updates, public transport information, and 3D maps. Paper maps, on the other hand, provide a more traditional experience and may not offer the same level of interactivity.
+>
+> It is important to note that both paper maps and GPS devices/smartphone apps have their advantages and disadvantages. Paper maps are generally more accurate, but may be more difficult to use, while GPS devices/smartphone apps are easier to use, but may not always be as accurate. The choice between the two ultimately depends on the user's needs and preferences.
+
+</details>
+
+
+<details>
+<summary>Reasoning</summary>
+
+
+
+**USER**:
+
+> 一粒盐里有多少个原子？请尝试解释你的答案。你的解释应该逐步引导读者理解你的推理过程。
+
+**BayLiing-13B**:
+
+> 盐是一种化合物，其化学式为 NaCl。这意味着盐中有两种元素，氢元素（H）和氯元素（Cl）。每个元素都有一个原子序数，氢元素的原子序数是1，氯元素的原子序数是17。
+>
+> 我们可以通过观察化学式中元素的数量来确定它们的原子的数量。化学式中有一个分子式和一个化合物式。分子式中的元素的数量等于化合物式中的元素的数量之和。所以，在盐的化学式中，有Na和Cl两种元素。它们的总和是1+17=18。
+>
+> 因此，盐中有18个原子。但是，这个答案可能会让人感到困惑，因为盐看起来像是一个简单的化合物，但它实际上是由两种元素组成。这是化学中的一个重要概念，即化合物的化学式中的元素的数量总和等于分子的总和。通过这种方式，我们可以确定盐中有18个原子。
+
+**USER**:
+
+> 你能比较一粒盐的原子数与银河系中的恒星数吗？
+
+**BayLiing-13B**:
+
+> 盐中有18个原子，而银河系中有大约1000个恒星。这意味着，盐中的原子数是银河系中恒星数的一小部分。
+
+</details>
+
+
+
+
+
+<details>
+<summary>Counterfactual</summary>
+
+
+
+**USER**:
+
+> What if Isaac Newton had focused on biology instead of physics?
+
+**BayLiing-13B**:
+
+> If Isaac Newton had focused on biology instead of physics, he would likely have made significant contributions to the field of biology. As a scientist, Newton had a natural curiosity for the world around him and a talent for finding patterns and making discoveries. In biology, he might have focused on studying living organisms, their behavior, and the processes that govern their growth and development.
+>
+> Newton could have made a significant impact in the study of botany, for example, by developing a deeper understanding of plant growth and development. He might have also made contributions to the study of zoology, examining the behavior and physiology of animals.
+>
+> Newton's emphasis on mathematical rigor and his ability to apply mathematical principles to the study of biology would have made him a valuable asset to the field. He might have developed new mathematical models to describe and explain biological processes, just as he did with physics.
+>
+> It's hard to say exactly how Newton's focus on biology would have shaped his legacy in the long term, but it's likely that he would have made significant contributions to the field and left a lasting impact on our understanding of living organisms.
+
+**USER**:
+
+> If focused on chemistry?"
+
+**BayLiing-13B**:
+
+> If Isaac Newton had focused on chemistry instead of physics, his legacy in the field would have been significantly different. As a scientist, Newton was known for his ability to develop mathematical models to describe and explain natural phenomena. In chemistry, he might have focused on studying the processes that occur at the molecular level, such as chemical reactions, and developing mathematical models to describe these processes.
+>
+> Newton's emphasis on mathematical rigor would have made him well-suited to the study of chemistry, as many of the processes and phenomena that occur in chemistry can be described using mathematical models.
+>
+> Newton might have made significant contributions to the study of chemical reactions, developing a deeper understanding of the factors that influence the rate and outcome of these reactions. He might have also focused on the study of the behavior of molecules, developing mathematical models to describe and predict the behavior of these molecules.
+>
+> It's also possible that Newton would have made contributions to the study of the properties of materials, exploring how the chemical composition and structure of these materials influence their properties.
+>
+> Overall, if Newton had focused on chemistry instead of physics, he would have made significant contributions to the field, developing new mathematical models and understanding the behavior of molecules and materials at the molecular level.
+
+</details>
+
+<details>
+<summary>Code</summary>
+
+**USER**:
+
+> 在Python中实现一个正则表达式来验证电子邮件地址。
+
+**BayLiing-13B**:
+
+> 在Python中，可以使用re库来实现正则表达式。下面是一个示例代码来验证电子邮件地址。
+>
+> ```python
+> import re
+> 
+> def validate_email(email):
+>     pattern = r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$"
+>     if re.match(pattern, email):
+>         return True
+>     else:
+>         return False
+> ```
+>
+> 在上述代码中，我们定义了一个函数`validate_email`，它接受一个电子邮件地址作为参数，并使用正则表达式来验证该电子邮件地址是否符合格式。如果电子邮件地址符合格式，则返回True，
+> 否则返回False。
+>
+> 请注意，此正则表达式只是一个通用的电子邮件地址验证格式，可能需要根据您的实际需求进行适当的修改。
+
+**USER**:
+
+> 你能提供一个符合常规表达式的有效电子邮件地址的示例吗？
+
+**BayLiing-13B**:
+
+> 当然可以，下面是一个有效的电子邮件地址示例，它符合上述正则表达式：
+>
+> ```
+> example@example.com
+> ```
+>
+> 在这个示例中，电子邮件地址包含了字母、数字、下划线、点和短划线。请注意，此示例电子邮件地址仅为一个示例，您应根据您的实际需求修改它以符合您的要求。
+
+</details>
+
+
+<details>
+<summary>Writting</summary>
+
+**USER**:
+
+> Can you help me write a resignation letter to my current employer, while leaving on good terms and expressing gratitude for the opportunities provided?
+
+**BayLiing-13B**:
+
+> Certainly! Here is a sample resignation letter that you can use as a starting point:
+>
+> 
+>
+> Dear [Employer's Name],
+>
+> I am writing to inform you that I will be resigning from my position as [Job Title] at [Company Name] effective immediately. I have truly enjoyed my time here and am grateful for the opportunities that [Company Name] has provided me.
+>
+> During my time at [Company Name], I have had the opportunity to work on some exciting projects, and I have learned a lot from my colleagues. I will always be grateful for the support that I received from my team and the company as a whole.
+>
+> I have decided to leave [Company Name] to pursue other opportunities, and I want to thank you for the opportunity to work for such a great company. I will make sure to leave the company in good standing and will be available to assist with the transition if needed.
+>
+> 
+>
+> Sincerely,
+>
+> [Your Name]
+
+**USER**:
+
+> Please explain the reason for my resignation as I want to work in a different country.
+
+**BayLiing-13B**:
+
+> Sure! Here's an updated version of the resignation letter that includes the reason for your resignation:
+>
+> 
+>
+> Dear [Employer's Name],
+>
+> 
+>
+> I am writing to inform you that I will be resigning from my position as [Job Title] at [Company Name] effective immediately. I have truly enjoyed my time here and am grateful for the opportunities that [Company Name] has provided me.
+>
+> 
+>
+> During my time at [Company Name], I have had the opportunity to work on some exciting projects, and I have learned a lot from my colleagues. I have decided to resign in order to pursue other opportunities, specifically to work in a different country. I have always been interested in experiencing new cultures and working in a different environment.
+>
+> 
+>
+> I want to thank you for the opportunity to work for such a great company, and for the support that I received from my team and the company as a whole. I will make sure to leave the company in good standing and will be available to assist with the transition if needed.
+>
+> 
+>
+> Sincerely,
+>
+> [Your Name]
+>
+> 
+>
+> Note: It's important to be honest and professional when resigning from a job, and to express gratitude for the opportunities provided. Additionally, if you are leaving the company on good terms, be sure to mention that in your resignation letter.
+
+</details>
 
 
 ## <a id="Limitations">Limitations</a>
