@@ -4,7 +4,7 @@
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
 
-[![license](https://img.shields.io/badge/License-GNU:3.0-lightgrey.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/License-GPL:v3-lightgrey.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
 [![blog](https://img.shields.io/badge/BayLing-blog-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
 [![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)]()
@@ -24,8 +24,7 @@
 
 🤗 **Model**: The *weight-diff* version of BayLing-7B and BayLing-13B, you can quickly get the parameters of BayLing through [apply_delta.py](./apply_delta.py). The HF models of BayLing are anonymized version (exclude BayLing's name in its knowledge), in order to facilitate future LLMs to build upon BayLing.
 
-- [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff)
-- [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)
+|  [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff)  |  [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)  |
 
 > BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
 >
