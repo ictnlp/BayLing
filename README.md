@@ -65,7 +65,7 @@
 
 ### <a id="Model">Model</a>
 
--  Download the parameters (diff version) of BayLing-7B or BayLing-13B and the model of [LLaMA-7B/13B](https://github.com/facebookresearch/llama), run the following script to get the complete BayLing parameters at `${PATH_TO_BAYLING}`:
+-  Download the parameters (diff version) of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) or [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) and the model of [LLaMA-7B/13B](https://github.com/facebookresearch/llama), run the following script to get the complete BayLing parameters at `${PATH_TO_BAYLING}`.
 
   ```shell
   python apply_delta.py --base-model-path ${PATH_TO_LLAMA} \
@@ -81,7 +81,7 @@
 
 - GPU memory requirements: at least 10GB for BayLing-7B, 16GB for BayLing-13B. 
 
-- Don't have a GPU available? Welcome to try BayLing's online demo👈!
+- Don't have a GPU available? Welcome to try [BayLing's online demo](http://nlp.ict.ac.cn/bayling/demo)👈!
 
   ```shell
   export CUDA_VISIBLE_DEVICES=0
@@ -92,7 +92,7 @@
 
 <img src="./assets/gui.gif" alt="img" style="zoom: 67%;" />
 
-- You can also deploy BayLing on your personal device, based on [FastChat](https://github.com/lm-sys/FastChat).
+- You can also deploy BayLing on your personal device with GUI, based on [FastChat](https://github.com/lm-sys/FastChat).
 
   ```shell
   python -m fastchat.serve.controller &
