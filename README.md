@@ -387,15 +387,22 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 ### <a id="Cases">Cases</a>
 
 <details>
-<summary>Summary</summary>
-> ==USER==
+<summary>Generic</summary>
+
+> ==USER==:
 >
-> ==USER==
+> 如何有效地应对压力
 >
-> ==BayLing-13B==
+> ==BayLiing-13B==:
+>
+> 有很多方法可以帮助你有效地应对压力，下面是一些建议：\n\n1. 确定压力的来源：了解是什么导致你感到压力，这样你就可以寻找合适的解决方案。\n\n2. 做计划：当你知道压力的来源时，你可以制定一个计划，安排好你的时间，让你更有效地应对压力。\n\n3. 采取积极的态度：试着用积极的态度面对压力，这会让你感到更轻松。\n\n4. 放松：压力可能会导致身心紧张，所以你可以尝试一些放松的方法，比如冥想、瑜伽或者深呼吸。\n\n5. 寻求帮助：如果压力过大，你可以寻求帮助，比如寻求朋友的支持或者咨询专业人士。\n\n每个人对压力的反应都不同，所以你需要找到适合你的方法来应对压力。通过尝试不同的方法，你可以找到最适合你的方法来有效地应对压力。
 
 
 </details>
+
+
+
+
 
 ## <a id="Limitations">Limitations</a>
 
