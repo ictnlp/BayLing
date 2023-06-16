@@ -29,8 +29,6 @@
 
 ## News
 
-**[Jun. 15, 2023]** BayLing's Demo trial has started to apply. Try BayLing and improve it 🙋‍♂️
-
 **[Jun. 15, 2023]** BayLing-7B and BayLing-13B model are released in Huggingface 🤗.
 
 
