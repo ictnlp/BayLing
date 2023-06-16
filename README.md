@@ -1,11 +1,13 @@
 <p align="center" width="100%">
-<img src="assets/logo.png" alt="Stanford-Alpaca" style="width: 50%; min-width: 300px; display: block; margin: auto;">
+<img src="assets/logo.png" alt="Stanford-Alpaca" style="width: 45%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
 
 
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
+[![blog](https://img.shields.io/badge/BayLing-blog-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
+[![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)]()
 ![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update) 
 
 ------
