@@ -1,9 +1,8 @@
 """
-Use FastChat with Hugging Face generation APIs.
+Hugging Face generation APIs.
 
 Usage:
-python3 -m fastchat.serve.huggingface_api --model lmsys/fastchat-t5-3b-v1.0
-python3 -m fastchat.serve.huggingface_api --model ~/model_weights/vicuna-7b/
+python api.py --model-path ${PATH_TO_BAYLING} --load-8bit --message {msg}
 """
 import argparse
 import json
