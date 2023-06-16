@@ -72,7 +72,6 @@
   		--target-model-path ${PATH_TO_BAYLING} \
   		--delta-path ${PATH_TO_DOWNLOAD_BAYLING_DIFF}
   ```
-  
 
 ### <a id="CommandInteractive">Command Interactive</a>
 
