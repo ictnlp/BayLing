@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/logo.png" alt="Stanford-Alpaca" style="width: 45%; min-width: 300px; display: block; margin: auto;">
+<img src="assets/logo.png" alt="Stanford-Alpaca" style="width: 50%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
