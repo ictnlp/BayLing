@@ -1,0 +1,207 @@
+{"text": "Answer is: D", "usage": {"prompt_tokens": 336, "completion_tokens": 4, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 238, "completion_tokens": 5, "total_tokens": 243}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 261, "completion_tokens": 4, "total_tokens": 265}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 767, "completion_tokens": 1, "total_tokens": 768}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 524, "completion_tokens": 4, "total_tokens": 528}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D) Soap.", "usage": {"prompt_tokens": 130, "completion_tokens": 10, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is BaSO4.", "usage": {"prompt_tokens": 173, "completion_tokens": 6, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (B) 乙醛的结构简式 $\\mathrm{CH}_{3} \\mathrm{CHO}$.", "usage": {"prompt_tokens": 183, "completion_tokens": 33, "total_tokens": 216}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 224, "completion_tokens": 5, "total_tokens": 229}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 321, "completion_tokens": 4, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: C", "usage": {"prompt_tokens": 389, "completion_tokens": 4, "total_tokens": 393}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 201, "completion_tokens": 4, "total_tokens": 205}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Food and beverage production.", "usage": {"prompt_tokens": 148, "completion_tokens": 11, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option D", "usage": {"prompt_tokens": 191, "completion_tokens": 5, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: [XY4]^[XY6]-form\".", "usage": {"prompt_tokens": 281, "completion_tokens": 19, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 423, "completion_tokens": 4, "total_tokens": 427}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 406, "completion_tokens": 1, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 303, "completion_tokens": 4, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Oxygenated water.", "usage": {"prompt_tokens": 159, "completion_tokens": 10, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 149, "completion_tokens": 4, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 218, "completion_tokens": 4, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (A) 乙醛的结构简式: $\\mathrm{CH}_{3} \\mathrm{COH}$.", "usage": {"prompt_tokens": 168, "completion_tokens": 34, "total_tokens": 202}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 258, "completion_tokens": 4, "total_tokens": 262}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 332, "completion_tokens": 4, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D)", "usage": {"prompt_tokens": 320, "completion_tokens": 7, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 341, "completion_tokens": 4, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 440, "completion_tokens": 5, "total_tokens": 445}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: C", "usage": {"prompt_tokens": 615, "completion_tokens": 4, "total_tokens": 619}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 605, "completion_tokens": 4, "total_tokens": 609}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 393, "completion_tokens": 4, "total_tokens": 397}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 397, "completion_tokens": 4, "total_tokens": 401}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 194, "completion_tokens": 4, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 346, "completion_tokens": 4, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D) Soap.", "usage": {"prompt_tokens": 130, "completion_tokens": 10, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 142, "completion_tokens": 4, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is BaSO4.", "usage": {"prompt_tokens": 179, "completion_tokens": 6, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (B) 乙醛的结构简式 $\\mathrm{CH}_{3} \\mathrm{CHO}$.", "usage": {"prompt_tokens": 182, "completion_tokens": 33, "total_tokens": 215}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) $\\mathrm{CH}_{3} \\mathrm{COOH}$ and $\\mathrm{CH}_{3} \\mathrm{OOCH}$ are the same substance.", "usage": {"prompt_tokens": 228, "completion_tokens": 40, "total_tokens": 268}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 268, "completion_tokens": 4, "total_tokens": 272}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 228, "completion_tokens": 4, "total_tokens": 232}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 232, "completion_tokens": 4, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 321, "completion_tokens": 4, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: C", "usage": {"prompt_tokens": 389, "completion_tokens": 4, "total_tokens": 393}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 200, "completion_tokens": 4, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 296, "completion_tokens": 4, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 374, "completion_tokens": 4, "total_tokens": 378}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Food and beverage production.", "usage": {"prompt_tokens": 148, "completion_tokens": 11, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option D", "usage": {"prompt_tokens": 191, "completion_tokens": 5, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: [XY4]^[XY6]-form\".", "usage": {"prompt_tokens": 281, "completion_tokens": 19, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 423, "completion_tokens": 4, "total_tokens": 427}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 406, "completion_tokens": 1, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 303, "completion_tokens": 4, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 407, "completion_tokens": 4, "total_tokens": 411}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D)", "usage": {"prompt_tokens": 353, "completion_tokens": 7, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 274, "completion_tokens": 4, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 318, "completion_tokens": 4, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 325, "completion_tokens": 4, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 345, "completion_tokens": 5, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 594, "completion_tokens": 4, "total_tokens": 598}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 280, "completion_tokens": 4, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 552, "completion_tokens": 4, "total_tokens": 556}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 408, "completion_tokens": 4, "total_tokens": 412}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option()", "usage": {"prompt_tokens": 149, "completion_tokens": 4, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 323, "completion_tokens": 5, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 181, "completion_tokens": 4, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Burying old batteries will not cause environmental pollution.", "usage": {"prompt_tokens": 232, "completion_tokens": 18, "total_tokens": 250}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 311, "completion_tokens": 5, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 382, "completion_tokens": 4, "total_tokens": 386}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 143, "completion_tokens": 5, "total_tokens": 148}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 255, "completion_tokens": 5, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 440, "completion_tokens": 5, "total_tokens": 445}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) $\\mathrm{MnO}_{2}$ 和稀盐酸反应制取 $\\mathrm{Cl}_{2}$.", "usage": {"prompt_tokens": 245, "completion_tokens": 36, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Option B\".", "usage": {"prompt_tokens": 420, "completion_tokens": 6, "total_tokens": 426}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 374, "completion_tokens": 4, "total_tokens": 378}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 129, "completion_tokens": 5, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 160, "completion_tokens": 4, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 421, "completion_tokens": 4, "total_tokens": 425}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 403, "completion_tokens": 5, "total_tokens": 408}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (A) May react: $\\mathrm{Ca}_{3} \\mathrm{SiO}_{5} + 4 \\mathrm{NH}_{4} \\mathrm{Cl} \\rightarrow \\mathrm{CaSiO}_{3} + 2 \\mathrm{CaCl}_{2} + 4 \\mathrm{NH}_{3} \\uparrow + 2 \\mathrm{H}_{2} \\mathrm{O}$.", "usage": {"prompt_tokens": 306, "completion_tokens": 91, "total_tokens": 397}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 423, "completion_tokens": 4, "total_tokens": 427}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 277, "completion_tokens": 4, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D).", "usage": {"prompt_tokens": 348, "completion_tokens": 6, "total_tokens": 354}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option D.", "usage": {"prompt_tokens": 348, "completion_tokens": 5, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option()", "usage": {"prompt_tokens": 149, "completion_tokens": 4, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Burying old batteries will not cause environmental pollution.", "usage": {"prompt_tokens": 232, "completion_tokens": 18, "total_tokens": 250}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option A.", "usage": {"prompt_tokens": 315, "completion_tokens": 5, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 230, "completion_tokens": 5, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 367, "completion_tokens": 4, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 335, "completion_tokens": 4, "total_tokens": 339}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 409, "completion_tokens": 4, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is CaCO3.", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: C) ${ }_{8}^{13} \\mathrm{O} 、{ }_{8}^{15} \\mathrm{O}$ can be used as tracer atoms in nuclear reaction experiments.", "usage": {"prompt_tokens": 411, "completion_tokens": 45, "total_tokens": 456}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 260, "completion_tokens": 4, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B(1)", "usage": {"prompt_tokens": 468, "completion_tokens": 7, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\mathrm{D}$.", "usage": {"prompt_tokens": 418, "completion_tokens": 10, "total_tokens": 428}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 224, "completion_tokens": 4, "total_tokens": 228}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 492, "completion_tokens": 5, "total_tokens": 497}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 386, "completion_tokens": 4, "total_tokens": 390}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: \"", "usage": {"prompt_tokens": 413, "completion_tokens": 8, "total_tokens": 421}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 175, "completion_tokens": 4, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 288, "completion_tokens": 4, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 663, "completion_tokens": 4, "total_tokens": 667}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option A.", "usage": {"prompt_tokens": 678, "completion_tokens": 5, "total_tokens": 683}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 409, "completion_tokens": 4, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 323, "completion_tokens": 5, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 181, "completion_tokens": 4, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)趁热过滩", "usage": {"prompt_tokens": 224, "completion_tokens": 12, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 164, "completion_tokens": 4, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 267, "completion_tokens": 4, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 210, "completion_tokens": 4, "total_tokens": 214}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 418, "completion_tokens": 4, "total_tokens": 422}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) 0.1 moles of CO32- in 1 L of Na2CO3 solution.", "usage": {"prompt_tokens": 352, "completion_tokens": 27, "total_tokens": 379}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D)D", "usage": {"prompt_tokens": 744, "completion_tokens": 7, "total_tokens": 751}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Option B: Large-scale mining of frozen methane as fuel.\"", "usage": {"prompt_tokens": 339, "completion_tokens": 22, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) XW is a compound with a covalent bond between X and W.", "usage": {"prompt_tokens": 405, "completion_tokens": 22, "total_tokens": 427}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 冬奥会“飞扬”火炬所用的燃料 $\\mathrm{H}_{2}$ 为氧化性气体", "usage": {"prompt_tokens": 395, "completion_tokens": 47, "total_tokens": 442}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) $\\mathrm{Na}_{2} \\mathrm{CO}_{3} 、 \\mathrm{HCl} 、 \\mathrm{KOH}$.", "usage": {"prompt_tokens": 294, "completion_tokens": 35, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option A.", "usage": {"prompt_tokens": 444, "completion_tokens": 5, "total_tokens": 449}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 277, "completion_tokens": 5, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 加入 $\\mathrm{AgNO}_{3}$ 溶液产生沉淀", "usage": {"prompt_tokens": 336, "completion_tokens": 30, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option A.", "usage": {"prompt_tokens": 406, "completion_tokens": 5, "total_tokens": 411}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 351, "completion_tokens": 4, "total_tokens": 355}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. 陶瓷主要成分为 $\\mathrm{SiO}_{2}$ 和 $\\mathrm{MgO}$.", "usage": {"prompt_tokens": 223, "completion_tokens": 34, "total_tokens": 257}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 323, "completion_tokens": 5, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 182, "completion_tokens": 4, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"D\"", "usage": {"prompt_tokens": 324, "completion_tokens": 6, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: Option B\"", "usage": {"prompt_tokens": 236, "completion_tokens": 10, "total_tokens": 246}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D.", "usage": {"prompt_tokens": 644, "completion_tokens": 4, "total_tokens": 648}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 315, "completion_tokens": 4, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Option B: Large-scale mining of frozen methane as fuel.\"", "usage": {"prompt_tokens": 339, "completion_tokens": 22, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) XW is a compound with a covalent bond between X and W.", "usage": {"prompt_tokens": 405, "completion_tokens": 22, "total_tokens": 427}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) BaCl2.", "usage": {"prompt_tokens": 158, "completion_tokens": 9, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. $\\mathrm{CH}_{3} \\mathrm{COOH}$.", "usage": {"prompt_tokens": 139, "completion_tokens": 17, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 215, "completion_tokens": 4, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 191, "completion_tokens": 4, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 252, "completion_tokens": 4, "total_tokens": 256}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: Option B\"", "usage": {"prompt_tokens": 312, "completion_tokens": 10, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 422, "completion_tokens": 4, "total_tokens": 426}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option B. Through pressure refining, oil shale can be converted into shale oil and other products by physical changes.", "usage": {"prompt_tokens": 279, "completion_tokens": 28, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 308, "completion_tokens": 4, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C) $\\mathrm{KCl} 、 \\mathrm{CaCO}_{3}$.", "usage": {"prompt_tokens": 343, "completion_tokens": 21, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 404, "completion_tokens": 4, "total_tokens": 408}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 310, "completion_tokens": 4, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 457, "completion_tokens": 4, "total_tokens": 461}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D)", "usage": {"prompt_tokens": 353, "completion_tokens": 7, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 274, "completion_tokens": 4, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 318, "completion_tokens": 4, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 325, "completion_tokens": 4, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 345, "completion_tokens": 5, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 594, "completion_tokens": 4, "total_tokens": 598}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 194, "completion_tokens": 4, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 346, "completion_tokens": 4, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 256, "completion_tokens": 4, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 219, "completion_tokens": 4, "total_tokens": 223}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"D\"", "usage": {"prompt_tokens": 198, "completion_tokens": 6, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 448, "completion_tokens": 4, "total_tokens": 452}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 299, "completion_tokens": 4, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 388, "completion_tokens": 4, "total_tokens": 392}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 324, "completion_tokens": 4, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 356, "completion_tokens": 4, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 253, "completion_tokens": 5, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 351, "completion_tokens": 5, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 362, "completion_tokens": 4, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: B\"", "usage": {"prompt_tokens": 321, "completion_tokens": 9, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Option()\"", "usage": {"prompt_tokens": 190, "completion_tokens": 5, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 263, "completion_tokens": 4, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 214, "completion_tokens": 5, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 232, "completion_tokens": 4, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 240, "completion_tokens": 4, "total_tokens": 244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 299, "completion_tokens": 4, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Tetrahedral structure with four equal faces.", "usage": {"prompt_tokens": 215, "completion_tokens": 15, "total_tokens": 230}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 443, "completion_tokens": 4, "total_tokens": 447}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 194, "completion_tokens": 4, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B (乙烷).", "usage": {"prompt_tokens": 135, "completion_tokens": 12, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 356, "completion_tokens": 4, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 346, "completion_tokens": 4, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option.", "usage": {"prompt_tokens": 249, "completion_tokens": 4, "total_tokens": 253}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 228, "completion_tokens": 5, "total_tokens": 233}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (A) 1.8 × 10^18 atoms of aluminum.", "usage": {"prompt_tokens": 324, "completion_tokens": 23, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 176, "completion_tokens": 4, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) Electric dipole: $\\mathrm{W} < \\mathrm{Z}$.", "usage": {"prompt_tokens": 319, "completion_tokens": 21, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. The liquid layer after the addition of $\\mathrm{CCl}_{4}$, shaking, and settling is blue.", "usage": {"prompt_tokens": 319, "completion_tokens": 29, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option A.", "usage": {"prompt_tokens": 428, "completion_tokens": 5, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 498, "completion_tokens": 5, "total_tokens": 503}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\nB\nC\nD", "usage": {"prompt_tokens": 613, "completion_tokens": 7, "total_tokens": 620}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 222, "completion_tokens": 4, "total_tokens": 226}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is:\".", "usage": {"prompt_tokens": 312, "completion_tokens": 8, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D)D", "usage": {"prompt_tokens": 604, "completion_tokens": 7, "total_tokens": 611}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D. That fact implies Na may also exhibit properties other than metallic.", "usage": {"prompt_tokens": 295, "completion_tokens": 20, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 1264, "completion_tokens": 5, "total_tokens": 1269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) $\\mathrm{N}_{2}$", "usage": {"prompt_tokens": 267, "completion_tokens": 12, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 297, "completion_tokens": 4, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option D.", "usage": {"prompt_tokens": 290, "completion_tokens": 5, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: Option B\"", "usage": {"prompt_tokens": 213, "completion_tokens": 10, "total_tokens": 223}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 346, "completion_tokens": 4, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\nB\nC\nD\n\nAnswer: \nA\nB\nC\nD", "usage": {"prompt_tokens": 951, "completion_tokens": 20, "total_tokens": 971}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 308, "completion_tokens": 4, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) $H_2$ is chemical energy in the rocket fuel.", "usage": {"prompt_tokens": 299, "completion_tokens": 19, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (A)A.", "usage": {"prompt_tokens": 467, "completion_tokens": 7, "total_tokens": 474}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option A.", "usage": {"prompt_tokens": 451, "completion_tokens": 5, "total_tokens": 456}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. 0.001 mol / L GHCl.", "usage": {"prompt_tokens": 388, "completion_tokens": 18, "total_tokens": 406}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 246, "completion_tokens": 4, "total_tokens": 250}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option A.", "usage": {"prompt_tokens": 417, "completion_tokens": 5, "total_tokens": 422}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 218, "completion_tokens": 4, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 362, "completion_tokens": 4, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 384, "completion_tokens": 5, "total_tokens": 389}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 801, "completion_tokens": 5, "total_tokens": 806}, "finish_reason": "stop", "model": "Alpaca-7B"}

@@ -1,0 +1,651 @@
+{"text": "B", "usage": {"prompt_tokens": 270, "completion_tokens": 1, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 399, "completion_tokens": 1, "total_tokens": 400}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A 没有党参\nB 没有首乌\nC 有白术\nD 没有白术", "usage": {"prompt_tokens": 253, "completion_tokens": 34, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 360, "completion_tokens": 1, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 甲。", "usage": {"prompt_tokens": 257, "completion_tokens": 6, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A 陈蕊不会说中原官话", "usage": {"prompt_tokens": 292, "completion_tokens": 13, "total_tokens": 305}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(B) 河西村的这片新建房屋都是小产权房", "usage": {"prompt_tokens": 348, "completion_tokens": 24, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B 江南", "usage": {"prompt_tokens": 235, "completion_tokens": 4, "total_tokens": 239}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 269, "completion_tokens": 1, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)大脑无法同时详细处理太多信息，只会选择性的将注意力集中在与行为最相关的事情上。", "usage": {"prompt_tokens": 454, "completion_tokens": 50, "total_tokens": 504}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A: 许多中国人购房是给子女将来赴美留学准备的", "usage": {"prompt_tokens": 434, "completion_tokens": 35, "total_tokens": 469}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 381, "completion_tokens": 1, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 375, "completion_tokens": 1, "total_tokens": 376}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 592, "completion_tokens": 1, "total_tokens": 593}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 577, "completion_tokens": 1, "total_tokens": 578}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A: 甲是男博士\nB: 己是女博士\nC: 庚不是男博士\nD: 丁是女博士", "usage": {"prompt_tokens": 328, "completion_tokens": 40, "total_tokens": 368}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)银岭站、灏韵站、韮上站、扶夷站、胡瑶站", "usage": {"prompt_tokens": 357, "completion_tokens": 40, "total_tokens": 397}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 扶夷站在最西面", "usage": {"prompt_tokens": 253, "completion_tokens": 14, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 银岭站与灏韵站相邻并且在灏韵站之西", "usage": {"prompt_tokens": 325, "completion_tokens": 36, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 银岭站在灏韵站之西", "usage": {"prompt_tokens": 259, "completion_tokens": 20, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)侏罗纪时期的鱼类和现代鱼类其生长周期没有明显变化。", "usage": {"prompt_tokens": 502, "completion_tokens": 38, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 560, "completion_tokens": 1, "total_tokens": 561}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 512, "completion_tokens": 1, "total_tokens": 513}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 436, "completion_tokens": 1, "total_tokens": 437}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 571, "completion_tokens": 1, "total_tokens": 572}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)在氧气含量高、气压也高的环境下，接受试验的果蝇生活到第五代，身体尺寸增长了20%", "usage": {"prompt_tokens": 637, "completion_tokens": 69, "total_tokens": 706}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A, B, C, D", "usage": {"prompt_tokens": 285, "completion_tokens": 7, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 方如芬\nB) 何之莲\nC) 彭友文\nD) 裘志节", "usage": {"prompt_tokens": 294, "completion_tokens": 35, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 唐晓华", "usage": {"prompt_tokens": 294, "completion_tokens": 8, "total_tokens": 302}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 方如芬和郭嫣然", "usage": {"prompt_tokens": 319, "completion_tokens": 16, "total_tokens": 335}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 378, "completion_tokens": 1, "total_tokens": 379}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) \"人工\"的基因筛查不排除会有漏洞；自然受孕中，大自然优胜劣汰准则似乎更为奥妙、有效\nB) 从近代科技发展史可见，技术发展借鉴", "usage": {"prompt_tokens": 579, "completion_tokens": 99, "total_tokens": 678}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(A) From protein to organic life and from organic molecules to protein are vastly different processes.\n(B) Higher intelligence is not only a material product, but also a constantly evolving social product.\n(C) In nature, the chance of existing star molecules synthesizing quinones is a rare event.\n(D) Some star molecules are hard to find in the Earth's environment and have yet to be discovered in laboratories.", "usage": {"prompt_tokens": 595, "completion_tokens": 99, "total_tokens": 694}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(A) 现代智人，生活在旧石器时代晚期，大约距今4万年至1万年左右。我国境内，许多地方都有晚期智人化石或者文化遗址发现，地点数以百计\n(B) 在南美洲的一处考古", "usage": {"prompt_tokens": 546, "completion_tokens": 99, "total_tokens": 645}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(D)From the universe's perspective, redshift is an advantageous phenomenon.", "usage": {"prompt_tokens": 546, "completion_tokens": 19, "total_tokens": 565}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)财务部、企划部、行政部、人力资源部、研发部、销售部", "usage": {"prompt_tokens": 461, "completion_tokens": 40, "total_tokens": 501}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 381, "completion_tokens": 1, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 327, "completion_tokens": 1, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 372, "completion_tokens": 1, "total_tokens": 373}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)财务部、销售部", "usage": {"prompt_tokens": 366, "completion_tokens": 15, "total_tokens": 381}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 善良的人都会得到村民的尊重，乐善好施的成公得到了村民的尊重，因此，成公是善良的人", "usage": {"prompt_tokens": 380, "completion_tokens": 55, "total_tokens": 435}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 465, "completion_tokens": 1, "total_tokens": 466}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 429, "completion_tokens": 1, "total_tokens": 430}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 该处岩石是远古时代深海海底的堆积层露出地面后形成的", "usage": {"prompt_tokens": 527, "completion_tokens": 41, "total_tokens": 568}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 357, "completion_tokens": 1, "total_tokens": 358}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 489, "completion_tokens": 1, "total_tokens": 490}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 381, "completion_tokens": 1, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 532, "completion_tokens": 1, "total_tokens": 533}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 696, "completion_tokens": 1, "total_tokens": 697}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 432, "completion_tokens": 1, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 一种保证每个人都享有义务教育的教育制度是合理的。", "usage": {"prompt_tokens": 281, "completion_tokens": 31, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 严查酒驾的城市交通事故发生率曾经都很高。", "usage": {"prompt_tokens": 318, "completion_tokens": 35, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 703, "completion_tokens": 1, "total_tokens": 704}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 370, "completion_tokens": 1, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 313, "completion_tokens": 1, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 322, "completion_tokens": 1, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 418, "completion_tokens": 1, "total_tokens": 419}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 所有摸底考试通过的学生都好好复习了，所以好好复习的学生都通过了。", "usage": {"prompt_tokens": 338, "completion_tokens": 45, "total_tokens": 383}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 353, "completion_tokens": 1, "total_tokens": 354}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 该市有一家大型汽车生产企业，限行令必将影响企业的汽车销售。", "usage": {"prompt_tokens": 447, "completion_tokens": 52, "total_tokens": 499}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A . 不能免试去北京大学攻读硕士学位。", "usage": {"prompt_tokens": 322, "completion_tokens": 27, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 301, "completion_tokens": 1, "total_tokens": 302}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 购买科技类图书的往往都受过高等教育。", "usage": {"prompt_tokens": 312, "completion_tokens": 31, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A . 医疗保健费的绝大部分用在了对高危病人的高技术强化护理上。", "usage": {"prompt_tokens": 321, "completion_tokens": 49, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 324, "completion_tokens": 1, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 张、王被同一单位录用。", "usage": {"prompt_tokens": 323, "completion_tokens": 14, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n(A)李被天枢录用。", "usage": {"prompt_tokens": 319, "completion_tokens": 14, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 329, "completion_tokens": 1, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A . 社区组织的有些活动没有社区老人参加。", "usage": {"prompt_tokens": 260, "completion_tokens": 23, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A . 每次提交的会议论文中总有一定比例的论文质量是有保证的。", "usage": {"prompt_tokens": 363, "completion_tokens": 42, "total_tokens": 405}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D .关注该博主文章的大部分人是其忠实的粉丝。", "usage": {"prompt_tokens": 340, "completion_tokens": 26, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)各个法院的办案正确率有明显的提高。", "usage": {"prompt_tokens": 423, "completion_tokens": 28, "total_tokens": 451}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 312, "completion_tokens": 1, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 238, "completion_tokens": 1, "total_tokens": 239}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A、亚历山大是柏拉图的学生的说法是不对的。\nB、施肥过度是引发草坪病虫害主要原因的说法是对的。\nC、经常参加剧烈运动的人可能会造成猝死是不对的。\nD、�", "usage": {"prompt_tokens": 540, "completion_tokens": 99, "total_tokens": 639}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A\n16\n15\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16\n16", "usage": {"prompt_tokens": 476, "completion_tokens": 99, "total_tokens": 575}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 477, "completion_tokens": 1, "total_tokens": 478}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "C", "usage": {"prompt_tokens": 230, "completion_tokens": 1, "total_tokens": 231}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) If parents' education level is high, their children's performance in school is usually better, since Wang Wei's performance is not good, his parents definitely did not educate him well. \nB) If children practice singing a song for one hour a day, they will definitely be able to recite the chapter. Gu Nana's practice is not enough, so she will not be able to recite the chapter. \nC) If people know how to make", "usage": {"prompt_tokens": 450, "completion_tokens": 99, "total_tokens": 549}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(A) 避免词汇、语法和标点的使用错误并不一定能确保文稿的语言质量。", "usage": {"prompt_tokens": 418, "completion_tokens": 48, "total_tokens": 466}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 301, "completion_tokens": 1, "total_tokens": 302}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)石油是水泥所含的原料之一", "usage": {"prompt_tokens": 323, "completion_tokens": 21, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 374, "completion_tokens": 1, "total_tokens": 375}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 食用大量牛肉干不利于动脉健康。", "usage": {"prompt_tokens": 339, "completion_tokens": 27, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S 研究所遵守承诺，和平基金会的上议资助就不再会有利于武器研究。", "usage": {"prompt_tokens": 426, "completion_tokens": 42, "total_tokens": 468}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 472, "completion_tokens": 1, "total_tokens": 473}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 459, "completion_tokens": 1, "total_tokens": 460}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 453, "completion_tokens": 1, "total_tokens": 454}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 364, "completion_tokens": 1, "total_tokens": 365}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 指出小陈使用的关键概念含义模糊。", "usage": {"prompt_tokens": 471, "completion_tokens": 29, "total_tokens": 500}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 208, "completion_tokens": 1, "total_tokens": 209}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 肥胖者比正常人更容易患心脏病。但是，肥胖者在我国人口中只占很小的比例。因此，在我国，医疗卫生界没有必要强调导致心脏病的��", "usage": {"prompt_tokens": 705, "completion_tokens": 99, "total_tokens": 804}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 237, "completion_tokens": 1, "total_tokens": 238}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)1号和2号都是C型。", "usage": {"prompt_tokens": 346, "completion_tokens": 13, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 不加说明就予假设:任何装有安全气囊汽车都可能遭遇汽车事故。", "usage": {"prompt_tokens": 380, "completion_tokens": 53, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 267, "completion_tokens": 1, "total_tokens": 268}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) High School grades are determined by the student's performance on tests, with the top 10% of students receiving an \"excellent\" grade, the next 30% receiving a \"good\" grade, the remaining 60% receiving a \"mediocre\" grade, and the bottom 10% receiving a \"poor\" grade.\n\nIn the previous statement, if the statement is true, then which of the following is definitely true", "usage": {"prompt_tokens": 384, "completion_tokens": 99, "total_tokens": 483}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(A)在上述死亡的病人中，第二组的平均死亡年份比第一组早两年。", "usage": {"prompt_tokens": 408, "completion_tokens": 45, "total_tokens": 453}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 317, "completion_tokens": 1, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(B) 尽管鳄鱼数量锐减，海豹数量增加，但在北大西洋海域，海豹的数量仍少于鳄鱼。", "usage": {"prompt_tokens": 406, "completion_tokens": 66, "total_tokens": 472}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 人都可能会犯错误，但有的人可能不犯严重错误。", "usage": {"prompt_tokens": 280, "completion_tokens": 38, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 299, "completion_tokens": 1, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 302, "completion_tokens": 1, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only through reflection is a meaningful life possible.", "usage": {"prompt_tokens": 200, "completion_tokens": 12, "total_tokens": 212}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 计算机能够像人一样具有学习功能。", "usage": {"prompt_tokens": 336, "completion_tokens": 26, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 作为观赏植物，法France dragon fruit is more appetizing than Russian dragon fruit.", "usage": {"prompt_tokens": 370, "completion_tokens": 32, "total_tokens": 402}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 404, "completion_tokens": 1, "total_tokens": 405}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 服用番茄红素的前列腺肿瘤患者的年龄在45---65岁之间。", "usage": {"prompt_tokens": 443, "completion_tokens": 44, "total_tokens": 487}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 315, "completion_tokens": 1, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Both", "usage": {"prompt_tokens": 342, "completion_tokens": 3, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 407, "completion_tokens": 1, "total_tokens": 408}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 386, "completion_tokens": 1, "total_tokens": 387}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 调查样本的抽取不是随机的，因而不具有代表性。", "usage": {"prompt_tokens": 388, "completion_tokens": 31, "total_tokens": 419}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 该公司肯定很诚实，因为它承诺：若发现欺诈，愿付1000倍以上赔偿金。", "usage": {"prompt_tokens": 457, "completion_tokens": 61, "total_tokens": 518}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D 有些工人不是北方人。", "usage": {"prompt_tokens": 173, "completion_tokens": 12, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 有的机器人能够与国际象棋高手博弈。", "usage": {"prompt_tokens": 402, "completion_tokens": 29, "total_tokens": 431}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 300, "completion_tokens": 1, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 在有穷的世界里，部分可能小于整体。", "usage": {"prompt_tokens": 323, "completion_tokens": 25, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 275, "completion_tokens": 1, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 在年轻的实验鼠中，也发现脑部SK3蛋白质含量较高的情况。", "usage": {"prompt_tokens": 457, "completion_tokens": 49, "total_tokens": 506}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. \"Gold is like dirt\" is false.\nB. If friends really value gold, then gold is not like dirt.\nC. \"Friends value gold\" is true.\nD. \"Gold is like dirt\" and \"friends value gold\" are both true.", "usage": {"prompt_tokens": 333, "completion_tokens": 64, "total_tokens": 397}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 日本的经济衰退已经连续十几年了，而当时中国的商品出口额很少，人民币十分疲软。", "usage": {"prompt_tokens": 476, "completion_tokens": 61, "total_tokens": 537}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D．北京航空航天大学", "usage": {"prompt_tokens": 350, "completion_tokens": 12, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 应该尽快、尽早地确定自己的人生目标。", "usage": {"prompt_tokens": 389, "completion_tokens": 31, "total_tokens": 420}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 只有己所欲，才能施于人。", "usage": {"prompt_tokens": 217, "completion_tokens": 22, "total_tokens": 239}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n诺贝尔奖获得者可以凭借类比、直觉、顿悟来进行创造性思维，因此，诺贝尔奖获得者可以取得重大的科学突破。", "usage": {"prompt_tokens": 396, "completion_tokens": 81, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 347, "completion_tokens": 1, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D) 月球像地球一样具有固体的表层结构和熔岩状态的核心。", "usage": {"prompt_tokens": 336, "completion_tokens": 39, "total_tokens": 375}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 那位科学家和其中的1名美国人是夫妻。", "usage": {"prompt_tokens": 298, "completion_tokens": 24, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 332, "completion_tokens": 1, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 468, "completion_tokens": 1, "total_tokens": 469}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 人民群众在多数情况下并不知道他们真正需要什么。", "usage": {"prompt_tokens": 385, "completion_tokens": 32, "total_tokens": 417}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B. 底线伦理是作为一个社会普通人所应遵守的一些最起码、最基本的行为规范和它们。", "usage": {"prompt_tokens": 379, "completion_tokens": 54, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 甲、乙、丙依次为肯尼亚选手、德国选手和美国选手。", "usage": {"prompt_tokens": 417, "completion_tokens": 40, "total_tokens": 457}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 受到这种化学物质污染的鱼本身并没有受到化学物质的伤害。", "usage": {"prompt_tokens": 395, "completion_tokens": 49, "total_tokens": 444}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有一项与题干中的表达方式不同。\nB. 以足球为职业的人只有两种命运：要么赢，那你是英雄，面对鲜花、欢呼、金钱、美女；要么输，那你是孬种、笨蛋，面对责�", "usage": {"prompt_tokens": 530, "completion_tokens": 99, "total_tokens": 629}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. Choose a superior breed of chicken and release them onto the grassland, and then compare their diet with that of the ordinary chicken.\nB. Experimentally test the grassland diet with both superior and ordinary chickens.\nC. Choose two chicken breeds that are of the same level and release them onto the grassland, half of them to be fed with grassland food and the other half to be fed with non-grass", "usage": {"prompt_tokens": 449, "completion_tokens": 99, "total_tokens": 548}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 北极熊牌冰箱的广告比企鹅牌冰箱的广告多。", "usage": {"prompt_tokens": 525, "completion_tokens": 43, "total_tokens": 568}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 神农架地区有野人，因为有人看见过野人的踪影。", "usage": {"prompt_tokens": 343, "completion_tokens": 33, "total_tokens": 376}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. From the four assertions, only one is true: There was only one person involved in the crime, either Chen or Wang or Zhu.", "usage": {"prompt_tokens": 364, "completion_tokens": 31, "total_tokens": 395}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Maotai is China's most famous good liquor.", "usage": {"prompt_tokens": 328, "completion_tokens": 15, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. North-hemisphere climate and soil conditions similar to those of southern hemisphere.", "usage": {"prompt_tokens": 521, "completion_tokens": 20, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 312, "completion_tokens": 1, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only increasing the scale and speed of economic development can create more job opportunities.", "usage": {"prompt_tokens": 353, "completion_tokens": 18, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D. X is connected and Y is disconnected.", "usage": {"prompt_tokens": 280, "completion_tokens": 11, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F 由 李医生 负责 治疗。", "usage": {"prompt_tokens": 500, "completion_tokens": 24, "total_tokens": 524}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 445, "completion_tokens": 1, "total_tokens": 446}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F \nC. H \nB. G \nD. K \n\ntrue", "usage": {"prompt_tokens": 519, "completion_tokens": 22, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. E and F can be treated by Li doctor.\nC. H and I can be treated by Li doctor.\nB. I and K can be treated by Wang doctor.\nD. E and K can be treated by Wang doctor.", "usage": {"prompt_tokens": 523, "completion_tokens": 51, "total_tokens": 574}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 王医生至少负责治疗一名女性患者。", "usage": {"prompt_tokens": 553, "completion_tokens": 31, "total_tokens": 584}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 346, "completion_tokens": 1, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 张林和李珊", "usage": {"prompt_tokens": 357, "completion_tokens": 10, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 萧强的知识比萧刚的知识更丰富。", "usage": {"prompt_tokens": 311, "completion_tokens": 32, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 真正的强者决不接受失败。", "usage": {"prompt_tokens": 347, "completion_tokens": 21, "total_tokens": 368}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 1997年“温泉新疆北鲵自然保护区”建立，当地牧民保护新疆北鲵的意识日益提高。", "usage": {"prompt_tokens": 530, "completion_tokens": 62, "total_tokens": 592}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 没有人聪明但没有智慧，也没有人有智慧却不聪明。", "usage": {"prompt_tokens": 350, "completion_tokens": 38, "total_tokens": 388}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 如果不想接受贿赂，那就等于布什不接受贿赂。", "usage": {"prompt_tokens": 502, "completion_tokens": 38, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "true", "usage": {"prompt_tokens": 384, "completion_tokens": 1, "total_tokens": 385}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 将这些硅基化合物引入大脑后不会有任何副作用。", "usage": {"prompt_tokens": 342, "completion_tokens": 31, "total_tokens": 373}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 三角形可以分为直角三角形、钝角三角形和锐角三角形三种。直角三角形的三内角之和等于180℃，钝角三角形的三内角之和等于180℃，锐角三角形的三内角之和等于180℃，所以", "usage": {"prompt_tokens": 779, "completion_tokens": 99, "total_tokens": 878}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 只要黑人运动员，才能成为田径直道冠军。", "usage": {"prompt_tokens": 405, "completion_tokens": 28, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 在生态系统中不扮演主要角色的昆虫通常在第一次繁殖后便死去。", "usage": {"prompt_tokens": 381, "completion_tokens": 46, "total_tokens": 427}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 该名人实际上无法阻止那些八卦新闻对她个人声誉的损害。", "usage": {"prompt_tokens": 440, "completion_tokens": 47, "total_tokens": 487}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 362, "completion_tokens": 1, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If the production and operation structure of Greenland Company can be improved, it can reach the target of 20% higher production rate.", "usage": {"prompt_tokens": 420, "completion_tokens": 30, "total_tokens": 450}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 在赤潮出现的某些海域，即没有蛤蜊也没有海獭。", "usage": {"prompt_tokens": 475, "completion_tokens": 39, "total_tokens": 514}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D. 哈克教授和马斯教授都参加了这次大会。", "usage": {"prompt_tokens": 380, "completion_tokens": 27, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 汽车在长的街道上比在短的街道上开得更快，所以，长街道上的行人比短街道上的行人更危险。", "usage": {"prompt_tokens": 507, "completion_tokens": 59, "total_tokens": 566}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 很长时间以来，抛掷硬币已被用作随机事件的典型例证。", "usage": {"prompt_tokens": 504, "completion_tokens": 42, "total_tokens": 546}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B. 所有类人猿都是脊索动物。", "usage": {"prompt_tokens": 220, "completion_tokens": 19, "total_tokens": 239}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 让13亿人过上好日子，这是一件极其艰巨的任务，哪些还得上威胁别人？", "usage": {"prompt_tokens": 432, "completion_tokens": 54, "total_tokens": 486}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 用脱硫灰渣改良过的盐碱地中生长的玉米与肥沃土壤中玉米的长势差不多。", "usage": {"prompt_tokens": 444, "completion_tokens": 58, "total_tokens": 502}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 吴在星期日。", "usage": {"prompt_tokens": 258, "completion_tokens": 11, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 伟大的小说家都有见见见。", "usage": {"prompt_tokens": 388, "completion_tokens": 23, "total_tokens": 411}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 感染利什曼病地老鼠直接把病传染给人的机会很少。", "usage": {"prompt_tokens": 433, "completion_tokens": 46, "total_tokens": 479}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 张珊和李斯的观点都不会受到加强或削弱。", "usage": {"prompt_tokens": 475, "completion_tokens": 34, "total_tokens": 509}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only O-type blood people can have O-type children.", "usage": {"prompt_tokens": 286, "completion_tokens": 15, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 世界上最伟大的哲学家们情愿避免亲密的人际关系。", "usage": {"prompt_tokens": 358, "completion_tokens": 40, "total_tokens": 398}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 社会利益总是优先于个人利益", "usage": {"prompt_tokens": 447, "completion_tokens": 24, "total_tokens": 471}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 307, "completion_tokens": 1, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有些人常吃抗生素类药，因为他们的医生无议是对病毒感染还是对细菌感染都开抗生素类药物。", "usage": {"prompt_tokens": 416, "completion_tokens": 75, "total_tokens": 491}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. All candidates have been endorsed by voters.", "usage": {"prompt_tokens": 198, "completion_tokens": 13, "total_tokens": 211}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 如果做蠢事，就要准备在做蠢事时被当场捉住。", "usage": {"prompt_tokens": 319, "completion_tokens": 40, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 伤口深处的细菌在潮湿的环境中生长旺盛，而蔗糖有脱水的作用。", "usage": {"prompt_tokens": 455, "completion_tokens": 56, "total_tokens": 511}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 大卫将去康拓公司，因为他两年将多得15万美元。", "usage": {"prompt_tokens": 413, "completion_tokens": 30, "total_tokens": 443}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Alingoits Doximayo Makasey \nHuholikaso Makasey Mugbudengs \nMugbudengs Ftoufgke Alingoits \nB. Doximayo \nC. Mugbudengs \nD. Doximayo \nE. Mugbudengs \nF. Doximayo \nG. Mugbudengs \nH. Doximayo", "usage": {"prompt_tokens": 331, "completion_tokens": 99, "total_tokens": 430}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 铝合金装甲车投入使用后的运行成本是同样性能的钢装甲车的三分之一。", "usage": {"prompt_tokens": 456, "completion_tokens": 45, "total_tokens": 501}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 科学的目标是用一个简单和谐的理论来精确地解释自然界的多样性。", "usage": {"prompt_tokens": 473, "completion_tokens": 43, "total_tokens": 516}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 张飞考上了，李柏没有考上。", "usage": {"prompt_tokens": 321, "completion_tokens": 24, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 413, "completion_tokens": 1, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In most people's opinion, his daily intake of alcohol will not significantly affect his blood sugar level.", "usage": {"prompt_tokens": 350, "completion_tokens": 25, "total_tokens": 375}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 在处理非朋友之间的人际关系时，人们能保持公正。", "usage": {"prompt_tokens": 361, "completion_tokens": 30, "total_tokens": 391}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "F", "usage": {"prompt_tokens": 310, "completion_tokens": 1, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 318, "completion_tokens": 1, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 321, "completion_tokens": 1, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. G, J, L, M, N", "usage": {"prompt_tokens": 340, "completion_tokens": 11, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "45. If J speaks before N, then N can be placed at the fourth position.", "usage": {"prompt_tokens": 313, "completion_tokens": 20, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(B) E、G、J、M", "usage": {"prompt_tokens": 274, "completion_tokens": 10, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A, C, D, F, G, H, J, K, M", "usage": {"prompt_tokens": 303, "completion_tokens": 17, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(B) F和G", "usage": {"prompt_tokens": 257, "completion_tokens": 6, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "F和G", "usage": {"prompt_tokens": 269, "completion_tokens": 3, "total_tokens": 272}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "G和M", "usage": {"prompt_tokens": 277, "completion_tokens": 3, "total_tokens": 280}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) If a miracle can be verified by observation or experiment, then its authenticity can be known.", "usage": {"prompt_tokens": 313, "completion_tokens": 23, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 应该给知识分子、工人和农民同等的待遇。", "usage": {"prompt_tokens": 315, "completion_tokens": 30, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)\t所有正史记述的都是皇帝家私人的事情。", "usage": {"prompt_tokens": 314, "completion_tokens": 26, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 2005 年第一季度上海房价比去年同期增长19.1%，地价上升了6.53%。", "usage": {"prompt_tokens": 439, "completion_tokens": 51, "total_tokens": 490}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)只靠经济自身所产生的投资势头和消费势头就能实现经济的良性循环。", "usage": {"prompt_tokens": 414, "completion_tokens": 56, "total_tokens": 470}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) If a person is both arrogant and selfish, then he will have no taste.\n(B) If a person is both arrogant and unethical, then he will have no morality.\n(C) If people are exploitative, then they will not have eternal life.\n(D) If a person is unethical and arrogant, then he will be both arrogant and unethical.", "usage": {"prompt_tokens": 365, "completion_tokens": 95, "total_tokens": 460}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 采用论文E，但不用论文H。", "usage": {"prompt_tokens": 382, "completion_tokens": 24, "total_tokens": 406}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 积极的财政政策所产生的经济效益是递减的。", "usage": {"prompt_tokens": 420, "completion_tokens": 41, "total_tokens": 461}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Good historical works must both faithfully record history and evoke the spirit of the characters, writing out the essence of history.", "usage": {"prompt_tokens": 385, "completion_tokens": 28, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only when your company does the best in at least one aspect can it stand a chance in the market competition.", "usage": {"prompt_tokens": 424, "completion_tokens": 24, "total_tokens": 448}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If the experiment is repeated with the same conditions, the same result should be obtained.", "usage": {"prompt_tokens": 385, "completion_tokens": 19, "total_tokens": 404}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Use subjective evidence to prove the existence of an external world, presupposing its existence beforehand.", "usage": {"prompt_tokens": 467, "completion_tokens": 23, "total_tokens": 490}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Is there any other adverse effects of fiscal policy?", "usage": {"prompt_tokens": 332, "completion_tokens": 14, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 采取保护措施后的秦兵马俑只能提供秦代军人服色方面的信息。", "usage": {"prompt_tokens": 533, "completion_tokens": 47, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有的房地产开发商预售商品房后携款潜逃，使得工程竣工遥遥无期。", "usage": {"prompt_tokens": 391, "completion_tokens": 53, "total_tokens": 444}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. The current society's greatest problem is the two difficult issues of income and distribution.\nB. There is a third path of balance between efficiency and equity that can be taken between the two difficult issues of income and distribution.\nC. Efficiency and equity should be balanced, rather than efficiency being prioritized over equity.\nD. Advocating for efficiency and equity will not cause the economy to return to the \"inefficient and unjust\"", "usage": {"prompt_tokens": 450, "completion_tokens": 99, "total_tokens": 549}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. University rankings have a great influence on school reputation and student performance.", "usage": {"prompt_tokens": 441, "completion_tokens": 16, "total_tokens": 457}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 受访者在调查中所说的话都是真的吧\n\n胰腺癌患者中，男女各占多大比例\n\n调查所涉及的胰腺癌患者与非胰腺癌患者在生活习��", "usage": {"prompt_tokens": 554, "completion_tokens": 99, "total_tokens": 653}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. Checking the dietary habits of the group, especially the frequency of eating five or more vegetables, fruits, herbs, grains, or other similar vegetables, can help to prove the reliability of the study's findings.", "usage": {"prompt_tokens": 569, "completion_tokens": 56, "total_tokens": 625}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If there is no protection for private property, private capital can be divided and the capital obtained can be easily lost.\nB. Even if there is a legal protection for private property, it is meaningless to protect it if there is no effective execution.\nC. Private property is based on the legal protection of private capital rights.\nD. Private property and market freedom are both issues that should be taken into consideration in a socialist market economy.", "usage": {"prompt_tokens": 409, "completion_tokens": 93, "total_tokens": 502}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only economic growth and natural existence are the most powerful supports for the development of Chengdu.\nB. Chengdu is likely to encounter economic stagnation or environmental degradation in the future.\nC. Chengdu's economic environment has been deteriorating recently.\nD. Chemical companies are mainly responsible for the pollution of air, water and buildings in Chengdu.", "usage": {"prompt_tokens": 403, "completion_tokens": 86, "total_tokens": 489}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. A company that does not need to be funded, or a company that is not split-up.\nB. A company that needs to be funded, or a company that is not split-up.\nC. A company that does not need to issue new stock, or a company that is not split-up.\nD. A company's only way to fund is to issue new stock, or a company that is not split-up.", "usage": {"prompt_tokens": 318, "completion_tokens": 96, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. A company that needs to be financed but has no way of doing a stock split.", "usage": {"prompt_tokens": 302, "completion_tokens": 20, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 海南本来就骗子多，互不信任。", "usage": {"prompt_tokens": 327, "completion_tokens": 21, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 应该设法避免使人堕落和道德沦丧。", "usage": {"prompt_tokens": 316, "completion_tokens": 31, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Due to expected inflation, many people's savings are only enough to sustain their living expenses, in order to prepare for future purchases.", "usage": {"prompt_tokens": 536, "completion_tokens": 34, "total_tokens": 570}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 破坏一个好声誉比消除一个不好的声誉更容易。", "usage": {"prompt_tokens": 381, "completion_tokens": 38, "total_tokens": 419}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)迫使官员贪污是皇帝控制官员最愚蠢的方法。", "usage": {"prompt_tokens": 350, "completion_tokens": 33, "total_tokens": 383}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. The average area of new homes purchased by families over the past five years has increased by 25%. The proportion of food and education-related expenses in each family budget, however, has remained unchanged.\nC. The total amount of money spent on purchasing new homes within the country has increased by 25%.", "usage": {"prompt_tokens": 387, "completion_tokens": 69, "total_tokens": 456}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Similar results always have similar causes.", "usage": {"prompt_tokens": 430, "completion_tokens": 9, "total_tokens": 439}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In a world with scarcity of material possessions, some people die due to their lack of motivation.", "usage": {"prompt_tokens": 398, "completion_tokens": 24, "total_tokens": 422}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Workers have ownership stake in the company and there is a conflict of interest between the worker and the manager.\nB. If the worker has ownership stake in the company, the manager and worker have no conflict of interest.\nC. If the worker does not have ownership stake in the company, the manager and worker have a conflict of interest.\nD. The manager's salary is always greater than the worker's earnings.", "usage": {"prompt_tokens": 352, "completion_tokens": 95, "total_tokens": 447}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A.  Questions about how to become the best have transformed into questions about how to become the most successful.", "usage": {"prompt_tokens": 316, "completion_tokens": 23, "total_tokens": 339}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 上述论证严重忽视了有超出辩论者和评论者之外的实施标准和逻辑标准。", "usage": {"prompt_tokens": 494, "completion_tokens": 63, "total_tokens": 557}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only when law can be enforced, law will have an effect.", "usage": {"prompt_tokens": 455, "completion_tokens": 16, "total_tokens": 471}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 能够识字读书不等于有文化。", "usage": {"prompt_tokens": 473, "completion_tokens": 22, "total_tokens": 495}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 亲情不但能建立在私德的基础之上，也能建立在公德的基础之上。", "usage": {"prompt_tokens": 365, "completion_tokens": 42, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 世界各国在征收个人所得税时，都是将居民基本生活费用予以税前扣除，以保证社会劳动力的再生产。", "usage": {"prompt_tokens": 501, "completion_tokens": 68, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 只有遭受担心被抓住的痛苦，才不会去偷人家东西。", "usage": {"prompt_tokens": 446, "completion_tokens": 42, "total_tokens": 488}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 凡是去偷人家东西的人都活不了几天。", "usage": {"prompt_tokens": 434, "completion_tokens": 26, "total_tokens": 460}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 印刷: F,G,H\nB. 印刷: F,H,J\nC. 印刷: F,H,M\nD. 印刷: F,H,J,K\n\n印刷组和装订组的成员主要来自以下七名员工——F,G,H", "usage": {"prompt_tokens": 376, "completion_tokens": 99, "total_tokens": 475}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(A)F", "usage": {"prompt_tokens": 321, "completion_tokens": 4, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 装订组和印刷组恰好有一个共同成员。", "usage": {"prompt_tokens": 416, "completion_tokens": 28, "total_tokens": 444}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F 在印刷组", "usage": {"prompt_tokens": 330, "completion_tokens": 12, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "4", "usage": {"prompt_tokens": 276, "completion_tokens": 1, "total_tokens": 277}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)前：H   中：P   后：K", "usage": {"prompt_tokens": 454, "completion_tokens": 14, "total_tokens": 468}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 462, "completion_tokens": 1, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 459, "completion_tokens": 1, "total_tokens": 460}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) K 和L", "usage": {"prompt_tokens": 428, "completion_tokens": 7, "total_tokens": 435}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 430, "completion_tokens": 1, "total_tokens": 431}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 上世纪50年代，内蒙古锡林郭勒草原的草有马肚子那样高，现在的草连老鼠都盖不住。", "usage": {"prompt_tokens": 429, "completion_tokens": 60, "total_tokens": 489}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 程扁肯定向选民开出了许多空头支票。", "usage": {"prompt_tokens": 329, "completion_tokens": 28, "total_tokens": 357}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 除非有更多的管理人员参与薪酬政策的制定，否则，公司最后确定的薪酬政策不会成功。", "usage": {"prompt_tokens": 444, "completion_tokens": 54, "total_tokens": 498}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. From the conclusion, it can be inferred that the EU cannot obtain full cooperation from Turkey and will also have to face various difficulties if Turkey joins the EU.", "usage": {"prompt_tokens": 545, "completion_tokens": 35, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B. The sample size is too small and more data from other research institutions and universities should be added.", "usage": {"prompt_tokens": 458, "completion_tokens": 22, "total_tokens": 480}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B. 3M's senior managers work in an collaborative way, so that they can share resources and information.", "usage": {"prompt_tokens": 391, "completion_tokens": 26, "total_tokens": 417}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 引进国外物种可能会对我国的生物多样性造成巨大危害。", "usage": {"prompt_tokens": 472, "completion_tokens": 34, "total_tokens": 506}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 该团去E市和J湖游览", "usage": {"prompt_tokens": 379, "completion_tokens": 19, "total_tokens": 398}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. The current CPI statistics range and standard are set 20 years ago and is difficult to reflect the current trend of consumer goods prices.", "usage": {"prompt_tokens": 499, "completion_tokens": 31, "total_tokens": 530}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 10 years, the number of children engaging in physical activity in Beijing has been decreasing.", "usage": {"prompt_tokens": 339, "completion_tokens": 25, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 由于大型船舶无法通过南京大桥，长江中上游大量出口货物只能改走公路或铁路。", "usage": {"prompt_tokens": 493, "completion_tokens": 51, "total_tokens": 544}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. That store has a north-born unmarried male shopkeeper.", "usage": {"prompt_tokens": 276, "completion_tokens": 16, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. India is one of the cultural centers of the world during the Axial Age.", "usage": {"prompt_tokens": 338, "completion_tokens": 19, "total_tokens": 357}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 目前我国农村有2365万绝对贫困人口，用现有方法已经不能解决脱贫问题，只能以来农村低保的建立健全。", "usage": {"prompt_tokens": 510, "completion_tokens": 70, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Housing subsidies should be canceled, more people will have extra money to spend on housing, leading to a surge in housing demand.\nB. The government should not overly suppress housing prices, as this will severely impact the housing industry, economy, and job market.\nC. Economically priced housing is still too high for some disadvantaged groups.\nD. China's land resources are limited, and the government must exercise strict", "usage": {"prompt_tokens": 348, "completion_tokens": 99, "total_tokens": 447}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. Markus wrote many excellent works before he won the Nobel Prize in Literature.", "usage": {"prompt_tokens": 358, "completion_tokens": 18, "total_tokens": 376}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If true, this can support Li Ming's view that learning and appreciating the traditional Chinese theater art of \"face changing\" can help spread and develop the art form.", "usage": {"prompt_tokens": 527, "completion_tokens": 39, "total_tokens": 566}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有道理，因为上帝是公平的，几乎是均等的，他不回总倒霉。", "usage": {"prompt_tokens": 432, "completion_tokens": 42, "total_tokens": 474}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 学民法的人比学刑罚的人更易找工作，可见民法与刑法大不相同。", "usage": {"prompt_tokens": 418, "completion_tokens": 44, "total_tokens": 462}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 政府官员参股，与矿主形成利益共同体，导致安全措施不到位等问题。", "usage": {"prompt_tokens": 446, "completion_tokens": 46, "total_tokens": 492}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D．乙和丙都说谎", "usage": {"prompt_tokens": 185, "completion_tokens": 16, "total_tokens": 201}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If true, the statement weakens the proof.", "usage": {"prompt_tokens": 437, "completion_tokens": 12, "total_tokens": 449}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. True\nB. False\nC. False\nD. True", "usage": {"prompt_tokens": 545, "completion_tokens": 15, "total_tokens": 560}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 该文标题应加限定：在进行亲子鉴定的人中，15%的爸爸替别人养孩子。", "usage": {"prompt_tokens": 359, "completion_tokens": 52, "total_tokens": 411}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 目前，我国的经济体制和政治体制还存在很多严重的弊端。", "usage": {"prompt_tokens": 386, "completion_tokens": 39, "total_tokens": 425}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 出租车司机希望减少向出租车公司缴纳月租金，由此消除油价上涨的影响。", "usage": {"prompt_tokens": 479, "completion_tokens": 60, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Pharmaceutical promotion and physician kickbacks, as well as high prices for medical services, have become major societal concerns. Therefore, medical system reform is urgently needed.", "usage": {"prompt_tokens": 372, "completion_tokens": 42, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. \nB. \nC. \nD. \n\n答案是()", "usage": {"prompt_tokens": 751, "completion_tokens": 25, "total_tokens": 776}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 以优惠条件引进外资有可能危它的产业。", "usage": {"prompt_tokens": 488, "completion_tokens": 33, "total_tokens": 521}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 棋手甲肯定会赢", "usage": {"prompt_tokens": 320, "completion_tokens": 16, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 244, "completion_tokens": 1, "total_tokens": 245}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B. F is the southernmost point of the island.", "usage": {"prompt_tokens": 272, "completion_tokens": 12, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. E and G are neighbors and located at G's north side.", "usage": {"prompt_tokens": 285, "completion_tokens": 17, "total_tokens": 302}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 239, "completion_tokens": 1, "total_tokens": 240}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. E is located at G's northwestern corner.", "usage": {"prompt_tokens": 264, "completion_tokens": 13, "total_tokens": 277}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Alcohol consumption leads to liver dysfunction.", "usage": {"prompt_tokens": 339, "completion_tokens": 14, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. \"No time to read books\" is the main reason for the decline in reading rate.", "usage": {"prompt_tokens": 352, "completion_tokens": 21, "total_tokens": 373}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. How do we judge whether a particular rule or standard is right or wrong if it is not based on some earlier rule or standard?", "usage": {"prompt_tokens": 468, "completion_tokens": 28, "total_tokens": 496}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Good natural environment for the people of developed countries is more important than that of developing countries.", "usage": {"prompt_tokens": 393, "completion_tokens": 20, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 美国对伊拉克的入侵和干涉，对伊拉克人民和美国人自己都造成了重大灾难。", "usage": {"prompt_tokens": 360, "completion_tokens": 49, "total_tokens": 409}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 今年重庆、四川遇到的高温干旱天气，就影响范围和持续时间而言，是50年来最严重的一次。", "usage": {"prompt_tokens": 481, "completion_tokens": 67, "total_tokens": 548}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D 不可能真。", "usage": {"prompt_tokens": 269, "completion_tokens": 7, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 最早的恒星中只含有氢。", "usage": {"prompt_tokens": 338, "completion_tokens": 22, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. That theory is acceptable, because life is priceless.", "usage": {"prompt_tokens": 432, "completion_tokens": 14, "total_tokens": 446}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 钢琴家不应该对在高难度表演中出现的失误持完全消极的看法，理解了失误为什么会发生，钢琴家才能为以后的表演做更好的准备。", "usage": {"prompt_tokens": 534, "completion_tokens": 89, "total_tokens": 623}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 429, "completion_tokens": 1, "total_tokens": 430}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A、F、I、X", "usage": {"prompt_tokens": 317, "completion_tokens": 7, "total_tokens": 324}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F and W must be assigned to the production department.\nB. G and Y must be assigned to the sales department.\nC. I and W must be assigned to the sales department.\nD. I and W must be assigned to the production department.", "usage": {"prompt_tokens": 354, "completion_tokens": 55, "total_tokens": 409}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D．H和W", "usage": {"prompt_tokens": 309, "completion_tokens": 7, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 342, "completion_tokens": 1, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. I exist.\nB. I do not exist.\nC. I think.\nD. I do not think.", "usage": {"prompt_tokens": 237, "completion_tokens": 27, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "教授: I am not a national scholar, nor am I a super academic, but just a cultural propagator.", "usage": {"prompt_tokens": 366, "completion_tokens": 26, "total_tokens": 392}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. \nB. \nC. \nD. \n\nAnswer: A. \n\nExplanation:\nThis statement depends on the assumption that if the children are honest and truthful, there will be fewer children who express a willingness to do homework and more children who believe that doing homework takes away from their leisure time.", "usage": {"prompt_tokens": 562, "completion_tokens": 77, "total_tokens": 639}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In the survey, 63% of respondents agreed that university students should be hired as housekeepers, but when asked if they would hire a university student to be their housekeeper, 60% of people replied \"no\".\n\nThis can be explained by the fact that 75% of the people who agreed that university students should be hired as housekeepers also intend to let university students take on either a housekeeper or a secretary job,", "usage": {"prompt_tokens": 482, "completion_tokens": 99, "total_tokens": 581}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 5 years ago, \"Scheme of converting corn into fuel ethanol\" was an initiative to alleviate the shortage of oil.", "usage": {"prompt_tokens": 477, "completion_tokens": 33, "total_tokens": 510}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 诸如贴春联、祭祖、迎送财神等烘托节日气氛的习俗在城里的春节中已经消失。", "usage": {"prompt_tokens": 528, "completion_tokens": 62, "total_tokens": 590}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 通过表明对一个观点缺乏事实的支持，来论证这个观点不能成立。", "usage": {"prompt_tokens": 530, "completion_tokens": 44, "total_tokens": 574}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 滴滴涕不仅能杀灭传播疟疾的蚊子，而且对环境的危害并不是那样严重。", "usage": {"prompt_tokens": 478, "completion_tokens": 67, "total_tokens": 545}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. \"Tianzun\" and \"xieshu\" in \"Shijing\" have been used as proverbs in \"Shijing\" for a long time.\nB. \"Xieshu\" in \"Shijing\" is used to praise the virtues of harmony between heaven and earth, while \"Tianzun\" in \"Yuejing\" is used to emphasize the harmony between different aspects of life.\nC. Class", "usage": {"prompt_tokens": 418, "completion_tokens": 99, "total_tokens": 517}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 随着科学技术的突飞猛进，西方的文化经典与传统正在走向衰落。", "usage": {"prompt_tokens": 450, "completion_tokens": 50, "total_tokens": 500}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Wang Ying speaks English, Wang Ying is Chinese, so Chinese people will speak English.", "usage": {"prompt_tokens": 546, "completion_tokens": 22, "total_tokens": 568}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. This country can maintain its economic development and social stability.\nB. If the ratio of social insurance fee paid by companies is reduced, it will help maintain their competitiveness.\nC. This country cannot maintain its economic development and social stability.\nD. Its economic development will be affected.", "usage": {"prompt_tokens": 478, "completion_tokens": 63, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 95% of parents agreed to their children having plastic surgery.", "usage": {"prompt_tokens": 442, "completion_tokens": 18, "total_tokens": 460}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 忽略了这种可能性: 如果张伟不得不做课堂报告，那么她的学期论文就没有得到优。", "usage": {"prompt_tokens": 448, "completion_tokens": 59, "total_tokens": 507}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 蛇和猫头鹰被大量捕杀后，抑制老鼠过度繁殖的生态平衡机制已经失效。", "usage": {"prompt_tokens": 513, "completion_tokens": 55, "total_tokens": 568}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 由于“治疗性克隆”涉及破坏人类早期胚胎的问题，因而引起罗马教会以及美、法、德等国政府的强烈反对。", "usage": {"prompt_tokens": 640, "completion_tokens": 71, "total_tokens": 711}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 卦爻辞中记载的人物和事迹大多数都是古老的传说。", "usage": {"prompt_tokens": 429, "completion_tokens": 34, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If a company lacks self-sufficiency, it will be eliminated in the competitive market.\nB. If a company has government protection and subsidies, it will have policy-induced advantages.\nC. If a company has policy-induced advantages, it will be able to receive government protection and subsidies.\nD. In a competitive market, all companies have self-sufficiency.", "usage": {"prompt_tokens": 453, "completion_tokens": 91, "total_tokens": 544}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 各种各样的心理压力都会导致类似的生理表征。", "usage": {"prompt_tokens": 347, "completion_tokens": 36, "total_tokens": 383}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Most governments will warn their citizens not to visit dangerous A country.", "usage": {"prompt_tokens": 421, "completion_tokens": 16, "total_tokens": 437}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 采用多媒体课件进行教学比使用传统的板书进行教学有明显的优势。", "usage": {"prompt_tokens": 369, "completion_tokens": 45, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only if the outcome of violent resistance is worse than non-violent resistance, will a rational person choose to resort to violent resistance.", "usage": {"prompt_tokens": 338, "completion_tokens": 30, "total_tokens": 368}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 民营经济在浙江的经济中占的比例较大，某些民营经济的增长难以被统计到。", "usage": {"prompt_tokens": 458, "completion_tokens": 59, "total_tokens": 517}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 国务院要求，地方政府至少要将土地出让净收益的10％用于廉租住房保障资金。", "usage": {"prompt_tokens": 545, "completion_tokens": 59, "total_tokens": 604}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 人们可以通过头上羽毛颜色和胸脯羽毛条纹来识别高等鸟在新群体中的地位，因为它们头上的羽毛颜色分不出深浅，胸脯羽毛没有", "usage": {"prompt_tokens": 653, "completion_tokens": 99, "total_tokens": 752}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 节能灯的亮度至少与普通白炽灯一样", "usage": {"prompt_tokens": 285, "completion_tokens": 31, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In traditional hunt-and-gather fishing methods, the large number of sea turtles caused a great deal of inconvenience to fishermen.", "usage": {"prompt_tokens": 455, "completion_tokens": 36, "total_tokens": 491}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Not intelligent or understanding of the situation, Chinese tourists will buy the local cake in Bali.\nB. The intelligent Chinese tourists who buy the local cake in Bali do not understand the situation.\nC. The not intelligent and understanding of the situation Chinese tourists buy the local cake in Bali.\nD. The intelligent Chinese tourists who understand the situation will buy the local cake in Bali.", "usage": {"prompt_tokens": 456, "completion_tokens": 95, "total_tokens": 551}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 应当在高考中增加能力测试的比重，以此来改变整个基础教育中应试教育的倾向。", "usage": {"prompt_tokens": 483, "completion_tokens": 49, "total_tokens": 532}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 小王买了股票。", "usage": {"prompt_tokens": 266, "completion_tokens": 16, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 2007年秋季入学的学生中有人家境贫寒。", "usage": {"prompt_tokens": 327, "completion_tokens": 31, "total_tokens": 358}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 警方从来不相信这个嫌犯会说真话。", "usage": {"prompt_tokens": 262, "completion_tokens": 25, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 497, "completion_tokens": 1, "total_tokens": 498}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D) 忽视了这种可能性：在一些事故中既包括有安全气囊的汽车，也包括没有安全气囊的汽车。", "usage": {"prompt_tokens": 508, "completion_tokens": 68, "total_tokens": 576}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 632, "completion_tokens": 1, "total_tokens": 633}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If true, this can strengthen Zhang's opposition to the implementation of inheritance tax.\nB. If true, this can strengthen Zhang's opposition to the implementation of inheritance tax.\nC. If true, this can strengthen Zhang's opposition to the implementation of inheritance tax.\nD. If true, this can strengthen Zhang's opposition to the implementation of inheritance tax.", "usage": {"prompt_tokens": 516, "completion_tokens": 87, "total_tokens": 603}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 许多争议已经被解决了。", "usage": {"prompt_tokens": 436, "completion_tokens": 22, "total_tokens": 458}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B. Some healthy people are beautiful.", "usage": {"prompt_tokens": 306, "completion_tokens": 9, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 10 years later, the two groups of patients with T-type diseases were still alive, with two members of the group that had participated in group activities every week having lived the longest.", "usage": {"prompt_tokens": 455, "completion_tokens": 42, "total_tokens": 497}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Only repeat evidence supports the conclusion.\nB. The fact has not been proven, but people may assume its existence.\nC. The possibility has not been considered, even though it may exist.\nD. No evidence has been provided regarding how computer viruses delete files.", "usage": {"prompt_tokens": 419, "completion_tokens": 58, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A 1 2 3 4 5 6\nB 1 2 3 4 5 6\nC 1 2 3 4 5 6\nD 1 2 3 4 5 6", "usage": {"prompt_tokens": 497, "completion_tokens": 55, "total_tokens": 552}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. L is planted on the left side of S.", "usage": {"prompt_tokens": 413, "completion_tokens": 13, "total_tokens": 426}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. H \nB. Y \nC. 4 \nD. L \n\nS and Q must be planted in the same block as H, X, Y, L, and S must be planted in the same block as H and Q. Therefore, H must be planted in 1, Q in 2, X in 3, Y in 4, L in 5, and S in 6.", "usage": {"prompt_tokens": 372, "completion_tokens": 94, "total_tokens": 466}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Y species in x's rightmost block.", "usage": {"prompt_tokens": 401, "completion_tokens": 12, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. X \nB. L \nC. S \nD. Y", "usage": {"prompt_tokens": 365, "completion_tokens": 18, "total_tokens": 383}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "F、G、H、I、M、P", "usage": {"prompt_tokens": 364, "completion_tokens": 11, "total_tokens": 375}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D. F and M are both members of the same subcommittee.", "usage": {"prompt_tokens": 379, "completion_tokens": 15, "total_tokens": 394}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D. M and G in the same committee.", "usage": {"prompt_tokens": 385, "completion_tokens": 10, "total_tokens": 395}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 373, "completion_tokens": 1, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F or G have one each as a member of three different committees.\nB. H or I have one each as a member of three different committees.\nC. P or M only serves as a member of one committee.\nD. One member exactly serves as a member of two committees.", "usage": {"prompt_tokens": 387, "completion_tokens": 68, "total_tokens": 455}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A  所有美国运动员，如游泳选手菲尔普斯，都想在奥运会的舞台上尽情表演。", "usage": {"prompt_tokens": 312, "completion_tokens": 49, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 增加并没有同时伴随其他餐馆数量的减少。", "usage": {"prompt_tokens": 306, "completion_tokens": 34, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In the Second World War, the German army relied on blitzkrieg tactics to achieve a series of victories against the Soviet Union, only to be ultimately defeated by the Soviets' persistent and resourceful strategy of a long, drawn-out war of attrition. This was exactly what Mao Zedong had in mind when he advocated for a \"Long March\" strategy in the Chinese Civil War, ultimately leading to the Communist victory over the Nationalists", "usage": {"prompt_tokens": 608, "completion_tokens": 99, "total_tokens": 707}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. Both the competition and the romance ended in success.", "usage": {"prompt_tokens": 373, "completion_tokens": 13, "total_tokens": 386}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 重建损毁的建筑的需求可以为该市居民提供许多就业机会。", "usage": {"prompt_tokens": 497, "completion_tokens": 39, "total_tokens": 536}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. It is a premise, used to support the conclusion that \"all words can evoke either positive or negative reactions\" from people.", "usage": {"prompt_tokens": 561, "completion_tokens": 30, "total_tokens": 591}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 俄罗斯要求安理会对格鲁吉亚实行武器禁运。", "usage": {"prompt_tokens": 482, "completion_tokens": 33, "total_tokens": 515}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. By promoting advanced agricultural technology, China has greatly increased its agricultural production.", "usage": {"prompt_tokens": 387, "completion_tokens": 19, "total_tokens": 406}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 狗和猫在地震前有时焦躁不安，据此就断定狗和猫有事先感知地震的能力是没有理由的，因为在多数场合，狗和猫焦躁不安后并没有发生地震。", "usage": {"prompt_tokens": 523, "completion_tokens": 94, "total_tokens": 617}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 用兵打仗好比下棋，形是行棋的定式和棋谱；势是接对方的招，破对方的招，反应越快越好。", "usage": {"prompt_tokens": 548, "completion_tokens": 64, "total_tokens": 612}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. According to the agreement between the US and Kosovo, the US has guidance and management authority over the US base in Kosovo.", "usage": {"prompt_tokens": 501, "completion_tokens": 28, "total_tokens": 529}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If you don't have a river, you don't have to learn how to share it with others.", "usage": {"prompt_tokens": 369, "completion_tokens": 25, "total_tokens": 394}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Increasing health and cardio consumption in a healthy person is beneficial.", "usage": {"prompt_tokens": 364, "completion_tokens": 19, "total_tokens": 383}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In societies that protect freedom of thought, thinkers are always lacking in cognitive rules.", "usage": {"prompt_tokens": 444, "completion_tokens": 22, "total_tokens": 466}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 奥运会对中国经济增长的推动作用约为0.2%-0.4%.", "usage": {"prompt_tokens": 530, "completion_tokens": 39, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 贪官知道，一旦其贪污受贿财产被认定为“来源不明”，就可以减轻惩罚；中国现有侦查手段落后，坦白者有可能招致比死不认账者更��", "usage": {"prompt_tokens": 622, "completion_tokens": 99, "total_tokens": 721}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 早期与母亲隔离的羚羊在冲突中表现出极大的侵略性以确立其在种群中的优势地位。", "usage": {"prompt_tokens": 555, "completion_tokens": 66, "total_tokens": 621}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. School students who are financially disadvantaged often eat convenience foods, which are low-quality products.\nB. In the home environment, as people's income decreases, their demand for food seasonings does not change, so they are low-quality products.\nC. In an aging society, as people's income decreases, their demand for fuel decreases, but their demand for home care services increases, so they are low-quality products.", "usage": {"prompt_tokens": 546, "completion_tokens": 99, "total_tokens": 645}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. In the current system, if a local government reduces house prices, it will not be subject to central government punishment.", "usage": {"prompt_tokens": 494, "completion_tokens": 26, "total_tokens": 520}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Nearly two years ago, the incidence of breast cancer among consumers of Dutch-made milk products was particularly high.", "usage": {"prompt_tokens": 412, "completion_tokens": 27, "total_tokens": 439}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 451, "completion_tokens": 1, "total_tokens": 452}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 低钙饮食可以导致家禽产蛋量下降。\n\n低钙饮食可以导致家禽产蛋量下降。", "usage": {"prompt_tokens": 621, "completion_tokens": 69, "total_tokens": 690}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 完全的真实性是不可知的。", "usage": {"prompt_tokens": 387, "completion_tokens": 15, "total_tokens": 402}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D. 丁说假话。", "usage": {"prompt_tokens": 310, "completion_tokens": 10, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. It depends on a false assumption: 90% of the university teachers who work until late night are likely to be heavy sleepers.", "usage": {"prompt_tokens": 454, "completion_tokens": 30, "total_tokens": 484}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In the following few years, X country will formulate a set of penalties for illegal dumping.", "usage": {"prompt_tokens": 504, "completion_tokens": 24, "total_tokens": 528}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 所有的人都不知道这辆快车的终点在哪里，并且所有的人都不知道该如何下车。", "usage": {"prompt_tokens": 483, "completion_tokens": 52, "total_tokens": 535}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Few people have researched how to apply solar energy in homes.", "usage": {"prompt_tokens": 333, "completion_tokens": 16, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. A group and B group have very different inner qualities.\nB. B group is frustrated with lying, while A group is not.\nC. The instrument used for A group and B group is not defective.\nD. Lying will cause an acceleration of heart rate and an increase in blood pressure.", "usage": {"prompt_tokens": 543, "completion_tokens": 68, "total_tokens": 611}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有些参加200米比赛的田径运动员也参加了100米比赛。", "usage": {"prompt_tokens": 335, "completion_tokens": 36, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 自杀行为的发生具有非常复杂的政治、经济、社会、文化和心理的原因。", "usage": {"prompt_tokens": 368, "completion_tokens": 43, "total_tokens": 411}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Yes, most people exceed their daily requirement of vitamin B6 at a young age, but as they age, their requirement decreases. Unless they supplement their vitamin B6 intake or consume more foods rich in vitamin B6, or consume more than their younger self, they may not get enough vitamin B6.", "usage": {"prompt_tokens": 436, "completion_tokens": 71, "total_tokens": 507}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 如果不考虑绿色植物，排除其他所有因素后，全球仍有大量甲烷的来源无法解释。", "usage": {"prompt_tokens": 564, "completion_tokens": 55, "total_tokens": 619}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 423, "completion_tokens": 1, "total_tokens": 424}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 503, "completion_tokens": 1, "total_tokens": 504}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 电子订单程序是更快、更精确。", "usage": {"prompt_tokens": 452, "completion_tokens": 23, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 你若到过牛津大学，你就永远不可能再相信爱因斯坦所说的任何一句话。", "usage": {"prompt_tokens": 369, "completion_tokens": 46, "total_tokens": 415}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 有人认为这支球队是最优秀的，难道说这支球队中的每个运动员也是最优秀的吧", "usage": {"prompt_tokens": 417, "completion_tokens": 51, "total_tokens": 468}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "朱红的论证是通过(C) 根据被清楚理解的现象和未被解释的现象间的相似性进行类推。", "usage": {"prompt_tokens": 515, "completion_tokens": 52, "total_tokens": 567}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "朱红：红松鼠在糖松的树皮上打洞以吸取树液。\n林娜：一定不是找糖而是找其他什么东西，因为糖松树液中糖的浓度太低了，红松鼠必��", "usage": {"prompt_tokens": 591, "completion_tokens": 99, "total_tokens": 690}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 381, "completion_tokens": 1, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S and X", "usage": {"prompt_tokens": 325, "completion_tokens": 3, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S", "usage": {"prompt_tokens": 321, "completion_tokens": 1, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S, T, W, X, Y, Z", "usage": {"prompt_tokens": 329, "completion_tokens": 11, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Y\n\nY 和 W 不可能相继到达终点。", "usage": {"prompt_tokens": 324, "completion_tokens": 22, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 368, "completion_tokens": 1, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F, I, X", "usage": {"prompt_tokens": 264, "completion_tokens": 7, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F and W are assigned as engineering soldiers.\nB. G and Y are assigned as transport soldiers.\nC. I and W are assigned as transport soldiers.\nD. I and W are assigned as engineering soldiers.", "usage": {"prompt_tokens": 294, "completion_tokens": 47, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. G and I", "usage": {"prompt_tokens": 257, "completion_tokens": 5, "total_tokens": 262}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. W and G will be assigned as the transportation soldiers.\nB. H and W will be assigned as the engineering soldiers.\nC. F and Y will be assigned as the engineering soldiers.\nD. H and W will be assigned as the engineering soldiers.", "usage": {"prompt_tokens": 284, "completion_tokens": 56, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 错误地认为许多强调方法论的历史学家打算彻底消除先入之见。", "usage": {"prompt_tokens": 470, "completion_tokens": 47, "total_tokens": 517}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. It assumes that favorable conditions are necessary to bring about the phenomenon.", "usage": {"prompt_tokens": 426, "completion_tokens": 17, "total_tokens": 443}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If Greece reduces its benefits or implements large-scale economic development, it can solve the debt crisis.", "usage": {"prompt_tokens": 495, "completion_tokens": 23, "total_tokens": 518}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 黑斑病和焦油斑点病在城市空气污染减轻时便会复发。", "usage": {"prompt_tokens": 456, "completion_tokens": 53, "total_tokens": 509}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 凡是带有强烈主见色彩的语词都不是科学的分类术语。", "usage": {"prompt_tokens": 367, "completion_tokens": 43, "total_tokens": 410}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Some land-dwelling animals only eat the black-tailed monkey, while others, such as birds and bats, prey upon it from the air.", "usage": {"prompt_tokens": 419, "completion_tokens": 37, "total_tokens": 456}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 最有经验的珠宝收藏家也不能将赝品与真钻石区分开来。", "usage": {"prompt_tokens": 432, "completion_tokens": 36, "total_tokens": 468}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有的道德风险不能转嫁，个人信誉风险是道德风险，所以，个人信誉风险不能转嫁。", "usage": {"prompt_tokens": 353, "completion_tokens": 64, "total_tokens": 417}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 天文馆和自然博物馆开放的第一年通常会吸引大量的参观者。", "usage": {"prompt_tokens": 418, "completion_tokens": 38, "total_tokens": 456}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Most things natural are safe.", "usage": {"prompt_tokens": 210, "completion_tokens": 8, "total_tokens": 218}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If the patient knows that experimental treatments will be used in the emergency situation, it will have a negative effect on the patient.\nB. Only when there is a possibility of experimental treatments having beneficial results for the patient should it be allowed without the patient's consent.\nC. At least in certain emergency situations, the potential benefits of experimental treatments outweigh the patient's right to give informed consent.\nD. In the best medical plan and", "usage": {"prompt_tokens": 618, "completion_tokens": 99, "total_tokens": 717}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. Must have absolute trust, otherwise there is no point in coaching.", "usage": {"prompt_tokens": 341, "completion_tokens": 16, "total_tokens": 357}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 抑郁症不仅是一种心理疾病，也是一种器质性病变。", "usage": {"prompt_tokens": 481, "completion_tokens": 42, "total_tokens": 523}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B市有些对雾霾天气感到焦虑的人居住在PM2．5污染比较严重的区域。", "usage": {"prompt_tokens": 548, "completion_tokens": 58, "total_tokens": 606}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 任何社会都有腐败，无议用什么方法都只能削弱腐败而不能根除它。", "usage": {"prompt_tokens": 457, "completion_tokens": 47, "total_tokens": 504}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. The concentration of natural medicines contained in plants is always lower than the concentration of synthetic medicines sprayed on plants.", "usage": {"prompt_tokens": 497, "completion_tokens": 27, "total_tokens": 524}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 凡不含茄碱的土豆都可以安全食用。", "usage": {"prompt_tokens": 335, "completion_tokens": 29, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. China's price level is generally lower than that of the US.\nB. Due to the rising labor cost in China, some manufacturing industries have begun to shift their factories to India or Southeast Asian countries.\nC. The profit rate of the Chinese manufacturing industry is generally low.\nD. In recent years, the fixed capital cost, energy cost and other costs in China have been continuously rising.", "usage": {"prompt_tokens": 433, "completion_tokens": 90, "total_tokens": 523}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. This statement weakens the effectiveness of the law.", "usage": {"prompt_tokens": 407, "completion_tokens": 13, "total_tokens": 420}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 要想真正保护农民的利益，就要允许对宅基地进行交易。", "usage": {"prompt_tokens": 475, "completion_tokens": 42, "total_tokens": 517}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If you have a lot of money in the bank, your buying power will be strong. If you have a strong buying power, you will be happy. Therefore, if you have a lot of money in the bank, you will be happy.", "usage": {"prompt_tokens": 625, "completion_tokens": 53, "total_tokens": 678}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. WiFi radiation can affect human health, but the experiment cannot conclusively determine the effects.", "usage": {"prompt_tokens": 549, "completion_tokens": 20, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 张华忽略了他的员工也有与卖掉这个公司相关的权利。", "usage": {"prompt_tokens": 404, "completion_tokens": 37, "total_tokens": 441}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In the parking lot, most of the drivers are part-time drivers, and there are many new drivers who have less than 5000 miles of driving experience.\nB. When someone is not in a hurry and is blowing a horn, almost all of the drivers who are currently exiting the parking lot feel uncomfortable, which affects the time it takes them to exit the parking lot.\nC. When someone is waiting for a", "usage": {"prompt_tokens": 716, "completion_tokens": 99, "total_tokens": 815}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. One director who pays less attention to audience's psychological needs will be less likely to be successful.", "usage": {"prompt_tokens": 409, "completion_tokens": 23, "total_tokens": 432}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 索马里的财富集中在少数人手中，许多民众因安全或失业等因素陷入贫困。", "usage": {"prompt_tokens": 498, "completion_tokens": 48, "total_tokens": 546}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. School may have unjustified bias when assessing Chinese students' performance.", "usage": {"prompt_tokens": 468, "completion_tokens": 17, "total_tokens": 485}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Sacrifice one person to save one person is the same as sacrifice one hundred people.", "usage": {"prompt_tokens": 365, "completion_tokens": 19, "total_tokens": 384}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 异族通婚的礼制为国与国的政治联姻奠定了礼法性的基础。", "usage": {"prompt_tokens": 514, "completion_tokens": 43, "total_tokens": 557}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 30% of consumers were aware of their three-package rights after one year of the implementation of the Three-Package Law.", "usage": {"prompt_tokens": 539, "completion_tokens": 30, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 绝大多数转入民营航空公司的飞行员认为国营航空公司的薪酬太低。", "usage": {"prompt_tokens": 428, "completion_tokens": 47, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 创作出高质量诗歌的诗人学过传统诗歌，没学过传统诗歌的诗人最有可能创作出创新的诗歌。\nB. 不懂得教学的人不能理解他所教的学生的个性。\nC. 缺乏感情共", "usage": {"prompt_tokens": 563, "completion_tokens": 99, "total_tokens": 662}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 棕熊平时为保护自己的领地大打出手，在鲑鱼洄游的季节，它们专注于自己的捕鱼技朋，很少为争夺地盘而打斗。", "usage": {"prompt_tokens": 756, "completion_tokens": 93, "total_tokens": 849}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Most of the engraving tools are not used for carving.", "usage": {"prompt_tokens": 409, "completion_tokens": 16, "total_tokens": 425}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 认为整体具有的属性也为部分所具有。", "usage": {"prompt_tokens": 398, "completion_tokens": 26, "total_tokens": 424}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 摄入超量的钠有时会损坏人体处理超量的钠的能力。", "usage": {"prompt_tokens": 405, "completion_tokens": 36, "total_tokens": 441}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. True. Replacing teeth is more common in other animals than in sharks, but only one side of the jaw is replaced in sharks.", "usage": {"prompt_tokens": 452, "completion_tokens": 33, "total_tokens": 485}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 恒星都是自身发光的，金星不是恒星，所以金星不是自身发光的。", "usage": {"prompt_tokens": 404, "completion_tokens": 36, "total_tokens": 440}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Based on visible consequences, take necessary preventive measures.", "usage": {"prompt_tokens": 481, "completion_tokens": 13, "total_tokens": 494}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 赤麻鸭每窝孵化8至10枚卵，天鹅每窝孵化2至3枚卵，成活率大体相当。", "usage": {"prompt_tokens": 511, "completion_tokens": 63, "total_tokens": 574}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D．M，K、S、Q、Y、X", "usage": {"prompt_tokens": 359, "completion_tokens": 15, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 343, "completion_tokens": 1, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D．Y", "usage": {"prompt_tokens": 304, "completion_tokens": 5, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S's year is earlier than Y, so option A is true.", "usage": {"prompt_tokens": 341, "completion_tokens": 15, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D. Y's year is earlier than M's.", "usage": {"prompt_tokens": 349, "completion_tokens": 13, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. X as G, H as F, W as L, M as K.", "usage": {"prompt_tokens": 473, "completion_tokens": 18, "total_tokens": 491}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. W is K's partner.", "usage": {"prompt_tokens": 395, "completion_tokens": 9, "total_tokens": 404}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. G and H", "usage": {"prompt_tokens": 346, "completion_tokens": 5, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D．G和K", "usage": {"prompt_tokens": 334, "completion_tokens": 7, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Y不可能为以下哪一对歌手伴奏？\nA．G和H\nB．L和H\nC．F和L\nD．F和M", "usage": {"prompt_tokens": 334, "completion_tokens": 53, "total_tokens": 387}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) If we allow us to accept students with a master's and doctoral degrees in writing, how many people will take the exam?\nB) Do we have the teacher resources and scientific level to accept master's and doctoral students in writing?\nC) Do we have other application and technical aspects of other sciences accepted master's and doctoral students?\nD) Should we prioritize the application and technical aspects of science master's and doctoral students?", "usage": {"prompt_tokens": 386, "completion_tokens": 99, "total_tokens": 485}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 397, "completion_tokens": 1, "total_tokens": 398}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 502, "completion_tokens": 1, "total_tokens": 503}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)金星自传缓慢而且其外壳比地球的薄的多，便于内部热量向外释放", "usage": {"prompt_tokens": 432, "completion_tokens": 48, "total_tokens": 480}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 466, "completion_tokens": 1, "total_tokens": 467}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 对任何以营利为目的的捕获野生动物行为，都应该强制执行野生动物保护法", "usage": {"prompt_tokens": 430, "completion_tokens": 47, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n律师回答中存在的逻辑问题()", "usage": {"prompt_tokens": 528, "completion_tokens": 26, "total_tokens": 554}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 428, "completion_tokens": 1, "total_tokens": 429}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 373, "completion_tokens": 1, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 412, "completion_tokens": 1, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 458, "completion_tokens": 1, "total_tokens": 459}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 如果中国股市还没有迎来牛市，那一定是3大顽疾还没有得到有效控制", "usage": {"prompt_tokens": 539, "completion_tokens": 44, "total_tokens": 583}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 240, "completion_tokens": 1, "total_tokens": 241}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "World's first self-powered car was invented in 1847. It appeared for a short period of time and then disappeared until 1860, when only when a new technology and societal values were in sync did it become accepted. Therefore, there must have been some change in societal values between 1817 and 1860.", "usage": {"prompt_tokens": 388, "completion_tokens": 80, "total_tokens": 468}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "脐带血指胎儿出，脐带结扎并离断后残留在胎盘中和脐带中的血液，其中含有的造血干细胞对白血病、重症可生�", "usage": {"prompt_tokens": 557, "completion_tokens": 99, "total_tokens": 656}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 391, "completion_tokens": 1, "total_tokens": 392}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 492, "completion_tokens": 1, "total_tokens": 493}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 431, "completion_tokens": 1, "total_tokens": 432}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(B) 卦名不能单靠取向说来解释，也不能单靠取义说来解释，只有将二者结合起来，才能给出所有卦名的解释。", "usage": {"prompt_tokens": 553, "completion_tokens": 65, "total_tokens": 618}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Knowledge is beauty, because no one intends to do evil.", "usage": {"prompt_tokens": 339, "completion_tokens": 16, "total_tokens": 355}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D) 母亲的视力差并不会导致婴儿的视力差。", "usage": {"prompt_tokens": 468, "completion_tokens": 34, "total_tokens": 502}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 能否通过深谋远虑来抑制本能的冲动，这是文明人与野蛮人或其他动物唯一的区别", "usage": {"prompt_tokens": 524, "completion_tokens": 56, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 该营养学家的结论只依据了相关的研究成果，缺乏临床数据的支持", "usage": {"prompt_tokens": 429, "completion_tokens": 48, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n潘恩论证使用技巧（A）通过表明一个命题与某个已确立为真的命题矛盾，来论证前者不成立。", "usage": {"prompt_tokens": 515, "completion_tokens": 65, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)如果一个人能十分恰当地使用一个语词进行语言表达，那他就理解这个语词", "usage": {"prompt_tokens": 387, "completion_tokens": 42, "total_tokens": 429}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 听大悲咒与不听大悲咒的水稻生长条件完全不同。", "usage": {"prompt_tokens": 444, "completion_tokens": 39, "total_tokens": 483}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 根据《管理办法》，只有子女均已移居国（境）外的国家工作人员才是“裸官”", "usage": {"prompt_tokens": 486, "completion_tokens": 47, "total_tokens": 533}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 随着经济体制的改革和新城镇化建设的推介，PPP模式被社会各界寄予厚望。", "usage": {"prompt_tokens": 553, "completion_tokens": 55, "total_tokens": 608}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)不加证明就断定不熟悉哥德尔完全性定理和不完全性定理的人也没有听说过哥德尔", "usage": {"prompt_tokens": 460, "completion_tokens": 51, "total_tokens": 511}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 566, "completion_tokens": 1, "total_tokens": 567}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 城邦制造就来了公民的自主性，君主专制造就了顺民的奴性", "usage": {"prompt_tokens": 435, "completion_tokens": 35, "total_tokens": 470}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 472, "completion_tokens": 1, "total_tokens": 473}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 523, "completion_tokens": 1, "total_tokens": 524}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n倾销指的是生产成本，不是销售成本。", "usage": {"prompt_tokens": 467, "completion_tokens": 30, "total_tokens": 497}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "()", "usage": {"prompt_tokens": 474, "completion_tokens": 1, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 496, "completion_tokens": 1, "total_tokens": 497}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 除了精华和糟粕外，还有其他值得阅读的内容", "usage": {"prompt_tokens": 476, "completion_tokens": 33, "total_tokens": 509}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B. 9 people", "usage": {"prompt_tokens": 324, "completion_tokens": 5, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 406, "completion_tokens": 1, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D) 只有用批判性思维武装的人，才能摆脱被他人摆布的命运。", "usage": {"prompt_tokens": 452, "completion_tokens": 40, "total_tokens": 492}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 初一: L and P \n初二: G and K \n初三: H and S", "usage": {"prompt_tokens": 359, "completion_tokens": 25, "total_tokens": 384}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. G and S are in the same value class.", "usage": {"prompt_tokens": 301, "completion_tokens": 12, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 295, "completion_tokens": 1, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 302, "completion_tokens": 1, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Q, M, P, L, X, K, N", "usage": {"prompt_tokens": 350, "completion_tokens": 15, "total_tokens": 365}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 311, "completion_tokens": 1, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 311, "completion_tokens": 1, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 第二个上P", "usage": {"prompt_tokens": 299, "completion_tokens": 8, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 310, "completion_tokens": 1, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 编草鞋的刘备，从来没有忘记自己是皇叔。\n(B) 张雄虽壮志凌云，却才智庸常，一生努力奋斗，但一事无成，还弄得遍体鳞伤", "usage": {"prompt_tokens": 499, "completion_tokens": 99, "total_tokens": 598}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 507, "completion_tokens": 1, "total_tokens": 508}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)中国普通蔬菜的价格是完全市场化的，其利润率是正常的", "usage": {"prompt_tokens": 395, "completion_tokens": 38, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 具有精湛医术的人是好医生。", "usage": {"prompt_tokens": 392, "completion_tokens": 28, "total_tokens": 420}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Only if the animal is good to eat, we will protect it.", "usage": {"prompt_tokens": 347, "completion_tokens": 16, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) has some endangered animals that are also delicious,\n(B) has some animals that need to be protected that are not the endangered fish in the Qinghai Lake,\n(C) has some delicious animals that need to be protected,\n(D) all the animals that are not endangered are not the delicious fish in the Qinghai Lake.", "usage": {"prompt_tokens": 305, "completion_tokens": 83, "total_tokens": 388}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 305, "completion_tokens": 1, "total_tokens": 306}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 某人爱读文学作品，特别爱读诗歌，后来自己也写诗，现在是一位很有名的诗人。", "usage": {"prompt_tokens": 507, "completion_tokens": 62, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 在约100万个英语单词中，尽管只有十多个是脏话，但它们的使用频率非常高。", "usage": {"prompt_tokens": 492, "completion_tokens": 56, "total_tokens": 548}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Information technology has improved greatly in the past few decades, and news of a plane crash can spread around the world quickly now.", "usage": {"prompt_tokens": 453, "completion_tokens": 28, "total_tokens": 481}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 最少可能有4人，最多可能有6人。", "usage": {"prompt_tokens": 291, "completion_tokens": 20, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Provide an example to show that, even though drinking water is not a causal factor in causing ciguatera, 100% of people with ciguatera also have a history of drinking water.", "usage": {"prompt_tokens": 459, "completion_tokens": 49, "total_tokens": 508}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) That those who often eat broccoli consume less energy and are more likely to have good temper, \nB) Female participants were easily influenced and willing to collaborate with the researcher, \nC) Eating broccoli has the same effect as a sedative, \nD) Broccoli has the effects of flatulence, detoxification, and improved blood circulation, \nE) Broccoli can reduce blood pressure and improve brain health", "usage": {"prompt_tokens": 539, "completion_tokens": 99, "total_tokens": 638}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 458, "completion_tokens": 1, "total_tokens": 459}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) \n(B) \n(C) \n(D) \n\nAnswer: (A) \n\nExplanation: \nThe statement \"even the most diligent person cannot read all the books in the world\" implies that no matter how hard a person tries, they cannot finish reading all the books in the world. Therefore, option (A) is the correct answer.", "usage": {"prompt_tokens": 241, "completion_tokens": 85, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 该广告贬低其他减肥药，却没有提供足够的证据，存在不正当竞争。", "usage": {"prompt_tokens": 442, "completion_tokens": 55, "total_tokens": 497}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 大部分训练刻苦的运动员具有良好的心理素质。", "usage": {"prompt_tokens": 334, "completion_tokens": 37, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 447, "completion_tokens": 1, "total_tokens": 448}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 424, "completion_tokens": 1, "total_tokens": 425}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) Chen Shui was manufacturing a bus in Taishan when he set it on fire, although it was wrong to do so, he was likely acting out of weakness and frustration due to the injustices he had faced.", "usage": {"prompt_tokens": 580, "completion_tokens": 51, "total_tokens": 631}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)38亿年前地球大气层所能保持的热量明显地多于现在大气层所能保持的热量。", "usage": {"prompt_tokens": 421, "completion_tokens": 52, "total_tokens": 473}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 543, "completion_tokens": 1, "total_tokens": 544}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 仍遵循传统的线下约会方式的人，不是年龄特别大就是特别年轻。", "usage": {"prompt_tokens": 446, "completion_tokens": 48, "total_tokens": 494}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B市的这块地在第二次上市时，政府上调了它的土地基价。", "usage": {"prompt_tokens": 485, "completion_tokens": 32, "total_tokens": 517}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 鱼和熊掌不可兼得，取熊掌而舍鱼也。", "usage": {"prompt_tokens": 528, "completion_tokens": 37, "total_tokens": 565}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 美女、帅哥在职场竞争中有很大优势，他们容易获得高薪职位。", "usage": {"prompt_tokens": 534, "completion_tokens": 54, "total_tokens": 588}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D) 如果跑步者对目前的跑步鞋不满意，建议他去购买X牌跑步鞋。", "usage": {"prompt_tokens": 484, "completion_tokens": 58, "total_tokens": 542}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 476, "completion_tokens": 1, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 攻击一个与雇主实际提出的论证不同的论证。", "usage": {"prompt_tokens": 444, "completion_tokens": 38, "total_tokens": 482}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 至少有一个问题，它能够通过运行机械程序来解决，却不能被任何人的大脑所解决。", "usage": {"prompt_tokens": 408, "completion_tokens": 57, "total_tokens": 465}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 412, "completion_tokens": 1, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 该论证不恰当地预设，\n(B) 该论证未能说明竞选资助的额度对判决结果的影响，\n(C) 该论证忽略了以下事实，\n(D) 该论证", "usage": {"prompt_tokens": 507, "completion_tokens": 99, "total_tokens": 606}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(D) 科学家对于“暗能量”这个名词背后所隐含的深刻内涵仍一无所知。", "usage": {"prompt_tokens": 385, "completion_tokens": 50, "total_tokens": 435}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 有些阿尔茨海默症患者会丧失记忆能力。", "usage": {"prompt_tokens": 483, "completion_tokens": 32, "total_tokens": 515}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 534, "completion_tokens": 1, "total_tokens": 535}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 452, "completion_tokens": 1, "total_tokens": 453}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n言论自由对滩州人民的需要是不充分的，良好的社会秩序也是不可缺少的。", "usage": {"prompt_tokens": 431, "completion_tokens": 46, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 经济状况改善后公司会雇用更多的人，许多被重新雇用的人会购买此前推迟购买的商品。", "usage": {"prompt_tokens": 604, "completion_tokens": 67, "total_tokens": 671}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 400, "completion_tokens": 1, "total_tokens": 401}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 太极拳动作轻柔舒缓，常年坚持，能够舒筋活血，养气安神。", "usage": {"prompt_tokens": 350, "completion_tokens": 54, "total_tokens": 404}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)F、M、T", "usage": {"prompt_tokens": 350, "completion_tokens": 8, "total_tokens": 358}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 323, "completion_tokens": 1, "total_tokens": 324}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 363, "completion_tokens": 1, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 334, "completion_tokens": 1, "total_tokens": 335}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 410, "completion_tokens": 1, "total_tokens": 411}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 360, "completion_tokens": 1, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 350, "completion_tokens": 1, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 348, "completion_tokens": 1, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 364, "completion_tokens": 1, "total_tokens": 365}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 347, "completion_tokens": 1, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 亚里士多德的《诗论》经常被现代阿拉伯诗人引用和评论。", "usage": {"prompt_tokens": 533, "completion_tokens": 43, "total_tokens": 576}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 如果美联储推出QE3，其他国家若想避免本国经济滑坡，就不要购买美元资产。", "usage": {"prompt_tokens": 561, "completion_tokens": 62, "total_tokens": 623}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 347, "completion_tokens": 1, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) That belief in God is a matter of personal choice, not dependent on logic or reason.", "usage": {"prompt_tokens": 549, "completion_tokens": 20, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n它指责经济学家的品德，而不是针对他们的议论进行反驳。", "usage": {"prompt_tokens": 400, "completion_tokens": 43, "total_tokens": 443}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "\"D\"", "usage": {"prompt_tokens": 429, "completion_tokens": 3, "total_tokens": 432}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "0.31, 2.85, 0.31, 1.1, 0.31, 1.1, 0.31, 1.1, 0.31, 1.1, 0.31, 1.1, 0.31, 1.1, 0.31, 1.1, 0.31, 1.1, ", "usage": {"prompt_tokens": 367, "completion_tokens": 99, "total_tokens": 466}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "(A)在申报纳税时，美国有60%的人需要雇请专业人士代理申报，有22%的人需要用报税软件帮助计算。", "usage": {"prompt_tokens": 636, "completion_tokens": 71, "total_tokens": 707}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n日本公布\"夺岛\"计划意在试探中国的反应:如果中国反应不大，日本将在钓鱼岛及周边岛屿驻军。", "usage": {"prompt_tokens": 622, "completion_tokens": 66, "total_tokens": 688}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 263, "completion_tokens": 1, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 循环论证:把所要讲证的结论预先安置在前提中。", "usage": {"prompt_tokens": 423, "completion_tokens": 43, "total_tokens": 466}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 有关专家认为信用卡不设密码更安全，但专家的话也不一定全对。", "usage": {"prompt_tokens": 434, "completion_tokens": 37, "total_tokens": 471}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 只有优秀作家才能写出打动人心的作品。", "usage": {"prompt_tokens": 295, "completion_tokens": 24, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)许多消费者在决定购买哪种葡萄酒时，依据大众媒体所刊登的广告。", "usage": {"prompt_tokens": 507, "completion_tokens": 58, "total_tokens": 565}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 每一个公开实施的伴有内疚感的行为都是不道德的。", "usage": {"prompt_tokens": 342, "completion_tokens": 35, "total_tokens": 377}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 416, "completion_tokens": 1, "total_tokens": 417}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 表现好的学生都是得分高的学生。", "usage": {"prompt_tokens": 351, "completion_tokens": 18, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If the Russian Economic Development Ministry's decision is correct, then (B) is the statement that is definitely true.", "usage": {"prompt_tokens": 515, "completion_tokens": 27, "total_tokens": 542}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D) 同一类生物成员一定具有一个或多个使它们与其他种类生物相区别的体貌特征。", "usage": {"prompt_tokens": 490, "completion_tokens": 49, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "答案是选项()", "usage": {"prompt_tokens": 537, "completion_tokens": 10, "total_tokens": 547}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\nB\nC\nD\n\nAnswer: (A) Nearly ten years, the environment of the city (air and water quality, etc.) has been damaged?", "usage": {"prompt_tokens": 432, "completion_tokens": 37, "total_tokens": 469}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 468, "completion_tokens": 1, "total_tokens": 469}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 462, "completion_tokens": 1, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 2011, 36 companies sharing the risk of the dangerous business, 3 companies among them are profitable.", "usage": {"prompt_tokens": 538, "completion_tokens": 29, "total_tokens": 567}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 567, "completion_tokens": 1, "total_tokens": 568}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 454, "completion_tokens": 1, "total_tokens": 455}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 569, "completion_tokens": 1, "total_tokens": 570}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 521, "completion_tokens": 1, "total_tokens": 522}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 床上抽烟的人通常烟瘾很大，与那些不在床上抽烟的人相比，他们更不可能戒烟。", "usage": {"prompt_tokens": 391, "completion_tokens": 62, "total_tokens": 453}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 484, "completion_tokens": 1, "total_tokens": 485}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 509, "completion_tokens": 1, "total_tokens": 510}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 335, "completion_tokens": 1, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 由于泰丰公司的潜在市场最小，它是华泰集团销售额最低的部门并不令人感到意外。", "usage": {"prompt_tokens": 460, "completion_tokens": 59, "total_tokens": 519}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 采用这种方式进行污水处理的技术转让和设备成本会不会很高?", "usage": {"prompt_tokens": 460, "completion_tokens": 43, "total_tokens": 503}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 432, "completion_tokens": 1, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)给实验对象注射生理盐水，并让他相信是止痛剂，实验对象的大脑随后分泌出止痛物质内啡肽。", "usage": {"prompt_tokens": 442, "completion_tokens": 73, "total_tokens": 515}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D)犯罪学家对比了各种调查结果，并未发现私人拥有枪支的数量与枪支暴力犯罪有明显的相关性。", "usage": {"prompt_tokens": 521, "completion_tokens": 65, "total_tokens": 586}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 461, "completion_tokens": 1, "total_tokens": 462}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)有些保健品是某些人有必要服用的。", "usage": {"prompt_tokens": 286, "completion_tokens": 21, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 435, "completion_tokens": 1, "total_tokens": 436}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) F， K， G，L， H， J， M", "usage": {"prompt_tokens": 353, "completion_tokens": 16, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(D) L或者紧挨在G的前面或者紧接在G的后面", "usage": {"prompt_tokens": 369, "completion_tokens": 28, "total_tokens": 397}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) G , J , K", "usage": {"prompt_tokens": 333, "completion_tokens": 8, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 285, "completion_tokens": 1, "total_tokens": 286}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) J紧挨在F的前面", "usage": {"prompt_tokens": 358, "completion_tokens": 15, "total_tokens": 373}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "G、H、M、W、Z", "usage": {"prompt_tokens": 350, "completion_tokens": 9, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 329, "completion_tokens": 1, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "48.最多可以有几个学生一起去英国?\nA) 2个\nB) 3个\nC) 4个\nD) 5个", "usage": {"prompt_tokens": 328, "completion_tokens": 44, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 352, "completion_tokens": 1, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 343, "completion_tokens": 1, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 阅人无数自会遇到名师指路。", "usage": {"prompt_tokens": 297, "completion_tokens": 22, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有人会说爱因斯坦是德国人。", "usage": {"prompt_tokens": 352, "completion_tokens": 20, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In the group of cancer patients who die due to medical accidents, the proportion of those who do not experience medical accidents but eventually die from cancer is much smaller than those who experience medical accidents.", "usage": {"prompt_tokens": 468, "completion_tokens": 43, "total_tokens": 511}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Knowledge is power.", "usage": {"prompt_tokens": 360, "completion_tokens": 7, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 许多学识渊博的教师是温和宽厚。", "usage": {"prompt_tokens": 315, "completion_tokens": 32, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. From A's laws, the following statement is not consistent with the agreement: \"From A's laws, the following statement is not consistent with the agreement: 'From A's laws, the following statement is not consistent with the agreement: 'From A's laws, the following statement is not consistent with the agreement: 'From A's laws, the following statement is not consistent with the agreement: 'From A's laws, the following statement is not consistent with", "usage": {"prompt_tokens": 441, "completion_tokens": 99, "total_tokens": 540}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 马英九不会说出含糊其辞的话。", "usage": {"prompt_tokens": 273, "completion_tokens": 23, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 优秀的指挥家在与不同的乐队合作时，对同一首作品会有不同的艺术见解。", "usage": {"prompt_tokens": 471, "completion_tokens": 48, "total_tokens": 519}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 赵涛不是真正的强者。", "usage": {"prompt_tokens": 626, "completion_tokens": 19, "total_tokens": 645}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If people only drink alcohol every day, will they still get fat?\nB. Why do so many American women and children routinely drink alcohol, eat junk food, and exceed healthy weight limits?\nC. Do people who are fat also regularly engage in sports and exercise?\nD. Do many fat people also smoke, and can they say \"smoking causes fatness\"?", "usage": {"prompt_tokens": 362, "completion_tokens": 85, "total_tokens": 447}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If able to bear the risk, there will be growth in foreign reserves.", "usage": {"prompt_tokens": 474, "completion_tokens": 18, "total_tokens": 492}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 为了保证公平性，企业或者不应该生产高于国家标准的产品，或者要对产品质量高于国家标准的事实秘而不宣。", "usage": {"prompt_tokens": 473, "completion_tokens": 72, "total_tokens": 545}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Small John is just a child, so he knows very little.\nB. The sun is revolving around the Earth, regardless of whether he prays or not.\nC. One thing happens after he prays, but it does not necessarily mean that it is because of his prayers.\nD. He has evidence to prove that if he does not pray, the event will not happen.", "usage": {"prompt_tokens": 499, "completion_tokens": 83, "total_tokens": 582}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 8月5日晚间，美国财政部回应称，标普进行评级计算时有2万亿美元的误差。", "usage": {"prompt_tokens": 579, "completion_tokens": 54, "total_tokens": 633}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 诺齐克以为，值得过的生命都是经过反省的生命。", "usage": {"prompt_tokens": 374, "completion_tokens": 29, "total_tokens": 403}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有的仇富者是中国人。", "usage": {"prompt_tokens": 397, "completion_tokens": 15, "total_tokens": 412}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Transgenic crops offer resistance to specific pests, but Chinese crops have few such pests.\nB. There is currently no transgenic crop that can exceed the quality of Chinese super hybrid, F1 hybrid and other varieties in terms of production and quality.\nC. After the introduction of transgenic seeds in the US, the prices of soybeans, cotton and other seeds have significantly increased.\nD. If China", "usage": {"prompt_tokens": 502, "completion_tokens": 99, "total_tokens": 601}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 孔子在饮食方面的要求很高。", "usage": {"prompt_tokens": 321, "completion_tokens": 22, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 有些弱势者缺医少药，甚至得不到温饱。", "usage": {"prompt_tokens": 502, "completion_tokens": 39, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 法官推理悖于常理\nB. 该判决违背传统道德\nC. 该判决没有弄清事实，证据严重不足\nD. 该判决颠倒了原因和结果", "usage": {"prompt_tokens": 564, "completion_tokens": 83, "total_tokens": 647}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. In the cases where the phenomenon appeared, all factors present were likely the cause.", "usage": {"prompt_tokens": 471, "completion_tokens": 19, "total_tokens": 490}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. That those who suffer from spirit confusion at least used a silver cup to drink wine.", "usage": {"prompt_tokens": 389, "completion_tokens": 19, "total_tokens": 408}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 美国会在安理会动用否决权，阻止巴勒斯坦进入联合国。", "usage": {"prompt_tokens": 448, "completion_tokens": 38, "total_tokens": 486}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. True", "usage": {"prompt_tokens": 440, "completion_tokens": 3, "total_tokens": 443}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 一个国家或民族，即使不开放包容，也能发展进步。", "usage": {"prompt_tokens": 343, "completion_tokens": 30, "total_tokens": 373}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 该论证未经反思地把人类排除在自然界之外。", "usage": {"prompt_tokens": 536, "completion_tokens": 31, "total_tokens": 567}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 今天受过教育的人比50年前受过教育的人的数量大大增加。", "usage": {"prompt_tokens": 331, "completion_tokens": 36, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 让人说话天不会塌下来，科学是在不断颠覆或改进“正统”观念中前进的。", "usage": {"prompt_tokens": 553, "completion_tokens": 48, "total_tokens": 601}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. If there is no seasonal promotion in a certain month, it must have a holiday promotion.\nB. If there is no holiday promotion in a certain month, it must be November.\nC. If there is a seasonal promotion in a certain month, there must be some remaining products in the store.\nD. If there is a holiday promotion in a certain month, but the store has no remaining products, it must be announced.", "usage": {"prompt_tokens": 483, "completion_tokens": 95, "total_tokens": 578}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 50 points or above is the minimum score for a child to attend kindergarten.\nB. A further hypothesis needs to be tested to make a more reasonable conclusion.\nC. There is no correlation between whether a child has attended kindergarten and their preschool readiness score.\nD. It is advisable to provide additional financial support for children below the age of 6 to attend kindergarten.", "usage": {"prompt_tokens": 472, "completion_tokens": 89, "total_tokens": 561}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 稀土是不可再生的重要战略资源。", "usage": {"prompt_tokens": 543, "completion_tokens": 26, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 没有详细地说明反对党的主张，而是简单地将它忽略了。", "usage": {"prompt_tokens": 462, "completion_tokens": 42, "total_tokens": 504}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 2011年3月31日，日本发生地震和海啸，福岛第一和电子发生严重核泄漏事故，我国有人抢购碘盐。", "usage": {"prompt_tokens": 573, "completion_tokens": 72, "total_tokens": 645}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 前提: 这些新部门在以更精准的方式去抓住其消费群体\nB. 结论: 管理部门要求采取新的措施去抓住其消费群体。\nC. 前提: 在设立这些新部门之前，", "usage": {"prompt_tokens": 329, "completion_tokens": 99, "total_tokens": 428}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A. 农民在它上建造的房屋没有许可让它成为许可让的房产证。", "usage": {"prompt_tokens": 533, "completion_tokens": 47, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Good thinking, because aircraft fuel is a petroleum derivative.", "usage": {"prompt_tokens": 389, "completion_tokens": 15, "total_tokens": 404}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 2011年8月，越南与美国在南海进行了联合军事演习。", "usage": {"prompt_tokens": 463, "completion_tokens": 33, "total_tokens": 496}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A．使用专业术语来说服别人。", "usage": {"prompt_tokens": 402, "completion_tokens": 20, "total_tokens": 422}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 上述论证没能说明，国内油价不合理是由多种原因造成的。", "usage": {"prompt_tokens": 483, "completion_tokens": 39, "total_tokens": 522}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. J is taller than L, but M is taller than Y.", "usage": {"prompt_tokens": 242, "completion_tokens": 17, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. J, S", "usage": {"prompt_tokens": 343, "completion_tokens": 5, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F is true.", "usage": {"prompt_tokens": 364, "completion_tokens": 6, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 2种", "usage": {"prompt_tokens": 329, "completion_tokens": 5, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S must be placed in the second week. R must be placed in the fourth week.", "usage": {"prompt_tokens": 324, "completion_tokens": 18, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F be placed before O.", "usage": {"prompt_tokens": 363, "completion_tokens": 8, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F, G, V, Z", "usage": {"prompt_tokens": 396, "completion_tokens": 9, "total_tokens": 405}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. G and Y", "usage": {"prompt_tokens": 405, "completion_tokens": 5, "total_tokens": 410}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. F", "usage": {"prompt_tokens": 379, "completion_tokens": 3, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. I", "usage": {"prompt_tokens": 385, "completion_tokens": 3, "total_tokens": 388}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. H is a member of the committee in the first year.", "usage": {"prompt_tokens": 420, "completion_tokens": 14, "total_tokens": 434}, "finish_reason": "stop", "model": "Alpaca-7B"}

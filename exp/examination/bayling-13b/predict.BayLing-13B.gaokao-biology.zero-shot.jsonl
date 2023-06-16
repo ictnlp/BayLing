@@ -1,0 +1,210 @@
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 301, "completion_tokens": 13, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 272, "completion_tokens": 13, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 311, "completion_tokens": 13, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)下丘脑能分泌抗利尿激素和促甲状腺激素。", "usage": {"prompt_tokens": 329, "completion_tokens": 49, "total_tokens": 378}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)需要酶的催化。", "usage": {"prompt_tokens": 200, "completion_tokens": 23, "total_tokens": 223}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 372, "completion_tokens": 13, "total_tokens": 385}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)", "usage": {"prompt_tokens": 288, "completion_tokens": 12, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)生活中接触的物体表面可能存在病原微生物, 勤洗手可降低感染风险。", "usage": {"prompt_tokens": 396, "completion_tokens": 64, "total_tokens": 460}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。\n\n根据题目中的描述，选用合适的实验材料进行实验是为了达到实验目的。因此，选择合适的实验材料是实验的关键。选项A中的实验材料与实验目的相符合，因此选择A是正确的答案。", "usage": {"prompt_tokens": 416, "completion_tokens": 133, "total_tokens": 549}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)分裂与分化。", "usage": {"prompt_tokens": 216, "completion_tokens": 20, "total_tokens": 236}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 256, "completion_tokens": 13, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(B)生长素。", "usage": {"prompt_tokens": 199, "completion_tokens": 14, "total_tokens": 213}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)有害垃圾填埋处理可消除环境污染。", "usage": {"prompt_tokens": 287, "completion_tokens": 46, "total_tokens": 333}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)琼脂 + 蔗糖。", "usage": {"prompt_tokens": 266, "completion_tokens": 27, "total_tokens": 293}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 262, "completion_tokens": 13, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)抑制突触间隙中递质分解的药物可抑制膝反射。", "usage": {"prompt_tokens": 315, "completion_tokens": 53, "total_tokens": 368}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)管控船舶进出禁渔区域，以减少对水生生物的干扰。", "usage": {"prompt_tokens": 353, "completion_tokens": 51, "total_tokens": 404}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 483, "completion_tokens": 13, "total_tokens": 496}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)若沙蝗进入我国西北干早地区将呈现 “J” 型增长。", "usage": {"prompt_tokens": 352, "completion_tokens": 46, "total_tokens": 398}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)高山两侧陆地蜗牛利用“通道”进行充分的基因交流。", "usage": {"prompt_tokens": 433, "completion_tokens": 46, "total_tokens": 479}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)两者催化果胶主链水解断裂的化学键不同。", "usage": {"prompt_tokens": 334, "completion_tokens": 41, "total_tokens": 375}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)产物 $\\operatorname{PrP}^{\\mathrm{Sc}}$ 对 $\\operatorname{PrP}^{\\mathrm{c}}$ 转变为 $\\operatorname{PrP}^{\\mathrm{Sc}}$ 具有反馈抑制作用。", "usage": {"prompt_tokens": 509, "completion_tokens": 68, "total_tokens": 577}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(B)$1 / 8$", "usage": {"prompt_tokens": 246, "completion_tokens": 15, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 529, "completion_tokens": 13, "total_tokens": 542}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)抗维生素 $\\mathrm{D}$ 佝偻病。", "usage": {"prompt_tokens": 245, "completion_tokens": 36, "total_tokens": 281}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 160, "completion_tokens": 12, "total_tokens": 172}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 582, "completion_tokens": 12, "total_tokens": 594}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)异染色质蛋白在细胞核内发生自噬性降解。", "usage": {"prompt_tokens": 395, "completion_tokens": 49, "total_tokens": 444}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 463, "completion_tokens": 13, "total_tokens": 476}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 481, "completion_tokens": 13, "total_tokens": 494}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 604, "completion_tokens": 13, "total_tokens": 617}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 374, "completion_tokens": 13, "total_tokens": 387}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)$4 ; 7$。\n\n减数分裂 I 时，同源染色体可以进入 1 个或 2 个子细胞，因此在减数分裂 I 时，同源染色体可以分离成 2 个子细胞。因此，姐妺染色单体分离，而同源染色体不分离。\n\n减数分裂 II 时，同源染色体分离，姐妺染色单体不分离。因此，在减数分裂 II 时，同源染色体不会影响配子的存活、受精和其他染色体的行为。\n\n因此，在减数分裂 I 时，同源染色体分离，姐妺染色单体不分离，而在减数分裂 II 时，同源染色体分离，姐妺染色单体不分离。因此，在减数分裂 I 时，同源染色体分离，姐妺染色单体不分离，而在减数分裂 II 时，同源染色体分离，姐妺染色单体不分离。因此，在减数分裂 I 时，同源染色体分离，姐妺染色单体不分离，而在减数分裂 II 时，同源染色体分离，姐妺染色单体不分离。因此，在减数", "usage": {"prompt_tokens": 553, "completion_tokens": 511, "total_tokens": 1064}, "finish_reason": "length", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：2 \\* 10^4 条鱼。\n\n根据题意，我们可以计算出鱼塘中鱼的初始数量为：\n\n1000 条 / 2 天 = 500 条/天\n\n第二天捕获了 950 条鱼，因此可以计算出鱼塘中鱼的减少量为：\n\n950 条 - 500 条 = 450 条\n\n因此，鱼塘中鱼的初始数量约为 500 条。选项(A) 是正确答案。", "usage": {"prompt_tokens": 297, "completion_tokens": 193, "total_tokens": 490}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)粗提取的 DNA 中可能含有蛋白质。", "usage": {"prompt_tokens": 274, "completion_tokens": 35, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)发酵液中的碳源不宜使用葡萄糖。", "usage": {"prompt_tokens": 368, "completion_tokens": 41, "total_tokens": 409}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)均能进行光合作用。", "usage": {"prompt_tokens": 191, "completion_tokens": 23, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：通过神经调节减少汗腺分泌。", "usage": {"prompt_tokens": 295, "completion_tokens": 34, "total_tokens": 329}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)中毒性过强不利于维持病毒与兔的寄生关系。", "usage": {"prompt_tokens": 463, "completion_tokens": 46, "total_tokens": 509}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)光合色素的提取与分离。", "usage": {"prompt_tokens": 232, "completion_tokens": 25, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 238, "completion_tokens": 13, "total_tokens": 251}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：红树林生态系统物种丰富，结构相对复杂，具有较强的自我调节能力。", "usage": {"prompt_tokens": 368, "completion_tokens": 56, "total_tokens": 424}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 309, "completion_tokens": 13, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)免疫球蛋白减少可导致患者免疫力低下。", "usage": {"prompt_tokens": 376, "completion_tokens": 48, "total_tokens": 424}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(B)2", "usage": {"prompt_tokens": 236, "completion_tokens": 11, "total_tokens": 247}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 399, "completion_tokens": 13, "total_tokens": 412}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 384, "completion_tokens": 13, "total_tokens": 397}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：GH 通过发挥催化作用, 使靶细胞发生一系列的代谢变化。", "usage": {"prompt_tokens": 383, "completion_tokens": 53, "total_tokens": 436}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 423, "completion_tokens": 13, "total_tokens": 436}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：“废物蛋白”被该酶切割过程中发生肽键断裂。", "usage": {"prompt_tokens": 290, "completion_tokens": 48, "total_tokens": 338}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 439, "completion_tokens": 13, "total_tokens": 452}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 350, "completion_tokens": 13, "total_tokens": 363}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)发酵所利用的微生物都属于原核生物。", "usage": {"prompt_tokens": 233, "completion_tokens": 33, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：$\\mathrm{T}_{2}$ 噬菌体病毒颗粒内可以合成 mRNA 和蛋白质。", "usage": {"prompt_tokens": 400, "completion_tokens": 58, "total_tokens": 458}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 276, "completion_tokens": 13, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)胰腺受反射弧传出神经的支配, 其分泌胰液也受促胰液素调节。", "usage": {"prompt_tokens": 300, "completion_tokens": 65, "total_tokens": 365}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)AABBDD $\\times$ aaBBdd, 或 $A A b b D D \\times a a b b d d$。", "usage": {"prompt_tokens": 497, "completion_tokens": 42, "total_tokens": 539}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)细胞产生的激素与靶细胞膜上相应受体的结合可实现细胞间的信息传递。", "usage": {"prompt_tokens": 306, "completion_tokens": 68, "total_tokens": 374}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)内环境稳定有利于新陈代谢过程中酶促反应的正常进行。", "usage": {"prompt_tokens": 336, "completion_tokens": 49, "total_tokens": 385}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 345, "completion_tokens": 13, "total_tokens": 358}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)水稻和病毒 $V$ 是互利共生关系。", "usage": {"prompt_tokens": 304, "completion_tokens": 37, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)高尔基体内RS受体所在区域的pH比内质网的pH高。", "usage": {"prompt_tokens": 395, "completion_tokens": 42, "total_tokens": 437}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：\"$\\mathrm{Ca}^{2+}$ 通过 CAX 的运输有利于植物细胞保持坚挺\"。", "usage": {"prompt_tokens": 560, "completion_tokens": 54, "total_tokens": 614}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 472, "completion_tokens": 13, "total_tokens": 485}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 338, "completion_tokens": 13, "total_tokens": 351}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：M 经 $n\\left(n \\geq 1 right)$ 次有丝分裂后，脱氨基位点为 $A-U$ 的细胞占 $1 / 2^{n}$。", "usage": {"prompt_tokens": 477, "completion_tokens": 76, "total_tokens": 553}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)静脉输入抗利尿激素类药物, 可有效减轻脑组织水肿。", "usage": {"prompt_tokens": 478, "completion_tokens": 59, "total_tokens": 537}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 399, "completion_tokens": 13, "total_tokens": 412}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)甲的合成部位是根冠、萎蓔的叶片。", "usage": {"prompt_tokens": 367, "completion_tokens": 36, "total_tokens": 403}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)83 只/公顷。\n\n假设第一次捕获的标记鼠数为x只，第二次捕获的标记鼠数为y只，则第二次捕获的标记鼠数占总标记鼠数的比例为y/x。\n\n根据题意，第一次捕获的标记鼠数为39只，第二次捕获的标记鼠数为34只，因此第二次捕获的标记鼠数占总标记鼠数的比例为34/39。\n\n假设第一次捕获的标记鼠数为x只，则第二次捕获的标记鼠数为y只，则第二次捕获的标记鼠数占总标记鼠数的比例为y/x。\n\n根据题意，第一次捕获的标记鼠数为39只，因此第二次捕获的标记鼠数占总标记鼠数的比例为34/39。\n\n假设第一次捕获的标记鼠数为x只，则第二次捕获的标记鼠数为y只，则第二次捕获的标记鼠数占总标记鼠数的比例为y/x。\n\n根据题意，第一次捕获的标记鼠数为39只，因此第二次捕获的标记鼠数占总标记鼠数的比例为34/39。\n\n假设第一次捕获的标记鼠数为x只，则第二次捕获的标记鼠数为y只，则第二", "usage": {"prompt_tokens": 379, "completion_tokens": 511, "total_tokens": 890}, "finish_reason": "length", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 295, "completion_tokens": 13, "total_tokens": 308}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)加入与滤液体积相等的、体积分数为 $95 \\%$ 的冷却的酒精。", "usage": {"prompt_tokens": 432, "completion_tokens": 58, "total_tokens": 490}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 520, "completion_tokens": 13, "total_tokens": 533}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)证明 DNA 是遗传物质的肺炎双球菌转化实验。", "usage": {"prompt_tokens": 253, "completion_tokens": 46, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 304, "completion_tokens": 13, "total_tokens": 317}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 313, "completion_tokens": 13, "total_tokens": 326}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 317, "completion_tokens": 13, "total_tokens": 330}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)植物光合作用和呼吸作用过程中都可以合成 ATP。", "usage": {"prompt_tokens": 292, "completion_tokens": 39, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)黑光灯诱捕的方法可用于调查某种趋光性昆虫的种群密度。", "usage": {"prompt_tokens": 320, "completion_tokens": 54, "total_tokens": 374}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 297, "completion_tokens": 13, "total_tokens": 310}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：(1)(3)。\n\n这是一个推理题，需要根据给出的信息来推断出正确答案。根据题目的描述，前人的研究中使用的核心技术是相同或相似的，因此我们可以推断出前人的研究中使用的技术可能包括：\n\n(1) 证明光合作用所释放的氧气来自于水\n(2) 用紫外线等处理青霉菌选育高产青霉素菌株\n(3) 用 $\\mathrm{T}_{2}$ 噬菌体浸染大肠杆菌证明 DNA 是遗传物质\n(4) 用甲基绿和吡罗红对细胞染色，观察核酸的分布。\n\n因此，我们可以推断出前人的研究中使用的技术可能包括：\n\n(1) 证明光合作用所释放的氧气来自于水\n(2) 用紫外线等处理青霉菌选育高产青霉素菌株\n(3) 用 $\\mathrm{T}_{2}$ 噬菌体浸染大肠杆菌证明 DNA 是遗传物质\n(4) 用甲基绿和吡罗红对细胞染色，观察核酸的分布。\n\n因此，答案是选项(B)：(1)(3)", "usage": {"prompt_tokens": 339, "completion_tokens": 511, "total_tokens": 850}, "finish_reason": "length", "model": "BayLing-13B"}
+{"text": "答案是选项(C)摄盐过多后饮水量的增加有利于维持细胞外液渗透压相对恒定。", "usage": {"prompt_tokens": 332, "completion_tokens": 64, "total_tokens": 396}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：$F_{2}$ 中红花植株的基因型有 2 种。", "usage": {"prompt_tokens": 410, "completion_tokens": 36, "total_tokens": 446}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)细胞凋亡是基因决定的细胞死亡过程, 属于细胞坏死。", "usage": {"prompt_tokens": 327, "completion_tokens": 59, "total_tokens": 386}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：(1)(2)(4)。", "usage": {"prompt_tokens": 322, "completion_tokens": 21, "total_tokens": 343}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)水、矿质元素和土壤。", "usage": {"prompt_tokens": 257, "completion_tokens": 28, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：宽叶雌株与窄叶雄株杂交，子代中既有雌株又有雄株。", "usage": {"prompt_tokens": 414, "completion_tokens": 55, "total_tokens": 469}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)淋巴运输, 胞间连丝传递。", "usage": {"prompt_tokens": 314, "completion_tokens": 33, "total_tokens": 347}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)", "usage": {"prompt_tokens": 308, "completion_tokens": 12, "total_tokens": 320}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 483, "completion_tokens": 13, "total_tokens": 496}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)亲本雌蝇的基因型是 $\\mathrm{BbX}^{\\mathrm{R}} \\mathrm{X}^{\\mathrm{r}}$。", "usage": {"prompt_tokens": 418, "completion_tokens": 48, "total_tokens": 466}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)植物细胞的胞间连丝具有物质运输的作用。", "usage": {"prompt_tokens": 270, "completion_tokens": 45, "total_tokens": 315}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)二者所含有的基因组不同。", "usage": {"prompt_tokens": 219, "completion_tokens": 26, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：组织液不断生成与回流，并保持动态平衡。", "usage": {"prompt_tokens": 286, "completion_tokens": 38, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 288, "completion_tokens": 13, "total_tokens": 301}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 261, "completion_tokens": 13, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A) \"瓦堡效应\"导致癌细胞需要大量吸收葡萄糖。", "usage": {"prompt_tokens": 377, "completion_tokens": 53, "total_tokens": 430}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 372, "completion_tokens": 13, "total_tokens": 385}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：孕妇血液中的 cffDNA 可能来自于脱落后破碎的胎盘细胞。", "usage": {"prompt_tokens": 461, "completion_tokens": 64, "total_tokens": 525}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)抑制甲状腺过氧化物酶的活性，可使甲状腺激素合成增加。", "usage": {"prompt_tokens": 501, "completion_tokens": 52, "total_tokens": 553}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 346, "completion_tokens": 13, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)建立自然保护区属于易地保护，是保护绿孔雀的有效措施。", "usage": {"prompt_tokens": 379, "completion_tokens": 56, "total_tokens": 435}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A) \"浸曲发\" 过程中酒曲中的微生物代谢加快。", "usage": {"prompt_tokens": 511, "completion_tokens": 41, "total_tokens": 552}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)遗传改造的小鼠胚胎干细胞可以通过转基因等技术获得。", "usage": {"prompt_tokens": 349, "completion_tokens": 53, "total_tokens": 402}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)抗体检测法利用了抗原与抗体特异性结合的原理。", "usage": {"prompt_tokens": 340, "completion_tokens": 44, "total_tokens": 384}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 273, "completion_tokens": 13, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)离子通过离子石的跨膜运输属于协助扩散。", "usage": {"prompt_tokens": 340, "completion_tokens": 45, "total_tokens": 385}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：\n\n在测定酶活力的试验中，通常遵循以下操作顺序：\n\n1. 选择酶和底物，确定试剂浓度和底物浓度。\n2. 将底物加入试管中，加入酶并倒入缓冲液。\n3. 倒入缓冲液后，加入酶并倒入缓冲液。\n4. 倒入缓冲液后，加入酶并倒入缓冲液。\n5. 倒入缓冲液后，加入酶并倒入缓冲液。\n6. 倒入缓冲液后，加入酶并倒入缓冲液。\n7. 倒入缓冲液后，加入酶并倒入缓冲液。\n8. 倒入缓冲液后，加入酶并倒入缓冲液。\n9. 倒入缓冲液后，加入酶并倒入缓冲液。\n10. 倒入缓冲液后，加入酶并倒入缓冲液。\n11. 倒入缓冲液后，加入酶并倒入缓冲液。\n12. 倒入缓冲液后，加入酶并倒入缓冲液", "usage": {"prompt_tokens": 417, "completion_tokens": 511, "total_tokens": 928}, "finish_reason": "length", "model": "BayLing-13B"}
+{"text": "答案是选项(C)突触后膜上受体蛋白体的合成需要消耗 ATP。", "usage": {"prompt_tokens": 249, "completion_tokens": 43, "total_tokens": 292}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)生态系统的物质循环和能量流动有其自身的运行规律。", "usage": {"prompt_tokens": 374, "completion_tokens": 46, "total_tokens": 420}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)线粒体 DNA 位于线粒体外膜上, 编码参与呼吸作用的酶。", "usage": {"prompt_tokens": 309, "completion_tokens": 50, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：真核细胞的核中有 DNA - 蛋白质复合物, 而原核细胞的拟核中没有。", "usage": {"prompt_tokens": 336, "completion_tokens": 66, "total_tokens": 402}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 308, "completion_tokens": 13, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 324, "completion_tokens": 13, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)突变体 $M$ 的 RNA 与突变体 $N$ 混合培养能得到 $X$。", "usage": {"prompt_tokens": 509, "completion_tokens": 52, "total_tokens": 561}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)转录出的 RNA 链与模板链的相应区域碱基互补。", "usage": {"prompt_tokens": 251, "completion_tokens": 48, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)细胞凋亡是由基因决定的细胞自动结束生命的过程。", "usage": {"prompt_tokens": 281, "completion_tokens": 51, "total_tokens": 332}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 351, "completion_tokens": 13, "total_tokens": 364}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：机体血浆量增加，排出相应量的 $\\mathrm{NaCl}$ 和水后恢复到注射前水平。", "usage": {"prompt_tokens": 354, "completion_tokens": 58, "total_tokens": 412}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)采用等距取样法, 适当减少样方数量。\n\n解释：\n选项(A)将样方内的个体进行标记后再计数是不合理的，因为这样会对植物造成损害。\n\n选项(B)进行随机取样, 适当扩大样方的面积是合理的，但是需要注意避免对植物造成过度干扰。\n\n选项(D)采用五点取样法, 适当缩小样方的面积是合理的，但是需要注意避免对植物造成过度干扰。\n\n因此，选项(C)采用等距取样法, 适当减少样方数量是最合理的。", "usage": {"prompt_tokens": 250, "completion_tokens": 267, "total_tokens": 517}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)高茎踠豆的子代出现高茎和矮茎, 说明该相对性状是由环境决定的。", "usage": {"prompt_tokens": 316, "completion_tokens": 61, "total_tokens": 377}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)三者都存在于蓝藻中。", "usage": {"prompt_tokens": 199, "completion_tokens": 26, "total_tokens": 225}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)细胞核是遗传信息转录和翻译的场所。", "usage": {"prompt_tokens": 257, "completion_tokens": 41, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)有机物总量减少, 呼吸强度减弱。", "usage": {"prompt_tokens": 334, "completion_tokens": 42, "total_tokens": 376}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。\n\n血浆中的葡萄糖可以通过组织液进入骨骼肌细胞，但是肝细胞呼吸代谢产生的 $\\mathrm{CO}_{2}$ 不能进入组织液中，组织液中的 $0_{2}$ 不能通过自由扩散进入组织细胞中，运动时丙酮酸转化成乳酸的过程发生在肝细胞中，而不是组织液中。因此，选项(A)是错误的。", "usage": {"prompt_tokens": 305, "completion_tokens": 216, "total_tokens": 521}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：250、500、0。\n\n假设在特定环境中，某种动物基因型为 $\\mathrm{BB}$ 和 $\\mathrm{Bb}$ 的受精卵均可发育成个体，基因型为 $\\mathrm{bb}$ 的受精卵全部死亡。现有基因型均为 $\\mathrm{Bb}$ 的该动物 1000 对 (每对含有 1 个父本和 1 个母本), 在这种环境中，若每对亲本只形成一个受精卵，则理论上该群体的子一代中 $\\mathrm{BB} 、 \\mathrm{Bb} 、 \\mathrm{bb}$ 个 体的数目依次为：\n\n* $\\mathrm{BB} 250$ 个\n* $\\mathrm{Bb} 500$ 个\n* $\\mathrm{bb} 0$ 个\n\n因此，答案是选项(A)：250、500、0。", "usage": {"prompt_tokens": 374, "completion_tokens": 312, "total_tokens": 686}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 323, "completion_tokens": 13, "total_tokens": 336}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)酸雨对楝树种群中个体的株高影响较明显。", "usage": {"prompt_tokens": 395, "completion_tokens": 43, "total_tokens": 438}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：与空气相比，氮气环境有利于该植物幼根对该离子的吸收。", "usage": {"prompt_tokens": 520, "completion_tokens": 57, "total_tokens": 577}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)端粒酶中的蛋白质为 RNA 聚合酶。", "usage": {"prompt_tokens": 329, "completion_tokens": 42, "total_tokens": 371}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)浆细胞分泌抗体到细胞外的作用。", "usage": {"prompt_tokens": 258, "completion_tokens": 41, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)负反馈调节有利于生态系统保持相对稳定。", "usage": {"prompt_tokens": 227, "completion_tokens": 37, "total_tokens": 264}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)人感染 HIV 后的症状与体内该病毒浓度和 $T$ 细胞数量有关。", "usage": {"prompt_tokens": 302, "completion_tokens": 58, "total_tokens": 360}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 245, "completion_tokens": 13, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)细胞核中某些蛋白质是染色体的重要组成成分。", "usage": {"prompt_tokens": 287, "completion_tokens": 47, "total_tokens": 334}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)护肤品中的甘油进入皮肤细胞的过程属于主动运输。", "usage": {"prompt_tokens": 286, "completion_tokens": 51, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 168, "completion_tokens": 13, "total_tokens": 181}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)风干种子中有机物的消耗减慢。", "usage": {"prompt_tokens": 258, "completion_tokens": 36, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)HIV 可引起人的获得性免疫缺陷综合征。", "usage": {"prompt_tokens": 268, "completion_tokens": 43, "total_tokens": 311}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)细胞中可能发生多个基因突变，细胞的形态发生变化。", "usage": {"prompt_tokens": 342, "completion_tokens": 46, "total_tokens": 388}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)细胞分化是细胞内基因选择性表达的结果。", "usage": {"prompt_tokens": 296, "completion_tokens": 41, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 320, "completion_tokens": 13, "total_tokens": 333}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 279, "completion_tokens": 13, "total_tokens": 292}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)通常, 红外光和紫外光可被叶绿体中的色素吸收用于光合作用。", "usage": {"prompt_tokens": 296, "completion_tokens": 49, "total_tokens": 345}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 187, "completion_tokens": 13, "total_tokens": 200}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 417, "completion_tokens": 13, "total_tokens": 430}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 285, "completion_tokens": 13, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 365, "completion_tokens": 13, "total_tokens": 378}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)HIV 主要攻击 $\\mathrm{B}$ 细胞，使人体无法产生抗体。", "usage": {"prompt_tokens": 250, "completion_tokens": 48, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 276, "completion_tokens": 13, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)", "usage": {"prompt_tokens": 330, "completion_tokens": 12, "total_tokens": 342}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 237, "completion_tokens": 13, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 274, "completion_tokens": 13, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)细胞内液 $\\mathrm{Na}^{+}$的增加远大于细胞外液 $\\mathrm{Na}^{+}$的增加。", "usage": {"prompt_tokens": 352, "completion_tokens": 62, "total_tokens": 414}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)草本阶段比灌木阶段的群落空间结构复杂。", "usage": {"prompt_tokens": 272, "completion_tokens": 41, "total_tokens": 313}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)蛋白质空间结构的改变可以使其功能发生变化。", "usage": {"prompt_tokens": 430, "completion_tokens": 37, "total_tokens": 467}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)", "usage": {"prompt_tokens": 372, "completion_tokens": 12, "total_tokens": 384}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：可与多种抗原结合。", "usage": {"prompt_tokens": 240, "completion_tokens": 24, "total_tokens": 264}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)酵母菌在高尔基体中合成膜蛋白。", "usage": {"prompt_tokens": 255, "completion_tokens": 35, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 684, "completion_tokens": 13, "total_tokens": 697}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)用选择培养基䇞选导入目的基因的细胞。", "usage": {"prompt_tokens": 313, "completion_tokens": 42, "total_tokens": 355}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)核糖体: 蛋白质、核糖核酸。", "usage": {"prompt_tokens": 242, "completion_tokens": 42, "total_tokens": 284}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)mRNA 从细胞核进入细胞质。", "usage": {"prompt_tokens": 236, "completion_tokens": 38, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 325, "completion_tokens": 13, "total_tokens": 338}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 285, "completion_tokens": 12, "total_tokens": 297}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)物种多样性", "usage": {"prompt_tokens": 161, "completion_tokens": 15, "total_tokens": 176}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)脱落酸。", "usage": {"prompt_tokens": 228, "completion_tokens": 22, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(B)缺失。", "usage": {"prompt_tokens": 183, "completion_tokens": 15, "total_tokens": 198}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)细胞凋亡是受基因调控的。", "usage": {"prompt_tokens": 257, "completion_tokens": 34, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)纤维素是细胞膜的重要组成成分。", "usage": {"prompt_tokens": 235, "completion_tokens": 37, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(B)领域行为。", "usage": {"prompt_tokens": 159, "completion_tokens": 19, "total_tokens": 178}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)胞嘧啶。", "usage": {"prompt_tokens": 220, "completion_tokens": 22, "total_tokens": 242}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：与纯合紫茎番茄杂交。\n\n因为紫茎番茄和绿茎番茄是同一种植物，但是紫茎番茄的紫色色素与绿茎番茄的绿色色素不同。因此，如果一朵紫茎番茄和一朵绿茎番茄杂交，就可以得到一朵带有绿色色素的紫茎番茄。因此，选项(B)与绿茎番茄杂交是不可行的。", "usage": {"prompt_tokens": 243, "completion_tokens": 208, "total_tokens": 451}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)淀粉酶在一定 $\\mathrm{pH}$ 范围内起作用, 酶活性随 $\\mathrm{pH}$ 升高而不断升高。", "usage": {"prompt_tokens": 361, "completion_tokens": 70, "total_tokens": 431}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)酵母菌的乙醇发酵过程中通入 $\\mathrm{O}_{2}$ 会影响乙醇的生成量。", "usage": {"prompt_tokens": 318, "completion_tokens": 59, "total_tokens": 377}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 359, "completion_tokens": 13, "total_tokens": 372}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)核被膜上有核孔复合体, 可调控核内外的物质交换。", "usage": {"prompt_tokens": 282, "completion_tokens": 48, "total_tokens": 330}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)生长环境的不同有利于耧斗菜进化出不同的物种。", "usage": {"prompt_tokens": 347, "completion_tokens": 42, "total_tokens": 389}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)生物防治技术的理论基础是种群内个体的竞争。", "usage": {"prompt_tokens": 264, "completion_tokens": 45, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)促进浆细胞分泌出更多抗体以识别并结合抗原-MHC复合体, 属于主动免疫。", "usage": {"prompt_tokens": 373, "completion_tokens": 69, "total_tokens": 442}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)线粒体中的 DNA 能控制某些蛋白质的合成。", "usage": {"prompt_tokens": 237, "completion_tokens": 39, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)两者后期染色体数目和染色体行为不同, DNA 分子数目相同。", "usage": {"prompt_tokens": 282, "completion_tokens": 43, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)主动运输矿质元素离子的过程只发生在活细胞中。", "usage": {"prompt_tokens": 290, "completion_tokens": 44, "total_tokens": 334}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)鹰的迁入率增加会影响黑线姬鼠的种群密度。", "usage": {"prompt_tokens": 472, "completion_tokens": 48, "total_tokens": 520}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 259, "completion_tokens": 13, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：可作为反应物参与生物氧化过程。", "usage": {"prompt_tokens": 248, "completion_tokens": 30, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)", "usage": {"prompt_tokens": 495, "completion_tokens": 12, "total_tokens": 507}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)末经 $\\mathrm{AgNO}_{3}$ 处理的红细胞在低渗蔗糖溶液中会迅速膨胀。", "usage": {"prompt_tokens": 400, "completion_tokens": 67, "total_tokens": 467}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：可用湿热灭菌法对实验中所使用的微量离心管、细胞培养瓶等进行灭菌。", "usage": {"prompt_tokens": 353, "completion_tokens": 71, "total_tokens": 424}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 447, "completion_tokens": 13, "total_tokens": 460}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 280, "completion_tokens": 13, "total_tokens": 293}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：医护人员工作时高度紧张，排尿反射受到大脑皮层的抑制，排尿减少。", "usage": {"prompt_tokens": 434, "completion_tokens": 72, "total_tokens": 506}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 393, "completion_tokens": 13, "total_tokens": 406}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 338, "completion_tokens": 13, "total_tokens": 351}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)两种突变体的光合色素含量差异, 是由不同基因的突变所致。", "usage": {"prompt_tokens": 530, "completion_tokens": 52, "total_tokens": 582}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 470, "completion_tokens": 13, "total_tokens": 483}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)患者在术后需使用免疫抑制剂以抑制免疫细胞的活性。", "usage": {"prompt_tokens": 367, "completion_tokens": 58, "total_tokens": 425}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 495, "completion_tokens": 13, "total_tokens": 508}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 228, "completion_tokens": 13, "total_tokens": 241}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)植物呈现绿色是由于叶绿素能有效地吸收绿光。", "usage": {"prompt_tokens": 270, "completion_tokens": 47, "total_tokens": 317}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：细菌呼吸有关的酶由拟核中的基因编码。", "usage": {"prompt_tokens": 284, "completion_tokens": 45, "total_tokens": 329}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)淋巴细胞包括 $B$ 细胞、 $T$ 细胞和吞噬细胞。", "usage": {"prompt_tokens": 292, "completion_tokens": 61, "total_tokens": 353}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 287, "completion_tokens": 13, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)酶通过降低化学反应的活化能来提高化学反应速度。", "usage": {"prompt_tokens": 259, "completion_tokens": 41, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)胶原蛋白的形成与内质网和高尔基体有关。", "usage": {"prompt_tokens": 290, "completion_tokens": 37, "total_tokens": 327}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 255, "completion_tokens": 13, "total_tokens": 268}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。\n\n情绪活动受中枢神经系统释放神经递质调控，常伴随内分泌活动的变化。此外，学习和记忆也与某些神经递质的释放有关。在剧痛、恐惧时，人表现为警觉性下降，反应迟针。这是因为剧痛和恐惧会导致中枢神经系统释放神经递质，从而引起警觉性下降和反应迟针。", "usage": {"prompt_tokens": 370, "completion_tokens": 208, "total_tokens": 578}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 320, "completion_tokens": 13, "total_tokens": 333}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)杏树开花体现了植物生长发育的季节周期性。", "usage": {"prompt_tokens": 334, "completion_tokens": 40, "total_tokens": 374}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：该种养模式可实现物质和能量的循环利用。", "usage": {"prompt_tokens": 400, "completion_tokens": 40, "total_tokens": 440}, "finish_reason": "stop", "model": "BayLing-13B"}

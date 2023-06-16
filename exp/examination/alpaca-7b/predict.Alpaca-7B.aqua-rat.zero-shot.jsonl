@@ -1,0 +1,254 @@
+{"text": "Answer: (D)8(√3 – 2)", "usage": {"prompt_tokens": 190, "completion_tokens": 13, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) $70", "usage": {"prompt_tokens": 172, "completion_tokens": 8, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)5", "usage": {"prompt_tokens": 108, "completion_tokens": 6, "total_tokens": 114}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "E) 0.63", "usage": {"prompt_tokens": 153, "completion_tokens": 7, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)320", "usage": {"prompt_tokens": 120, "completion_tokens": 8, "total_tokens": 128}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 400", "usage": {"prompt_tokens": 176, "completion_tokens": 10, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)74453\n\nAnswer: 7 letters need to be distinct.", "usage": {"prompt_tokens": 135, "completion_tokens": 19, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)13.5", "usage": {"prompt_tokens": 151, "completion_tokens": 9, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)99", "usage": {"prompt_tokens": 142, "completion_tokens": 8, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 40", "usage": {"prompt_tokens": 128, "completion_tokens": 8, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)260", "usage": {"prompt_tokens": 173, "completion_tokens": 9, "total_tokens": 182}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 4,800", "usage": {"prompt_tokens": 167, "completion_tokens": 12, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 131, "completion_tokens": 1, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) +30", "usage": {"prompt_tokens": 92, "completion_tokens": 9, "total_tokens": 101}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)8!", "usage": {"prompt_tokens": 118, "completion_tokens": 8, "total_tokens": 126}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)1.2", "usage": {"prompt_tokens": 124, "completion_tokens": 9, "total_tokens": 133}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 4 step/minute", "usage": {"prompt_tokens": 163, "completion_tokens": 12, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)32", "usage": {"prompt_tokens": 172, "completion_tokens": 7, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (E) (zy - x) / (z + 2)", "usage": {"prompt_tokens": 204, "completion_tokens": 18, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)5.5", "usage": {"prompt_tokens": 117, "completion_tokens": 9, "total_tokens": 126}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)30", "usage": {"prompt_tokens": 139, "completion_tokens": 7, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 16", "usage": {"prompt_tokens": 159, "completion_tokens": 5, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 22.35%.", "usage": {"prompt_tokens": 167, "completion_tokens": 13, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)7890", "usage": {"prompt_tokens": 158, "completion_tokens": 10, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 2.25 miles", "usage": {"prompt_tokens": 157, "completion_tokens": 8, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) $70.00", "usage": {"prompt_tokens": 141, "completion_tokens": 12, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)600", "usage": {"prompt_tokens": 125, "completion_tokens": 8, "total_tokens": 133}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)(1,1)", "usage": {"prompt_tokens": 154, "completion_tokens": 10, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 128km", "usage": {"prompt_tokens": 144, "completion_tokens": 10, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (E)E)99", "usage": {"prompt_tokens": 124, "completion_tokens": 9, "total_tokens": 133}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)40%", "usage": {"prompt_tokens": 146, "completion_tokens": 8, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 1140", "usage": {"prompt_tokens": 154, "completion_tokens": 11, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)1320", "usage": {"prompt_tokens": 149, "completion_tokens": 9, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)84", "usage": {"prompt_tokens": 149, "completion_tokens": 7, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 19.5667", "usage": {"prompt_tokens": 156, "completion_tokens": 14, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (A)3km", "usage": {"prompt_tokens": 132, "completion_tokens": 7, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Rs. 750", "usage": {"prompt_tokens": 166, "completion_tokens": 13, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 1656", "usage": {"prompt_tokens": 140, "completion_tokens": 11, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) $20000", "usage": {"prompt_tokens": 151, "completion_tokens": 12, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)156", "usage": {"prompt_tokens": 141, "completion_tokens": 8, "total_tokens": 149}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)5,6", "usage": {"prompt_tokens": 150, "completion_tokens": 8, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (B)15", "usage": {"prompt_tokens": 161, "completion_tokens": 7, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)10%", "usage": {"prompt_tokens": 106, "completion_tokens": 8, "total_tokens": 114}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 24567", "usage": {"prompt_tokens": 140, "completion_tokens": 12, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)50%", "usage": {"prompt_tokens": 153, "completion_tokens": 8, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)90000", "usage": {"prompt_tokens": 136, "completion_tokens": 11, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 1.75", "usage": {"prompt_tokens": 148, "completion_tokens": 10, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 50000", "usage": {"prompt_tokens": 165, "completion_tokens": 12, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 5%.", "usage": {"prompt_tokens": 129, "completion_tokens": 8, "total_tokens": 137}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)44.86%.", "usage": {"prompt_tokens": 132, "completion_tokens": 12, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 487", "usage": {"prompt_tokens": 140, "completion_tokens": 10, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Rs. 3937.50", "usage": {"prompt_tokens": 146, "completion_tokens": 17, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: B", "usage": {"prompt_tokens": 118, "completion_tokens": 3, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 150", "usage": {"prompt_tokens": 116, "completion_tokens": 9, "total_tokens": 125}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)11", "usage": {"prompt_tokens": 163, "completion_tokens": 7, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 190 minutes.", "usage": {"prompt_tokens": 129, "completion_tokens": 12, "total_tokens": 141}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)450", "usage": {"prompt_tokens": 146, "completion_tokens": 8, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (E) 10%", "usage": {"prompt_tokens": 154, "completion_tokens": 9, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)28 days", "usage": {"prompt_tokens": 145, "completion_tokens": 8, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (E) 44", "usage": {"prompt_tokens": 119, "completion_tokens": 9, "total_tokens": 128}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)950", "usage": {"prompt_tokens": 151, "completion_tokens": 9, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) None of the above.", "usage": {"prompt_tokens": 130, "completion_tokens": 10, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 14.75 miles", "usage": {"prompt_tokens": 146, "completion_tokens": 13, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)10", "usage": {"prompt_tokens": 135, "completion_tokens": 7, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)10", "usage": {"prompt_tokens": 177, "completion_tokens": 8, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 63 m", "usage": {"prompt_tokens": 127, "completion_tokens": 10, "total_tokens": 137}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 14.5", "usage": {"prompt_tokens": 170, "completion_tokens": 11, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 15", "usage": {"prompt_tokens": 147, "completion_tokens": 9, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)9", "usage": {"prompt_tokens": 144, "completion_tokens": 6, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)2", "usage": {"prompt_tokens": 145, "completion_tokens": 6, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: B", "usage": {"prompt_tokens": 140, "completion_tokens": 3, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 66", "usage": {"prompt_tokens": 163, "completion_tokens": 9, "total_tokens": 172}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 30cm", "usage": {"prompt_tokens": 115, "completion_tokens": 9, "total_tokens": 124}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D None", "usage": {"prompt_tokens": 122, "completion_tokens": 4, "total_tokens": 126}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)(13x+1)/24", "usage": {"prompt_tokens": 162, "completion_tokens": 14, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)287", "usage": {"prompt_tokens": 131, "completion_tokens": 8, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (B)500", "usage": {"prompt_tokens": 224, "completion_tokens": 8, "total_tokens": 232}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)0.65", "usage": {"prompt_tokens": 180, "completion_tokens": 9, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)43.5", "usage": {"prompt_tokens": 158, "completion_tokens": 9, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)65%.", "usage": {"prompt_tokens": 162, "completion_tokens": 8, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 42, 62", "usage": {"prompt_tokens": 185, "completion_tokens": 13, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)50 feet", "usage": {"prompt_tokens": 139, "completion_tokens": 8, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) 308", "usage": {"prompt_tokens": 133, "completion_tokens": 10, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)62", "usage": {"prompt_tokens": 152, "completion_tokens": 7, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)15", "usage": {"prompt_tokens": 114, "completion_tokens": 7, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 132, "completion_tokens": 3, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)700", "usage": {"prompt_tokens": 136, "completion_tokens": 8, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)42", "usage": {"prompt_tokens": 116, "completion_tokens": 7, "total_tokens": 123}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 81 days", "usage": {"prompt_tokens": 143, "completion_tokens": 9, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 3% Loss", "usage": {"prompt_tokens": 140, "completion_tokens": 11, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: B", "usage": {"prompt_tokens": 130, "completion_tokens": 3, "total_tokens": 133}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)Rs.1560", "usage": {"prompt_tokens": 204, "completion_tokens": 13, "total_tokens": 217}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 4 hour and 31 minutes.", "usage": {"prompt_tokens": 169, "completion_tokens": 15, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: E", "usage": {"prompt_tokens": 126, "completion_tokens": 3, "total_tokens": 129}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: B", "usage": {"prompt_tokens": 146, "completion_tokens": 3, "total_tokens": 149}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)24", "usage": {"prompt_tokens": 148, "completion_tokens": 8, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)25", "usage": {"prompt_tokens": 120, "completion_tokens": 7, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Daughters: (A)Rs 400\n(B)Rs 500\n(C)Rs 600\n(D)Rs 700\n(E)Rs 800", "usage": {"prompt_tokens": 162, "completion_tokens": 53, "total_tokens": 215}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)28", "usage": {"prompt_tokens": 166, "completion_tokens": 8, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 120 Min", "usage": {"prompt_tokens": 143, "completion_tokens": 11, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)100", "usage": {"prompt_tokens": 131, "completion_tokens": 8, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)26", "usage": {"prompt_tokens": 144, "completion_tokens": 8, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)MD/3", "usage": {"prompt_tokens": 135, "completion_tokens": 9, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 1,876", "usage": {"prompt_tokens": 144, "completion_tokens": 12, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 2 pm on the next day", "usage": {"prompt_tokens": 180, "completion_tokens": 13, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)26", "usage": {"prompt_tokens": 135, "completion_tokens": 8, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 160, "completion_tokens": 1, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)x2/y2 units", "usage": {"prompt_tokens": 137, "completion_tokens": 8, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)15", "usage": {"prompt_tokens": 125, "completion_tokens": 7, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)160°", "usage": {"prompt_tokens": 155, "completion_tokens": 9, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)35%", "usage": {"prompt_tokens": 152, "completion_tokens": 8, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 142, "completion_tokens": 3, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 7", "usage": {"prompt_tokens": 114, "completion_tokens": 7, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "E", "usage": {"prompt_tokens": 166, "completion_tokens": 1, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)28 < x < 60", "usage": {"prompt_tokens": 161, "completion_tokens": 14, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 140, "completion_tokens": 3, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 24 months.", "usage": {"prompt_tokens": 193, "completion_tokens": 11, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)8.71", "usage": {"prompt_tokens": 139, "completion_tokens": 9, "total_tokens": 148}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) M + N / 8", "usage": {"prompt_tokens": 153, "completion_tokens": 12, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)93 men", "usage": {"prompt_tokens": 118, "completion_tokens": 5, "total_tokens": 123}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)277", "usage": {"prompt_tokens": 143, "completion_tokens": 9, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 60 minutes.", "usage": {"prompt_tokens": 111, "completion_tokens": 10, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (B)90", "usage": {"prompt_tokens": 169, "completion_tokens": 7, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) 84", "usage": {"prompt_tokens": 117, "completion_tokens": 9, "total_tokens": 126}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 14 kmph", "usage": {"prompt_tokens": 130, "completion_tokens": 11, "total_tokens": 141}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 997", "usage": {"prompt_tokens": 150, "completion_tokens": 10, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 59:91", "usage": {"prompt_tokens": 181, "completion_tokens": 12, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)24", "usage": {"prompt_tokens": 177, "completion_tokens": 8, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) 628, 372", "usage": {"prompt_tokens": 136, "completion_tokens": 15, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)86%", "usage": {"prompt_tokens": 138, "completion_tokens": 8, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 8 km/h", "usage": {"prompt_tokens": 136, "completion_tokens": 11, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (B)2.25", "usage": {"prompt_tokens": 122, "completion_tokens": 9, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)5", "usage": {"prompt_tokens": 125, "completion_tokens": 6, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Rs. 570", "usage": {"prompt_tokens": 166, "completion_tokens": 13, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 300", "usage": {"prompt_tokens": 151, "completion_tokens": 6, "total_tokens": 157}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)2300", "usage": {"prompt_tokens": 150, "completion_tokens": 10, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)1", "usage": {"prompt_tokens": 146, "completion_tokens": 6, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)555 meters", "usage": {"prompt_tokens": 170, "completion_tokens": 9, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 45kms/hr", "usage": {"prompt_tokens": 151, "completion_tokens": 13, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)3", "usage": {"prompt_tokens": 138, "completion_tokens": 6, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)320", "usage": {"prompt_tokens": 181, "completion_tokens": 8, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 14 metre", "usage": {"prompt_tokens": 151, "completion_tokens": 11, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 4 hours", "usage": {"prompt_tokens": 159, "completion_tokens": 8, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (B)0.6", "usage": {"prompt_tokens": 139, "completion_tokens": 8, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)7:2", "usage": {"prompt_tokens": 112, "completion_tokens": 9, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)5", "usage": {"prompt_tokens": 150, "completion_tokens": 6, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 8.5497", "usage": {"prompt_tokens": 113, "completion_tokens": 13, "total_tokens": 126}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) 4", "usage": {"prompt_tokens": 89, "completion_tokens": 8, "total_tokens": 97}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (E) 58%.", "usage": {"prompt_tokens": 134, "completion_tokens": 9, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 150, "completion_tokens": 3, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 120, "completion_tokens": 1, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)2890", "usage": {"prompt_tokens": 141, "completion_tokens": 10, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: C", "usage": {"prompt_tokens": 131, "completion_tokens": 3, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)15", "usage": {"prompt_tokens": 145, "completion_tokens": 7, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 4.2m", "usage": {"prompt_tokens": 160, "completion_tokens": 11, "total_tokens": 171}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choices: (E)102", "usage": {"prompt_tokens": 108, "completion_tokens": 10, "total_tokens": 118}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)96", "usage": {"prompt_tokens": 127, "completion_tokens": 4, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) - 16.2", "usage": {"prompt_tokens": 129, "completion_tokens": 11, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 10!/4", "usage": {"prompt_tokens": 147, "completion_tokens": 11, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) $22.9", "usage": {"prompt_tokens": 125, "completion_tokens": 10, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)28", "usage": {"prompt_tokens": 154, "completion_tokens": 7, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 40/7", "usage": {"prompt_tokens": 144, "completion_tokens": 11, "total_tokens": 155}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)64.5%", "usage": {"prompt_tokens": 130, "completion_tokens": 10, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: E", "usage": {"prompt_tokens": 159, "completion_tokens": 3, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 128, "completion_tokens": 1, "total_tokens": 129}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)x < y", "usage": {"prompt_tokens": 129, "completion_tokens": 9, "total_tokens": 138}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: C", "usage": {"prompt_tokens": 128, "completion_tokens": 3, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)54", "usage": {"prompt_tokens": 158, "completion_tokens": 7, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: E", "usage": {"prompt_tokens": 158, "completion_tokens": 3, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)9 Trousers", "usage": {"prompt_tokens": 145, "completion_tokens": 6, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) $4.73.", "usage": {"prompt_tokens": 134, "completion_tokens": 12, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)18", "usage": {"prompt_tokens": 168, "completion_tokens": 7, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 84 km", "usage": {"prompt_tokens": 190, "completion_tokens": 9, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)16.7%", "usage": {"prompt_tokens": 190, "completion_tokens": 10, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 11.5", "usage": {"prompt_tokens": 142, "completion_tokens": 11, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) $200", "usage": {"prompt_tokens": 135, "completion_tokens": 10, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choices: (A)9 2 0 0\n(B)9 2 0 9\n(C)9 2 0 1\n(D)9 2 0 7\n(E)9 2 2 2", "usage": {"prompt_tokens": 143, "completion_tokens": 58, "total_tokens": 201}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)20", "usage": {"prompt_tokens": 122, "completion_tokens": 7, "total_tokens": 129}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (E) None of these.", "usage": {"prompt_tokens": 134, "completion_tokens": 10, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)2.5", "usage": {"prompt_tokens": 162, "completion_tokens": 8, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)16000", "usage": {"prompt_tokens": 146, "completion_tokens": 10, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (E) 4C3*4C3", "usage": {"prompt_tokens": 173, "completion_tokens": 14, "total_tokens": 187}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "a2 - b2 / (a + b)2 = (a - b)2\nAnswer Choices: (A)(a + b)(a - b)\n(B)(a - b)2\n(C)(a + b)2\n(D)a3 + b3\n(E)None of these", "usage": {"prompt_tokens": 138, "completion_tokens": 69, "total_tokens": 207}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 61", "usage": {"prompt_tokens": 106, "completion_tokens": 9, "total_tokens": 115}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 151, "completion_tokens": 3, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)21 min", "usage": {"prompt_tokens": 128, "completion_tokens": 8, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 33 seconds", "usage": {"prompt_tokens": 134, "completion_tokens": 9, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)215.67", "usage": {"prompt_tokens": 158, "completion_tokens": 12, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)90", "usage": {"prompt_tokens": 134, "completion_tokens": 4, "total_tokens": 138}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)6", "usage": {"prompt_tokens": 130, "completion_tokens": 6, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 800", "usage": {"prompt_tokens": 148, "completion_tokens": 10, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Rs. 8", "usage": {"prompt_tokens": 187, "completion_tokens": 11, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 48", "usage": {"prompt_tokens": 128, "completion_tokens": 9, "total_tokens": 137}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)L(x,y) < R(x,y)", "usage": {"prompt_tokens": 203, "completion_tokens": 19, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)After 24 minutes", "usage": {"prompt_tokens": 135, "completion_tokens": 10, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)23", "usage": {"prompt_tokens": 124, "completion_tokens": 7, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 18 dollars", "usage": {"prompt_tokens": 138, "completion_tokens": 9, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)(ay+by)/x", "usage": {"prompt_tokens": 148, "completion_tokens": 11, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 70 kmph", "usage": {"prompt_tokens": 139, "completion_tokens": 11, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 202, "completion_tokens": 1, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)8%", "usage": {"prompt_tokens": 125, "completion_tokens": 7, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)100", "usage": {"prompt_tokens": 180, "completion_tokens": 8, "total_tokens": 188}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)2700", "usage": {"prompt_tokens": 179, "completion_tokens": 10, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)240 gms", "usage": {"prompt_tokens": 117, "completion_tokens": 10, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) 20xy/w", "usage": {"prompt_tokens": 146, "completion_tokens": 12, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)48 grams", "usage": {"prompt_tokens": 192, "completion_tokens": 9, "total_tokens": 201}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)210", "usage": {"prompt_tokens": 126, "completion_tokens": 9, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)8", "usage": {"prompt_tokens": 114, "completion_tokens": 7, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 209", "usage": {"prompt_tokens": 102, "completion_tokens": 10, "total_tokens": 112}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 13 hours.", "usage": {"prompt_tokens": 141, "completion_tokens": 11, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)20 hrs", "usage": {"prompt_tokens": 147, "completion_tokens": 9, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)35%", "usage": {"prompt_tokens": 176, "completion_tokens": 8, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)200", "usage": {"prompt_tokens": 147, "completion_tokens": 8, "total_tokens": 155}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)91", "usage": {"prompt_tokens": 115, "completion_tokens": 7, "total_tokens": 122}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: B 1", "usage": {"prompt_tokens": 139, "completion_tokens": 5, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)2", "usage": {"prompt_tokens": 92, "completion_tokens": 6, "total_tokens": 98}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)4/5", "usage": {"prompt_tokens": 122, "completion_tokens": 9, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)13", "usage": {"prompt_tokens": 121, "completion_tokens": 8, "total_tokens": 129}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 72%", "usage": {"prompt_tokens": 133, "completion_tokens": 10, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) $92.", "usage": {"prompt_tokens": 159, "completion_tokens": 10, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 42", "usage": {"prompt_tokens": 123, "completion_tokens": 9, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 80", "usage": {"prompt_tokens": 151, "completion_tokens": 9, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 24 minutes", "usage": {"prompt_tokens": 125, "completion_tokens": 9, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)30%", "usage": {"prompt_tokens": 154, "completion_tokens": 8, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)252", "usage": {"prompt_tokens": 146, "completion_tokens": 8, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)3", "usage": {"prompt_tokens": 125, "completion_tokens": 6, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 67", "usage": {"prompt_tokens": 134, "completion_tokens": 8, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)8", "usage": {"prompt_tokens": 139, "completion_tokens": 6, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) I and III only", "usage": {"prompt_tokens": 147, "completion_tokens": 9, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)11", "usage": {"prompt_tokens": 106, "completion_tokens": 7, "total_tokens": 113}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)4", "usage": {"prompt_tokens": 153, "completion_tokens": 6, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 120", "usage": {"prompt_tokens": 124, "completion_tokens": 9, "total_tokens": 133}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 50", "usage": {"prompt_tokens": 155, "completion_tokens": 8, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)10%", "usage": {"prompt_tokens": 134, "completion_tokens": 8, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)s.4950", "usage": {"prompt_tokens": 152, "completion_tokens": 12, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)AB/270", "usage": {"prompt_tokens": 126, "completion_tokens": 11, "total_tokens": 137}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (B)28", "usage": {"prompt_tokens": 145, "completion_tokens": 7, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 170, "completion_tokens": 3, "total_tokens": 173}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: B 100", "usage": {"prompt_tokens": 124, "completion_tokens": 7, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)2/7", "usage": {"prompt_tokens": 151, "completion_tokens": 8, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) $54,000", "usage": {"prompt_tokens": 168, "completion_tokens": 13, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)55", "usage": {"prompt_tokens": 167, "completion_tokens": 8, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 19", "usage": {"prompt_tokens": 106, "completion_tokens": 9, "total_tokens": 115}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 5000/y", "usage": {"prompt_tokens": 131, "completion_tokens": 13, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)54", "usage": {"prompt_tokens": 136, "completion_tokens": 4, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)59.0%", "usage": {"prompt_tokens": 149, "completion_tokens": 10, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)70", "usage": {"prompt_tokens": 135, "completion_tokens": 7, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)1,980", "usage": {"prompt_tokens": 164, "completion_tokens": 11, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 30", "usage": {"prompt_tokens": 111, "completion_tokens": 9, "total_tokens": 120}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)12000 litres", "usage": {"prompt_tokens": 125, "completion_tokens": 12, "total_tokens": 137}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 1097961", "usage": {"prompt_tokens": 150, "completion_tokens": 14, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) 36", "usage": {"prompt_tokens": 140, "completion_tokens": 8, "total_tokens": 148}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)7", "usage": {"prompt_tokens": 156, "completion_tokens": 6, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)250", "usage": {"prompt_tokens": 135, "completion_tokens": 8, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}

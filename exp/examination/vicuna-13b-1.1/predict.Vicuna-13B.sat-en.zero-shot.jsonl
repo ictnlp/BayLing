@@ -1,0 +1,206 @@
+{"text": "Answer is choice (B) One character receives a surprising request from another character.", "usage": {"prompt_tokens": 1311, "completion_tokens": 16, "total_tokens": 1327}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) A detailed depiction of a meaningful encounter.", "usage": {"prompt_tokens": 1298, "completion_tokens": 16, "total_tokens": 1314}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1305, "completion_tokens": 6, "total_tokens": 1311}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) objectivity but not complete impartiality.", "usage": {"prompt_tokens": 1291, "completion_tokens": 15, "total_tokens": 1306}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) analyze a reaction.", "usage": {"prompt_tokens": 1275, "completion_tokens": 10, "total_tokens": 1285}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1318, "completion_tokens": 6, "total_tokens": 1324}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) $18.7 \\%$ and $31.3 \\%$.", "usage": {"prompt_tokens": 1316, "completion_tokens": 23, "total_tokens": 1339}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1421, "completion_tokens": 6, "total_tokens": 1427}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) $17.7 \\%$ and $32.8 \\%$.", "usage": {"prompt_tokens": 1324, "completion_tokens": 23, "total_tokens": 1347}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) stress the urgency of an issue.", "usage": {"prompt_tokens": 1142, "completion_tokens": 14, "total_tokens": 1156}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) the entry of educated women into positions of power traditionally held by men will transform those positions.", "usage": {"prompt_tokens": 1182, "completion_tokens": 25, "total_tokens": 1207}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1175, "completion_tokens": 6, "total_tokens": 1181}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1160, "completion_tokens": 6, "total_tokens": 1166}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1189, "completion_tokens": 6, "total_tokens": 1195}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1206, "completion_tokens": 6, "total_tokens": 1212}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1212, "completion_tokens": 6, "total_tokens": 1218}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) They may be different resources from those that are valuable on Earth.", "usage": {"prompt_tokens": 1191, "completion_tokens": 19, "total_tokens": 1210}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Miss Spivey herself.", "usage": {"prompt_tokens": 1354, "completion_tokens": 12, "total_tokens": 1366}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) small rural town.", "usage": {"prompt_tokens": 1348, "completion_tokens": 10, "total_tokens": 1358}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1412, "completion_tokens": 6, "total_tokens": 1418}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1412, "completion_tokens": 6, "total_tokens": 1418}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) talking with a woman at the WPA.", "usage": {"prompt_tokens": 1366, "completion_tokens": 15, "total_tokens": 1381}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) fascinated.", "usage": {"prompt_tokens": 1349, "completion_tokens": 10, "total_tokens": 1359}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 1321, "completion_tokens": 6, "total_tokens": 1327}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Gentle pressure is sensed not only by fast fibers but also by slow fibers.", "usage": {"prompt_tokens": 1337, "completion_tokens": 25, "total_tokens": 1362}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1310, "completion_tokens": 6, "total_tokens": 1316}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1315, "completion_tokens": 6, "total_tokens": 1321}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) CT fibers are exposed to a stimulus.", "usage": {"prompt_tokens": 1289, "completion_tokens": 16, "total_tokens": 1305}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1117, "completion_tokens": 6, "total_tokens": 1123}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) manifestation of an innate drive in humans toward self-rule.", "usage": {"prompt_tokens": 1146, "completion_tokens": 20, "total_tokens": 1166}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) idealism that permeates many aspects of American society.", "usage": {"prompt_tokens": 1129, "completion_tokens": 18, "total_tokens": 1147}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1238, "completion_tokens": 6, "total_tokens": 1244}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) naive, since the islanders would object to being governed by Americans.", "usage": {"prompt_tokens": 1169, "completion_tokens": 22, "total_tokens": 1191}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1327, "completion_tokens": 6, "total_tokens": 1333}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) comparable to Hartmann's original projection.", "usage": {"prompt_tokens": 1376, "completion_tokens": 16, "total_tokens": 1392}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Sample B.", "usage": {"prompt_tokens": 1326, "completion_tokens": 9, "total_tokens": 1335}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Sample I.", "usage": {"prompt_tokens": 1321, "completion_tokens": 9, "total_tokens": 1330}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1239, "completion_tokens": 6, "total_tokens": 1245}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) unfriendly.", "usage": {"prompt_tokens": 1201, "completion_tokens": 10, "total_tokens": 1211}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) unusually creative and intelligent.", "usage": {"prompt_tokens": 1224, "completion_tokens": 14, "total_tokens": 1238}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) active engagement.", "usage": {"prompt_tokens": 1209, "completion_tokens": 10, "total_tokens": 1219}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) outwardly imposing but easily defied.", "usage": {"prompt_tokens": 1227, "completion_tokens": 16, "total_tokens": 1243}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1134, "completion_tokens": 6, "total_tokens": 1140}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Ground-dwelling and tree-climbing predecessors to birds evolved in parallel.", "usage": {"prompt_tokens": 1111, "completion_tokens": 28, "total_tokens": 1139}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) The position of their flapping wings.", "usage": {"prompt_tokens": 1063, "completion_tokens": 14, "total_tokens": 1077}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1080, "completion_tokens": 6, "total_tokens": 1086}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1136, "completion_tokens": 6, "total_tokens": 1142}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) receive an education comparable to that of men.", "usage": {"prompt_tokens": 1123, "completion_tokens": 16, "total_tokens": 1139}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1118, "completion_tokens": 6, "total_tokens": 1124}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1151, "completion_tokens": 6, "total_tokens": 1157}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They generally enjoyed fewer rights than men did.", "usage": {"prompt_tokens": 1131, "completion_tokens": 15, "total_tokens": 1146}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The principles of natural law should not be invoked when considering gender roles.", "usage": {"prompt_tokens": 1144, "completion_tokens": 20, "total_tokens": 1164}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They further harm the health of some bees.", "usage": {"prompt_tokens": 1206, "completion_tokens": 16, "total_tokens": 1222}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1204, "completion_tokens": 6, "total_tokens": 1210}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) 100 percent.", "usage": {"prompt_tokens": 1183, "completion_tokens": 12, "total_tokens": 1195}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Nosema ceranae.", "usage": {"prompt_tokens": 1194, "completion_tokens": 13, "total_tokens": 1207}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1258, "completion_tokens": 6, "total_tokens": 1264}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) an exchange between strangers to a satisfying personal relationship.", "usage": {"prompt_tokens": 1275, "completion_tokens": 17, "total_tokens": 1292}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1270, "completion_tokens": 6, "total_tokens": 1276}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) he is preparing to leave the restaurant.", "usage": {"prompt_tokens": 1256, "completion_tokens": 15, "total_tokens": 1271}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1260, "completion_tokens": 6, "total_tokens": 1266}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1250, "completion_tokens": 6, "total_tokens": 1256}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1238, "completion_tokens": 6, "total_tokens": 1244}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Men and women should have equal opportunities to flourish.", "usage": {"prompt_tokens": 1222, "completion_tokens": 19, "total_tokens": 1241}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1220, "completion_tokens": 6, "total_tokens": 1226}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1240, "completion_tokens": 6, "total_tokens": 1246}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1221, "completion_tokens": 6, "total_tokens": 1227}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1126, "completion_tokens": 6, "total_tokens": 1132}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1166, "completion_tokens": 6, "total_tokens": 1172}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) exhibited different patterns of brain activity.", "usage": {"prompt_tokens": 1134, "completion_tokens": 14, "total_tokens": 1148}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) exercise their brains regularly through puzzles and other mental challenges.", "usage": {"prompt_tokens": 1136, "completion_tokens": 20, "total_tokens": 1156}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The restorative power of parental love.", "usage": {"prompt_tokens": 997, "completion_tokens": 16, "total_tokens": 1013}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) vitality.", "usage": {"prompt_tokens": 981, "completion_tokens": 9, "total_tokens": 990}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1089, "completion_tokens": 6, "total_tokens": 1095}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) looks forward to a different kind of future.", "usage": {"prompt_tokens": 1001, "completion_tokens": 15, "total_tokens": 1016}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) expanding awareness and Silas's increasing engagement with life.", "usage": {"prompt_tokens": 1034, "completion_tokens": 22, "total_tokens": 1056}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1099, "completion_tokens": 6, "total_tokens": 1105}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The ibises were easily accessible for Usherwood and his team to track and observe.", "usage": {"prompt_tokens": 1098, "completion_tokens": 26, "total_tokens": 1124}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They expend more energy than do ibises.", "usage": {"prompt_tokens": 1078, "completion_tokens": 17, "total_tokens": 1095}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Both sexes would be greatly harmed.", "usage": {"prompt_tokens": 1122, "completion_tokens": 15, "total_tokens": 1137}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1121, "completion_tokens": 6, "total_tokens": 1127}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1118, "completion_tokens": 6, "total_tokens": 1124}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1240, "completion_tokens": 6, "total_tokens": 1246}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1030, "completion_tokens": 6, "total_tokens": 1036}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Sempere was a friend of the book's author.", "usage": {"prompt_tokens": 1017, "completion_tokens": 19, "total_tokens": 1036}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) much less for the books than they are worth.", "usage": {"prompt_tokens": 987, "completion_tokens": 16, "total_tokens": 1003}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Sempere considers himself to be Dickens's most appreciative reader.", "usage": {"prompt_tokens": 1007, "completion_tokens": 23, "total_tokens": 1030}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1163, "completion_tokens": 6, "total_tokens": 1169}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1080, "completion_tokens": 6, "total_tokens": 1086}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1101, "completion_tokens": 6, "total_tokens": 1107}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Douglas criticizes Lincoln for finding fault with the Constitution, and Lincoln argues that this criticism misrepresents his position.", "usage": {"prompt_tokens": 1117, "completion_tokens": 31, "total_tokens": 1148}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) the expansion of the Union.", "usage": {"prompt_tokens": 1029, "completion_tokens": 12, "total_tokens": 1041}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1119, "completion_tokens": 6, "total_tokens": 1125}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1099, "completion_tokens": 6, "total_tokens": 1105}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The second trigger provides a necessary supplement to the calcium concentration released by the first trigger.", "usage": {"prompt_tokens": 1133, "completion_tokens": 25, "total_tokens": 1158}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1165, "completion_tokens": 6, "total_tokens": 1171}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1138, "completion_tokens": 6, "total_tokens": 1144}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Information obtained from monitoring the Venus flytrap's response to varying amounts of electrical current.", "usage": {"prompt_tokens": 1116, "completion_tokens": 27, "total_tokens": 1143}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) A character's visit to her family's ink shop deepens her appreciation of her family's work.", "usage": {"prompt_tokens": 1160, "completion_tokens": 31, "total_tokens": 1191}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) quality is achieved through deliberate effort.", "usage": {"prompt_tokens": 1101, "completion_tokens": 14, "total_tokens": 1115}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) attuned to her immediate surroundings.", "usage": {"prompt_tokens": 1112, "completion_tokens": 16, "total_tokens": 1128}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) attuned to her immediate surroundings.", "usage": {"prompt_tokens": 1112, "completion_tokens": 16, "total_tokens": 1128}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) offers a larger space for presenting products.", "usage": {"prompt_tokens": 1132, "completion_tokens": 15, "total_tokens": 1147}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) encourage women to see their participation in the abolitionist cause as just and important.", "usage": {"prompt_tokens": 1230, "completion_tokens": 24, "total_tokens": 1254}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1234, "completion_tokens": 6, "total_tokens": 1240}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1195, "completion_tokens": 6, "total_tokens": 1201}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Resisting calls for war while still opposing slavery.", "usage": {"prompt_tokens": 1203, "completion_tokens": 18, "total_tokens": 1221}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The Northern states would have to help the slave states fight the slaves' rebellion.", "usage": {"prompt_tokens": 1222, "completion_tokens": 24, "total_tokens": 1246}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) weakening the authority of the country's government.", "usage": {"prompt_tokens": 1196, "completion_tokens": 17, "total_tokens": 1213}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1329, "completion_tokens": 6, "total_tokens": 1335}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1365, "completion_tokens": 6, "total_tokens": 1371}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1352, "completion_tokens": 6, "total_tokens": 1358}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1369, "completion_tokens": 6, "total_tokens": 1375}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1346, "completion_tokens": 6, "total_tokens": 1352}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1333, "completion_tokens": 6, "total_tokens": 1339}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Teixobactin attacked the proteins of the bacteria that caused their upper respiratory tract infections.", "usage": {"prompt_tokens": 1380, "completion_tokens": 32, "total_tokens": 1412}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1245, "completion_tokens": 6, "total_tokens": 1251}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) showcase pieces that have earned critical acclaim.", "usage": {"prompt_tokens": 1236, "completion_tokens": 16, "total_tokens": 1252}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) asking her opinion of the watercolor paintings he plans to exhibit in Chicago.", "usage": {"prompt_tokens": 1262, "completion_tokens": 23, "total_tokens": 1285}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) enhance an existing idea by improvising technical innovations for artworks.", "usage": {"prompt_tokens": 1257, "completion_tokens": 22, "total_tokens": 1279}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) describe the causes and consequences of a phenomenon.", "usage": {"prompt_tokens": 1091, "completion_tokens": 16, "total_tokens": 1107}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The second study builds on the first study’s findings.", "usage": {"prompt_tokens": 1133, "completion_tokens": 19, "total_tokens": 1152}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) neutralized by the economic cost of maintaining a megacity.", "usage": {"prompt_tokens": 1114, "completion_tokens": 19, "total_tokens": 1133}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) 2005–2010.", "usage": {"prompt_tokens": 1110, "completion_tokens": 17, "total_tokens": 1127}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Developing countries benefit from having more of the urban population living in smaller and medium-sized cities.\n\nThe graph provided in the passage supports this claim. According to the graph, the median city in high-income countries grew modestly from 500,000 to 650,000 people between 1960 and 2010, while the median city in the developing world nearly quadrupled in size, expanding from 220,000 to 845,000 people. This indicates that the growth in city size in the developing world was much more rapid and significant than in high-income countries.\n\nMoreover, the study found that developing nations tend to get a bigger bang for their buck from having a larger proportion of their urban population living in cities of 500,000 people or less. This suggests that smaller and medium-sized cities may be more beneficial for economic growth in developing countries than larger cities. Therefore, choice (D) is the best supported by the graph.", "usage": {"prompt_tokens": 1175, "completion_tokens": 239, "total_tokens": 1414}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1344, "completion_tokens": 6, "total_tokens": 1350}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Genes that are related to one another tend to have comparable biological roles in development.", "usage": {"prompt_tokens": 1366, "completion_tokens": 25, "total_tokens": 1391}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1416, "completion_tokens": 6, "total_tokens": 1422}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) chimpanzees.", "usage": {"prompt_tokens": 1303, "completion_tokens": 11, "total_tokens": 1314}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) human rights should be used as a framework for government policy on indigenous issues.", "usage": {"prompt_tokens": 1205, "completion_tokens": 23, "total_tokens": 1228}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1223, "completion_tokens": 6, "total_tokens": 1229}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The financial resources it has devoted to indigenous issues.", "usage": {"prompt_tokens": 1211, "completion_tokens": 18, "total_tokens": 1229}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1228, "completion_tokens": 6, "total_tokens": 1234}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 1231, "completion_tokens": 6, "total_tokens": 1237}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1024, "completion_tokens": 6, "total_tokens": 1030}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1046, "completion_tokens": 6, "total_tokens": 1052}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1057, "completion_tokens": 6, "total_tokens": 1063}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) primitive.", "usage": {"prompt_tokens": 970, "completion_tokens": 8, "total_tokens": 978}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 992, "completion_tokens": 6, "total_tokens": 998}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1011, "completion_tokens": 6, "total_tokens": 1017}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1311, "completion_tokens": 6, "total_tokens": 1317}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) He is impressed by Gallaher’s success even though thinking about it calls to mind his own unhappiness.", "usage": {"prompt_tokens": 1344, "completion_tokens": 31, "total_tokens": 1375}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1294, "completion_tokens": 6, "total_tokens": 1300}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) He derives excitement from placing himself in settings he finds menacing.", "usage": {"prompt_tokens": 1324, "completion_tokens": 20, "total_tokens": 1344}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1347, "completion_tokens": 6, "total_tokens": 1353}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1136, "completion_tokens": 6, "total_tokens": 1142}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1106, "completion_tokens": 6, "total_tokens": 1112}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1287, "completion_tokens": 6, "total_tokens": 1293}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Recent measurement techniques used to count animals are more accurate than those used in the past.", "usage": {"prompt_tokens": 1319, "completion_tokens": 24, "total_tokens": 1343}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Assumption of stability in population growth over time that is not supported by data.", "usage": {"prompt_tokens": 1313, "completion_tokens": 22, "total_tokens": 1335}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1310, "completion_tokens": 6, "total_tokens": 1316}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1293, "completion_tokens": 6, "total_tokens": 1299}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1330, "completion_tokens": 6, "total_tokens": 1336}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) sympathetic to more than one political perspective.", "usage": {"prompt_tokens": 1194, "completion_tokens": 15, "total_tokens": 1209}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) provide a rationale for adopting a different ideology.", "usage": {"prompt_tokens": 1204, "completion_tokens": 18, "total_tokens": 1222}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Government can be used to make changes that citizens hope for.", "usage": {"prompt_tokens": 1199, "completion_tokens": 18, "total_tokens": 1217}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Vocal individuals compel governments to address their concerns.", "usage": {"prompt_tokens": 1207, "completion_tokens": 18, "total_tokens": 1225}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1240, "completion_tokens": 6, "total_tokens": 1246}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) lead to the suppression of views deemed unfavorable.", "usage": {"prompt_tokens": 1213, "completion_tokens": 19, "total_tokens": 1232}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) creates a situation that allows individuals to flourish.", "usage": {"prompt_tokens": 1221, "completion_tokens": 17, "total_tokens": 1238}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1032, "completion_tokens": 6, "total_tokens": 1038}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1067, "completion_tokens": 6, "total_tokens": 1073}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 1021, "completion_tokens": 6, "total_tokens": 1027}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1106, "completion_tokens": 6, "total_tokens": 1112}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) 7.4.", "usage": {"prompt_tokens": 992, "completion_tokens": 11, "total_tokens": 1003}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) None of them were successful in their first attempt with the technique.", "usage": {"prompt_tokens": 1047, "completion_tokens": 19, "total_tokens": 1066}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Quisqueya dyes her hair.", "usage": {"prompt_tokens": 1474, "completion_tokens": 15, "total_tokens": 1489}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) The narrator knows Celia’s sons because they are friends with the narrator’s daughter.", "usage": {"prompt_tokens": 1491, "completion_tokens": 27, "total_tokens": 1518}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1482, "completion_tokens": 6, "total_tokens": 1488}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1073, "completion_tokens": 6, "total_tokens": 1079}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1138, "completion_tokens": 6, "total_tokens": 1144}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C).", "usage": {"prompt_tokens": 1113, "completion_tokens": 6, "total_tokens": 1119}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Requiring that politicians explain their proposed policies in detail before an election is held.", "usage": {"prompt_tokens": 1091, "completion_tokens": 24, "total_tokens": 1115}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1130, "completion_tokens": 6, "total_tokens": 1136}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1119, "completion_tokens": 6, "total_tokens": 1125}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) narrowing the plants’ potential habitats.", "usage": {"prompt_tokens": 1108, "completion_tokens": 15, "total_tokens": 1123}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) seek the approval of the public.", "usage": {"prompt_tokens": 1275, "completion_tokens": 14, "total_tokens": 1289}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) sensible, but are likely to be undermined.", "usage": {"prompt_tokens": 1288, "completion_tokens": 17, "total_tokens": 1305}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1286, "completion_tokens": 6, "total_tokens": 1292}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) British leaders of past generations.", "usage": {"prompt_tokens": 1266, "completion_tokens": 13, "total_tokens": 1279}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1407, "completion_tokens": 6, "total_tokens": 1413}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Rapidly spreading fires.", "usage": {"prompt_tokens": 1310, "completion_tokens": 13, "total_tokens": 1323}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) A reevaluation of the dates assigned to sites thought to display signs of the proposed impact.", "usage": {"prompt_tokens": 1365, "completion_tokens": 25, "total_tokens": 1390}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1340, "completion_tokens": 6, "total_tokens": 1346}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) controversial in the scientific community.", "usage": {"prompt_tokens": 1296, "completion_tokens": 13, "total_tokens": 1309}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) They are a product of the global cooling that occurred during the Younger Dryas period.", "usage": {"prompt_tokens": 1362, "completion_tokens": 26, "total_tokens": 1388}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) contrast Nawab’s and Harouni’s lifestyles.", "usage": {"prompt_tokens": 1458, "completion_tokens": 22, "total_tokens": 1480}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1492, "completion_tokens": 6, "total_tokens": 1498}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) disgust.", "usage": {"prompt_tokens": 1422, "completion_tokens": 10, "total_tokens": 1432}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) He can spend more time with his wife.", "usage": {"prompt_tokens": 1450, "completion_tokens": 15, "total_tokens": 1465}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1155, "completion_tokens": 6, "total_tokens": 1161}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They should be transparent about their beliefs and assumptions.", "usage": {"prompt_tokens": 1141, "completion_tokens": 17, "total_tokens": 1158}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 1135, "completion_tokens": 6, "total_tokens": 1141}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) 2011.", "usage": {"prompt_tokens": 1114, "completion_tokens": 12, "total_tokens": 1126}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1226, "completion_tokens": 6, "total_tokens": 1232}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Direct observation.", "usage": {"prompt_tokens": 1293, "completion_tokens": 9, "total_tokens": 1302}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They are attracted to the same compound in Texas gourd scent that squash bees are.", "usage": {"prompt_tokens": 1350, "completion_tokens": 28, "total_tokens": 1378}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) increased their floral scent.", "usage": {"prompt_tokens": 1318, "completion_tokens": 13, "total_tokens": 1331}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is (D) Why do Texas gourd plants stop producing fragrance attractive to pollinators when beetles are present?", "usage": {"prompt_tokens": 1369, "completion_tokens": 29, "total_tokens": 1398}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) It undermines and repudiates the nation's values.", "usage": {"prompt_tokens": 1329, "completion_tokens": 20, "total_tokens": 1349}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) subtle and must be studied carefully.", "usage": {"prompt_tokens": 1323, "completion_tokens": 14, "total_tokens": 1337}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1339, "completion_tokens": 6, "total_tokens": 1345}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) both authors see the cause as warranting drastic action.", "usage": {"prompt_tokens": 1345, "completion_tokens": 19, "total_tokens": 1364}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) journalist enumerating changes in a field.", "usage": {"prompt_tokens": 1196, "completion_tokens": 14, "total_tokens": 1210}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) absorbing reflected light.", "usage": {"prompt_tokens": 1197, "completion_tokens": 11, "total_tokens": 1208}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) identify a hurdle that must be overcome.", "usage": {"prompt_tokens": 1196, "completion_tokens": 16, "total_tokens": 1212}, "finish_reason": "stop", "model": "Vicuna-13B"}

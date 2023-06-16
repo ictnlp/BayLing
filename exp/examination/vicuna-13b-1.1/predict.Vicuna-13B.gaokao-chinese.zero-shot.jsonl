@@ -1,0 +1,246 @@
+{"text": "选项(A)", "usage": {"prompt_tokens": 2927, "completion_tokens": 6, "total_tokens": 2933}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)", "usage": {"prompt_tokens": 2890, "completion_tokens": 13, "total_tokens": 2903}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)", "usage": {"prompt_tokens": 3178, "completion_tokens": 6, "total_tokens": 3184}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：“及忠贤逐南星/攀龙/大中/次将及涟/光斗/光斗愤甚/草奏劾忠贤及魏广微三十二斩罪/拟十一月二日上之/先遣�", "usage": {"prompt_tokens": 1498, "completion_tokens": 99, "total_tokens": 1597}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)殿下是古代对太子、诸王、承相的敬称，礼尊意味次于敬称皇帝的陛下。", "usage": {"prompt_tokens": 1335, "completion_tokens": 63, "total_tokens": 1398}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)全诗情感表达含蓄蕴藉，格律谨严，比较典型地体现了杜甫诗的风格。", "usage": {"prompt_tokens": 541, "completion_tokens": 72, "total_tokens": 613}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B) “我本来不想去，可是俺婆婆非叫我再去看看他——有什么看头啊!”", "usage": {"prompt_tokens": 974, "completion_tokens": 55, "total_tokens": 1029}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)为了应对气候变化，非政府组织承袭环境正义运动的精神，提出了气候正义。", "usage": {"prompt_tokens": 1487, "completion_tokens": 56, "total_tokens": 1543}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)：对于气候正义，文章先交代背景，接着逐层分析，最后梳理出了它的内涵。", "usage": {"prompt_tokens": 1502, "completion_tokens": 58, "total_tokens": 1560}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)：气候容量的公平享有是很复杂的问题，气候正义只是理解该问题的一种视角。", "usage": {"prompt_tokens": 1488, "completion_tokens": 58, "total_tokens": 1546}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)被困队员身陷绝境却调动起所有能量开门救助敲门人，送瓜人在被困队员生死关头奇迹般的出现，这都说明生命奇迹无法解释。", "usage": {"prompt_tokens": 2609, "completion_tokens": 92, "total_tokens": 2701}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)", "usage": {"prompt_tokens": 1471, "completion_tokens": 6, "total_tokens": 1477}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A) 是正确的。在文中，“以字行”是指某人的字得以通行使用，他的名反而不常用。", "usage": {"prompt_tokens": 1335, "completion_tokens": 45, "total_tokens": 1380}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)弘微事兄如父，临财清正廉洁。", "usage": {"prompt_tokens": 1535, "completion_tokens": 32, "total_tokens": 1567}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 423, "completion_tokens": 13, "total_tokens": 436}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "(B)他的书法龙飞凤舞，引来一片赞叹，但落款确出了差错，一时又无法弥补，只好连声道歉：“献丑，献丑！”", "usage": {"prompt_tokens": 388, "completion_tokens": 85, "total_tokens": 473}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)无逾祖矣。", "usage": {"prompt_tokens": 1367, "completion_tokens": 24, "total_tokens": 1391}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)它与年龄相关，随着年龄的增长，经历的人和事增多，阅历自然而然地就会丰富。", "usage": {"prompt_tokens": 1687, "completion_tokens": 71, "total_tokens": 1758}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：钓鱼岛及其附属岛屿自古以来就是中国故有领土，这在历史和法理上都是清楚的。", "usage": {"prompt_tokens": 328, "completion_tokens": 68, "total_tokens": 396}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)当今的世界，各个国家、地区相互依存，已经形成了你中有我、我中有你的格局，是—个经济全球化的时代。", "usage": {"prompt_tokens": 422, "completion_tokens": 69, "total_tokens": 491}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)它宁静而明澈，化解了龌龊与清洁的冲突，还我们清清世界、朗朗乾坤。", "usage": {"prompt_tokens": 1899, "completion_tokens": 71, "total_tokens": 1970}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)中国画的习见画题尽管内容指向不尽相同，但其基本特点是在幽冷中透出宁静。", "usage": {"prompt_tokens": 1951, "completion_tokens": 68, "total_tokens": 2019}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)中国画是中国艺术的重要门类，文章以之为例来谈论中国艺术所追求的静寒境界。", "usage": {"prompt_tokens": 1935, "completion_tokens": 69, "total_tokens": 2004}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项 A 不正确，原文中并没有明确说明诸子之学的广义上始于先秦，贯穿于此后中国思想史，也是当代思想的组成部分。\n\n选项 B 正确，原文中描述了“照着讲”主要指对经典的", "usage": {"prompt_tokens": 1329, "completion_tokens": 99, "total_tokens": 1428}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(D)：文章论证“照着讲”“接着讲”无法分离，是按从逻辑到现实的顺序推进的。", "usage": {"prompt_tokens": 1327, "completion_tokens": 65, "total_tokens": 1392}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项 D 是正确的。根据原文内容，“新子学”要参与世界文化的发展，就有必要从“照着讲”逐渐过渡到“接着讲”。", "usage": {"prompt_tokens": 1330, "completion_tokens": 68, "total_tokens": 1398}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)小说以“赵一曼女士”为题，不同于以往烈士、同志、英雄等惯常用法，称谓的陌生化既表达了对主人公的尊敬之意，又引起了读者的注意。\n\n答案", "usage": {"prompt_tokens": 1247, "completion_tokens": 99, "total_tokens": 1346}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：诗人虽不得不接受生活贫穷的命运，但意志并不消沉，气概仍然豪迈。", "usage": {"prompt_tokens": 472, "completion_tokens": 69, "total_tokens": 541}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)：\n\n庄子在《庄子·秋水》中把自己在出游中体验到的快乐之情移置到鱼身上，觉得鱼在出游时也是快乐的。这实际上是庄子对自己感情的对象化享", "usage": {"prompt_tokens": 2199, "completion_tokens": 99, "total_tokens": 2298}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(B)关于审美移情的起因，曾经出现过不同的观点。谷鲁斯等人认为，引起移情的原因是人的生理活动，移情源自于人的“内模仿”，这种观点不可信。", "usage": {"prompt_tokens": 2180, "completion_tokens": 83, "total_tokens": 2263}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)郑板桥《竹石》诗：“咬定青山不放松，立根原在破岩中。千磨万击还坚劲，任尔东西南北风”从审美移情看，诗人审美欣赏的对象不是竹石，而是移", "usage": {"prompt_tokens": 2263, "completion_tokens": 99, "total_tokens": 2362}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)谢贞受府长史周确委托，为他撰写辞让都官尚书的表文。陈后主读过之后，怀疑该表文不是周确亲笔所作。", "usage": {"prompt_tokens": 1813, "completion_tokens": 88, "total_tokens": 1901}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)不正确。原文中指出，在人文研究中，计算方法以往只是辅助手段，而今天已取得了不可替代的地位。", "usage": {"prompt_tokens": 1795, "completion_tokens": 57, "total_tokens": 1852}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)：文章同时肯定计算机远读和人的细读的作用，有助于避免人们对远读的误解。", "usage": {"prompt_tokens": 1807, "completion_tokens": 61, "total_tokens": 1868}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)人文研究的主体，在数字人文中实现了从具体的学者个人向计算机的转变。", "usage": {"prompt_tokens": 1771, "completion_tokens": 48, "total_tokens": 1819}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 1995, "completion_tokens": 11, "total_tokens": 2006}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A) 交通极其不便、产业发展路径缺失、开阔平坦的农田数量较少，这些曾经是制约临朐县山区发展现代农业的主要因素。", "usage": {"prompt_tokens": 2007, "completion_tokens": 87, "total_tokens": 2094}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。在小说中，王超杰的说话多是“笑道”，唱的戏词则是“珠泪两下”或“两泪汪”，这种细节写出了他当时的处境与心态。", "usage": {"prompt_tokens": 3177, "completion_tokens": 87, "total_tokens": 3264}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)", "usage": {"prompt_tokens": 1514, "completion_tokens": 13, "total_tokens": 1527}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)抵极刑，抵极刑指犯人受到死刑外加上尸体示众的极端刑罚。", "usage": {"prompt_tokens": 1386, "completion_tokens": 70, "total_tokens": 1456}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)", "usage": {"prompt_tokens": 1526, "completion_tokens": 13, "total_tokens": 1539}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B) \"因“溪里鱼儿堪数”，故作者建议鹭鸶去虾鳅较多的“远浦”“别渚”。", "usage": {"prompt_tokens": 472, "completion_tokens": 72, "total_tokens": 544}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)近在咫尺、空穴来风、非此即彼、取之不尽。", "usage": {"prompt_tokens": 773, "completion_tokens": 47, "total_tokens": 820}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)空间和时间由于不断压缩，互动性大大增强，有助于社会交往效率显著提高。", "usage": {"prompt_tokens": 848, "completion_tokens": 56, "total_tokens": 904}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)不正确。原文中指出，在人文研究中，计算方法以往只是辅助手段，而今天已取得了不可替代的地位。", "usage": {"prompt_tokens": 1795, "completion_tokens": 57, "total_tokens": 1852}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)：文章同时肯定计算机远读和人的细读的作用，有助于避免人们对远读的误解。", "usage": {"prompt_tokens": 1807, "completion_tokens": 61, "total_tokens": 1868}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)人文研究的主体，在数字人文中实现了从具体的学者个人向计算机的转变。", "usage": {"prompt_tokens": 1771, "completion_tokens": 48, "total_tokens": 1819}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 1995, "completion_tokens": 11, "total_tokens": 2006}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A) 交通极其不便、产业发展路径缺失、开阔平坦的农田数量较少，这些曾经是制约临朐县山区发展现代农业的主要因素。", "usage": {"prompt_tokens": 2007, "completion_tokens": 87, "total_tokens": 2094}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。在小说中，王超杰的说话多是“笑道”，唱的戏词则是“珠泪两下”或“两泪汪”，这种细节写出了他当时的处境与心态。", "usage": {"prompt_tokens": 3177, "completion_tokens": 87, "total_tokens": 3264}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)", "usage": {"prompt_tokens": 1514, "completion_tokens": 13, "total_tokens": 1527}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)抵极刑，抵极刑指犯人受到死刑外加上尸体示众的极端刑罚。", "usage": {"prompt_tokens": 1386, "completion_tokens": 70, "total_tokens": 1456}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)", "usage": {"prompt_tokens": 1526, "completion_tokens": 13, "total_tokens": 1539}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B) \"因“溪里鱼儿堪数”，故作者建议鹭鸶去虾鳅较多的“远浦”“别渚”。", "usage": {"prompt_tokens": 472, "completion_tokens": 72, "total_tokens": 544}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)近在咫尺、空穴来风、非此即彼、取之不尽。", "usage": {"prompt_tokens": 773, "completion_tokens": 47, "total_tokens": 820}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)空间和时间由于不断压缩，互动性大大增强，有助于社会交往效率显著提高。", "usage": {"prompt_tokens": 848, "completion_tokens": 56, "total_tokens": 904}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 1945, "completion_tokens": 11, "total_tokens": 1956}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)", "usage": {"prompt_tokens": 2021, "completion_tokens": 6, "total_tokens": 2027}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。原文中指出，任何讨论艺术品的历史形态都必须首先重构这种原始状态，因为一件艺术品的历史形态并不好自动地显现于它的现存状态，而是需要通过深入的", "usage": {"prompt_tokens": 2043, "completion_tokens": 99, "total_tokens": 2142}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(B)", "usage": {"prompt_tokens": 2265, "completion_tokens": 6, "total_tokens": 2271}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。材料一和材料二介绍了精准扶贫的具体内容、作用和价值，据此可知落实精准扶贫政策是解决我国当前贫困问题的有效�", "usage": {"prompt_tokens": 2293, "completion_tokens": 99, "total_tokens": 2392}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。小龙与“我”父亲毛羽的电话介绍了本文故事发生的起因，展示了书匠老董的性格，为情节的发展做了铺垫。", "usage": {"prompt_tokens": 3078, "completion_tokens": 79, "total_tokens": 3157}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)", "usage": {"prompt_tokens": 1574, "completion_tokens": 6, "total_tokens": 1580}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A) 方士，又称方术士，指中国古代好讲神仙方术、从事巫祝术数活动的人。", "usage": {"prompt_tokens": 1324, "completion_tokens": 62, "total_tokens": 1386}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)", "usage": {"prompt_tokens": 1578, "completion_tokens": 6, "total_tokens": 1584}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)颈联的上下两句反复陈说，表明诗人的观点，堪称这首诗的警策之语。", "usage": {"prompt_tokens": 425, "completion_tokens": 60, "total_tokens": 485}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "根据题意，需要将机线上的词语填入选项中的空格，使得选项中的所有词语都符合语法和意义上的要求。\n\n根据题目中给出的选项，可以得出以下推理：\n\n* 选项中必须有一个“以及”或“乃", "usage": {"prompt_tokens": 192, "completion_tokens": 99, "total_tokens": 291}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：\n\n原文：“用刀在龟甲和兽骨上刻字比较困难，这是相较于铸造青铜器铭文而言的。”\n\n其中，“这是相较于铸造青铜器�", "usage": {"prompt_tokens": 335, "completion_tokens": 99, "total_tokens": 434}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：\n\n对于文字本身来说，汉代学者总结的“六书”的方法在甲骨文中基本都已出现，说明它已经是成熟的文字。", "usage": {"prompt_tokens": 334, "completion_tokens": 71, "total_tokens": 405}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：传统表演艺术通常具有生活性和群体性的特征，民众也是演出的重要参与者。", "usage": {"prompt_tokens": 1798, "completion_tokens": 62, "total_tokens": 1860}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)志愿服务不能单纯理解为志愿者只有奉献，没有获得，其实志愿服务对于志愿者提升个人价值、增长职业技能等会有所帮助。", "usage": {"prompt_tokens": 419, "completion_tokens": 92, "total_tokens": 511}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)单车猎人的群体性行为有助于规范共享单车的使用，构建在共享单车公司之外的民间力量参与治理的新格局。", "usage": {"prompt_tokens": 422, "completion_tokens": 70, "total_tokens": 492}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)鲁人或曰/夫鲁小国/而有战胜之名/则诸侯图鲁矣/且鲁卫兄弟之国也/而君用起/则是弃卫鲁/君疑之/谢吴起。", "usage": {"prompt_tokens": 1498, "completion_tokens": 98, "total_tokens": 1596}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)殷纣为商代末代国君，在位期间统治失控，好酒淫乐，暴殓酷刑，是有名的暴君。", "usage": {"prompt_tokens": 1359, "completion_tokens": 62, "total_tokens": 1421}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)吴起劝告魏侯，修德重于据险。魏武侯沿西河而下时，指出江河之固是魏国之宝；吴起表示，治国依据山河险固不如推行德政，修德才能免于", "usage": {"prompt_tokens": 1575, "completion_tokens": 99, "total_tokens": 1674}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)诗人举目眺望，能看到远处田埂在粼粼的波光中蜿蜒起伏，时隐时现。", "usage": {"prompt_tokens": 436, "completion_tokens": 66, "total_tokens": 502}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)遐想   制约   兴奋不已   不绝如缕。", "usage": {"prompt_tokens": 775, "completion_tokens": 39, "total_tokens": 814}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)与《古文观止》相比，萧统编选的《文选》体现的是一种相对落后的文学主张，选文在思想性和艺术性上都有一定差距。", "usage": {"prompt_tokens": 1946, "completion_tokens": 73, "total_tokens": 2019}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)文章的论述脉络清晰，主要观点分不同角度展开，各角度之间是一种并列关系。", "usage": {"prompt_tokens": 1863, "completion_tokens": 55, "total_tokens": 1918}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：《古文观止》的编者对“古文”的理解基本贯彻了韩愈倡导古文运动以来古文家的主张，但也有一定的变通。", "usage": {"prompt_tokens": 1926, "completion_tokens": 76, "total_tokens": 2002}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)关于为何在疫情背景下写钟南山的问题，熊育群表示自己熟悉钟南山，对他赴武汉抗疫之事很感动，有写作的冲动，有关部门也希望写", "usage": {"prompt_tokens": 2162, "completion_tokens": 99, "total_tokens": 2261}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(D)", "usage": {"prompt_tokens": 2146, "completion_tokens": 6, "total_tokens": 2152}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 2980, "completion_tokens": 11, "total_tokens": 2991}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B) 答曰/中兴以来/郊祀往往有赦/愚意尝谓非宜/何者/黎庶不达其意/将谓郊祀必赦/至此时/凶愚之辈复生心于", "usage": {"prompt_tokens": 1500, "completion_tokens": 99, "total_tokens": 1599}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(A) 太守是郡一级的最高行政长官，主要掌管民政、司法、军师、科举等事务。", "usage": {"prompt_tokens": 1250, "completion_tokens": 55, "total_tokens": 1305}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)彪之坚持己见，不肯接受人犯。殷浩将谢毅交付廷尉候审，他以此非廷尉职责为由，虽有皇上命令，依然据", "usage": {"prompt_tokens": 1465, "completion_tokens": 99, "total_tokens": 1564}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)诗的三、四两句既是对苦笋的直接描写，又有所引申，使苦笋人格化。", "usage": {"prompt_tokens": 554, "completion_tokens": 64, "total_tokens": 618}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：传承中华文化就是维系中华民族的精神命脉。", "usage": {"prompt_tokens": 732, "completion_tokens": 42, "total_tokens": 774}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)互为一体    薪火相传    繁荣昌盛    源远流长", "usage": {"prompt_tokens": 748, "completion_tokens": 44, "total_tokens": 792}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)不是生理的，而是文化的、精神的。", "usage": {"prompt_tokens": 700, "completion_tokens": 24, "total_tokens": 724}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：《中国目录学史》既受到西方现代学科理论建构的影响，又与传统史书体制暗合。", "usage": {"prompt_tokens": 2034, "completion_tokens": 62, "total_tokens": 2096}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)姚名达评估二千年来目录学传统，既立足于历史，又体现出学术批判的精神。", "usage": {"prompt_tokens": 2011, "completion_tokens": 65, "total_tokens": 2076}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)：一个水分子中的氢原子会受到其邻近水分子中的氧原子的吸引，这可以解释为什么水会吸引水、水具有黏性。", "usage": {"prompt_tokens": 2423, "completion_tokens": 75, "total_tokens": 2498}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 2484, "completion_tokens": 11, "total_tokens": 2495}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)", "usage": {"prompt_tokens": 3064, "completion_tokens": 6, "total_tokens": 3070}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)九月/契丹大举入寇时/以虏寇深入/中外震骇/召群臣问方略/王钦若/临江人/请幸金陵/陈尧叟/阆州人/请幸成", "usage": {"prompt_tokens": 1589, "completion_tokens": 99, "total_tokens": 1688}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B) 寇准举荐主张避战的王钦若镇守天雄军，并告诫钦若：皇上决定亲征，臣子不可辜负圣意。钦若惊惧不敢", "usage": {"prompt_tokens": 1591, "completion_tokens": 99, "total_tokens": 1690}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)颔联两句使用拟人的修辞手法，表现白云和流水对于曾巩出山的态度。", "usage": {"prompt_tokens": 551, "completion_tokens": 56, "total_tokens": 607}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)纸上谈兵    不虚此行    身体力行    勤俭节约。", "usage": {"prompt_tokens": 766, "completion_tokens": 45, "total_tokens": 811}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)一道家常菜，劳动者在幕后通常有着辛勤的付出。", "usage": {"prompt_tokens": 755, "completion_tokens": 45, "total_tokens": 800}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：学习烧菜做饭还会增强学生对家务劳动的理解与认知，有助于他们在和家人的相处中更懂得体谅、更懂得感恩、更懂得分担。", "usage": {"prompt_tokens": 962, "completion_tokens": 97, "total_tokens": 1059}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "(A)新闻发布会上，他讲话仅用了八分钟，简介明了，新闻性、针对性强，没有一句穿靴戴帽的空话套话。", "usage": {"prompt_tokens": 405, "completion_tokens": 76, "total_tokens": 481}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 421, "completion_tokens": 13, "total_tokens": 434}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)多向的性格构成，杂多的性格元素，相互影响，相互交叉，使人物性格表象纷纭复杂，不断变化。", "usage": {"prompt_tokens": 1934, "completion_tokens": 65, "total_tokens": 1999}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)有人将人物的“优点”“缺点”机械叠加，以写出”人情味“，但这样还体现不出人物性格的模糊性。", "usage": {"prompt_tokens": 1940, "completion_tokens": 65, "total_tokens": 2005}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)臣既受命于专斧钺之威。\n\n解释：在这个句子中，加点词应该是“威”，因为它是与“专斧钺”形成名词短语，并且“��", "usage": {"prompt_tokens": 1331, "completion_tokens": 99, "total_tokens": 1430}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(A) \"将既受命/乃令太史卜斋三日之太庙钻灵龟卜吉日以授斧钺\"。", "usage": {"prompt_tokens": 1478, "completion_tokens": 68, "total_tokens": 1546}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B) \"将军接受任命后，将再请求君王给予充分信任，并表明战胜敌人还需要智者出谋划策、勇士英勇战斗。\"", "usage": {"prompt_tokens": 1516, "completion_tokens": 86, "total_tokens": 1602}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：糅合、愠色、闹别扭、闭目塞听、飞扬跋扈、咋舌、处方药、唧唧喳喳。", "usage": {"prompt_tokens": 289, "completion_tokens": 84, "total_tokens": 373}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是(D)德国联邦司法部长表示：“连接德国和中国的不仅是经济合作，政治、文化方面我们在不断靠近。‘德中法制对话’活动有助于达到这一目的。”", "usage": {"prompt_tokens": 463, "completion_tokens": 83, "total_tokens": 546}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)", "usage": {"prompt_tokens": 477, "completion_tokens": 6, "total_tokens": 483}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是(A)", "usage": {"prompt_tokens": 474, "completion_tokens": 11, "total_tokens": 485}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)“簖桥”是与渔人用芦蒿、竹竿等编连起来捕鱼虾的“簖”相伴的一种桥。", "usage": {"prompt_tokens": 2002, "completion_tokens": 66, "total_tokens": 2068}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)古代官府对在河流及湖面放置鱼簖或蟹簖有所限制。", "usage": {"prompt_tokens": 1936, "completion_tokens": 44, "total_tokens": 1980}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：西湖十景之“断桥”在南宋时又称宝祐桥，还曾因“断”“段”谐音而被称作“段家桥”。", "usage": {"prompt_tokens": 2010, "completion_tokens": 64, "total_tokens": 2074}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)吴起在“故人至暮不来”时仍坚持不食而等待，魏文侯在“会天疾风”时仍不失信于虞人，体现出了高尚的诚信品格，令人钦��", "usage": {"prompt_tokens": 1717, "completion_tokens": 99, "total_tokens": 1816}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)央视《大国工匠》系列节目反响巨大，工匠们精益求精、无私奉献的精神引发了人们广泛而热烈的讨论和思考。", "usage": {"prompt_tokens": 407, "completion_tokens": 98, "total_tokens": 505}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：古体诗产生于唐代以前，在唐出现篇幅短小、格律严整、生命力更强的近体诗后，逐渐走向衰微。", "usage": {"prompt_tokens": 2342, "completion_tokens": 85, "total_tokens": 2427}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)汉魏古诗大多局限于比较单纯的抒情写景，在作品表现范围上，不像唐人所作古诗那样开阔。", "usage": {"prompt_tokens": 2369, "completion_tokens": 72, "total_tokens": 2441}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)清王士禛对唐人五言古诗只认可五家，足见其偏见；明许学夷明察唐人五古特色，其观点可谓通达。", "usage": {"prompt_tokens": 2370, "completion_tokens": 70, "total_tokens": 2440}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)晏子认为要想治理好国家，使天下归附，最重要的不是取法已过时的古圣王制度，而是效法他们的节俭风尚。", "usage": {"prompt_tokens": 1635, "completion_tokens": 75, "total_tokens": 1710}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)无论纸质书还是电子书，2019年成年国民中至少有7.6%的人阅读量不少于10本。", "usage": {"prompt_tokens": 719, "completion_tokens": 65, "total_tokens": 784}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：纸质书和电子书分别从两个维度呈现不同的精神世界，都是人类文化遗产的一部分。", "usage": {"prompt_tokens": 751, "completion_tokens": 67, "total_tokens": 818}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)宋代雕版书多用歇、颜字体，特色鲜明，墨色清润，刻写精良，为后世所重。\n\n根据文本社会学的理论，文本是社会产生的、社会活动的、社会关", "usage": {"prompt_tokens": 756, "completion_tokens": 99, "total_tokens": 855}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：\n\n镶嵌、精萃、休闲装、轻描淡写", "usage": {"prompt_tokens": 239, "completion_tokens": 48, "total_tokens": 287}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)、日本在野党强烈指责财务大臣“口无遮拦”、公开谈及政府去年入市干预日元具体汇率的行为是极不付责任的。", "usage": {"prompt_tokens": 430, "completion_tokens": 95, "total_tokens": 525}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 1998, "completion_tokens": 14, "total_tokens": 2012}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 2018, "completion_tokens": 11, "total_tokens": 2029}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)符合原文内容。", "usage": {"prompt_tokens": 2053, "completion_tokens": 13, "total_tokens": 2066}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)是正确的。", "usage": {"prompt_tokens": 1652, "completion_tokens": 11, "total_tokens": 1663}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是(D) 2013年财富全球论坛。", "usage": {"prompt_tokens": 500, "completion_tokens": 30, "total_tokens": 530}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)不符合原文意思。原文中指出，明宣宗时期的宫廷画派花鸟画风格多样，但是在意境与格调方面还比宋代院体花鸟画略逊一筹。", "usage": {"prompt_tokens": 1767, "completion_tokens": 88, "total_tokens": 1855}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)画家们广泛地学习和借鉴院体画家、文人画家及民间画师的优良画风。", "usage": {"prompt_tokens": 1738, "completion_tokens": 51, "total_tokens": 1789}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A) 正确。明宣宗在位期间，宫廷画派的花鸟画只是沿袭宋代花鸟画的风格面貌，没有取得突破。", "usage": {"prompt_tokens": 1791, "completion_tokens": 74, "total_tokens": 1865}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)调理自己的心情，使之平和有力，是改变气质的根本功夫。", "usage": {"prompt_tokens": 1687, "completion_tokens": 45, "total_tokens": 1732}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)学习遇到困难时，冷静思考，多方请教，寻找解决问题的新思路。", "usage": {"prompt_tokens": 1758, "completion_tokens": 62, "total_tokens": 1820}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)调整心理，集中精力，心平气和，努力写出有力量的文章，这是一个很紧要的根本所在。", "usage": {"prompt_tokens": 1762, "completion_tokens": 64, "total_tokens": 1826}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)文章的论述脉络清晰，主要观点分不同角度展开，各角度之间是一种并列关系。", "usage": {"prompt_tokens": 1866, "completion_tokens": 55, "total_tokens": 1921}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：《古文观止》借用季札“观止”的说法命名，显现了编选者的自信，以及对所选古文思想内涵与艺术境界的赞誉。", "usage": {"prompt_tokens": 1929, "completion_tokens": 86, "total_tokens": 2015}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)关于为何在疫情背景下写钟南山的问题，熊育群表示自己熟悉钟南山，对他赴武汉抗疫之事很感动，有写作的冲动，有关部门也希望写", "usage": {"prompt_tokens": 2146, "completion_tokens": 99, "total_tokens": 2245}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(A)", "usage": {"prompt_tokens": 2130, "completion_tokens": 6, "total_tokens": 2136}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 2983, "completion_tokens": 11, "total_tokens": 2994}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B) 正确。", "usage": {"prompt_tokens": 1503, "completion_tokens": 10, "total_tokens": 1513}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B) 立嗣可指无子而以同宗之子承继，又可指确立王位继承人，文中则指后者。", "usage": {"prompt_tokens": 1251, "completion_tokens": 59, "total_tokens": 1310}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)彪之坚持己见，不肯接受人犯。殷浩将谢毅交付廷尉候审，他以此非廷尉职责为由，虽有皇上命令，依然据", "usage": {"prompt_tokens": 1468, "completion_tokens": 99, "total_tokens": 1567}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)诗的三、四两句既是对苦笋的直接描写，又有所引申，使苦笋人格化。", "usage": {"prompt_tokens": 563, "completion_tokens": 64, "total_tokens": 627}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)历史学者对《山海经》有不同认知，《隋书·经籍志》把它列入史部，视为史书，王国维则把它作为古史材料看待。", "usage": {"prompt_tokens": 1896, "completion_tokens": 77, "total_tokens": 1973}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)电视剧《康熙王朝》对历史事件和历史人物进行了虚构，其中部分情节与历史事实有出入，不能从这类作品中发掘史料。", "usage": {"prompt_tokens": 1873, "completion_tokens": 73, "total_tokens": 1946}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B) \"五四\"之前，很多涉及历史的神话传说之所以没有成为广泛使用的史料，是因为这些作品在史学和文学归类问题上存在争议。", "usage": {"prompt_tokens": 1881, "completion_tokens": 76, "total_tokens": 1957}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)是正确的。", "usage": {"prompt_tokens": 1670, "completion_tokens": 11, "total_tokens": 1681}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 1529, "completion_tokens": 13, "total_tokens": 1542}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)傅珪任职礼部．劝谏讲究策略。他担任礼部尚书时，由于屡有争端，上奏增多；番僧因帝好佛求地百顷，他佯作不", "usage": {"prompt_tokens": 1776, "completion_tokens": 99, "total_tokens": 1875}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)学习方法可能因人而异，但勤奋、努力等良好的学习态度和合理的时间安排却是每个想取得成功的学生所必须具备的。", "usage": {"prompt_tokens": 404, "completion_tokens": 89, "total_tokens": 493}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：“我国石油消费依赖进口，需求量不断增大，导致石油能源供给出现危机。”", "usage": {"prompt_tokens": 1481, "completion_tokens": 66, "total_tokens": 1547}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A) 经过适当处理的煤、具有一定温度和压力的反应器，以及气化剂，是制成原料气的几大条件。", "usage": {"prompt_tokens": 1534, "completion_tokens": 73, "total_tokens": 1607}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)国内石油能源消费存在着潜在的危险，应用煤的“间接液化技术”就是要彻底改变石油进口的局面。", "usage": {"prompt_tokens": 1525, "completion_tokens": 81, "total_tokens": 1606}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 1845, "completion_tokens": 13, "total_tokens": 1858}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)：文章在理论论证的过程中提及空间被私人性固化的现状，有其现实的指向。", "usage": {"prompt_tokens": 1862, "completion_tokens": 50, "total_tokens": 1912}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：\n\n根据原文内容，空间弹性、制度弹性和意义弹性是城市社会弹性的三个方面，它们相互关联，相互影响。城市处于不同的发展阶段时会面临不同的", "usage": {"prompt_tokens": 1843, "completion_tokens": 99, "total_tokens": 1942}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)实体书店渠道市场码洋规模2014年实现了3.94%的年度增长率，2015年市场码洋规模继续保持增长，年度增长率达到0.29%。", "usage": {"prompt_tokens": 448, "completion_tokens": 96, "total_tokens": 544}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：全国各地新建或改造的大型书城正逐步向文化购物中心转型，这表明实体书店向多元化的经营方式转变，其业态已经成为一种主流。", "usage": {"prompt_tokens": 449, "completion_tokens": 82, "total_tokens": 531}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 1578, "completion_tokens": 13, "total_tokens": 1591}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)陵寝是帝王死后安葬的陵墓，陵墓建成后，还需设置守陵奉祀的官员以及禁卫。", "usage": {"prompt_tokens": 1450, "completion_tokens": 65, "total_tokens": 1515}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)纯礼关怀下属，处分重在惩戒。", "usage": {"prompt_tokens": 1726, "completion_tokens": 30, "total_tokens": 1756}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：作者对精卫辛劳填海的动机感到困惑，因此用提问的方式来开启全篇。", "usage": {"prompt_tokens": 453, "completion_tokens": 65, "total_tokens": 518}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)汉武帝接受“独尊儒术”的建议，设置五经博士，以五经为研习对象，标志经学的真正确立。", "usage": {"prompt_tokens": 1485, "completion_tokens": 68, "total_tokens": 1553}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)儒家经典被汉王朝宣布为国家经典，成为国家政治、法律、意识形态的根据，这是中央集权统一的条件。", "usage": {"prompt_tokens": 1496, "completion_tokens": 71, "total_tokens": 1567}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)：“传统表演艺术通常具有生活性和群体性的特征，民众也是演出的重要参与者。”\n\n这个选项的理解和分析是正确的。原文中提到传统表演艺术与普通民�", "usage": {"prompt_tokens": 1801, "completion_tokens": 99, "total_tokens": 1900}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(D)：文章对现有传统表演艺术保护举措的成效与不足都有论及，体现出辩证的态度。", "usage": {"prompt_tokens": 1826, "completion_tokens": 60, "total_tokens": 1886}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)传统表演艺术源自生活，使其“雅化”意味着脱离原生的环境，很难获得成功。", "usage": {"prompt_tokens": 1829, "completion_tokens": 63, "total_tokens": 1892}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C)志愿服务不能单纯理解为志愿者只有奉献，没有获得，其实志愿服务对于志愿者提升个人价值、增长职业技能等会有所帮助。", "usage": {"prompt_tokens": 419, "completion_tokens": 92, "total_tokens": 511}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)单车猎人的群体性行为有助于规范共享单车的使用，构建在共享单车公司之外的民间力量参与治理的新格局。", "usage": {"prompt_tokens": 422, "completion_tokens": 70, "total_tokens": 492}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)谢主任感慨报道中基层干部的“肩膀硬”，而赶车老人随后提及这一带做挑抬活路的农民们“肩膀最硬”，对谢主任�", "usage": {"prompt_tokens": 3079, "completion_tokens": 99, "total_tokens": 3178}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(A)鲁人或曰/夫鲁小国/而有战胜之名/则诸侯图鲁矣/且鲁卫兄弟之国也/而君用起/则是弃卫鲁/君疑之/谢吴起。", "usage": {"prompt_tokens": 1497, "completion_tokens": 98, "total_tokens": 1595}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)殷纣为商代末代国君，在位期间统治失控，好酒淫乐，暴殓酷刑，是有名的暴君。", "usage": {"prompt_tokens": 1357, "completion_tokens": 62, "total_tokens": 1419}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)吴起劝告魏侯，修德重于据险。魏武侯沿西河而下时，指出江河之固是魏国之宝；吴起表示，治国依据山河险固不如推行德政，修德才能免于", "usage": {"prompt_tokens": 1574, "completion_tokens": 99, "total_tokens": 1673}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)诗人举目眺望，能看到远处田埂在粼粼的波光中蜿蜒起伏，时隐时现。", "usage": {"prompt_tokens": 438, "completion_tokens": 66, "total_tokens": 504}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项B．飙升。", "usage": {"prompt_tokens": 228, "completion_tokens": 21, "total_tokens": 249}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)金沙遗址博物馆的“太阳神鸟”金箔是古蜀国黄金工艺辉煌成就的典型代表，以其精致和神秘展现了古蜀人的智慧与魅力。", "usage": {"prompt_tokens": 426, "completion_tokens": 88, "total_tokens": 514}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)工业化时代的教育标准化地培养人才，导致人才的个性和创新性不足，这样的弊端直接催生了大数据教育。", "usage": {"prompt_tokens": 1634, "completion_tokens": 74, "total_tokens": 1708}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项A：教育环境的设计、教育实验场景的布置、学习场景的变革、教育管理数据的采集和运用等由数据支撑。", "usage": {"prompt_tokens": 1636, "completion_tokens": 64, "total_tokens": 1700}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)“大数据教育”中的“数据”不是孤立的“数字”，而是对数字及其相关资料、信息进行处理所形成的“数据”。", "usage": {"prompt_tokens": 1624, "completion_tokens": 67, "total_tokens": 1691}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是 (B) 备至", "usage": {"prompt_tokens": 230, "completion_tokens": 18, "total_tokens": 248}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 455, "completion_tokens": 13, "total_tokens": 468}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)现在抗生素无法对付的细菌越来越多。", "usage": {"prompt_tokens": 1712, "completion_tokens": 29, "total_tokens": 1741}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)耐万古霉素肠球菌的耐药基因是可以从其体外获得的。", "usage": {"prompt_tokens": 1743, "completion_tokens": 42, "total_tokens": 1785}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)只要科学、合理地使用抗生素，人们就不会感染各种耐抗生素病菌。", "usage": {"prompt_tokens": 1781, "completion_tokens": 59, "total_tokens": 1840}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)乡村记忆是居民情感所系和乡愁载体，在城镇化过程中，必须完好保存下来。", "usage": {"prompt_tokens": 1628, "completion_tokens": 55, "total_tokens": 1683}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D) 是不正确的。原文中并没有明确表述乡村与人的情感、记忆密切相关，而是强调了留住乡村记忆的重要性，并提出了保护和活化乡村记忆的方法。", "usage": {"prompt_tokens": 1648, "completion_tokens": 89, "total_tokens": 1737}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)", "usage": {"prompt_tokens": 1636, "completion_tokens": 6, "total_tokens": 1642}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)本文记述了裁缝生活中温馨的插曲，但并没将这种生活过于浪漫化，一针一线辛苦踏实的劳动，才是平稳真切的生活感受。", "usage": {"prompt_tokens": 3095, "completion_tokens": 94, "total_tokens": 3189}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A) 2001~2014年间，按当年价格计算出的全国博物馆事业增加值最低的年份是2001年，最高的年份是2014年。", "usage": {"prompt_tokens": 1011, "completion_tokens": 81, "total_tokens": 1092}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 1418, "completion_tokens": 13, "total_tokens": 1431}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C) 近侍是指接近并随侍帝王左右的人，他们不仅职位很高，对帝王影响也很大。", "usage": {"prompt_tokens": 1218, "completion_tokens": 64, "total_tokens": 1282}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)许将善于治理，境内牢狱皆空。他在郓州任上，因治理得法，当地没有犯法之人。当地士人爱好议论官政，他未加禁止，而是宽松应对，此", "usage": {"prompt_tokens": 1439, "completion_tokens": 99, "total_tokens": 1538}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是 (D) 经过几代航天人的艰苦奋斗，中国的航天事业开创了以“两弹一星”、载人航天、月球探测为代表的辉煌成就。", "usage": {"prompt_tokens": 409, "completion_tokens": 79, "total_tokens": 488}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "(A) 他是个可怜的孤儿，小时候承蒙我父母照顾，所以现在经常来看望我们。\n(B) 杨老师年过七旬仍然笔耕不辍，作为他的高足，我们感到��", "usage": {"prompt_tokens": 305, "completion_tokens": 99, "total_tokens": 404}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)：慧眼、吓马威、星罗棋布、面面俱到", "usage": {"prompt_tokens": 243, "completion_tokens": 44, "total_tokens": 287}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)、2010年4月10日，第8颗北斗导航卫星的发射进入倒计时，西昌卫星发射中心各个岗位的工作人员对火箭起飞前进行了最后的检查，�", "usage": {"prompt_tokens": 504, "completion_tokens": 99, "total_tokens": 603}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项D：不同时期气候敏感性不完全相同，研究上新世早期气候敏感性对认识今天气候变暖颇有价值。", "usage": {"prompt_tokens": 2047, "completion_tokens": 70, "total_tokens": 2117}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)符合原文意思。", "usage": {"prompt_tokens": 2195, "completion_tokens": 13, "total_tokens": 2208}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)变暖效应的长期反馈使地球气温上升可以持续数百年。", "usage": {"prompt_tokens": 1925, "completion_tokens": 49, "total_tokens": 1974}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)至高无上    原型必露    失之东隅，收之桑榆", "usage": {"prompt_tokens": 229, "completion_tokens": 42, "total_tokens": 271}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 482, "completion_tokens": 13, "total_tokens": 495}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)人和猫“水俣病”的症状有相似之处但是彼此却不会相互传染。", "usage": {"prompt_tokens": 1814, "completion_tokens": 54, "total_tokens": 1868}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)：水中微量汞经过食物链逐级转移富集到数千倍时才会转变成为甲基汞。", "usage": {"prompt_tokens": 1812, "completion_tokens": 50, "total_tokens": 1862}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)植物中汞含量与植物所处的地理环境密切相关。", "usage": {"prompt_tokens": 1770, "completion_tokens": 46, "total_tokens": 1816}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)文章既肯定“孝”的普遍意义，又指出它的内涵变化，显示了作者的思辨态度。", "usage": {"prompt_tokens": 1838, "completion_tokens": 57, "total_tokens": 1895}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)中国古代的“礼”，既有伦理性的一面，也有制度性的一面，是二者的结合。", "usage": {"prompt_tokens": 1822, "completion_tokens": 46, "total_tokens": 1868}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。", "usage": {"prompt_tokens": 2179, "completion_tokens": 11, "total_tokens": 2190}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)", "usage": {"prompt_tokens": 2208, "completion_tokens": 6, "total_tokens": 2214}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。小说中描写滑雪的段落多从尼克的角度来写，要么侧重他本人滑雪时的感受，要么通过他的眼睛来观看乔治滑雪的姿态，虽多次描", "usage": {"prompt_tokens": 3433, "completion_tokens": 99, "total_tokens": 3532}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(B)三年/权知礼部贡举/会大雪苦寒/士坐庭中噤/未能言轼/宽其禁约/使得尽技/巡辅内侍每摧辱举子/且持暧", "usage": {"prompt_tokens": 1628, "completion_tokens": 99, "total_tokens": 1727}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)当轴，指做官处在重要的位置，当轴者则指身居显赫职位的当权官员。", "usage": {"prompt_tokens": 1312, "completion_tokens": 56, "total_tokens": 1368}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 692, "completion_tokens": 13, "total_tokens": 705}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)十分独特   才思敏捷   奇光异彩   弥足珍贵。", "usage": {"prompt_tokens": 825, "completion_tokens": 49, "total_tokens": 874}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：\n\n在中国各种艺术形式中，篆刻是一个丰富多彩的门类。篆刻是从实用印章的应用中发展而来的，中国的印章最初用在制陶工艺方面，", "usage": {"prompt_tokens": 886, "completion_tokens": 99, "total_tokens": 985}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)", "usage": {"prompt_tokens": 854, "completion_tokens": 13, "total_tokens": 867}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项 A 不正确，原文中并没有明确说明诸子之学的广义上始于先秦，贯穿于此后中国思想史，也是当代思想的组成部分。\n\n选项 B 正确，原文中描述了“照着讲”主要指对经典的", "usage": {"prompt_tokens": 1328, "completion_tokens": 99, "total_tokens": 1427}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(D)：文章论证“照着讲”“接着讲”无法分离，是按从逻辑到现实的顺序推进的。", "usage": {"prompt_tokens": 1327, "completion_tokens": 65, "total_tokens": 1392}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项 D 是正确的。根据原文内容，“新子学”要参与世界文化的发展，就有必要从“照着讲”逐渐过渡到“接着讲”。", "usage": {"prompt_tokens": 1330, "completion_tokens": 68, "total_tokens": 1398}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)小说以“赵一曼女士”为题，不同于以往烈士、同志、英雄等惯常用法，称谓的陌生化既表达了对主人公的尊敬之意，又引起了读者的注意。\n\n答案", "usage": {"prompt_tokens": 1247, "completion_tokens": 99, "total_tokens": 1346}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(B)是不正确的。量子密钥分发是通过量子态的传输，使双方共享无条件安全的量子密钥，对信息进行一次一密的严格加密，从而确保信息传递绝对安全。", "usage": {"prompt_tokens": 1727, "completion_tokens": 84, "total_tokens": 1811}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：诗人虽不得不接受生活贫穷的命运，但意志并不消沉，气概仍然豪迈。", "usage": {"prompt_tokens": 472, "completion_tokens": 69, "total_tokens": 541}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(C) \"走进“大洋一号”，犹如进入了一座迷宫\"。", "usage": {"prompt_tokens": 393, "completion_tokens": 42, "total_tokens": 435}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)民间艺术要保持长久的生命力，就要在民俗生活的变化中调整自己，找到自己的存在价值。", "usage": {"prompt_tokens": 1061, "completion_tokens": 62, "total_tokens": 1123}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)在唐装中加入一些现代元素，使这种服装兼具古典韵味和时代气息。与文中“传承传统民间艺术”的主张不一致的一项。", "usage": {"prompt_tokens": 1066, "completion_tokens": 77, "total_tokens": 1143}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)士者诎乎不知已诎：屈从。", "usage": {"prompt_tokens": 1113, "completion_tokens": 33, "total_tokens": 1146}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 1191, "completion_tokens": 13, "total_tokens": 1204}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A) \"晏子前往晋国，在途中遇到了越石父，替他赎身，可见晏子善于识别人才，爱护人才。\"", "usage": {"prompt_tokens": 1288, "completion_tokens": 83, "total_tokens": 1371}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)在殷墟甲骨文发现之前，人们只能从有限的文献记载中了解中国历史上存在一个商王朝，然而这些文献却并非成于商代。", "usage": {"prompt_tokens": 1918, "completion_tokens": 73, "total_tokens": 1991}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)不符合原文意思。原文中指出，在20世纪20年代疑古思潮流行时期，甲骨文资料证实了《殷本》与《世本》的可靠程度，从而使历史学家开始摆脱困惑", "usage": {"prompt_tokens": 1931, "completion_tokens": 99, "total_tokens": 2030}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)：《尚书·盘庚》明显是后人改造过的文章，由此看来，尽管其中保留了许多商人语言，但是仅凭此篇仍不足以证明商王朝的存在。", "usage": {"prompt_tokens": 1919, "completion_tokens": 95, "total_tokens": 2014}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)", "usage": {"prompt_tokens": 1477, "completion_tokens": 6, "total_tokens": 1483}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(A)是正确的。首相指宰相中居于首位的人，与当今某些国家内阁或政府首脑的含义并不相同。", "usage": {"prompt_tokens": 1291, "completion_tokens": 56, "total_tokens": 1347}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(B)曾公亮久经历练，通晓典章制度。他熟知朝廷政务，首相韩琦每每向他咨询；密州有人偷盗民田产银，他认为判处死刑过重，据理力争，", "usage": {"prompt_tokens": 1517, "completion_tokens": 99, "total_tokens": 1616}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)、最近几年，从中央到地方各级政府出台了一系列新能源汽车扶持政策，节能环保、经济实惠的新能源汽车逐渐进入老百姓的", "usage": {"prompt_tokens": 394, "completion_tokens": 99, "total_tokens": 493}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)", "usage": {"prompt_tokens": 3129, "completion_tokens": 13, "total_tokens": 3142}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)诗以空灵，才为妙诗，可以入画之诗尚是眼中金屑也。", "usage": {"prompt_tokens": 3084, "completion_tokens": 53, "total_tokens": 3137}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 2942, "completion_tokens": 13, "total_tokens": 2955}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "选项(D)", "usage": {"prompt_tokens": 3088, "completion_tokens": 6, "total_tokens": 3094}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B) 宗室，是古代社会中对与君主同一宗族血亲的称谓，历代皇族例称为宗室。", "usage": {"prompt_tokens": 1322, "completion_tokens": 59, "total_tokens": 1381}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D)诗人最后开解朋友，目前虽然身处贬谪之中，但未来的前途依然很远大。", "usage": {"prompt_tokens": 540, "completion_tokens": 65, "total_tokens": 605}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(B)：“闹元宵，学‘四史’”文明实践示范活动日在市文化艺术中心隆重举行，活动分为“四史”猜谜颂红色文化、非遗展示传民俗文化、戏", "usage": {"prompt_tokens": 793, "completion_tokens": 99, "total_tokens": 892}, "finish_reason": "length", "model": "Vicuna-13B"}
+{"text": "选项(B)宣讲员话语平易，口吻幽默，宣讲内容也十分接地气，导致收看直播的群众既听得进又记得牢。", "usage": {"prompt_tokens": 931, "completion_tokens": 78, "total_tokens": 1009}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "答案是选项(D) “雪衣藻这种微型藻类大量繁殖引起了雪变色”。", "usage": {"prompt_tokens": 644, "completion_tokens": 45, "total_tokens": 689}, "finish_reason": "stop", "model": "Vicuna-13B"}

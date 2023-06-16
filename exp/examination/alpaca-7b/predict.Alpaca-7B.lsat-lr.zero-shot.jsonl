@@ -1,0 +1,510 @@
+{"text": "Answer is B", "usage": {"prompt_tokens": 324, "completion_tokens": 3, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The average life expectancy of sea turtles in general is longer than that of almost all other marine animals.", "usage": {"prompt_tokens": 304, "completion_tokens": 27, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 268, "completion_tokens": 3, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 304, "completion_tokens": 4, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 300, "completion_tokens": 4, "total_tokens": 304}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 281, "completion_tokens": 3, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 264, "completion_tokens": 3, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 311, "completion_tokens": 3, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 364, "completion_tokens": 3, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 290, "completion_tokens": 4, "total_tokens": 294}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Prior experience in foreign affairs is neither a sufficient nor a necessary condition for a president or prime minister to have a successful foreign policy.", "usage": {"prompt_tokens": 361, "completion_tokens": 30, "total_tokens": 391}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. Polar bears are only one of many species of mammal whose members have been known to find their way home from considerable distances.", "usage": {"prompt_tokens": 308, "completion_tokens": 32, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 369, "completion_tokens": 3, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The mayor's course of action being personally advantageous is not inconsistent with the mayor's action being advantageous for the city.", "usage": {"prompt_tokens": 372, "completion_tokens": 32, "total_tokens": 404}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is intended to provide an example of the ways in which the vertical mixing of seawater affects feeding habits.", "usage": {"prompt_tokens": 317, "completion_tokens": 30, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 499, "completion_tokens": 5, "total_tokens": 504}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)An independent report released before the crime took place concluded that XYZ Corporation was vulnerable to embezzlement.", "usage": {"prompt_tokens": 332, "completion_tokens": 29, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 337, "completion_tokens": 3, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 281, "completion_tokens": 4, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 254, "completion_tokens": 3, "total_tokens": 257}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 249, "completion_tokens": 3, "total_tokens": 252}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)It is clear that most people in Highland County drive sedans, since most people who commute to work drive sedans and most people in Highland County commute to work.", "usage": {"prompt_tokens": 330, "completion_tokens": 42, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 270, "completion_tokens": 3, "total_tokens": 273}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 343, "completion_tokens": 5, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 272, "completion_tokens": 3, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 331, "completion_tokens": 3, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Even if only some of the thread and rope that is currently being made from nylon were instead made from cotton fiber, some environmental damage would be avoided.", "usage": {"prompt_tokens": 357, "completion_tokens": 39, "total_tokens": 396}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 420, "completion_tokens": 5, "total_tokens": 425}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Anger is a visceral emotion.", "usage": {"prompt_tokens": 215, "completion_tokens": 14, "total_tokens": 229}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Smokers of the lowest-nicotine cigarettes available generally smoke more cigarettes per day than smokers of high-nicotine cigarettes.", "usage": {"prompt_tokens": 370, "completion_tokens": 43, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 284, "completion_tokens": 3, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Figorian regulation of development has in the past protected and preserved wildlife.", "usage": {"prompt_tokens": 371, "completion_tokens": 22, "total_tokens": 393}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 383, "completion_tokens": 3, "total_tokens": 386}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Shellfish has less cholesterol per gram than meat, eggs, and poultry do.", "usage": {"prompt_tokens": 256, "completion_tokens": 26, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 260, "completion_tokens": 3, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Humans are never equally content with two things of unequal usefulness.", "usage": {"prompt_tokens": 275, "completion_tokens": 19, "total_tokens": 294}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Artistic representation is used solely to preserve and reinforce objects.", "usage": {"prompt_tokens": 239, "completion_tokens": 18, "total_tokens": 257}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. mistaking a condition required if a certain result is to obtain for a condition that by itself is sufficient to guarantee that result.", "usage": {"prompt_tokens": 334, "completion_tokens": 29, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 293, "completion_tokens": 3, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 305, "completion_tokens": 3, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Warfare in the Neolithic period was always motivated by territorial disputes over agricultural land.", "usage": {"prompt_tokens": 295, "completion_tokens": 26, "total_tokens": 321}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 278, "completion_tokens": 3, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 320, "completion_tokens": 3, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 278, "completion_tokens": 3, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 285, "completion_tokens": 3, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 426, "completion_tokens": 4, "total_tokens": 430}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The people who designed the new program were unaware of the fact that some workers in X receive more than one paycheck per pay period.", "usage": {"prompt_tokens": 384, "completion_tokens": 32, "total_tokens": 416}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is used to show that the two types of reasons cited in favor of vegetarianism are independent.", "usage": {"prompt_tokens": 303, "completion_tokens": 26, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Most reports of clinical trials involving patients from several hospitals have multiple authors.", "usage": {"prompt_tokens": 286, "completion_tokens": 22, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 295, "completion_tokens": 3, "total_tokens": 298}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 304, "completion_tokens": 3, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 345, "completion_tokens": 5, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 258, "completion_tokens": 4, "total_tokens": 262}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 305, "completion_tokens": 3, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Medical specialists who prescribe these treatments make accurate judgments about who needs both drugs and physical therapy and who needs physical therapy alone.", "usage": {"prompt_tokens": 323, "completion_tokens": 36, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 274, "completion_tokens": 3, "total_tokens": 277}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Products generally succeed in the market if they are packaged in a manner that accurately reflects their nature.", "usage": {"prompt_tokens": 302, "completion_tokens": 27, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 346, "completion_tokens": 4, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 316, "completion_tokens": 3, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. All problems that have economic causes must have economic solutions.", "usage": {"prompt_tokens": 276, "completion_tokens": 15, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 255, "completion_tokens": 3, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 269, "completion_tokens": 4, "total_tokens": 273}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Agreement by scientists that a substance is addictive justifies government restrictions on products containing that substance.", "usage": {"prompt_tokens": 353, "completion_tokens": 29, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 353, "completion_tokens": 3, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 258, "completion_tokens": 3, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Any story that describes a violation of a law of nature is intended to invoke dread in the reader.", "usage": {"prompt_tokens": 312, "completion_tokens": 25, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 249, "completion_tokens": 4, "total_tokens": 253}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Many nonflowering plants rely on bees.", "usage": {"prompt_tokens": 234, "completion_tokens": 15, "total_tokens": 249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 285, "completion_tokens": 3, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 334, "completion_tokens": 3, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 389, "completion_tokens": 4, "total_tokens": 393}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 488, "completion_tokens": 5, "total_tokens": 493}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The phenomena observed by the physics professor were each observed by at least one other person.", "usage": {"prompt_tokens": 292, "completion_tokens": 22, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 475, "completion_tokens": 5, "total_tokens": 480}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 338, "completion_tokens": 3, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 259, "completion_tokens": 4, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Some diseases that occur in newborns can weaken the brain's natural defenses and allow bilirubin to enter.", "usage": {"prompt_tokens": 373, "completion_tokens": 33, "total_tokens": 406}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Modern capitalism is designed primarily to distribute goods and services, not to create communal ties between people.", "usage": {"prompt_tokens": 286, "completion_tokens": 27, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 315, "completion_tokens": 3, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 224, "completion_tokens": 3, "total_tokens": 227}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The longer an infant stares at an object, the more interesting the infant finds that object.", "usage": {"prompt_tokens": 257, "completion_tokens": 23, "total_tokens": 280}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 298, "completion_tokens": 3, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 400, "completion_tokens": 5, "total_tokens": 405}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 446, "completion_tokens": 4, "total_tokens": 450}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 331, "completion_tokens": 6, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Mathematics plays a more important role in the natural sciences than it does in the social sciences.", "usage": {"prompt_tokens": 252, "completion_tokens": 23, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Fractures do not develop at high-stress points, because bridges are reinforced at those points; however, stress is transferred to other points on the bridge where it causes fractures.", "usage": {"prompt_tokens": 344, "completion_tokens": 46, "total_tokens": 390}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 279, "completion_tokens": 4, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Washing machines of a given type should be compared only with washing machines of that type.", "usage": {"prompt_tokens": 294, "completion_tokens": 24, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 310, "completion_tokens": 3, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 290, "completion_tokens": 3, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 288, "completion_tokens": 3, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. Every print in the museum store is of a work that is either on loan to the museum from a private collector or part of the museum's permanent collection.", "usage": {"prompt_tokens": 308, "completion_tokens": 38, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 365, "completion_tokens": 3, "total_tokens": 368}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 259, "completion_tokens": 4, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 354, "completion_tokens": 4, "total_tokens": 358}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is a premise that supports the argument's main conclusion by suggesting that the results of recent scientific research are only superficially different from claims made in Newton's Principia.", "usage": {"prompt_tokens": 385, "completion_tokens": 44, "total_tokens": 429}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 333, "completion_tokens": 4, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 255, "completion_tokens": 3, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Drivers often become overconfident after their cars have passed a thorough safety inspection.", "usage": {"prompt_tokens": 307, "completion_tokens": 24, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Most of the country is hot.", "usage": {"prompt_tokens": 202, "completion_tokens": 11, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 319, "completion_tokens": 3, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 337, "completion_tokens": 3, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 272, "completion_tokens": 3, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Rebutting an objection by attacking the assumption on which it is said to be based.", "usage": {"prompt_tokens": 277, "completion_tokens": 24, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 308, "completion_tokens": 3, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Dogs learn from past experience how their owners are likely to react to misbehavior.", "usage": {"prompt_tokens": 239, "completion_tokens": 23, "total_tokens": 262}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The intensity of the average tornado is greater now than it was in 1953.", "usage": {"prompt_tokens": 255, "completion_tokens": 24, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 278, "completion_tokens": 4, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 451, "completion_tokens": 3, "total_tokens": 454}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 387, "completion_tokens": 5, "total_tokens": 392}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)People tend to adapt easily to gradually implemented technological innovations.", "usage": {"prompt_tokens": 227, "completion_tokens": 19, "total_tokens": 246}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Official guidelines for granting promotion tend to focus on merit.", "usage": {"prompt_tokens": 269, "completion_tokens": 19, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 325, "completion_tokens": 3, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. The more prone a jogger is to jogging injuries, the more likely he or she is to develop the habit of performing stretches before jogging.", "usage": {"prompt_tokens": 336, "completion_tokens": 38, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is a generalization for which the claim that superconductor development will enable energy to be transported farther with less energy lost in transit is offered as an illustration.", "usage": {"prompt_tokens": 357, "completion_tokens": 41, "total_tokens": 398}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 339, "completion_tokens": 3, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 287, "completion_tokens": 3, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Archaeologists studying a site can tell whether or not that site had been flooded at some time.", "usage": {"prompt_tokens": 307, "completion_tokens": 26, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The city's financial predicament would not have been resolved had the city not invested in computer modeling technology.", "usage": {"prompt_tokens": 344, "completion_tokens": 29, "total_tokens": 373}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The standard against which evidence in a criminal case is measured should not be absolute certainty.", "usage": {"prompt_tokens": 272, "completion_tokens": 22, "total_tokens": 294}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Some people who are not members of the Frequent Viewers club can receive the special discount coupon.", "usage": {"prompt_tokens": 356, "completion_tokens": 27, "total_tokens": 383}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 447, "completion_tokens": 5, "total_tokens": 452}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Antibiotic resistance of bacteria that survive in sewage sludge containing high concentrations of heavy metals contributes to their resistance to heavy-metal poisoning.", "usage": {"prompt_tokens": 388, "completion_tokens": 44, "total_tokens": 432}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 263, "completion_tokens": 3, "total_tokens": 266}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 329, "completion_tokens": 4, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 324, "completion_tokens": 3, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 279, "completion_tokens": 3, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The application fails to indicate how much money Wilton received for the bicycle.", "usage": {"prompt_tokens": 287, "completion_tokens": 21, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 288, "completion_tokens": 4, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 272, "completion_tokens": 3, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 232, "completion_tokens": 3, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 312, "completion_tokens": 4, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 309, "completion_tokens": 3, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The highways that have the highest rate of fatal accidents have moderate volumes of traffic.", "usage": {"prompt_tokens": 231, "completion_tokens": 23, "total_tokens": 254}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. In most cases, lawmakers assess the level of harm resulting from an act in determining whether to make that act illegal.", "usage": {"prompt_tokens": 325, "completion_tokens": 30, "total_tokens": 355}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 279, "completion_tokens": 3, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. rejects a proposal on the grounds that an inadequate argument has been given for it.", "usage": {"prompt_tokens": 273, "completion_tokens": 24, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Gardeners should not add compost to the soil unless they have a thorough understanding of composting.", "usage": {"prompt_tokens": 282, "completion_tokens": 25, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The overwhelming majority of galaxies are so far from Earth that their mass can be only roughly estimated.", "usage": {"prompt_tokens": 295, "completion_tokens": 26, "total_tokens": 321}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 308, "completion_tokens": 3, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 340, "completion_tokens": 3, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 321, "completion_tokens": 5, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Acetylsalicylic acid reduces the production of immune cells in the brain.", "usage": {"prompt_tokens": 363, "completion_tokens": 22, "total_tokens": 385}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 554, "completion_tokens": 3, "total_tokens": 557}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The biological catalysts that can be used in the tanning process are less costly by weight than are calcium oxide and sodium sulfide.", "usage": {"prompt_tokens": 357, "completion_tokens": 38, "total_tokens": 395}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. I have no reason to think that the practical joke I want to play would harm anyone. So, since the joke would show no contempt for the person the joke is played on, it would not be wrong for me to play it.", "usage": {"prompt_tokens": 357, "completion_tokens": 55, "total_tokens": 412}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 444, "completion_tokens": 3, "total_tokens": 447}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 356, "completion_tokens": 3, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 359, "completion_tokens": 4, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Genuine confidence is often a by-product of pretended self-confidence.", "usage": {"prompt_tokens": 263, "completion_tokens": 22, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 496, "completion_tokens": 5, "total_tokens": 501}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 344, "completion_tokens": 3, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 288, "completion_tokens": 3, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 328, "completion_tokens": 5, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 342, "completion_tokens": 3, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 330, "completion_tokens": 4, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) There are more people who harbor M tuberculosis than people who harbor H pylori.", "usage": {"prompt_tokens": 365, "completion_tokens": 27, "total_tokens": 392}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. All of the apartments in the building have scenic views.", "usage": {"prompt_tokens": 221, "completion_tokens": 17, "total_tokens": 238}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 259, "completion_tokens": 6, "total_tokens": 265}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 282, "completion_tokens": 4, "total_tokens": 286}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 299, "completion_tokens": 3, "total_tokens": 302}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 294, "completion_tokens": 3, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 216, "completion_tokens": 4, "total_tokens": 220}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 331, "completion_tokens": 3, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 240, "completion_tokens": 4, "total_tokens": 244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 259, "completion_tokens": 3, "total_tokens": 262}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 344, "completion_tokens": 4, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 480, "completion_tokens": 5, "total_tokens": 485}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 311, "completion_tokens": 3, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 297, "completion_tokens": 3, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 285, "completion_tokens": 3, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)An action performed with the wrong motivations cannot be morally good.", "usage": {"prompt_tokens": 306, "completion_tokens": 19, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 260, "completion_tokens": 3, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Airlines using the airport base their schedules on the assumption that more than 30 planes an hour will be allowed to land at the airport.", "usage": {"prompt_tokens": 308, "completion_tokens": 40, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Early humans developed languages, which provided a more effective way of maintaining social cohesion than social grooming.", "usage": {"prompt_tokens": 364, "completion_tokens": 27, "total_tokens": 391}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 478, "completion_tokens": 4, "total_tokens": 482}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 376, "completion_tokens": 4, "total_tokens": 380}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 250, "completion_tokens": 3, "total_tokens": 253}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C)Regulation of information makes it easy for people to distinguish between accurate information and misinformation.", "usage": {"prompt_tokens": 311, "completion_tokens": 23, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. At the time the previous club president hired the tax accountant, most club members did not expect to be consulted about such matters.", "usage": {"prompt_tokens": 291, "completion_tokens": 32, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Most Filterator X owners have no way to determine how effectively the product removes chemical contaminants from water.", "usage": {"prompt_tokens": 287, "completion_tokens": 27, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 233, "completion_tokens": 3, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 326, "completion_tokens": 4, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Desiring to conform to a principle requires free will.", "usage": {"prompt_tokens": 223, "completion_tokens": 15, "total_tokens": 238}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A university library's acquisition budget usually represents only a small fraction of its total operating budget.", "usage": {"prompt_tokens": 322, "completion_tokens": 24, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 319, "completion_tokens": 3, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 356, "completion_tokens": 5, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 326, "completion_tokens": 3, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The company did not widely advertise its change in policy.", "usage": {"prompt_tokens": 255, "completion_tokens": 17, "total_tokens": 272}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 481, "completion_tokens": 4, "total_tokens": 485}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 313, "completion_tokens": 4, "total_tokens": 317}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Feeling a lack of control over one's own work tends to put one under emotional stress that makes one more susceptible to nerve disorders.", "usage": {"prompt_tokens": 354, "completion_tokens": 37, "total_tokens": 391}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 437, "completion_tokens": 3, "total_tokens": 440}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 287, "completion_tokens": 3, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Prehistoric savanna and woodland areas offered more reliable and abundant resources than they do today.", "usage": {"prompt_tokens": 323, "completion_tokens": 25, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 238, "completion_tokens": 3, "total_tokens": 241}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 266, "completion_tokens": 3, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 316, "completion_tokens": 3, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice D.", "usage": {"prompt_tokens": 345, "completion_tokens": 5, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 267, "completion_tokens": 4, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 355, "completion_tokens": 6, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: B", "usage": {"prompt_tokens": 333, "completion_tokens": 3, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (E)", "usage": {"prompt_tokens": 370, "completion_tokens": 5, "total_tokens": 375}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 290, "completion_tokens": 3, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 310, "completion_tokens": 5, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The surface of Venus is relatively thin, allowing internally produced heat to radiate into space.", "usage": {"prompt_tokens": 294, "completion_tokens": 23, "total_tokens": 317}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 314, "completion_tokens": 5, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Snake populations are much less threatened than the populations of several other species for which capture is legal.", "usage": {"prompt_tokens": 311, "completion_tokens": 25, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Television shows make their profits from sponsors, who are chiefly concerned with the purchasing power of the people who watch a television show.", "usage": {"prompt_tokens": 314, "completion_tokens": 36, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 280, "completion_tokens": 4, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Every organism that generates carbon dioxide reproduces more quickly at high temperatures.", "usage": {"prompt_tokens": 275, "completion_tokens": 22, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 500, "completion_tokens": 5, "total_tokens": 505}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 337, "completion_tokens": 3, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) It is offered as support for the contention that maps have certain relevant similarities to language.", "usage": {"prompt_tokens": 295, "completion_tokens": 24, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 361, "completion_tokens": 3, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 313, "completion_tokens": 3, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 303, "completion_tokens": 4, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 323, "completion_tokens": 4, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Ignorance of the difference between two codes is not an adequate excuse for noncompliance.", "usage": {"prompt_tokens": 271, "completion_tokens": 28, "total_tokens": 299}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 276, "completion_tokens": 3, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)All speakers at the convention are government officials.", "usage": {"prompt_tokens": 203, "completion_tokens": 15, "total_tokens": 218}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 336, "completion_tokens": 3, "total_tokens": 339}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 325, "completion_tokens": 3, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 383, "completion_tokens": 3, "total_tokens": 386}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 308, "completion_tokens": 3, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 333, "completion_tokens": 3, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 308, "completion_tokens": 3, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 491, "completion_tokens": 3, "total_tokens": 494}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 267, "completion_tokens": 4, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is E. A picture that has become encrusted with grime over a long period can no longer be regarded as the same work of art as that painted by the artist.", "usage": {"prompt_tokens": 332, "completion_tokens": 37, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 290, "completion_tokens": 3, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 327, "completion_tokens": 4, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. No city has worse air pollution today than it did 30 years ago.", "usage": {"prompt_tokens": 272, "completion_tokens": 21, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 301, "completion_tokens": 4, "total_tokens": 305}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Vitamin C has not been shown to reduce people's risk of developing cancer, even at the very high dosage levels recommended by some doctors.", "usage": {"prompt_tokens": 381, "completion_tokens": 35, "total_tokens": 416}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Copper particles are a component of air pollution in several locales.", "usage": {"prompt_tokens": 323, "completion_tokens": 19, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Studies testing whether the accuracy of birds' migratory patterns is due to an innate sense are inconclusive.", "usage": {"prompt_tokens": 322, "completion_tokens": 28, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. There is no reason to suppose that most of the ingredients in laundry detergents not advertised as ecologically friendly harm the environment significantly.", "usage": {"prompt_tokens": 372, "completion_tokens": 38, "total_tokens": 410}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 310, "completion_tokens": 3, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 331, "completion_tokens": 3, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Ingredients that should never be used in cooking are generally neither tasty nor healthful.", "usage": {"prompt_tokens": 222, "completion_tokens": 25, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The body size of northern fur seals is not strongly correlated with the overall health of the seals.", "usage": {"prompt_tokens": 330, "completion_tokens": 26, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 299, "completion_tokens": 3, "total_tokens": 302}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 252, "completion_tokens": 3, "total_tokens": 255}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 326, "completion_tokens": 3, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice C.", "usage": {"prompt_tokens": 396, "completion_tokens": 5, "total_tokens": 401}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The chairperson of Acme has good financial reasons for wanting to move the company to Ocean View.", "usage": {"prompt_tokens": 264, "completion_tokens": 24, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 277, "completion_tokens": 3, "total_tokens": 280}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 309, "completion_tokens": 3, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 314, "completion_tokens": 4, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 498, "completion_tokens": 5, "total_tokens": 503}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 293, "completion_tokens": 3, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)every cat is a fish since no cat is a dog.", "usage": {"prompt_tokens": 246, "completion_tokens": 17, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 354, "completion_tokens": 3, "total_tokens": 357}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 287, "completion_tokens": 3, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 257, "completion_tokens": 4, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 311, "completion_tokens": 3, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 303, "completion_tokens": 3, "total_tokens": 306}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Most people whose organizational skills in the workplace are below average do not take seminars for building organizational skills in the workplace.", "usage": {"prompt_tokens": 289, "completion_tokens": 33, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 400, "completion_tokens": 3, "total_tokens": 403}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 245, "completion_tokens": 3, "total_tokens": 248}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 345, "completion_tokens": 3, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The astronomer's argument fails to justify its claim that the view being criticized is inherently implausible.", "usage": {"prompt_tokens": 349, "completion_tokens": 28, "total_tokens": 377}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 459, "completion_tokens": 4, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 402, "completion_tokens": 4, "total_tokens": 406}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 288, "completion_tokens": 4, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 350, "completion_tokens": 3, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 275, "completion_tokens": 3, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 371, "completion_tokens": 3, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 346, "completion_tokens": 3, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 323, "completion_tokens": 3, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. In a field study, the researcher lives within the community being studied.", "usage": {"prompt_tokens": 279, "completion_tokens": 19, "total_tokens": 298}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 441, "completion_tokens": 4, "total_tokens": 445}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 410, "completion_tokens": 3, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 295, "completion_tokens": 3, "total_tokens": 298}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 344, "completion_tokens": 3, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 360, "completion_tokens": 3, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. For soil to remain healthy in the long term, it requires the regular addition of both commercial fertilizers and a source of micronutrients such as grass clippings that are allowed to decay and return to the soil.", "usage": {"prompt_tokens": 415, "completion_tokens": 51, "total_tokens": 466}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. If present in the environment in sufficient quantities, the diluted XTX is as harmful as the more concentrated XTX.", "usage": {"prompt_tokens": 436, "completion_tokens": 30, "total_tokens": 466}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 338, "completion_tokens": 5, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The best method for helping a nursing-home resident to overcome depression is to provide access to a pet.", "usage": {"prompt_tokens": 250, "completion_tokens": 28, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 274, "completion_tokens": 3, "total_tokens": 277}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 354, "completion_tokens": 3, "total_tokens": 357}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. There are more stray cats than there should be.", "usage": {"prompt_tokens": 288, "completion_tokens": 16, "total_tokens": 304}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)People who repeatedly commit embezzlement or bribery become more and more careless the longer they avoid detection.", "usage": {"prompt_tokens": 298, "completion_tokens": 31, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The wholesale price per pound of beef is approximately ten times the wholesale price per pound of bread.", "usage": {"prompt_tokens": 303, "completion_tokens": 30, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 324, "completion_tokens": 3, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 269, "completion_tokens": 4, "total_tokens": 273}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 260, "completion_tokens": 3, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 280, "completion_tokens": 4, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The amount of fresh water available to meet the needs of Earth's population varies significantly from region to region.", "usage": {"prompt_tokens": 248, "completion_tokens": 27, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Increased productivity is not the only benefit of giving individual employees greater control over their work; job satisfaction increases as well.", "usage": {"prompt_tokens": 322, "completion_tokens": 30, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 293, "completion_tokens": 3, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) A crime is justified only if it is a means of compensating people who deserve compensation.", "usage": {"prompt_tokens": 317, "completion_tokens": 26, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Unrelieved heartburn is not likely to cause esophageal cancer.", "usage": {"prompt_tokens": 331, "completion_tokens": 20, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 402, "completion_tokens": 5, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Flexible-schedule policies should be expected to improve the morale of some individual employees but not the overall morale of a company's workforce.", "usage": {"prompt_tokens": 340, "completion_tokens": 37, "total_tokens": 377}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 295, "completion_tokens": 3, "total_tokens": 298}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 293, "completion_tokens": 3, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 303, "completion_tokens": 3, "total_tokens": 306}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To keep all the drinking water in the district clean requires more dairy inspectors to monitor the dairies' disposal of natural wastes.", "usage": {"prompt_tokens": 379, "completion_tokens": 34, "total_tokens": 413}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 362, "completion_tokens": 5, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 416, "completion_tokens": 5, "total_tokens": 421}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 275, "completion_tokens": 5, "total_tokens": 280}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. appealing to an aesthetic principle to defend the tastes that people have.", "usage": {"prompt_tokens": 240, "completion_tokens": 23, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 248, "completion_tokens": 3, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The construction of the temple at Didyma was begun over a century after the Parthenon was constructed.", "usage": {"prompt_tokens": 333, "completion_tokens": 27, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. No government service should be entirely dependent on lottery revenue for its funding.", "usage": {"prompt_tokens": 246, "completion_tokens": 21, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Rattlesnakes react much more defensively when confronted with a squirrel whose tail is heated up than when confronted with one whose tail is not.", "usage": {"prompt_tokens": 364, "completion_tokens": 40, "total_tokens": 404}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 293, "completion_tokens": 3, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Grapefruit juice is less expensive than most of the medicines with which it interacts.", "usage": {"prompt_tokens": 337, "completion_tokens": 25, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 334, "completion_tokens": 3, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 322, "completion_tokens": 3, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. A high-calcium diet decreases the amount of lead that the body is able to tolerate safely.", "usage": {"prompt_tokens": 316, "completion_tokens": 28, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 374, "completion_tokens": 3, "total_tokens": 377}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 294, "completion_tokens": 3, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. If a culture had a distinct word for a metal, then it smelted that metal.", "usage": {"prompt_tokens": 273, "completion_tokens": 24, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 321, "completion_tokens": 3, "total_tokens": 324}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 330, "completion_tokens": 3, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)The untreated chicks experienced a higher incidence of illness from infection by bacteria other than Salmonella than did treated chicks.", "usage": {"prompt_tokens": 313, "completion_tokens": 37, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 316, "completion_tokens": 4, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 336, "completion_tokens": 5, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 338, "completion_tokens": 4, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. If a species thrives in a new environment, that species is adaptable. Species that adapt to new environments adversely affect some species already existing in those environments. So, if a species does not adversely affect any species already existing in its new environment, it has not adapted to it.", "usage": {"prompt_tokens": 486, "completion_tokens": 64, "total_tokens": 550}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. If the number of visitors to the city increases, then the amount of money spent by visitors will increase.", "usage": {"prompt_tokens": 275, "completion_tokens": 25, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Is there a decline in obedience if rewards are withheld from both dogs in the pair?", "usage": {"prompt_tokens": 297, "completion_tokens": 27, "total_tokens": 324}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 286, "completion_tokens": 3, "total_tokens": 289}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 277, "completion_tokens": 4, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)If Ted is incapable of reporting the accident to the department of motor vehicles, then he was injured in the accident.", "usage": {"prompt_tokens": 292, "completion_tokens": 30, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 373, "completion_tokens": 3, "total_tokens": 376}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 230, "completion_tokens": 4, "total_tokens": 234}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 314, "completion_tokens": 3, "total_tokens": 317}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 273, "completion_tokens": 3, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 335, "completion_tokens": 3, "total_tokens": 338}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 301, "completion_tokens": 3, "total_tokens": 304}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Human beings can control the aspects of their behavior that have an impact on climate change.", "usage": {"prompt_tokens": 261, "completion_tokens": 22, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 278, "completion_tokens": 6, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 260, "completion_tokens": 3, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 284, "completion_tokens": 3, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 318, "completion_tokens": 4, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B)No one can assess the overall effects of sleep deprivation on a particular person as well as that sleep-deprived person can.", "usage": {"prompt_tokens": 306, "completion_tokens": 32, "total_tokens": 338}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 386, "completion_tokens": 3, "total_tokens": 389}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B", "usage": {"prompt_tokens": 274, "completion_tokens": 4, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 317, "completion_tokens": 3, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 256, "completion_tokens": 4, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A painter who makes use of the interplay of light and shadow need not for that reason be considered a nonrealistic painter.", "usage": {"prompt_tokens": 335, "completion_tokens": 30, "total_tokens": 365}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 292, "completion_tokens": 3, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 278, "completion_tokens": 4, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 406, "completion_tokens": 4, "total_tokens": 410}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 258, "completion_tokens": 3, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 326, "completion_tokens": 3, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 281, "completion_tokens": 4, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The government has agreed to sell National Silver, a state-owned mine, to a corporation. Although citizens of Country F have majority ownership of the corporation, most of the corporation's operations and sales take place in other countries.", "usage": {"prompt_tokens": 490, "completion_tokens": 53, "total_tokens": 543}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 294, "completion_tokens": 3, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 466, "completion_tokens": 5, "total_tokens": 471}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The trees in the nearby orchards were the only type of trees in the area attractive to nesting mourning doves.", "usage": {"prompt_tokens": 283, "completion_tokens": 32, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 314, "completion_tokens": 4, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 265, "completion_tokens": 4, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 234, "completion_tokens": 3, "total_tokens": 237}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The argument fails to explain how chameleons regulate their vitamin D production by basking in the sun.", "usage": {"prompt_tokens": 291, "completion_tokens": 29, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The message of the recent protest rally did not concern any function of the government.", "usage": {"prompt_tokens": 278, "completion_tokens": 21, "total_tokens": 299}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 328, "completion_tokens": 3, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Employment in the service sector tends to require as many specialized skills as does employment in manufacturing.", "usage": {"prompt_tokens": 274, "completion_tokens": 26, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 255, "completion_tokens": 4, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 308, "completion_tokens": 3, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 233, "completion_tokens": 3, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 313, "completion_tokens": 3, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Neither the mice who received the ginkgo nor the other mice in the experiment exhibited physiological signs of higher-than-normal stress.", "usage": {"prompt_tokens": 345, "completion_tokens": 37, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 294, "completion_tokens": 3, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice D. Owners of self-service facilities should monitor those facilities in order to ensure that they are not used for illegal or unethical purposes.", "usage": {"prompt_tokens": 374, "completion_tokens": 34, "total_tokens": 408}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 242, "completion_tokens": 4, "total_tokens": 246}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 301, "completion_tokens": 3, "total_tokens": 304}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 288, "completion_tokens": 3, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Patients' predictions of sudden changes in their medical status are less likely to be remembered by medical staff if no such change actually occurs.", "usage": {"prompt_tokens": 303, "completion_tokens": 31, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 306, "completion_tokens": 3, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 286, "completion_tokens": 3, "total_tokens": 289}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 484, "completion_tokens": 6, "total_tokens": 490}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 368, "completion_tokens": 3, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 257, "completion_tokens": 3, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 288, "completion_tokens": 3, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Most of the shows that Wilke & Wilke produced last year that were not canceled were police dramas.", "usage": {"prompt_tokens": 268, "completion_tokens": 28, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. If a factory is found to have been recklessly violating pollution laws, that factory should be required to make the expenditures necessary to bring it into compliance with those laws to the satisfaction of the regulators.", "usage": {"prompt_tokens": 345, "completion_tokens": 50, "total_tokens": 395}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 251, "completion_tokens": 3, "total_tokens": 254}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The quality of the stimuli in an artist's environment matters.", "usage": {"prompt_tokens": 270, "completion_tokens": 18, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. The number of animal species listed as endangered has recently increased dramatically.", "usage": {"prompt_tokens": 289, "completion_tokens": 20, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 227, "completion_tokens": 3, "total_tokens": 230}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Modernization of religious texts and rituals will not involve an alteration of their messages.", "usage": {"prompt_tokens": 271, "completion_tokens": 22, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 355, "completion_tokens": 6, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It expresses the main conclusion of the argument.", "usage": {"prompt_tokens": 299, "completion_tokens": 14, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The more fuel a vehicle consumes, the more motivation a driver has to find the shortest route to his or her destination.", "usage": {"prompt_tokens": 358, "completion_tokens": 31, "total_tokens": 389}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 285, "completion_tokens": 3, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 223, "completion_tokens": 3, "total_tokens": 226}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 512, "completion_tokens": 5, "total_tokens": 517}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 338, "completion_tokens": 3, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 249, "completion_tokens": 4, "total_tokens": 253}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 280, "completion_tokens": 3, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 277, "completion_tokens": 4, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 313, "completion_tokens": 3, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. The average ostrich farm generates almost five times as much profit as the average cattle ranch.", "usage": {"prompt_tokens": 298, "completion_tokens": 24, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 323, "completion_tokens": 3, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The Earth's crust first formed in the area that is now Western Australia.", "usage": {"prompt_tokens": 288, "completion_tokens": 21, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 269, "completion_tokens": 3, "total_tokens": 272}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 342, "completion_tokens": 3, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 431, "completion_tokens": 5, "total_tokens": 436}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Even if the volume of collected recyclables increases, that increase might not be enough to make the recycling program cost effective.", "usage": {"prompt_tokens": 409, "completion_tokens": 32, "total_tokens": 441}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Science departments need a way to ensure that only those students most committed to being science majors will receive passing grades in introductory science courses.", "usage": {"prompt_tokens": 376, "completion_tokens": 35, "total_tokens": 411}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The common ancestor of bird and reptile species would probably have employed multiple threat devices against potential predators.", "usage": {"prompt_tokens": 329, "completion_tokens": 27, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Surveys should gather detailed personal information only if survey respondents are first told about how that information will be used.", "usage": {"prompt_tokens": 280, "completion_tokens": 29, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The Iliad does not provide any clues about the specific location of Troy.", "usage": {"prompt_tokens": 305, "completion_tokens": 22, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Providing evidence that undermines one of the premises of Flynn's argument.", "usage": {"prompt_tokens": 299, "completion_tokens": 24, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. The stated goal of the project was to reduce as much as possible the number of homes in the community that lack electricity.", "usage": {"prompt_tokens": 325, "completion_tokens": 29, "total_tokens": 354}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Offering an alternative explanation of some of the data.", "usage": {"prompt_tokens": 254, "completion_tokens": 16, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is a good idea to open a rug store in Glendale.", "usage": {"prompt_tokens": 256, "completion_tokens": 19, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 371, "completion_tokens": 3, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 272, "completion_tokens": 3, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 241, "completion_tokens": 4, "total_tokens": 245}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The students who were taught with verbal explanations were allowed to discuss the toolmaking techniques among themselves, whereas the students who learned by silent example were not.", "usage": {"prompt_tokens": 405, "completion_tokens": 36, "total_tokens": 441}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 328, "completion_tokens": 4, "total_tokens": 332}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 290, "completion_tokens": 3, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 303, "completion_tokens": 4, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 307, "completion_tokens": 3, "total_tokens": 310}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 272, "completion_tokens": 3, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 250, "completion_tokens": 5, "total_tokens": 255}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 300, "completion_tokens": 3, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 322, "completion_tokens": 3, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 325, "completion_tokens": 3, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 336, "completion_tokens": 3, "total_tokens": 339}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 482, "completion_tokens": 5, "total_tokens": 487}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Overlooks the possibility that two or more chemicals produce the same effects.", "usage": {"prompt_tokens": 315, "completion_tokens": 20, "total_tokens": 335}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 383, "completion_tokens": 3, "total_tokens": 386}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 306, "completion_tokens": 3, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 268, "completion_tokens": 3, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 348, "completion_tokens": 3, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The areas of the Roman empire that had the greatest climatic instability between 250 A.D. and 550 A.D. did not experience unusual levels of unrest during that period.", "usage": {"prompt_tokens": 341, "completion_tokens": 49, "total_tokens": 390}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 224, "completion_tokens": 4, "total_tokens": 228}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 308, "completion_tokens": 3, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 257, "completion_tokens": 4, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 266, "completion_tokens": 3, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Kuna who live on the islands drink cocoa because they believe that it is beneficial to their health.", "usage": {"prompt_tokens": 294, "completion_tokens": 26, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 285, "completion_tokens": 4, "total_tokens": 289}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 375, "completion_tokens": 4, "total_tokens": 379}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 300, "completion_tokens": 3, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 290, "completion_tokens": 3, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 346, "completion_tokens": 3, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 361, "completion_tokens": 5, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 278, "completion_tokens": 3, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 244, "completion_tokens": 3, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 341, "completion_tokens": 5, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is the overall conclusion of the argument.", "usage": {"prompt_tokens": 278, "completion_tokens": 13, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 282, "completion_tokens": 3, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It expresses a principle that is offered as support for the conclusion.", "usage": {"prompt_tokens": 302, "completion_tokens": 18, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 292, "completion_tokens": 3, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 312, "completion_tokens": 3, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 289, "completion_tokens": 6, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 301, "completion_tokens": 3, "total_tokens": 304}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 337, "completion_tokens": 3, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 433, "completion_tokens": 5, "total_tokens": 438}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 299, "completion_tokens": 4, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. Dust-mite allergens in bedding tend to irritate many allergy sufferers' nasal passages more than do the same allergens in other locations, such as carpets.", "usage": {"prompt_tokens": 367, "completion_tokens": 49, "total_tokens": 416}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 321, "completion_tokens": 4, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 261, "completion_tokens": 3, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Money designated for projects that benefit an entire community should not be used for projects that benefit only some members of a community.", "usage": {"prompt_tokens": 303, "completion_tokens": 30, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 327, "completion_tokens": 3, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 338, "completion_tokens": 3, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 318, "completion_tokens": 4, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 320, "completion_tokens": 3, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The winner of a competition is often the competitor who exerts the most effort.", "usage": {"prompt_tokens": 259, "completion_tokens": 22, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 287, "completion_tokens": 3, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 333, "completion_tokens": 3, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 284, "completion_tokens": 3, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)draws a conclusion about how the world actually is on the basis of claims about how it should be.", "usage": {"prompt_tokens": 259, "completion_tokens": 26, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 400, "completion_tokens": 5, "total_tokens": 405}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 233, "completion_tokens": 3, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 358, "completion_tokens": 3, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C) Lake trout do not alter their feeding habits from one part of the year to another.", "usage": {"prompt_tokens": 337, "completion_tokens": 26, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 298, "completion_tokens": 3, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Being opposed to higher taxes is not a sufficient condition for good leadership.", "usage": {"prompt_tokens": 241, "completion_tokens": 19, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Offering evidence to challenge the truth of the premise of Patterson's argument.", "usage": {"prompt_tokens": 293, "completion_tokens": 24, "total_tokens": 317}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 320, "completion_tokens": 3, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 289, "completion_tokens": 3, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 370, "completion_tokens": 5, "total_tokens": 375}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Cities that are regional economic hubs generally experience tremendous economic growth at some point. Our city is a regional economic hub that has never experienced tremendous economic growth. Thus it will probably experience tremendous economic growth in the future.", "usage": {"prompt_tokens": 378, "completion_tokens": 54, "total_tokens": 432}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice C.", "usage": {"prompt_tokens": 392, "completion_tokens": 5, "total_tokens": 397}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 289, "completion_tokens": 4, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 251, "completion_tokens": 4, "total_tokens": 255}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 292, "completion_tokens": 3, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 335, "completion_tokens": 3, "total_tokens": 338}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 345, "completion_tokens": 3, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 237, "completion_tokens": 3, "total_tokens": 240}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. In approximately 85 percent of the human population, very small amounts of urushiol can cause a rash.", "usage": {"prompt_tokens": 291, "completion_tokens": 29, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. Legislation that is not to anyone's benefit should not be commended.", "usage": {"prompt_tokens": 301, "completion_tokens": 20, "total_tokens": 321}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 304, "completion_tokens": 3, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 338, "completion_tokens": 3, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 332, "completion_tokens": 4, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 296, "completion_tokens": 3, "total_tokens": 299}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 326, "completion_tokens": 3, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)The domestic textile industry and consumers in the domestic economy would benefit less from reductions in taxes on textile imports than they would from other measures.", "usage": {"prompt_tokens": 301, "completion_tokens": 37, "total_tokens": 338}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 311, "completion_tokens": 3, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 245, "completion_tokens": 4, "total_tokens": 249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 279, "completion_tokens": 3, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 296, "completion_tokens": 3, "total_tokens": 299}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 521, "completion_tokens": 5, "total_tokens": 526}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 261, "completion_tokens": 3, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A book is a literary classic only if it is worthy of serious study.", "usage": {"prompt_tokens": 212, "completion_tokens": 19, "total_tokens": 231}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 308, "completion_tokens": 5, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 448, "completion_tokens": 6, "total_tokens": 454}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Hai's offer to sell artworks to Lea was made in such a way that no one in Lea's position would have reasonably believed it to be made in jest. Thus, if Lea accepts the offer, they have a valid contract.", "usage": {"prompt_tokens": 348, "completion_tokens": 59, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 315, "completion_tokens": 5, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) Takes for granted that the largest tomb found so far must be the largest that was built.", "usage": {"prompt_tokens": 282, "completion_tokens": 23, "total_tokens": 305}, "finish_reason": "stop", "model": "Alpaca-7B"}

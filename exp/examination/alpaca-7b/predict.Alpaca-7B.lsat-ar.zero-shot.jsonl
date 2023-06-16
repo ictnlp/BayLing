@@ -1,0 +1,230 @@
+{"text": "Answer is (D)Mon. morning: Nina; Mon. afternoon: Helen Tues. morning: Robert; Tues. afternoon: Irving Wed. morning: Olivia; Wed. afternoon: Lenore", "usage": {"prompt_tokens": 439, "completion_tokens": 44, "total_tokens": 483}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Nina, Helen, and Olivia.", "usage": {"prompt_tokens": 301, "completion_tokens": 14, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) Irving and Robert.", "usage": {"prompt_tokens": 287, "completion_tokens": 10, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Olivia gives a report on Monday.", "usage": {"prompt_tokens": 305, "completion_tokens": 14, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) Robert, George, and Irving.", "usage": {"prompt_tokens": 326, "completion_tokens": 13, "total_tokens": 339}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Kyle gives a report on Tuesday.", "usage": {"prompt_tokens": 307, "completion_tokens": 15, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) two French novels, one Russian novel, two French plays, one Russian play.", "usage": {"prompt_tokens": 281, "completion_tokens": 22, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (E) All five French works are selected.", "usage": {"prompt_tokens": 249, "completion_tokens": 12, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) one Russian novel, one Russian play.", "usage": {"prompt_tokens": 250, "completion_tokens": 13, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) two French novels.", "usage": {"prompt_tokens": 230, "completion_tokens": 10, "total_tokens": 240}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Exactly two French novels and exactly one play are selected.", "usage": {"prompt_tokens": 278, "completion_tokens": 18, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)P, T, F, S, O, R, L, H", "usage": {"prompt_tokens": 321, "completion_tokens": 21, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)sixth", "usage": {"prompt_tokens": 232, "completion_tokens": 8, "total_tokens": 240}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)second or seventh.", "usage": {"prompt_tokens": 252, "completion_tokens": 11, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)fourth or seventh.", "usage": {"prompt_tokens": 251, "completion_tokens": 12, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)O, P, T", "usage": {"prompt_tokens": 272, "completion_tokens": 10, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)H or L", "usage": {"prompt_tokens": 250, "completion_tokens": 8, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)sixth", "usage": {"prompt_tokens": 244, "completion_tokens": 7, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Siamese, Himalayan, Manx, Himalayan, Siamese, Siamese, Himalayan.", "usage": {"prompt_tokens": 404, "completion_tokens": 36, "total_tokens": 440}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Himalayans are featured on day 6.", "usage": {"prompt_tokens": 306, "completion_tokens": 17, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Greyhounds and Himalayans are both featured on day 7.", "usage": {"prompt_tokens": 321, "completion_tokens": 23, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)day 4 and day 6.", "usage": {"prompt_tokens": 310, "completion_tokens": 14, "total_tokens": 324}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Himalayans are featured on every day that Rottweilers are not.", "usage": {"prompt_tokens": 321, "completion_tokens": 23, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Rottweilers are featured on day 6.", "usage": {"prompt_tokens": 312, "completion_tokens": 17, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)H, K, M, P, R.", "usage": {"prompt_tokens": 268, "completion_tokens": 16, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)F, G, and H are all selected.", "usage": {"prompt_tokens": 268, "completion_tokens": 15, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)M", "usage": {"prompt_tokens": 241, "completion_tokens": 7, "total_tokens": 248}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)If exactly one chemist is selected, it must be K.", "usage": {"prompt_tokens": 283, "completion_tokens": 18, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)M or else Q.", "usage": {"prompt_tokens": 244, "completion_tokens": 11, "total_tokens": 255}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (A)fuel, machinery, textiles.", "usage": {"prompt_tokens": 293, "completion_tokens": 16, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (E)textiles.", "usage": {"prompt_tokens": 242, "completion_tokens": 8, "total_tokens": 250}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)five.", "usage": {"prompt_tokens": 256, "completion_tokens": 7, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B", "usage": {"prompt_tokens": 239, "completion_tokens": 4, "total_tokens": 243}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B", "usage": {"prompt_tokens": 289, "completion_tokens": 4, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Bay 4 is holding produce.", "usage": {"prompt_tokens": 280, "completion_tokens": 14, "total_tokens": 294}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)five.", "usage": {"prompt_tokens": 244, "completion_tokens": 8, "total_tokens": 252}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)oatmeal: Monday, Thursday, Friday peanut butter: Tuesday, Wednesday, Thursday sugar: Monday, Thursday, Friday", "usage": {"prompt_tokens": 443, "completion_tokens": 44, "total_tokens": 487}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)four", "usage": {"prompt_tokens": 248, "completion_tokens": 6, "total_tokens": 254}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Two different kinds of cookie have their first batch made on Tuesday.", "usage": {"prompt_tokens": 317, "completion_tokens": 19, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)Exactly three batches of cookies are made on Friday.", "usage": {"prompt_tokens": 306, "completion_tokens": 17, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C) The third batch of oatmeal cookies is made on Friday.", "usage": {"prompt_tokens": 314, "completion_tokens": 20, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Exactly two batches of cookies are made on Tuesday.", "usage": {"prompt_tokens": 316, "completion_tokens": 19, "total_tokens": 335}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Kramer, O'Neill.", "usage": {"prompt_tokens": 262, "completion_tokens": 15, "total_tokens": 277}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)O'Neill reviews more of the plays than Jiang does.", "usage": {"prompt_tokens": 294, "completion_tokens": 20, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Jiang reviews Undulation.", "usage": {"prompt_tokens": 273, "completion_tokens": 12, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C) Kramer, Lopez, O'Neill.", "usage": {"prompt_tokens": 284, "completion_tokens": 19, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Megregian reviews Tamerlane.", "usage": {"prompt_tokens": 270, "completion_tokens": 15, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 441, "completion_tokens": 6, "total_tokens": 447}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Vaughn is assigned parking space #5.", "usage": {"prompt_tokens": 324, "completion_tokens": 17, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) Young is assigned parking space #2.", "usage": {"prompt_tokens": 322, "completion_tokens": 15, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) two.", "usage": {"prompt_tokens": 272, "completion_tokens": 7, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) Young is assigned parking space #2.", "usage": {"prompt_tokens": 322, "completion_tokens": 15, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Xu is assigned parking space #6.", "usage": {"prompt_tokens": 316, "completion_tokens": 16, "total_tokens": 332}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Venezuela: Novetzke Yemen: Jaramillo Zambia: Kayne", "usage": {"prompt_tokens": 353, "completion_tokens": 25, "total_tokens": 378}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Kayne and Novetzke.", "usage": {"prompt_tokens": 293, "completion_tokens": 13, "total_tokens": 306}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Kayne and Novetzke.", "usage": {"prompt_tokens": 301, "completion_tokens": 13, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Landon is assigned as ambassador to Zambia.", "usage": {"prompt_tokens": 327, "completion_tokens": 17, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Landon is not assigned to an ambassadorship.", "usage": {"prompt_tokens": 320, "completion_tokens": 17, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B", "usage": {"prompt_tokens": 391, "completion_tokens": 4, "total_tokens": 395}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)F: Yuki, Seamus; G: Theresa, Reynaldo; H: Reynaldo, Theresa; J: Seamus, Yuki.", "usage": {"prompt_tokens": 458, "completion_tokens": 41, "total_tokens": 499}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C)Theresa tests H on the second day.", "usage": {"prompt_tokens": 314, "completion_tokens": 15, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Seamus tests H on the first day.", "usage": {"prompt_tokens": 304, "completion_tokens": 15, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Seamus tests F on the first day.", "usage": {"prompt_tokens": 306, "completion_tokens": 15, "total_tokens": 321}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Seamus is one of the testers for J.", "usage": {"prompt_tokens": 317, "completion_tokens": 17, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Both Seamus and Theresa test G.", "usage": {"prompt_tokens": 310, "completion_tokens": 16, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)F, G, M, O", "usage": {"prompt_tokens": 257, "completion_tokens": 12, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)M and H are placed on the same shelf as each other.", "usage": {"prompt_tokens": 303, "completion_tokens": 20, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)G is placed on a shelf higher than the shelf O is placed on.", "usage": {"prompt_tokens": 302, "completion_tokens": 23, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) I, K, L.", "usage": {"prompt_tokens": 261, "completion_tokens": 12, "total_tokens": 273}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)I and G are placed on the same shelf as each other.", "usage": {"prompt_tokens": 305, "completion_tokens": 19, "total_tokens": 324}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Wednesday: Kevin, Rebecca Thursday: Julio, Nessa Friday: Olivia, Lan", "usage": {"prompt_tokens": 371, "completion_tokens": 30, "total_tokens": 401}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Kevin.", "usage": {"prompt_tokens": 259, "completion_tokens": 8, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Julio, Kevin, Nessa, Rebecca.", "usage": {"prompt_tokens": 306, "completion_tokens": 17, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Olivia's session meets Thursday morning.", "usage": {"prompt_tokens": 293, "completion_tokens": 17, "total_tokens": 310}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)four.", "usage": {"prompt_tokens": 252, "completion_tokens": 7, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 379, "completion_tokens": 5, "total_tokens": 384}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The pharmacy is in space 1.", "usage": {"prompt_tokens": 303, "completion_tokens": 15, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The pharmacy is in space 7.", "usage": {"prompt_tokens": 303, "completion_tokens": 15, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A (pharmacy and restaurant).", "usage": {"prompt_tokens": 294, "completion_tokens": 11, "total_tokens": 305}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The pharmacy is next to the veterinarian.", "usage": {"prompt_tokens": 311, "completion_tokens": 17, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 367, "completion_tokens": 5, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Zone 1: Stuckey, Udall Zone 2: Kim, Tiao Zone 3: Mahr, Parra, Quinn", "usage": {"prompt_tokens": 421, "completion_tokens": 37, "total_tokens": 458}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Tiao works in Zone 1.", "usage": {"prompt_tokens": 311, "completion_tokens": 14, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Mahr and Udall both work in Zone 3.", "usage": {"prompt_tokens": 318, "completion_tokens": 19, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Stuckey, Tiao, Udall", "usage": {"prompt_tokens": 306, "completion_tokens": 16, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Tiao", "usage": {"prompt_tokens": 274, "completion_tokens": 8, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Stuckey works in Zone 2.", "usage": {"prompt_tokens": 309, "completion_tokens": 15, "total_tokens": 324}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) the third and fifth.", "usage": {"prompt_tokens": 264, "completion_tokens": 11, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)three", "usage": {"prompt_tokens": 241, "completion_tokens": 6, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. Zara performs the first solo.", "usage": {"prompt_tokens": 284, "completion_tokens": 12, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 239, "completion_tokens": 5, "total_tokens": 244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Wayne performs the second solo.", "usage": {"prompt_tokens": 279, "completion_tokens": 11, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 0, P, K, L, N, M, J", "usage": {"prompt_tokens": 306, "completion_tokens": 20, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)J, P", "usage": {"prompt_tokens": 251, "completion_tokens": 8, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)M is shown in the morning.", "usage": {"prompt_tokens": 257, "completion_tokens": 13, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Both N and P are shown at some time after K is shown.", "usage": {"prompt_tokens": 281, "completion_tokens": 20, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)M is shown in the afternoon.", "usage": {"prompt_tokens": 259, "completion_tokens": 13, "total_tokens": 272}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Monday: Garcia and Jackson Tuesday: Franco and Iturbe Wednesday: Hong and Jackson.", "usage": {"prompt_tokens": 334, "completion_tokens": 30, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Garcia is the only witness scheduled to testify on Monday and Hong is one of two witnesses scheduled to testify on Wednesday.", "usage": {"prompt_tokens": 323, "completion_tokens": 35, "total_tokens": 358}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Exactly two witnesses are scheduled to testify on Monday.", "usage": {"prompt_tokens": 295, "completion_tokens": 18, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Franco is scheduled to testify on the same day as Hong.", "usage": {"prompt_tokens": 301, "completion_tokens": 19, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Hong is scheduled to testify on Tuesday.", "usage": {"prompt_tokens": 300, "completion_tokens": 18, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Solide's voicemail target is 2 days.", "usage": {"prompt_tokens": 317, "completion_tokens": 18, "total_tokens": 335}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Image's website target is 2 days.", "usage": {"prompt_tokens": 308, "completion_tokens": 14, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Solide's website target must be shorter than Truvest's website target.", "usage": {"prompt_tokens": 290, "completion_tokens": 21, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Image's voicemail target.", "usage": {"prompt_tokens": 294, "completion_tokens": 12, "total_tokens": 306}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)a 3-day voicemail target.", "usage": {"prompt_tokens": 288, "completion_tokens": 15, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Solide's website target is shorter than Image's.", "usage": {"prompt_tokens": 325, "completion_tokens": 17, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)J, Q, G, H, Y, R, S.", "usage": {"prompt_tokens": 284, "completion_tokens": 20, "total_tokens": 304}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Q is first.", "usage": {"prompt_tokens": 231, "completion_tokens": 10, "total_tokens": 241}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Q is second.", "usage": {"prompt_tokens": 231, "completion_tokens": 10, "total_tokens": 241}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)R is third.", "usage": {"prompt_tokens": 225, "completion_tokens": 10, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)S is second.", "usage": {"prompt_tokens": 227, "completion_tokens": 10, "total_tokens": 237}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)fifth.", "usage": {"prompt_tokens": 229, "completion_tokens": 9, "total_tokens": 238}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)R is fourth.", "usage": {"prompt_tokens": 239, "completion_tokens": 10, "total_tokens": 249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Xpert", "usage": {"prompt_tokens": 250, "completion_tokens": 8, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) five.", "usage": {"prompt_tokens": 253, "completion_tokens": 8, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Yardsign performs in an earlier slot than Wellspring.", "usage": {"prompt_tokens": 294, "completion_tokens": 18, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (E)Zircon performs in slot three.", "usage": {"prompt_tokens": 277, "completion_tokens": 14, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Vegemite, Wellspring, Yardsign, Zircon.", "usage": {"prompt_tokens": 290, "completion_tokens": 22, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Zircon performs in slot two.", "usage": {"prompt_tokens": 276, "completion_tokens": 14, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Vegemite performs in an earlier slot than Wellspring, which performs in an earlier slot than Zircon.", "usage": {"prompt_tokens": 342, "completion_tokens": 28, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Schmidt, Thomson, Yoder, and Zayre.", "usage": {"prompt_tokens": 278, "completion_tokens": 19, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) Schmidt and Wong.", "usage": {"prompt_tokens": 246, "completion_tokens": 10, "total_tokens": 256}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Ortega.", "usage": {"prompt_tokens": 234, "completion_tokens": 9, "total_tokens": 243}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Neither Myers nor Zayre is on the team.", "usage": {"prompt_tokens": 280, "completion_tokens": 19, "total_tokens": 299}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Thomson and Yoder.", "usage": {"prompt_tokens": 247, "completion_tokens": 12, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C)screen 1: western at 7 P.M., sci-fi film at 9 P.M. screen 2: mystery at 7 P.M., horror film at 9 P.M. screen 3: romance at 8 P.M.", "usage": {"prompt_tokens": 557, "completion_tokens": 62, "total_tokens": 619}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)the western, the horror film.", "usage": {"prompt_tokens": 329, "completion_tokens": 12, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 342, "completion_tokens": 6, "total_tokens": 348}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) The sci-fi film begins at 9 P.M.", "usage": {"prompt_tokens": 337, "completion_tokens": 19, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)the western, the mystery.", "usage": {"prompt_tokens": 329, "completion_tokens": 11, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 344, "completion_tokens": 6, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)petrels, sandpipers, oystercatchers, terns.", "usage": {"prompt_tokens": 346, "completion_tokens": 24, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The second and third lectures are both in Howard Auditorium.", "usage": {"prompt_tokens": 310, "completion_tokens": 19, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is on rails and is in Howard Auditorium.", "usage": {"prompt_tokens": 327, "completion_tokens": 16, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is on petrels and is in Howard Auditorium.", "usage": {"prompt_tokens": 315, "completion_tokens": 18, "total_tokens": 333}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The fifth lecture is on oystercatchers and is in Howard Auditorium.", "usage": {"prompt_tokens": 332, "completion_tokens": 23, "total_tokens": 355}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 349, "completion_tokens": 6, "total_tokens": 355}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The percussionist performs the second solo.", "usage": {"prompt_tokens": 316, "completion_tokens": 14, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)The guitarist performs a solo at some time before the percussionist does.", "usage": {"prompt_tokens": 293, "completion_tokens": 21, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The keyboard player performs a solo at some time after the violinist does and at some time before the guitarist does.", "usage": {"prompt_tokens": 243, "completion_tokens": 30, "total_tokens": 273}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The trumpeter performs a solo at some time before the violinist does.", "usage": {"prompt_tokens": 324, "completion_tokens": 22, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Holden: oil paintings; Jiang: watercolors; Farley: lithographs; Garcia: sculptures.", "usage": {"prompt_tokens": 385, "completion_tokens": 33, "total_tokens": 418}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Holden's lecture is earlier than the lithographs lecture.", "usage": {"prompt_tokens": 310, "completion_tokens": 19, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Garcia gives the oil paintings lecture.", "usage": {"prompt_tokens": 296, "completion_tokens": 13, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Garcia gives the sculptures lecture.", "usage": {"prompt_tokens": 291, "completion_tokens": 12, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The oil paintings lecture is third.", "usage": {"prompt_tokens": 288, "completion_tokens": 12, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 354, "completion_tokens": 6, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Peach is used in one of the rugs.", "usage": {"prompt_tokens": 332, "completion_tokens": 17, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. One of the rugs is solid turquoise.", "usage": {"prompt_tokens": 326, "completion_tokens": 17, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)peach and yellow.", "usage": {"prompt_tokens": 303, "completion_tokens": 11, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. White is not used in any of the rugs.", "usage": {"prompt_tokens": 334, "completion_tokens": 16, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 332, "completion_tokens": 6, "total_tokens": 338}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C) Silva University: Frost, Gonzalez, Heideck, Knutson, Lai, Mays.", "usage": {"prompt_tokens": 406, "completion_tokens": 30, "total_tokens": 436}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Knutson is assigned to the Thorne University ceremony.", "usage": {"prompt_tokens": 350, "completion_tokens": 18, "total_tokens": 368}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Frost, Gonzalez, Heideck.", "usage": {"prompt_tokens": 329, "completion_tokens": 17, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C) Frost, Heideck, Knutson, Lai.", "usage": {"prompt_tokens": 339, "completion_tokens": 20, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Lai.", "usage": {"prompt_tokens": 310, "completion_tokens": 9, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (E) Knutson, Mays.", "usage": {"prompt_tokens": 343, "completion_tokens": 13, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 461, "completion_tokens": 6, "total_tokens": 467}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Villas, White, Stanton, Peters, Quinn, Tao, Rovero.", "usage": {"prompt_tokens": 314, "completion_tokens": 26, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Quinn, Stanton, Peters, Tao, Villas.", "usage": {"prompt_tokens": 291, "completion_tokens": 20, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (E)White was recruited third.", "usage": {"prompt_tokens": 252, "completion_tokens": 13, "total_tokens": 265}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)fifth.", "usage": {"prompt_tokens": 226, "completion_tokens": 9, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Tao was recruited sixth.", "usage": {"prompt_tokens": 270, "completion_tokens": 14, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Villas", "usage": {"prompt_tokens": 228, "completion_tokens": 8, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Lifestyle: both photographs by Gagnon Metro: one photograph by Fuentes and one by Gagnon Sports: one photograph by Fuentes and one by Hue", "usage": {"prompt_tokens": 439, "completion_tokens": 42, "total_tokens": 481}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 325, "completion_tokens": 5, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 351, "completion_tokens": 5, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 364, "completion_tokens": 5, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 348, "completion_tokens": 5, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 357, "completion_tokens": 5, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 360, "completion_tokens": 5, "total_tokens": 365}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Joe, Hakeem, Grecia, Louise, Katya.", "usage": {"prompt_tokens": 341, "completion_tokens": 21, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Joe does not work at the gallery on Tuesday.", "usage": {"prompt_tokens": 322, "completion_tokens": 18, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Tuesday and Thursday.", "usage": {"prompt_tokens": 312, "completion_tokens": 14, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Joe works the first shift on Wednesday.", "usage": {"prompt_tokens": 330, "completion_tokens": 16, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Hakeem works the first shift on Monday.", "usage": {"prompt_tokens": 321, "completion_tokens": 16, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)fall: K, M, N, and P spring: L and P.", "usage": {"prompt_tokens": 339, "completion_tokens": 22, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)N and P", "usage": {"prompt_tokens": 243, "completion_tokens": 8, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 0 is published in the spring.", "usage": {"prompt_tokens": 246, "completion_tokens": 14, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) 0 is published in the fall and P is published in the spring.", "usage": {"prompt_tokens": 280, "completion_tokens": 21, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)If N is published in the fall, P must also be published in the fall.", "usage": {"prompt_tokens": 328, "completion_tokens": 23, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Verma (leader), Smith, Xue.", "usage": {"prompt_tokens": 259, "completion_tokens": 17, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Smith or Xue.", "usage": {"prompt_tokens": 240, "completion_tokens": 11, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Neither Smith nor Xue is selected.", "usage": {"prompt_tokens": 254, "completion_tokens": 14, "total_tokens": 268}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Ruiz must be a project member if Smith is a project member.", "usage": {"prompt_tokens": 225, "completion_tokens": 18, "total_tokens": 243}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Neither Ruiz nor Wells is selected.", "usage": {"prompt_tokens": 259, "completion_tokens": 15, "total_tokens": 274}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Tiffany, Onyx, Louis, Ryan.", "usage": {"prompt_tokens": 349, "completion_tokens": 18, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Onyx is assigned to 1921.", "usage": {"prompt_tokens": 343, "completion_tokens": 16, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Tiffany is assigned to 1924.", "usage": {"prompt_tokens": 344, "completion_tokens": 18, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)three.", "usage": {"prompt_tokens": 289, "completion_tokens": 7, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Onyx is assigned to 1922.", "usage": {"prompt_tokens": 333, "completion_tokens": 18, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Ryan.", "usage": {"prompt_tokens": 295, "completion_tokens": 8, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (A)harmonica, table, sundial, lamp, vase, mirror.", "usage": {"prompt_tokens": 378, "completion_tokens": 22, "total_tokens": 400}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 404, "completion_tokens": 6, "total_tokens": 410}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The table is auctioned on an earlier date than the lamp.", "usage": {"prompt_tokens": 388, "completion_tokens": 19, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 310, "completion_tokens": 6, "total_tokens": 316}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 336, "completion_tokens": 6, "total_tokens": 342}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The sundial is auctioned on June 4th.", "usage": {"prompt_tokens": 376, "completion_tokens": 19, "total_tokens": 395}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Waite, Zinn, Kammer, Trillo, Lugo, Yoshida.", "usage": {"prompt_tokens": 347, "completion_tokens": 25, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Waite's audition.", "usage": {"prompt_tokens": 280, "completion_tokens": 13, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) Waite's audition.", "usage": {"prompt_tokens": 278, "completion_tokens": 13, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Yoshida's audition is sixth.", "usage": {"prompt_tokens": 306, "completion_tokens": 16, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)second.", "usage": {"prompt_tokens": 250, "completion_tokens": 8, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Waite's audition must take place earlier than Lugo's.", "usage": {"prompt_tokens": 362, "completion_tokens": 22, "total_tokens": 384}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)green team: Kelly, Mei, Olga (facilitator) red team: Juana (facilitator), Lateefah.", "usage": {"prompt_tokens": 373, "completion_tokens": 37, "total_tokens": 410}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Juana and Mei are not both facilitators.", "usage": {"prompt_tokens": 263, "completion_tokens": 19, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Lateefah is a facilitator, and she is assigned to a different team than Juana is.", "usage": {"prompt_tokens": 316, "completion_tokens": 29, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Juana and Mei are both assigned to the red team.", "usage": {"prompt_tokens": 286, "completion_tokens": 20, "total_tokens": 306}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Lateefah is a facilitator.", "usage": {"prompt_tokens": 265, "completion_tokens": 16, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)T, X, U, W, S, R, Z", "usage": {"prompt_tokens": 315, "completion_tokens": 19, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)W is mentioned in chapter 5.", "usage": {"prompt_tokens": 281, "completion_tokens": 14, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)W is mentioned in chapter 6.", "usage": {"prompt_tokens": 281, "completion_tokens": 14, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)U is mentioned in chapter 1.", "usage": {"prompt_tokens": 281, "completion_tokens": 14, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)W is mentioned in chapter 3.", "usage": {"prompt_tokens": 273, "completion_tokens": 14, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)U must be mentioned in an earlier chapter than T.", "usage": {"prompt_tokens": 314, "completion_tokens": 17, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Hidalgo's oil, Greene's oil, Greene's watercolor, Isaacs's oil.", "usage": {"prompt_tokens": 408, "completion_tokens": 31, "total_tokens": 439}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Greene's oil.", "usage": {"prompt_tokens": 322, "completion_tokens": 12, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) Hidalgo's watercolor.", "usage": {"prompt_tokens": 312, "completion_tokens": 13, "total_tokens": 325}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Hidalgo's oil is displayed on the same wall as Isaacs's watercolor.", "usage": {"prompt_tokens": 362, "completion_tokens": 26, "total_tokens": 388}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 340, "completion_tokens": 6, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 384, "completion_tokens": 5, "total_tokens": 389}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 352, "completion_tokens": 6, "total_tokens": 358}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. RealProp: the Flores Tower and the Garza Tower, Southco: the Lynch Building, the Yates House, and the Zimmer House, Trustcorp: the King Building, the Meyer Building, and the Ortiz Building.", "usage": {"prompt_tokens": 524, "completion_tokens": 55, "total_tokens": 579}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 373, "completion_tokens": 6, "total_tokens": 379}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Trustcorp owns the Meyer Building.", "usage": {"prompt_tokens": 349, "completion_tokens": 14, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. Southco has made at least one trade with Trustcorp.", "usage": {"prompt_tokens": 351, "completion_tokens": 18, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) The buildings owned by Trustcorp are the Flores Tower and the Yates House.", "usage": {"prompt_tokens": 383, "completion_tokens": 24, "total_tokens": 407}, "finish_reason": "stop", "model": "Alpaca-7B"}

@@ -1,0 +1,200 @@
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 159, "completion_tokens": 6, "total_tokens": 165}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):0.4 秒。", "usage": {"prompt_tokens": 195, "completion_tokens": 11, "total_tokens": 206}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)120。", "usage": {"prompt_tokens": 149, "completion_tokens": 9, "total_tokens": 158}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 105, "completion_tokens": 6, "total_tokens": 111}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 356, "completion_tokens": 6, "total_tokens": 362}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{m} / \\mathrm{s}$。", "usage": {"prompt_tokens": 154, "completion_tokens": 18, "total_tokens": 172}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)$\\sqrt[3]{4}$。", "usage": {"prompt_tokens": 186, "completion_tokens": 13, "total_tokens": 199}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)正电子。", "usage": {"prompt_tokens": 119, "completion_tokens": 8, "total_tokens": 127}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):2 × 10^-7 A。", "usage": {"prompt_tokens": 200, "completion_tokens": 15, "total_tokens": 215}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$2 \\pi B I L$。", "usage": {"prompt_tokens": 124, "completion_tokens": 13, "total_tokens": 137}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 129, "completion_tokens": 6, "total_tokens": 135}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):1+\\frac{\\mathrm{d}}{\\mathrm{R}}。", "usage": {"prompt_tokens": 164, "completion_tokens": 18, "total_tokens": 182}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):16 MeV。", "usage": {"prompt_tokens": 257, "completion_tokens": 10, "total_tokens": 267}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$200 \\sqrt{3} \\mathrm{~kg}$。", "usage": {"prompt_tokens": 194, "completion_tokens": 20, "total_tokens": 214}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 184, "completion_tokens": 6, "total_tokens": 190}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 107, "completion_tokens": 6, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 326, "completion_tokens": 6, "total_tokens": 332}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 161, "completion_tokens": 6, "total_tokens": 167}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)${ }_{53}{ }^{131} \\mathrm{I} \\rightarrow 54^{131} \\mathrm{Xe}^{+} 1^{0} \\mathrm{e}$。", "usage": {"prompt_tokens": 262, "completion_tokens": 50, "total_tokens": 312}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 73, "completion_tokens": 6, "total_tokens": 79}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 89, "completion_tokens": 6, "total_tokens": 95}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$6.3 \\times 10^{2} \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$。", "usage": {"prompt_tokens": 245, "completion_tokens": 38, "total_tokens": 283}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：速度较大的球在相同时间间隔内下降的距离较大。", "usage": {"prompt_tokens": 126, "completion_tokens": 17, "total_tokens": 143}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A):3.7 \\mathrm{MeV}。", "usage": {"prompt_tokens": 275, "completion_tokens": 15, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):1.6 \\times 10^{6} \\mathrm{~kg}$。", "usage": {"prompt_tokens": 208, "completion_tokens": 23, "total_tokens": 231}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 226, "completion_tokens": 6, "total_tokens": 232}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)：波长变短。", "usage": {"prompt_tokens": 119, "completion_tokens": 9, "total_tokens": 128}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 155, "completion_tokens": 6, "total_tokens": 161}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\alpha$ 粒子。", "usage": {"prompt_tokens": 186, "completion_tokens": 10, "total_tokens": 196}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 170, "completion_tokens": 6, "total_tokens": 176}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 124, "completion_tokens": 6, "total_tokens": 130}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 113, "completion_tokens": 6, "total_tokens": 119}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 111, "completion_tokens": 6, "total_tokens": 117}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\frac{4 s}{t^{2}}$。", "usage": {"prompt_tokens": 128, "completion_tokens": 17, "total_tokens": 145}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)15和28。", "usage": {"prompt_tokens": 167, "completion_tokens": 11, "total_tokens": 178}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)16:1。", "usage": {"prompt_tokens": 127, "completion_tokens": 10, "total_tokens": 137}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)2 倍。", "usage": {"prompt_tokens": 117, "completion_tokens": 9, "total_tokens": 126}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 94, "completion_tokens": 6, "total_tokens": 100}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：整个闪电过程向外释放的能量约为 $6 \\times 10^{6} \\mathrm{~J}$。", "usage": {"prompt_tokens": 310, "completion_tokens": 29, "total_tokens": 339}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C):-\\frac{4 h c}{\\mathrm{E}_{1}}$", "usage": {"prompt_tokens": 181, "completion_tokens": 18, "total_tokens": 199}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 163, "completion_tokens": 6, "total_tokens": 169}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$\\frac{\\sqrt{3}}{2} \\mathrm{~A} 、$ 沿 $\\mathrm{y}$ 轴负方向。", "usage": {"prompt_tokens": 321, "completion_tokens": 35, "total_tokens": 356}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A):10.50 \\mathrm{eV}$。", "usage": {"prompt_tokens": 232, "completion_tokens": 17, "total_tokens": 249}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A):1.8 × 10^3 kg/m^3", "usage": {"prompt_tokens": 243, "completion_tokens": 19, "total_tokens": 262}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)3。\n\n解释：\n\n假设两个物块的质量分别为 $\\mathrm{M}$ 和 $\\mathrm{m}$，它们的速度分别为 $\\mathrm{V}$ 和 $\\mathrm{v}$，则它们的动量分别为 $\\mathrm{M} \\mathrm{V}$ 和 $\\mathrm{m} \\mathrm{v}$。在正撞之前，两个物块的质量之比为 $\\mathrm{M}:\\mathrm{m}$。\n\n在正撞时，两个物块的质量将发生变形，导致它们的动量相等。根据动量守恒定律，两个物块的质量之比等于它们的速度之比，即 $\\mathrm{M}:\\mathrm{m} = \\mathrm{V}:\\mathrm{v}$。\n\n由于两个物块的质量之比为 $\\mathrm{M}:\\mathrm{m}$，因此它们的质量之比可以表示为 $\\mathrm{M}:\\mathrm{m} = \\frac{\\mathrm{M}}{\\mathrm{m}}$。由于 $\\mathrm{M} > \\mathrm{m}$，因此 $\\frac{\\mathrm{M}}{\\mathrm{m}} > 1$，因此可能的质量比为 $\\frac{\\mathrm{M}}{\\mathrm{m}} = 3$。因此，选项(B)3 是可能的答案。", "usage": {"prompt_tokens": 116, "completion_tokens": 274, "total_tokens": 390}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 109, "completion_tokens": 6, "total_tokens": 115}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：位移方向相反， 速度方向相同。", "usage": {"prompt_tokens": 254, "completion_tokens": 14, "total_tokens": 268}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 107, "completion_tokens": 6, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 123, "completion_tokens": 6, "total_tokens": 129}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)16h。", "usage": {"prompt_tokens": 120, "completion_tokens": 9, "total_tokens": 129}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 88, "completion_tokens": 6, "total_tokens": 94}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：半径越小，线速度越小", "usage": {"prompt_tokens": 97, "completion_tokens": 11, "total_tokens": 108}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)增加 $200 \\mathrm{~V}$。", "usage": {"prompt_tokens": 122, "completion_tokens": 17, "total_tokens": 139}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)$\\frac{\\pi}{6}$。", "usage": {"prompt_tokens": 122, "completion_tokens": 13, "total_tokens": 135}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 339, "completion_tokens": 6, "total_tokens": 345}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\frac{3 \\pi}{G T^{2}} \\frac{g_{0}}{g}$。", "usage": {"prompt_tokens": 187, "completion_tokens": 27, "total_tokens": 214}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 96, "completion_tokens": 6, "total_tokens": 102}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 118, "completion_tokens": 6, "total_tokens": 124}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)0.2。", "usage": {"prompt_tokens": 98, "completion_tokens": 9, "total_tokens": 107}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)$\\frac{3}{4} F$。", "usage": {"prompt_tokens": 172, "completion_tokens": 15, "total_tokens": 187}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$10^{14} \\mathrm{~m} / \\mathrm{s}^{2}$。", "usage": {"prompt_tokens": 259, "completion_tokens": 27, "total_tokens": 286}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 95, "completion_tokens": 6, "total_tokens": 101}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)${ }_{92}^{238} \\mathrm{U} \\rightarrow{ }_{90}^{234} \\mathrm{Th}+{ }^{4} \\mathrm{He}$。", "usage": {"prompt_tokens": 242, "completion_tokens": 48, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 155, "completion_tokens": 6, "total_tokens": 161}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 239, "completion_tokens": 6, "total_tokens": 245}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 101, "completion_tokens": 5, "total_tokens": 106}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。\n\n根据题意，变轨后的卫星动能减小为原来的 $\\frac{1}{4}$，因此其速度必须减小到零才能停止运动。设变轨前卫星的轨道半径为 $R_1$，变轨后卫星的轨道半径为 $R_2$，则根据万有引力定律，有：\n\n$$\nF_g = G \\frac{M_1 M_2}{R_2^2}\n$$\n\n其中，$G$ 是万有引力常数，$M_1$ 和 $M_2$ 分别是卫星和地球的质量。由于卫星仍然做匀速圆周运动，因此有：\n\n$$\nF_g = \\frac{G M_1 M_2}{R_2^2} = \\frac{G \\times 10^3 \\times 10^3 \\times 4 \\times 10^7}{R_2^2} \\approx 1.6 \\times 10^8 \\text{ N}\n$$\n\n将 $R_2$ 替换为 $R_2 = \\frac{2 \\pi}{T_p} R_1$，其中 $T_p$ 是卫星的周期，则有：\n\n$$\n\\frac{1}{R_2} = \\frac{1}{R_1} \\times \\frac{2 \\pi}{T_p}\n$$\n\n将 $R_2$ 替换为 $R_2 = \\frac{2 \\pi}{T_p} R_1$，代入上式，得到：\n\n$$\n\\frac{1}{R_2} = \\frac{1}{R_1} \\times \\frac{2 \\pi}{T_p} = \\frac{1}{R_1} \\times \\frac{T_p}{2 \\pi} = \\frac{1}{R_1} \\times \\frac{1}{8}\n$$\n\n因此，有：\n\n$$\n\\frac{1}{R_2} = \\frac{1}{R_1} \\times \\frac{1}{8} = \\frac{1}{R_1} \\times \\frac{1}{1} = \\frac{1}{R_1}\n$$\n\n解得 $R_2 = R_1 \\times \\frac{1}{8} = \\frac{1}{4} R_1$，因此有：\n\n$$\n\\frac{G M_1 M_2}{R_2^2} = \\frac{G \\times 10^3 \\times 10^3 \\times 4 \\times 10^7}{R_1^2} \\approx 1.6 \\times 10^8 \\text{ N}\n$$\n\n将 $R_1$ 替换为 $R_1 = \\frac{2 \\pi}{T_p} R_2$，代入上式，得到：\n\n$$\n\\frac{G M_1 M_2}{R_2^2} = \\frac{G \\times 10^3 \\times 10^3 \\times 4 \\times 10^7}{R_2^2} \\approx 1.6 \\times 10^8 \\text{ N}\n$$\n\n因此，有：\n\n$$\n\\frac{M_1}{M_2} = \\frac{R_2^2}{R_1^2} = \\frac{R_2}{R_1} \\times \\frac{R_1}{R_2} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{G M_1 M_2}{R_2^2} = \\frac{G \\times 10^3 \\times 10^3 \\times 4 \\times 10^7}{R_1^2} \\approx 1.6 \\times 10^8 \\text{ N}\n$$\n\n将 $R_1$ 替换为 $R_1 = \\frac{2 \\pi}{T_p} R_2$，代入上式，得到：\n\n$$\n\\frac{G M_1 M_2}{R_2^2} = \\frac{G \\times 10^3 \\times 10^3 \\times 4 \\times 10^7}{R_2^2} \\approx 1.6 \\times 10^8 \\text{ N}\n$$\n\n因此，有：\n\n$$\n\\frac{M_1}{M_2} = \\frac{R_2^2}{R_1^2} = \\frac{R_2}{R_1} \\times \\frac{R_1}{R_2} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{T_p}{T_1} = \\frac{R_2}{R_1} = \\frac{R_2}{R_1} \\times \\frac{R_1}{R_2} = \\frac{1}{8}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{8}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{8} = \\frac{1}{4} \\times \\frac{1}{4} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4} = \\frac{1}{4} \\times \\frac{1}{4} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此，有：\n\n$$\n\\frac{R_2}{R_1} = \\frac{1}{4}\n$$\n\n因此", "usage": {"prompt_tokens": 140, "completion_tokens": 1906, "total_tokens": 2046}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)$\\frac{P R}{k U}, \\frac{1}{n^{2}}$。", "usage": {"prompt_tokens": 265, "completion_tokens": 25, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 176, "completion_tokens": 6, "total_tokens": 182}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 131, "completion_tokens": 6, "total_tokens": 137}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):\nD)向心加速度小于地面的重力加速度", "usage": {"prompt_tokens": 139, "completion_tokens": 16, "total_tokens": 155}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)$\\sqrt{\\frac{4 \\pi}{G \\rho}}$。", "usage": {"prompt_tokens": 134, "completion_tokens": 19, "total_tokens": 153}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$1000 \\mathrm{~kg}$。", "usage": {"prompt_tokens": 315, "completion_tokens": 16, "total_tokens": 331}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)$\\Delta U^{\\prime}=\\frac{1}{4} \\Delta U$。", "usage": {"prompt_tokens": 260, "completion_tokens": 22, "total_tokens": 282}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)光电效应现象。", "usage": {"prompt_tokens": 68, "completion_tokens": 8, "total_tokens": 76}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)3200。", "usage": {"prompt_tokens": 113, "completion_tokens": 10, "total_tokens": 123}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 137, "completion_tokens": 6, "total_tokens": 143}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)10。", "usage": {"prompt_tokens": 139, "completion_tokens": 8, "total_tokens": 147}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$F$ 的大小等于物体所受滑动摩擦力大小的 2 倍。", "usage": {"prompt_tokens": 213, "completion_tokens": 22, "total_tokens": 235}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 68, "completion_tokens": 6, "total_tokens": 74}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 87, "completion_tokens": 6, "total_tokens": 93}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$10^{9} \\mathrm{~kg}$。", "usage": {"prompt_tokens": 144, "completion_tokens": 17, "total_tokens": 161}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\left(\\frac{3 \\pi}{G \\rho}\\right)^{\\frac{1}{2}}$。", "usage": {"prompt_tokens": 181, "completion_tokens": 27, "total_tokens": 208}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$300 \\mathrm{~kW}$。", "usage": {"prompt_tokens": 160, "completion_tokens": 16, "total_tokens": 176}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):6 \\times 10^{8} \\mathrm{~m}$。", "usage": {"prompt_tokens": 265, "completion_tokens": 21, "total_tokens": 286}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 178, "completion_tokens": 6, "total_tokens": 184}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：中微子 $v_{e}$ 的电荷量与电子的相同。", "usage": {"prompt_tokens": 266, "completion_tokens": 22, "total_tokens": 288}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 129, "completion_tokens": 6, "total_tokens": 135}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)6 小时 35 分钟。", "usage": {"prompt_tokens": 310, "completion_tokens": 14, "total_tokens": 324}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 224, "completion_tokens": 6, "total_tokens": 230}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$1:9$。", "usage": {"prompt_tokens": 102, "completion_tokens": 11, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)粒子。", "usage": {"prompt_tokens": 100, "completion_tokens": 7, "total_tokens": 107}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 86, "completion_tokens": 6, "total_tokens": 92}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：中央条纹变成红色。", "usage": {"prompt_tokens": 83, "completion_tokens": 10, "total_tokens": 93}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：苹果在月球表面受到的引力约为在地球表面的 $\\frac{1}{60}$。", "usage": {"prompt_tokens": 153, "completion_tokens": 25, "total_tokens": 178}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 125, "completion_tokens": 6, "total_tokens": 131}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 209, "completion_tokens": 6, "total_tokens": 215}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$6.3 \\times 10^{2} \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$。", "usage": {"prompt_tokens": 245, "completion_tokens": 38, "total_tokens": 283}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：速度较大的球在相同时间间隔内下降的距离较大。", "usage": {"prompt_tokens": 126, "completion_tokens": 17, "total_tokens": 143}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A):3.7 \\mathrm{MeV}。", "usage": {"prompt_tokens": 275, "completion_tokens": 15, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$1.6 \\times 10^{6} \\mathrm{~kg}$。", "usage": {"prompt_tokens": 207, "completion_tokens": 23, "total_tokens": 230}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 91, "completion_tokens": 6, "total_tokens": 97}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 80, "completion_tokens": 6, "total_tokens": 86}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$10 \\sqrt{2} \\mathrm{~V}$。", "usage": {"prompt_tokens": 154, "completion_tokens": 19, "total_tokens": 173}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 94, "completion_tokens": 6, "total_tokens": 100}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$\\frac{1}{2 h e}$。", "usage": {"prompt_tokens": 206, "completion_tokens": 15, "total_tokens": 221}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\sqrt{\\frac{R P g}{Q K}}$。", "usage": {"prompt_tokens": 210, "completion_tokens": 18, "total_tokens": 228}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 132, "completion_tokens": 6, "total_tokens": 138}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\frac{\\mathrm{F}_{2}-\\mathrm{F}_{1}}{\\mathrm{l}_{2}+\\mathrm{l}_{1}}$。", "usage": {"prompt_tokens": 217, "completion_tokens": 33, "total_tokens": 250}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 146, "completion_tokens": 6, "total_tokens": 152}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):110 \\mathrm{kV}$。", "usage": {"prompt_tokens": 124, "completion_tokens": 15, "total_tokens": 139}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：时刻不同，地点不同。", "usage": {"prompt_tokens": 108, "completion_tokens": 11, "total_tokens": 119}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 159, "completion_tokens": 6, "total_tokens": 165}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 84, "completion_tokens": 6, "total_tokens": 90}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 109, "completion_tokens": 6, "total_tokens": 115}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$7.4 \\times 10^{22} \\mathrm{~kg}$。", "usage": {"prompt_tokens": 239, "completion_tokens": 24, "total_tokens": 263}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)4。", "usage": {"prompt_tokens": 139, "completion_tokens": 7, "total_tokens": 146}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)$\\quad \\frac{\\sqrt{3} m v_{0}}{3 \\mathrm{qR}}$。", "usage": {"prompt_tokens": 205, "completion_tokens": 27, "total_tokens": 232}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：卫星克服气体阻力做的功小于引力势能的减小量。", "usage": {"prompt_tokens": 150, "completion_tokens": 18, "total_tokens": 168}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 152, "completion_tokens": 6, "total_tokens": 158}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)库仑定律。", "usage": {"prompt_tokens": 67, "completion_tokens": 9, "total_tokens": 76}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 241, "completion_tokens": 5, "total_tokens": 246}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$104 \\mathrm{~cm}$。", "usage": {"prompt_tokens": 179, "completion_tokens": 15, "total_tokens": 194}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 247, "completion_tokens": 6, "total_tokens": 253}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):40 \\mathrm{~N} / \\mathrm{m}$。", "usage": {"prompt_tokens": 156, "completion_tokens": 21, "total_tokens": 177}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$8 \\times 10^{-9} \\mathrm{C}$。", "usage": {"prompt_tokens": 210, "completion_tokens": 20, "total_tokens": 230}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)24 小时。", "usage": {"prompt_tokens": 110, "completion_tokens": 10, "total_tokens": 120}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 83, "completion_tokens": 6, "total_tokens": 89}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 126, "completion_tokens": 6, "total_tokens": 132}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A):1 h", "usage": {"prompt_tokens": 139, "completion_tokens": 7, "total_tokens": 146}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):0.4 \\mathrm{~g}$。", "usage": {"prompt_tokens": 110, "completion_tokens": 15, "total_tokens": 125}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 142, "completion_tokens": 6, "total_tokens": 148}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 150, "completion_tokens": 6, "total_tokens": 156}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)18。", "usage": {"prompt_tokens": 186, "completion_tokens": 8, "total_tokens": 194}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)选项。", "usage": {"prompt_tokens": 91, "completion_tokens": 6, "total_tokens": 97}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\frac{\\mathrm{q}_{\\mathrm{a}}}{\\mathrm{m}_{\\mathrm{a}}}<\\frac{\\mathrm{q}_{\\mathrm{b}}}{\\mathrm{m}_{\\mathrm{b}}}$。", "usage": {"prompt_tokens": 257, "completion_tokens": 45, "total_tokens": 302}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 141, "completion_tokens": 6, "total_tokens": 147}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)0.2。", "usage": {"prompt_tokens": 114, "completion_tokens": 9, "total_tokens": 123}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 231, "completion_tokens": 6, "total_tokens": 237}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$4 \\times 10^{22} \\mathrm{~m}^{3}$。", "usage": {"prompt_tokens": 204, "completion_tokens": 24, "total_tokens": 228}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$\\mathrm{t}_{1}$ 先小于后大于 $\\mathrm{t}_{2}$。\n\n在红光和蓝光从上表面射入，穿过玻璃砖并从下表面射出的过程中，根据折射定律，红光的折射率大于蓝光的折射率，因此红光比蓝光更快地穿过玻璃砖。\n\n当$\\theta$逐渐由$0^\\circ$增大到$90^\\circ$时，光线的入射角增大，因此红光的折射角也增大。根据折射定律，红光的折射时间$t_{1}$小于蓝光的折射时间$t_{2}$。\n\n因此，当光线从上表面射入时，红光比蓝光更快地穿过玻璃砖，因此在$90^\\circ$角时，红光已经穿过玻璃砖，而蓝光还需要更多的时间才能穿过玻璃砖。当$\\theta$继续增大时，红光的折射角继续增大，因此红光的折射时间$t_{1}$先小于后大于蓝光的折射时间$t_{2}$。", "usage": {"prompt_tokens": 214, "completion_tokens": 216, "total_tokens": 430}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 111, "completion_tokens": 5, "total_tokens": 116}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 137, "completion_tokens": 6, "total_tokens": 143}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)选项。", "usage": {"prompt_tokens": 86, "completion_tokens": 6, "total_tokens": 92}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 249, "completion_tokens": 3, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)10 万年。", "usage": {"prompt_tokens": 144, "completion_tokens": 10, "total_tokens": 154}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 171, "completion_tokens": 6, "total_tokens": 177}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：卫星绕月运行的加速度。", "usage": {"prompt_tokens": 116, "completion_tokens": 11, "total_tokens": 127}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)$10^{2} \\mathrm{~N}$。", "usage": {"prompt_tokens": 137, "completion_tokens": 17, "total_tokens": 154}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):5 × 10^12 kg/m^3。", "usage": {"prompt_tokens": 291, "completion_tokens": 19, "total_tokens": 310}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):8 \\times 10^{15} \\mathrm{~Hz}$。", "usage": {"prompt_tokens": 226, "completion_tokens": 22, "total_tokens": 248}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 98, "completion_tokens": 6, "total_tokens": 104}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):m=7, n=4。", "usage": {"prompt_tokens": 137, "completion_tokens": 13, "total_tokens": 150}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 93, "completion_tokens": 6, "total_tokens": 99}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 129, "completion_tokens": 6, "total_tokens": 135}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 199, "completion_tokens": 6, "total_tokens": 205}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A):5.5", "usage": {"prompt_tokens": 180, "completion_tokens": 8, "total_tokens": 188}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):0.1 米， 8 秒。", "usage": {"prompt_tokens": 235, "completion_tokens": 16, "total_tokens": 251}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$35.2 \\mathrm{~km} / \\mathrm{s}$。", "usage": {"prompt_tokens": 154, "completion_tokens": 23, "total_tokens": 177}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 126, "completion_tokens": 6, "total_tokens": 132}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A):1 h", "usage": {"prompt_tokens": 139, "completion_tokens": 7, "total_tokens": 146}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 300, "completion_tokens": 5, "total_tokens": 305}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)3 种。", "usage": {"prompt_tokens": 79, "completion_tokens": 9, "total_tokens": 88}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)选项：\n(D)光需要介质才能传播。", "usage": {"prompt_tokens": 73, "completion_tokens": 16, "total_tokens": 89}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 124, "completion_tokens": 6, "total_tokens": 130}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 292, "completion_tokens": 6, "total_tokens": 298}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)$\\alpha$ 粒子散射实验。", "usage": {"prompt_tokens": 71, "completion_tokens": 13, "total_tokens": 84}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 198, "completion_tokens": 6, "total_tokens": 204}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：在同一均匀介质中甲光的传播速度大于乙光。", "usage": {"prompt_tokens": 140, "completion_tokens": 17, "total_tokens": 157}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)向心加速度 $\\mathrm{a}=\\frac{G m}{R^{2}}$。", "usage": {"prompt_tokens": 185, "completion_tokens": 23, "total_tokens": 208}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 103, "completion_tokens": 6, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 156, "completion_tokens": 6, "total_tokens": 162}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$0.086 \\mathrm{~m}$。", "usage": {"prompt_tokens": 199, "completion_tokens": 17, "total_tokens": 216}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):2 v、向上。", "usage": {"prompt_tokens": 201, "completion_tokens": 10, "total_tokens": 211}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$200 \\mathrm{~m} 50 \\mathrm{~m}$。", "usage": {"prompt_tokens": 239, "completion_tokens": 24, "total_tokens": 263}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 331, "completion_tokens": 6, "total_tokens": 337}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)$\\frac{1}{16}$。", "usage": {"prompt_tokens": 149, "completion_tokens": 14, "total_tokens": 163}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 349, "completion_tokens": 6, "total_tokens": 355}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 101, "completion_tokens": 6, "total_tokens": 107}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):2.06 \\times 10^{-4} \\mathrm{~m}$。", "usage": {"prompt_tokens": 193, "completion_tokens": 24, "total_tokens": 217}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 132, "completion_tokens": 6, "total_tokens": 138}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(A)。", "usage": {"prompt_tokens": 273, "completion_tokens": 5, "total_tokens": 278}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)光子。", "usage": {"prompt_tokens": 51, "completion_tokens": 7, "total_tokens": 58}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 (D) 正电子。", "usage": {"prompt_tokens": 118, "completion_tokens": 8, "total_tokens": 126}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 77, "completion_tokens": 6, "total_tokens": 83}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 107, "completion_tokens": 6, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 152, "completion_tokens": 6, "total_tokens": 158}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$1 \\mathrm{~s}$。", "usage": {"prompt_tokens": 200, "completion_tokens": 13, "total_tokens": 213}, "finish_reason": "stop", "model": "ChatGLM-6B"}

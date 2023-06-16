@@ -1,0 +1,351 @@
+{"text": "答案是选项(B)：$A \\cap B = \\{x \\mid x \\geq 1\\}$", "usage": {"prompt_tokens": 194, "completion_tokens": 29, "total_tokens": 223}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)1。", "usage": {"prompt_tokens": 159, "completion_tokens": 14, "total_tokens": 173}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)充分必要条件。", "usage": {"prompt_tokens": 221, "completion_tokens": 21, "total_tokens": 242}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$-\\frac{1}{2}$。", "usage": {"prompt_tokens": 227, "completion_tokens": 20, "total_tokens": 247}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项 (B) 直线和椭圆。", "usage": {"prompt_tokens": 232, "completion_tokens": 23, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 3<S100<4。", "usage": {"prompt_tokens": 265, "completion_tokens": 21, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1。", "usage": {"prompt_tokens": 153, "completion_tokens": 14, "total_tokens": 167}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$C_{R} A = \\left\\{x \\mid -1 \\leqslant x \\leqslant 2\\right\\}$", "usage": {"prompt_tokens": 218, "completion_tokens": 38, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)10。", "usage": {"prompt_tokens": 186, "completion_tokens": 15, "total_tokens": 201}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{1}{4} \\overrightarrow{\\mathrm{AB}}-\\frac{3}{4} \\overrightarrow{\\mathrm{AC}}$.", "usage": {"prompt_tokens": 286, "completion_tokens": 42, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 6。", "usage": {"prompt_tokens": 211, "completion_tokens": 14, "total_tokens": 225}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $[0,+\\infty)$。", "usage": {"prompt_tokens": 226, "completion_tokens": 19, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)2√3。", "usage": {"prompt_tokens": 241, "completion_tokens": 16, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{2 \\sqrt{3}}{3}$。", "usage": {"prompt_tokens": 225, "completion_tokens": 24, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$M \\cap N = \\{2\\}$", "usage": {"prompt_tokens": 175, "completion_tokens": 22, "total_tokens": 197}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) -4 + √(-1)。", "usage": {"prompt_tokens": 184, "completion_tokens": 21, "total_tokens": 205}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 2。", "usage": {"prompt_tokens": 179, "completion_tokens": 14, "total_tokens": 193}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\sqrt{5}$。", "usage": {"prompt_tokens": 168, "completion_tokens": 17, "total_tokens": 185}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 0.75。", "usage": {"prompt_tokens": 263, "completion_tokens": 17, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 1。", "usage": {"prompt_tokens": 162, "completion_tokens": 14, "total_tokens": 176}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)3。", "usage": {"prompt_tokens": 205, "completion_tokens": 14, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{9 \\sqrt{3}}{8}$。", "usage": {"prompt_tokens": 251, "completion_tokens": 24, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{2}{5}$。", "usage": {"prompt_tokens": 260, "completion_tokens": 20, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$(-\\infty,-4) \\cup(4,+\\infty)$。", "usage": {"prompt_tokens": 267, "completion_tokens": 27, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)4。", "usage": {"prompt_tokens": 177, "completion_tokens": 14, "total_tokens": 191}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)8。", "usage": {"prompt_tokens": 141, "completion_tokens": 14, "total_tokens": 155}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)-3。", "usage": {"prompt_tokens": 182, "completion_tokens": 14, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left(-1,-\\frac{1}{2}\\right)$", "usage": {"prompt_tokens": 202, "completion_tokens": 26, "total_tokens": 228}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{1}{2^{x}-1}(x \\neq 0)$", "usage": {"prompt_tokens": 220, "completion_tokens": 28, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)：3\\left(1-3^{-10}\\right)。", "usage": {"prompt_tokens": 242, "completion_tokens": 27, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 8。", "usage": {"prompt_tokens": 158, "completion_tokens": 14, "total_tokens": 172}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left[\\frac{3}{8}, \\frac{3}{4}\\right]$。", "usage": {"prompt_tokens": 312, "completion_tokens": 31, "total_tokens": 343}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：\"答案是选项(B)：[-1,+∞)。\"", "usage": {"prompt_tokens": 198, "completion_tokens": 35, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{3}}{3}$。", "usage": {"prompt_tokens": 226, "completion_tokens": 22, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{2}}{2}$。", "usage": {"prompt_tokens": 240, "completion_tokens": 22, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $y=f(x)$ 的图象关于 $x=\\frac{\\pi}{2}$ 对称。", "usage": {"prompt_tokens": 237, "completion_tokens": 37, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$(-\\infty, 2] \\cup[3,+\\infty)$。", "usage": {"prompt_tokens": 198, "completion_tokens": 28, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)i。", "usage": {"prompt_tokens": 150, "completion_tokens": 14, "total_tokens": 164}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$45^{\\circ}$", "usage": {"prompt_tokens": 202, "completion_tokens": 19, "total_tokens": 221}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{48}{25}$。", "usage": {"prompt_tokens": 174, "completion_tokens": 22, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项（B）$a<b<c$。", "usage": {"prompt_tokens": 176, "completion_tokens": 20, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{10}}{10}$。", "usage": {"prompt_tokens": 212, "completion_tokens": 24, "total_tokens": 236}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{9 \\pi}{2}$。", "usage": {"prompt_tokens": 234, "completion_tokens": 22, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{1}{2}$。", "usage": {"prompt_tokens": 347, "completion_tokens": 20, "total_tokens": 367}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)16个。", "usage": {"prompt_tokens": 276, "completion_tokens": 16, "total_tokens": 292}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\cos 2 \\alpha<0$。", "usage": {"prompt_tokens": 166, "completion_tokens": 21, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)18 名。", "usage": {"prompt_tokens": 440, "completion_tokens": 17, "total_tokens": 457}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)8。", "usage": {"prompt_tokens": 243, "completion_tokens": 14, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 是奇函数, 且在 $(-\\frac{1}{2}, \\frac{1}{2})$ 单调递减。", "usage": {"prompt_tokens": 290, "completion_tokens": 47, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1。", "usage": {"prompt_tokens": 236, "completion_tokens": 14, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\ln (y-x+1)<0$", "usage": {"prompt_tokens": 180, "completion_tokens": 23, "total_tokens": 203}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)第二象限。", "usage": {"prompt_tokens": 167, "completion_tokens": 17, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$\\{1,6\\}$", "usage": {"prompt_tokens": 187, "completion_tokens": 19, "total_tokens": 206}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$2 \\sqrt{2}$。", "usage": {"prompt_tokens": 178, "completion_tokens": 19, "total_tokens": 197}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 34%。", "usage": {"prompt_tokens": 458, "completion_tokens": 16, "total_tokens": 474}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B$28 \\sqrt{2}$。", "usage": {"prompt_tokens": 200, "completion_tokens": 19, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\sigma$ 越小, 该物理量在一次测量中大于 10 的概率为 $0.5$。", "usage": {"prompt_tokens": 341, "completion_tokens": 49, "total_tokens": 390}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $f(-1)=0$", "usage": {"prompt_tokens": 201, "completion_tokens": 18, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)样本 $x_{1}, x_{2}, \\cdots, x_{n}$ 的中位数。", "usage": {"prompt_tokens": 259, "completion_tokens": 35, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\omega(2n+3)=\\omega(n)+1$。", "usage": {"prompt_tokens": 265, "completion_tokens": 26, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) - i。", "usage": {"prompt_tokens": 151, "completion_tokens": 14, "total_tokens": 165}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 2", "usage": {"prompt_tokens": 161, "completion_tokens": 15, "total_tokens": 176}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $b<c<a$。", "usage": {"prompt_tokens": 169, "completion_tokens": 19, "total_tokens": 188}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 3 + √2。", "usage": {"prompt_tokens": 225, "completion_tokens": 20, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $2 \\sqrt{3}$。", "usage": {"prompt_tokens": 226, "completion_tokens": 20, "total_tokens": 246}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\{-1,0,1\\}$。", "usage": {"prompt_tokens": 193, "completion_tokens": 21, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) a^2 = 3b^2", "usage": {"prompt_tokens": 192, "completion_tokens": 20, "total_tokens": 212}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)直线 $y=-x$ 对称。", "usage": {"prompt_tokens": 174, "completion_tokens": 22, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$c<a<b$", "usage": {"prompt_tokens": 189, "completion_tokens": 20, "total_tokens": 209}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 4。", "usage": {"prompt_tokens": 196, "completion_tokens": 16, "total_tokens": 212}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{10}{29}$。", "usage": {"prompt_tokens": 218, "completion_tokens": 21, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 3", "usage": {"prompt_tokens": 160, "completion_tokens": 15, "total_tokens": 175}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B${\\sqrt{2}}$。", "usage": {"prompt_tokens": 191, "completion_tokens": 17, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 208, "completion_tokens": 13, "total_tokens": 221}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{2}}{3}$。", "usage": {"prompt_tokens": 227, "completion_tokens": 22, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$-\\frac{1}{3}$。", "usage": {"prompt_tokens": 213, "completion_tokens": 20, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B${\\sqrt{2}}$。", "usage": {"prompt_tokens": 207, "completion_tokens": 17, "total_tokens": 224}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)6。", "usage": {"prompt_tokens": 185, "completion_tokens": 14, "total_tokens": 199}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)10 种。", "usage": {"prompt_tokens": 225, "completion_tokens": 16, "total_tokens": 241}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项 (B) $p_{1}, p_{2}$。", "usage": {"prompt_tokens": 277, "completion_tokens": 22, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{2}{3}$。", "usage": {"prompt_tokens": 281, "completion_tokens": 20, "total_tokens": 301}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B5。", "usage": {"prompt_tokens": 172, "completion_tokens": 12, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)2√2。", "usage": {"prompt_tokens": 227, "completion_tokens": 16, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left[\\frac{1}{2}, \\frac{3}{4}\\right]$。", "usage": {"prompt_tokens": 251, "completion_tokens": 31, "total_tokens": 282}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{2}}{4}$。", "usage": {"prompt_tokens": 254, "completion_tokens": 22, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$[-1,1]$。", "usage": {"prompt_tokens": 186, "completion_tokens": 18, "total_tokens": 204}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $1-\\mathrm{i}$。", "usage": {"prompt_tokens": 159, "completion_tokens": 20, "total_tokens": 179}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\sqrt{3} \\mathrm{~m}$。", "usage": {"prompt_tokens": 202, "completion_tokens": 24, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 3/8。", "usage": {"prompt_tokens": 204, "completion_tokens": 16, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$3 \\alpha+\\beta=\\frac{\\pi}{2}$", "usage": {"prompt_tokens": 224, "completion_tokens": 26, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\frac{5}{2}$。", "usage": {"prompt_tokens": 228, "completion_tokens": 20, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$-\\frac{4}{5}+\\frac{3}{5} i$。", "usage": {"prompt_tokens": 189, "completion_tokens": 28, "total_tokens": 217}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)5。", "usage": {"prompt_tokens": 174, "completion_tokens": 14, "total_tokens": 188}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) y = ± \\sqrt{3} x", "usage": {"prompt_tokens": 227, "completion_tokens": 21, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 285, "completion_tokens": 13, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{5}}{6}$。", "usage": {"prompt_tokens": 233, "completion_tokens": 22, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\pi}{2}$。", "usage": {"prompt_tokens": 181, "completion_tokens": 20, "total_tokens": 201}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)2。", "usage": {"prompt_tokens": 200, "completion_tokens": 14, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\frac{1}{3}$。", "usage": {"prompt_tokens": 312, "completion_tokens": 20, "total_tokens": 332}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left\\{x \\mid \\frac{1}{3} \\leq x<4\\right\\}$。", "usage": {"prompt_tokens": 232, "completion_tokens": 34, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$z=1-\\frac{3}{2} i$", "usage": {"prompt_tokens": 175, "completion_tokens": 26, "total_tokens": 201}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B$1.2$。", "usage": {"prompt_tokens": 293, "completion_tokens": 16, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\sqrt{7}$。", "usage": {"prompt_tokens": 246, "completion_tokens": 18, "total_tokens": 264}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 甲是乙的必要条件但不是充分条件。", "usage": {"prompt_tokens": 270, "completion_tokens": 34, "total_tokens": 304}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\frac{2}{3}$。", "usage": {"prompt_tokens": 195, "completion_tokens": 20, "total_tokens": 215}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{3}}{12}$。", "usage": {"prompt_tokens": 235, "completion_tokens": 23, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$-\\frac{3}{2}$。", "usage": {"prompt_tokens": 245, "completion_tokens": 20, "total_tokens": 265}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$3-4 i$。", "usage": {"prompt_tokens": 159, "completion_tokens": 18, "total_tokens": 177}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $y=e^{2 x-1}+1 \\quad(x>0)$", "usage": {"prompt_tokens": 211, "completion_tokens": 29, "total_tokens": 240}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)3。", "usage": {"prompt_tokens": 196, "completion_tokens": 14, "total_tokens": 210}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 21。", "usage": {"prompt_tokens": 179, "completion_tokens": 15, "total_tokens": 194}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B：$x \\mid x<-2$, 或 $1<x<3]$", "usage": {"prompt_tokens": 211, "completion_tokens": 28, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)18 种。", "usage": {"prompt_tokens": 224, "completion_tokens": 16, "total_tokens": 240}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)向右平移 $\\frac{\\pi}{4}$ 个长度单位。", "usage": {"prompt_tokens": 243, "completion_tokens": 29, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{2}{3} \\vec{a}+\\frac{1}{3b}$。", "usage": {"prompt_tokens": 293, "completion_tokens": 32, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{3}$。", "usage": {"prompt_tokens": 182, "completion_tokens": 18, "total_tokens": 200}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 32。", "usage": {"prompt_tokens": 192, "completion_tokens": 15, "total_tokens": 207}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{2}$。", "usage": {"prompt_tokens": 264, "completion_tokens": 18, "total_tokens": 282}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $1+2i$。", "usage": {"prompt_tokens": 164, "completion_tokens": 19, "total_tokens": 183}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $S$。", "usage": {"prompt_tokens": 174, "completion_tokens": 16, "total_tokens": 190}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\neg p \\wedge q$。", "usage": {"prompt_tokens": 200, "completion_tokens": 20, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\pi}{3}$。", "usage": {"prompt_tokens": 215, "completion_tokens": 20, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B$120$ 种。", "usage": {"prompt_tokens": 256, "completion_tokens": 18, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\sin \\left(\\frac{x}{2}+\\frac{\\pi}{12}\\right)$", "usage": {"prompt_tokens": 316, "completion_tokens": 31, "total_tokens": 347}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项（B）$a>b$。", "usage": {"prompt_tokens": 185, "completion_tokens": 18, "total_tokens": 203}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 285, "completion_tokens": 13, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项（B）$b<c<a$。", "usage": {"prompt_tokens": 175, "completion_tokens": 20, "total_tokens": 195}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$A \\cup B=R$", "usage": {"prompt_tokens": 193, "completion_tokens": 21, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$\\mathrm{p}_{1}, \\mathrm{p}_{4}$。", "usage": {"prompt_tokens": 350, "completion_tokens": 28, "total_tokens": 378}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)4。", "usage": {"prompt_tokens": 195, "completion_tokens": 14, "total_tokens": 209}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 221, "completion_tokens": 13, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 20。", "usage": {"prompt_tokens": 163, "completion_tokens": 15, "total_tokens": 178}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)把 $C_{1}$ 上各点的横坐标伸长到原来的 $2$ 倍, 纵坐标不变, 再把得到的曲线 向右平移 $\\frac{\\pi}{12}$ 个单位长度, 得到曲线 $C_{2}$", "usage": {"prompt_tokens": 530, "completion_tokens": 100, "total_tokens": 630}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $5 z<2 x<3 y$。", "usage": {"prompt_tokens": 191, "completion_tokens": 22, "total_tokens": 213}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 330。", "usage": {"prompt_tokens": 428, "completion_tokens": 16, "total_tokens": 444}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{3}{5} i$。", "usage": {"prompt_tokens": 159, "completion_tokens": 21, "total_tokens": 180}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) y = |x| + 1。", "usage": {"prompt_tokens": 187, "completion_tokens": 20, "total_tokens": 207}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{1}{2}$。", "usage": {"prompt_tokens": 226, "completion_tokens": 20, "total_tokens": 246}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{3}$。", "usage": {"prompt_tokens": 232, "completion_tokens": 18, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)20。", "usage": {"prompt_tokens": 181, "completion_tokens": 15, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\frac{16}{3}$。", "usage": {"prompt_tokens": 177, "completion_tokens": 21, "total_tokens": 198}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $f(x)$ 在 $\\left(\\frac{\\pi}{4}, \\frac{3 \\pi}{4}\\right)$ 单调递减。", "usage": {"prompt_tokens": 310, "completion_tokens": 48, "total_tokens": 358}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 6。", "usage": {"prompt_tokens": 181, "completion_tokens": 14, "total_tokens": 195}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$B = \\{1,2\\}$", "usage": {"prompt_tokens": 177, "completion_tokens": 21, "total_tokens": 198}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$-2-4 \\mathrm{i}$", "usage": {"prompt_tokens": 161, "completion_tokens": 22, "total_tokens": 183}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 24 种。", "usage": {"prompt_tokens": 204, "completion_tokens": 17, "total_tokens": 221}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\tan (\\alpha+\\beta)=-1$", "usage": {"prompt_tokens": 207, "completion_tokens": 21, "total_tokens": 228}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $-2$。", "usage": {"prompt_tokens": 190, "completion_tokens": 16, "total_tokens": 206}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $y=f(x)$ 在 $\\left( -\\frac{\\pi}{12}, \\frac{11 \\pi}{12}\\right)$ 有 $2$ 个极值点。", "usage": {"prompt_tokens": 290, "completion_tokens": 57, "total_tokens": 347}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $|O B|=|O F|$", "usage": {"prompt_tokens": 276, "completion_tokens": 20, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$-\\frac{1}{3}+\\frac{\\sqrt{3}}{3} \\mathrm{i}$。", "usage": {"prompt_tokens": 208, "completion_tokens": 33, "total_tokens": 241}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{-1,3\\}$。", "usage": {"prompt_tokens": 201, "completion_tokens": 19, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $A B=2 A D$。", "usage": {"prompt_tokens": 279, "completion_tokens": 20, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{2}}{2}$。", "usage": {"prompt_tokens": 279, "completion_tokens": 22, "total_tokens": 301}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\left(\\frac{13}{6}, \\frac{8}{3}\\right]$", "usage": {"prompt_tokens": 262, "completion_tokens": 31, "total_tokens": 293}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $b>a>c$。", "usage": {"prompt_tokens": 177, "completion_tokens": 19, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$A \\cup B=R$", "usage": {"prompt_tokens": 187, "completion_tokens": 21, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)4。", "usage": {"prompt_tokens": 178, "completion_tokens": 14, "total_tokens": 192}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项C) 按学段分层抽样。", "usage": {"prompt_tokens": 300, "completion_tokens": 24, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) y= ± ⅔ x。", "usage": {"prompt_tokens": 239, "completion_tokens": 21, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 4。", "usage": {"prompt_tokens": 182, "completion_tokens": 14, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)6。", "usage": {"prompt_tokens": 200, "completion_tokens": 14, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{x^{2}}{36}+\\frac{y^{2}}{27}=1$", "usage": {"prompt_tokens": 316, "completion_tokens": 32, "total_tokens": 348}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$(-\\infty, 1]$。", "usage": {"prompt_tokens": 234, "completion_tokens": 20, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项（B）：$\\left\\{S_{n}\\right\\}$ 为递增数列。", "usage": {"prompt_tokens": 398, "completion_tokens": 33, "total_tokens": 431}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{-2,2,3\\}$。", "usage": {"prompt_tokens": 203, "completion_tokens": 21, "total_tokens": 224}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\cos 2 \\alpha<0$。", "usage": {"prompt_tokens": 166, "completion_tokens": 21, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)18 名。", "usage": {"prompt_tokens": 438, "completion_tokens": 17, "total_tokens": 455}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{2 \\sqrt{5}}{5}$。", "usage": {"prompt_tokens": 212, "completion_tokens": 23, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)3。", "usage": {"prompt_tokens": 193, "completion_tokens": 14, "total_tokens": 207}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)16。", "usage": {"prompt_tokens": 243, "completion_tokens": 15, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 是奇函数, 且在 $(-\\frac{1}{2}, \\frac{1}{2})$ 单调递减。", "usage": {"prompt_tokens": 290, "completion_tokens": 47, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1。", "usage": {"prompt_tokens": 235, "completion_tokens": 14, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\ln (y-x+1)<0$", "usage": {"prompt_tokens": 180, "completion_tokens": 23, "total_tokens": 203}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$A \\cap\\left(\\partial_{U} B\\right)=\\{0,1,2\\}$", "usage": {"prompt_tokens": 199, "completion_tokens": 35, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项C) 充分必要。", "usage": {"prompt_tokens": 175, "completion_tokens": 19, "total_tokens": 194}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $2+\\mathrm{i}$。", "usage": {"prompt_tokens": 149, "completion_tokens": 20, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{1,0\\}$。", "usage": {"prompt_tokens": 184, "completion_tokens": 18, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)3 或 5 盏。", "usage": {"prompt_tokens": 303, "completion_tokens": 22, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1。", "usage": {"prompt_tokens": 209, "completion_tokens": 14, "total_tokens": 223}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 18 种。", "usage": {"prompt_tokens": 194, "completion_tokens": 17, "total_tokens": 211}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)丁可以知道四人的成绩。\n\n因为甲对大家说：“我还是不知道我的成绩”，所以甲不知道自己的成绩。同时，乙、丙、丁四人的成绩分别不同，因此甲、乙、丙、丁四人的成绩也不同。因此，丁可以知道四人的成绩。", "usage": {"prompt_tokens": 328, "completion_tokens": 131, "total_tokens": 459}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{3}$。", "usage": {"prompt_tokens": 236, "completion_tokens": 18, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{15}}{5}$。", "usage": {"prompt_tokens": 247, "completion_tokens": 23, "total_tokens": 270}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) -2 e^(-3)。", "usage": {"prompt_tokens": 187, "completion_tokens": 20, "total_tokens": 207}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$-\\frac{3}{2}$。", "usage": {"prompt_tokens": 206, "completion_tokens": 20, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$(-1,2]$", "usage": {"prompt_tokens": 177, "completion_tokens": 17, "total_tokens": 194}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$1-i$。", "usage": {"prompt_tokens": 163, "completion_tokens": 17, "total_tokens": 180}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)充分必要条件。", "usage": {"prompt_tokens": 243, "completion_tokens": 21, "total_tokens": 264}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{x^{2}}{3}-y^{2}=1$", "usage": {"prompt_tokens": 254, "completion_tokens": 26, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 128。", "usage": {"prompt_tokens": 217, "completion_tokens": 16, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 偶函数, 最大值为 2。", "usage": {"prompt_tokens": 204, "completion_tokens": 26, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\pm \\sqrt{2}$。", "usage": {"prompt_tokens": 215, "completion_tokens": 20, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 10。", "usage": {"prompt_tokens": 193, "completion_tokens": 15, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项（B）$3 \\in M$。", "usage": {"prompt_tokens": 176, "completion_tokens": 19, "total_tokens": 195}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) a=-1, b=2。", "usage": {"prompt_tokens": 190, "completion_tokens": 19, "total_tokens": 209}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：-1", "usage": {"prompt_tokens": 187, "completion_tokens": 15, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $b_{3}<b_{8}$。", "usage": {"prompt_tokens": 379, "completion_tokens": 22, "total_tokens": 401}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $2 \\sqrt{2}$。", "usage": {"prompt_tokens": 199, "completion_tokens": 20, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)平面 $B_{1} E F \\perp$ 平面 $A_{1} B D$。", "usage": {"prompt_tokens": 264, "completion_tokens": 35, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 12。", "usage": {"prompt_tokens": 169, "completion_tokens": 15, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$\\frac{\\sqrt{3}}{3}$。", "usage": {"prompt_tokens": 233, "completion_tokens": 22, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 该棋手在第二盘与甲比赛，$p$ 最大。", "usage": {"prompt_tokens": 376, "completion_tokens": 37, "total_tokens": 413}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{3}{2}$。", "usage": {"prompt_tokens": 274, "completion_tokens": 20, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\{-1,0,1,2\\}$。", "usage": {"prompt_tokens": 203, "completion_tokens": 23, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$1+i$。", "usage": {"prompt_tokens": 160, "completion_tokens": 17, "total_tokens": 177}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\alpha \\perp \\beta$ 且 $\\mid \\perp \\beta$。", "usage": {"prompt_tokens": 293, "completion_tokens": 30, "total_tokens": 323}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 3", "usage": {"prompt_tokens": 160, "completion_tokens": 15, "total_tokens": 175}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $b>c>a$。", "usage": {"prompt_tokens": 173, "completion_tokens": 19, "total_tokens": 192}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)函数 $y=f(x)$ 的图象是中心对称图形。", "usage": {"prompt_tokens": 287, "completion_tokens": 32, "total_tokens": 319}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) y^2 = 2 x or y^2 = 8 x。", "usage": {"prompt_tokens": 269, "completion_tokens": 27, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left(1-\\frac{\\sqrt{2}}{2}, \\frac{1}{2}\\right)$。", "usage": {"prompt_tokens": 262, "completion_tokens": 35, "total_tokens": 297}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{0,1,3,5\\}$。", "usage": {"prompt_tokens": 189, "completion_tokens": 22, "total_tokens": 211}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)充要条件。", "usage": {"prompt_tokens": 187, "completion_tokens": 19, "total_tokens": 206}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$c<a<b$", "usage": {"prompt_tokens": 195, "completion_tokens": 20, "total_tokens": 215}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $4 \\pi$。", "usage": {"prompt_tokens": 229, "completion_tokens": 18, "total_tokens": 247}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1。", "usage": {"prompt_tokens": 161, "completion_tokens": 14, "total_tokens": 175}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项（B）$\\sqrt{3}$。", "usage": {"prompt_tokens": 279, "completion_tokens": 18, "total_tokens": 297}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\left(\\frac{7}{4}, 2\\right) \\cup\\left(\\frac{5}{2}, \\frac{11}{4}\\right)$。", "usage": {"prompt_tokens": 372, "completion_tokens": 47, "total_tokens": 419}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$-2-4i$", "usage": {"prompt_tokens": 150, "completion_tokens": 19, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$(3,4)$。", "usage": {"prompt_tokens": 183, "completion_tokens": 18, "total_tokens": 201}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) x+y-2=0。", "usage": {"prompt_tokens": 183, "completion_tokens": 19, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{1}{5}$。", "usage": {"prompt_tokens": 252, "completion_tokens": 20, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{10}$。", "usage": {"prompt_tokens": 185, "completion_tokens": 19, "total_tokens": 204}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$a>c>b$。", "usage": {"prompt_tokens": 177, "completion_tokens": 19, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{2}}{3}$。", "usage": {"prompt_tokens": 235, "completion_tokens": 22, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B${\\sqrt{2}}$。", "usage": {"prompt_tokens": 158, "completion_tokens": 17, "total_tokens": 175}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{3}}{2}$。", "usage": {"prompt_tokens": 180, "completion_tokens": 22, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 211, "completion_tokens": 13, "total_tokens": 224}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)0.432。", "usage": {"prompt_tokens": 257, "completion_tokens": 18, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\overrightarrow{\\mathrm{AD}}=\\frac{1}{3} \\overrightarrow{\\mathrm{AB}}-\\frac{4}{3} \\overrightarrow{\\mathrm{AC}}$", "usage": {"prompt_tokens": 311, "completion_tokens": 49, "total_tokens": 360}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 20。", "usage": {"prompt_tokens": 162, "completion_tokens": 15, "total_tokens": 177}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left[-\\frac{3}{2 \\mathrm{e}}, \\frac{3}{4}\\right)$。", "usage": {"prompt_tokens": 285, "completion_tokens": 36, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：(-3,-2)∪[1,3)。", "usage": {"prompt_tokens": 194, "completion_tokens": 25, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)5。", "usage": {"prompt_tokens": 155, "completion_tokens": 14, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1。", "usage": {"prompt_tokens": 179, "completion_tokens": 14, "total_tokens": 193}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $f(-x)-f(x)=0$。", "usage": {"prompt_tokens": 193, "completion_tokens": 23, "total_tokens": 216}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)41。", "usage": {"prompt_tokens": 184, "completion_tokens": 15, "total_tokens": 199}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：[-3,5]", "usage": {"prompt_tokens": 226, "completion_tokens": 18, "total_tokens": 244}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left\\{x \\mid \\frac{1}{3} \\leq x<2\\right\\}$。", "usage": {"prompt_tokens": 223, "completion_tokens": 34, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$-2 \\vec{m}+3 \\vec{n}$", "usage": {"prompt_tokens": 230, "completion_tokens": 26, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $1.2 \\times 10^{9} \\mathrm{~m}^{3}$。", "usage": {"prompt_tokens": 438, "completion_tokens": 32, "total_tokens": 470}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B$\\frac{1}{3}$。", "usage": {"prompt_tokens": 200, "completion_tokens": 18, "total_tokens": 218}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项（B）$c<b<a$。", "usage": {"prompt_tokens": 175, "completion_tokens": 20, "total_tokens": 195}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\left[\\frac{27}{4}, \\frac{81}{4}\\right]$。", "usage": {"prompt_tokens": 277, "completion_tokens": 32, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B。", "usage": {"prompt_tokens": 267, "completion_tokens": 11, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $f(x)$ 有三个零点。", "usage": {"prompt_tokens": 205, "completion_tokens": 25, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B直线 $A B$ 与 $C$ 相切。", "usage": {"prompt_tokens": 260, "completion_tokens": 25, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$(-2,1)$。", "usage": {"prompt_tokens": 180, "completion_tokens": 18, "total_tokens": 198}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)第二象限。", "usage": {"prompt_tokens": 160, "completion_tokens": 16, "total_tokens": 176}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项C) 方差。", "usage": {"prompt_tokens": 273, "completion_tokens": 17, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $3^{a}<3^{b}$", "usage": {"prompt_tokens": 156, "completion_tokens": 21, "total_tokens": 177}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\alpha$ 内有两条相交直线与 $\\beta$ 平行。", "usage": {"prompt_tokens": 213, "completion_tokens": 31, "total_tokens": 244}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $f(x)=|\\sin 2x|$.", "usage": {"prompt_tokens": 203, "completion_tokens": 23, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{3}$。", "usage": {"prompt_tokens": 268, "completion_tokens": 18, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left(-\\infty, \\frac{7}{3}\\right]$。", "usage": {"prompt_tokens": 287, "completion_tokens": 28, "total_tokens": 315}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)2。", "usage": {"prompt_tokens": 183, "completion_tokens": 14, "total_tokens": 197}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{2}}{2}$。", "usage": {"prompt_tokens": 165, "completion_tokens": 22, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)40。", "usage": {"prompt_tokens": 156, "completion_tokens": 15, "total_tokens": 171}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{x^{2}}{4}-\\frac{y^{2}}{5}=1$", "usage": {"prompt_tokens": 311, "completion_tokens": 30, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) y=f(x) 的图象关于直线 x=8π/3 对称。", "usage": {"prompt_tokens": 250, "completion_tokens": 35, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\frac{3 \\pi}{4}$。", "usage": {"prompt_tokens": 206, "completion_tokens": 22, "total_tokens": 228}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 3。", "usage": {"prompt_tokens": 196, "completion_tokens": 16, "total_tokens": 212}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\frac{1}{2}$。", "usage": {"prompt_tokens": 188, "completion_tokens": 20, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $2 \\sqrt{2}$。", "usage": {"prompt_tokens": 234, "completion_tokens": 20, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)3。", "usage": {"prompt_tokens": 187, "completion_tokens": 14, "total_tokens": 201}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $p_{1}=p_{4}=0.4, p_{2}=p_{3}=0.1$。", "usage": {"prompt_tokens": 311, "completion_tokens": 37, "total_tokens": 348}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)$(1,0)$。", "usage": {"prompt_tokens": 236, "completion_tokens": 18, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) - 19/35。", "usage": {"prompt_tokens": 216, "completion_tokens": 19, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(D)$\\frac{2}{3}$。", "usage": {"prompt_tokens": 180, "completion_tokens": 20, "total_tokens": 200}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 1。", "usage": {"prompt_tokens": 154, "completion_tokens": 16, "total_tokens": 170}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) y=2x+1。", "usage": {"prompt_tokens": 211, "completion_tokens": 18, "total_tokens": 229}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)2。", "usage": {"prompt_tokens": 255, "completion_tokens": 14, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$b<a<c$", "usage": {"prompt_tokens": 196, "completion_tokens": 20, "total_tokens": 216}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B。", "usage": {"prompt_tokens": 204, "completion_tokens": 11, "total_tokens": 215}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) a n=3 n-10。", "usage": {"prompt_tokens": 212, "completion_tokens": 20, "total_tokens": 232}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 299, "completion_tokens": 13, "total_tokens": 312}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：\\textcircled{2}\\textcircled{4}。", "usage": {"prompt_tokens": 326, "completion_tokens": 27, "total_tokens": 353}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{2,3\\}$。", "usage": {"prompt_tokens": 171, "completion_tokens": 18, "total_tokens": 189}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $4-2 \\mathrm{i}$。", "usage": {"prompt_tokens": 165, "completion_tokens": 22, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\left(\\frac{\\pi}{2}, \\pi\\right)$", "usage": {"prompt_tokens": 220, "completion_tokens": 26, "total_tokens": 246}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)9。", "usage": {"prompt_tokens": 215, "completion_tokens": 14, "total_tokens": 229}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 2/5。", "usage": {"prompt_tokens": 177, "completion_tokens": 18, "total_tokens": 195}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\mathrm{e}^{a}<b$", "usage": {"prompt_tokens": 188, "completion_tokens": 21, "total_tokens": 209}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)甲与丁相互独立。", "usage": {"prompt_tokens": 320, "completion_tokens": 23, "total_tokens": 343}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)两组样本数据的样本中位数相同。", "usage": {"prompt_tokens": 270, "completion_tokens": 26, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\left|\\overrightarrow{A P_{1}}\\right|=\\left|\\overrightarrow{A P_{2}}\\right|$", "usage": {"prompt_tokens": 310, "completion_tokens": 37, "total_tokens": 347}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 4 个。", "usage": {"prompt_tokens": 191, "completion_tokens": 16, "total_tokens": 207}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $3+\\mathrm{i}$。", "usage": {"prompt_tokens": 162, "completion_tokens": 20, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B：$x \\mid 0<x<1$", "usage": {"prompt_tokens": 198, "completion_tokens": 22, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\sqrt{5}$。", "usage": {"prompt_tokens": 217, "completion_tokens": 18, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)180种。", "usage": {"prompt_tokens": 232, "completion_tokens": 17, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\sqrt{2}-2$。", "usage": {"prompt_tokens": 205, "completion_tokens": 20, "total_tokens": 225}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 2。", "usage": {"prompt_tokens": 161, "completion_tokens": 14, "total_tokens": 175}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $f(x)$ 是奇函数。", "usage": {"prompt_tokens": 205, "completion_tokens": 22, "total_tokens": 227}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{0,1\\}$。", "usage": {"prompt_tokens": 187, "completion_tokens": 18, "total_tokens": 205}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1。", "usage": {"prompt_tokens": 153, "completion_tokens": 14, "total_tokens": 167}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)42。", "usage": {"prompt_tokens": 181, "completion_tokens": 15, "total_tokens": 196}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)4√6。", "usage": {"prompt_tokens": 186, "completion_tokens": 16, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $64 \\pi$。", "usage": {"prompt_tokens": 226, "completion_tokens": 19, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$(-1,0) \\cup(1,+\\infty)$。", "usage": {"prompt_tokens": 262, "completion_tokens": 26, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\sqrt{2}$。", "usage": {"prompt_tokens": 151, "completion_tokens": 18, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：-2", "usage": {"prompt_tokens": 189, "completion_tokens": 15, "total_tokens": 204}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)3。", "usage": {"prompt_tokens": 205, "completion_tokens": 14, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) y=-2x+1。", "usage": {"prompt_tokens": 181, "completion_tokens": 18, "total_tokens": 199}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)10。", "usage": {"prompt_tokens": 164, "completion_tokens": 15, "total_tokens": 179}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{2}{3}$。", "usage": {"prompt_tokens": 188, "completion_tokens": 20, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $a<2b$。", "usage": {"prompt_tokens": 164, "completion_tokens": 18, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$2-\\mathrm{i}$。", "usage": {"prompt_tokens": 153, "completion_tokens": 19, "total_tokens": 172}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)1 或 $\\sqrt{3}$。", "usage": {"prompt_tokens": 182, "completion_tokens": 21, "total_tokens": 203}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{x^{2}}{12}+\\frac{y^{2}}{8}=1$", "usage": {"prompt_tokens": 246, "completion_tokens": 31, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{3}$。", "usage": {"prompt_tokens": 225, "completion_tokens": 18, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{99}{101}$。", "usage": {"prompt_tokens": 237, "completion_tokens": 22, "total_tokens": 259}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{2}{3} \\vec{a}-\\frac{2}{3} \\vec{b}$。", "usage": {"prompt_tokens": 299, "completion_tokens": 36, "total_tokens": 335}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$-\\frac{\\sqrt{5}}{9}$。", "usage": {"prompt_tokens": 191, "completion_tokens": 22, "total_tokens": 213}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C) $\\frac{3}{4}$。", "usage": {"prompt_tokens": 236, "completion_tokens": 20, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $z<x<y$。", "usage": {"prompt_tokens": 179, "completion_tokens": 19, "total_tokens": 198}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) - 9 或 3。", "usage": {"prompt_tokens": 179, "completion_tokens": 20, "total_tokens": 199}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 18 种。", "usage": {"prompt_tokens": 201, "completion_tokens": 17, "total_tokens": 218}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)14。", "usage": {"prompt_tokens": 296, "completion_tokens": 15, "total_tokens": 311}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{1,2\\}$。", "usage": {"prompt_tokens": 167, "completion_tokens": 18, "total_tokens": 185}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)13。", "usage": {"prompt_tokens": 214, "completion_tokens": 15, "total_tokens": 229}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项C) 充分必要条件。", "usage": {"prompt_tokens": 187, "completion_tokens": 21, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B)向右平移 $\\frac{\\pi}{5}$ 个单位长度。", "usage": {"prompt_tokens": 243, "completion_tokens": 29, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 5。", "usage": {"prompt_tokens": 163, "completion_tokens": 14, "total_tokens": 177}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $a \\leq 1, b \\leq 3$。", "usage": {"prompt_tokens": 217, "completion_tokens": 25, "total_tokens": 242}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $\\frac{5}{2}<100 a_{100}<3$", "usage": {"prompt_tokens": 255, "completion_tokens": 31, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\{\\{0,1\\}\\}$", "usage": {"prompt_tokens": 179, "completion_tokens": 20, "total_tokens": 199}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) -2+i。", "usage": {"prompt_tokens": 172, "completion_tokens": 17, "total_tokens": 189}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 5。", "usage": {"prompt_tokens": 166, "completion_tokens": 14, "total_tokens": 180}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $(-\\infty,-1) \\cup(1,+\\infty)$。", "usage": {"prompt_tokens": 189, "completion_tokens": 27, "total_tokens": 216}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B: 经过点 $P$。", "usage": {"prompt_tokens": 239, "completion_tokens": 19, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 有最大项, 无最小项。", "usage": {"prompt_tokens": 233, "completion_tokens": 23, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(C)充分必要条件。", "usage": {"prompt_tokens": 212, "completion_tokens": 21, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $6 n\\left(\\sin \\frac{30^{\\circ}}{n}+\\tan \\frac{30^{\\circ}}{n}\\right)$。", "usage": {"prompt_tokens": 484, "completion_tokens": 42, "total_tokens": 526}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\{1\\}$。", "usage": {"prompt_tokens": 175, "completion_tokens": 16, "total_tokens": 191}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：$-3+i$", "usage": {"prompt_tokens": 151, "completion_tokens": 18, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{7}{9}$。", "usage": {"prompt_tokens": 165, "completion_tokens": 20, "total_tokens": 185}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)20。", "usage": {"prompt_tokens": 168, "completion_tokens": 15, "total_tokens": 183}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$[4,8]$。", "usage": {"prompt_tokens": 249, "completion_tokens": 18, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 0.6。", "usage": {"prompt_tokens": 236, "completion_tokens": 16, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\pi}{3}$。", "usage": {"prompt_tokens": 214, "completion_tokens": 20, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)：18 √3。", "usage": {"prompt_tokens": 235, "completion_tokens": 19, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)$\\left(-3, \\frac{3}{2}\\right)$。", "usage": {"prompt_tokens": 218, "completion_tokens": 27, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\sqrt{2}$。", "usage": {"prompt_tokens": 163, "completion_tokens": 18, "total_tokens": 181}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 99。", "usage": {"prompt_tokens": 171, "completion_tokens": 15, "total_tokens": 186}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B$\\frac{1}{2}$。\n\n首先，我们需要计算小明到达发车站的概率，即小明到达发车站的时间在 7:50 至 8:30 之间的概率。\n\n小明到达发车站的概率为 $\\frac{1}{2}$，因为在 7:50 至 8:30 之间有两个时间段，一个小明到达发车站，另一个小明到达发车站的概率相等。\n\n现在我们需要计算小明等车时间不超过 10 分钟的概率。我们可以将小明到达发车站的概率乘以等车时间不超过 10 分钟的概率。\n\n等车时间不超过 10 分钟的概率为 $\\frac{10-10}{10} = \\frac{1}{10}$。\n\n因此，小明等车时间不超过 10 分钟的概率为 $\\frac{1}{2} \\times \\frac{1}{10} = \\frac{1}{20}$。\n\n答案为选项B$\\frac{1}{2}$。", "usage": {"prompt_tokens": 278, "completion_tokens": 392, "total_tokens": 670}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) $a b^{c}<b a^{c}$。", "usage": {"prompt_tokens": 182, "completion_tokens": 24, "total_tokens": 206}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B)4。", "usage": {"prompt_tokens": 234, "completion_tokens": 14, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项(B) $\\frac{\\sqrt{2}}{2}$。", "usage": {"prompt_tokens": 268, "completion_tokens": 22, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "答案是选项B) 9。", "usage": {"prompt_tokens": 258, "completion_tokens": 14, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-7B"}

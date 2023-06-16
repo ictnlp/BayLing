@@ -1,0 +1,306 @@
+{"text": "Answer is choice (B) finish your homework on time.", "usage": {"prompt_tokens": 413, "completion_tokens": 13, "total_tokens": 426}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) organize your homework.", "usage": {"prompt_tokens": 432, "completion_tokens": 12, "total_tokens": 444}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) $299.", "usage": {"prompt_tokens": 406, "completion_tokens": 11, "total_tokens": 417}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) On a teenage website.", "usage": {"prompt_tokens": 406, "completion_tokens": 13, "total_tokens": 419}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) angry bees.", "usage": {"prompt_tokens": 571, "completion_tokens": 10, "total_tokens": 581}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 583, "completion_tokens": 6, "total_tokens": 589}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) To see if elephants would run away.", "usage": {"prompt_tokens": 590, "completion_tokens": 16, "total_tokens": 606}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Farmers do not allow Lucy to conduct tests in their fields.", "usage": {"prompt_tokens": 607, "completion_tokens": 19, "total_tokens": 626}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) By showing what ordinary people have collected.", "usage": {"prompt_tokens": 490, "completion_tokens": 14, "total_tokens": 504}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Who they are.", "usage": {"prompt_tokens": 472, "completion_tokens": 10, "total_tokens": 482}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 485, "completion_tokens": 6, "total_tokens": 491}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 476, "completion_tokens": 6, "total_tokens": 482}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Changemakers.", "usage": {"prompt_tokens": 580, "completion_tokens": 11, "total_tokens": 591}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Masqsood and Iftekhar.", "usage": {"prompt_tokens": 593, "completion_tokens": 15, "total_tokens": 608}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) considers Drayton's concept.", "usage": {"prompt_tokens": 594, "completion_tokens": 15, "total_tokens": 609}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Positive.", "usage": {"prompt_tokens": 570, "completion_tokens": 9, "total_tokens": 579}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Washington Capital Monuments Bicycle Tour.", "usage": {"prompt_tokens": 558, "completion_tokens": 15, "total_tokens": 573}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Enjoy interesting stories.", "usage": {"prompt_tokens": 533, "completion_tokens": 12, "total_tokens": 545}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Safety lights.", "usage": {"prompt_tokens": 526, "completion_tokens": 10, "total_tokens": 536}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 516, "completion_tokens": 6, "total_tokens": 522}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) He assists her in cooking matters.", "usage": {"prompt_tokens": 516, "completion_tokens": 15, "total_tokens": 531}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 513, "completion_tokens": 6, "total_tokens": 519}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Cooking Well for Less.", "usage": {"prompt_tokens": 508, "completion_tokens": 12, "total_tokens": 520}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They had similar patterns.", "usage": {"prompt_tokens": 581, "completion_tokens": 11, "total_tokens": 592}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Powerful.", "usage": {"prompt_tokens": 575, "completion_tokens": 9, "total_tokens": 584}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) about 1,200.", "usage": {"prompt_tokens": 595, "completion_tokens": 14, "total_tokens": 609}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Human development results in fewer languages.", "usage": {"prompt_tokens": 587, "completion_tokens": 13, "total_tokens": 600}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They go out of style quickly.", "usage": {"prompt_tokens": 642, "completion_tokens": 13, "total_tokens": 655}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To find out electricity consumption of the devices.", "usage": {"prompt_tokens": 651, "completion_tokens": 16, "total_tokens": 667}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) The tablet.", "usage": {"prompt_tokens": 631, "completion_tokens": 10, "total_tokens": 641}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Recycle them.", "usage": {"prompt_tokens": 632, "completion_tokens": 10, "total_tokens": 642}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They will be delighted.", "usage": {"prompt_tokens": 561, "completion_tokens": 12, "total_tokens": 573}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) ask others to help you.", "usage": {"prompt_tokens": 556, "completion_tokens": 12, "total_tokens": 568}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) a couple of names first.", "usage": {"prompt_tokens": 554, "completion_tokens": 12, "total_tokens": 566}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) How to recite and repeat names.", "usage": {"prompt_tokens": 559, "completion_tokens": 14, "total_tokens": 573}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) creatures for pulling plows.", "usage": {"prompt_tokens": 562, "completion_tokens": 14, "total_tokens": 576}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) oxen are treated as human in some areas of China.", "usage": {"prompt_tokens": 575, "completion_tokens": 18, "total_tokens": 593}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) People's respect and love for oxen.", "usage": {"prompt_tokens": 571, "completion_tokens": 16, "total_tokens": 587}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To explain how to develop agriculture with oxen.", "usage": {"prompt_tokens": 567, "completion_tokens": 17, "total_tokens": 584}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Heat can also be collected from asphalt roads.", "usage": {"prompt_tokens": 535, "completion_tokens": 18, "total_tokens": 553}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To carry heat down below the surface.", "usage": {"prompt_tokens": 512, "completion_tokens": 14, "total_tokens": 526}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice C. the exchangers will pick up heat from the street surface.", "usage": {"prompt_tokens": 524, "completion_tokens": 18, "total_tokens": 542}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) The Central Steering Group arrived in Wuhan.", "usage": {"prompt_tokens": 562, "completion_tokens": 16, "total_tokens": 578}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) April 8.", "usage": {"prompt_tokens": 526, "completion_tokens": 10, "total_tokens": 536}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) to remind people of a historical period.", "usage": {"prompt_tokens": 667, "completion_tokens": 15, "total_tokens": 682}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They lost to new technologies.", "usage": {"prompt_tokens": 673, "completion_tokens": 13, "total_tokens": 686}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) their changed roles and functions.", "usage": {"prompt_tokens": 665, "completion_tokens": 12, "total_tokens": 677}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) digest the meal easily.", "usage": {"prompt_tokens": 654, "completion_tokens": 13, "total_tokens": 667}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 659, "completion_tokens": 6, "total_tokens": 665}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 651, "completion_tokens": 6, "total_tokens": 657}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Physical exercise before breakfast is better for health.", "usage": {"prompt_tokens": 662, "completion_tokens": 16, "total_tokens": 678}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Out of place.", "usage": {"prompt_tokens": 930, "completion_tokens": 10, "total_tokens": 940}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They understood each other while playing.", "usage": {"prompt_tokens": 946, "completion_tokens": 13, "total_tokens": 959}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Juan knew so little about the world.", "usage": {"prompt_tokens": 953, "completion_tokens": 14, "total_tokens": 967}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To learn more about local cultures.", "usage": {"prompt_tokens": 952, "completion_tokens": 14, "total_tokens": 966}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) They conducted in-depth and close studies.", "usage": {"prompt_tokens": 946, "completion_tokens": 15, "total_tokens": 961}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) The Known and the Unknown.", "usage": {"prompt_tokens": 948, "completion_tokens": 14, "total_tokens": 962}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) they are an addition to TDSB courses.", "usage": {"prompt_tokens": 459, "completion_tokens": 16, "total_tokens": 475}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 445, "completion_tokens": 6, "total_tokens": 451}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Chimps seldom care about others' interests.", "usage": {"prompt_tokens": 709, "completion_tokens": 18, "total_tokens": 727}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 693, "completion_tokens": 6, "total_tokens": 699}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) the helping behaviors of young children.", "usage": {"prompt_tokens": 690, "completion_tokens": 14, "total_tokens": 704}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 804, "completion_tokens": 6, "total_tokens": 810}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Rich countries' gains are greater than their losses.", "usage": {"prompt_tokens": 802, "completion_tokens": 17, "total_tokens": 819}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) more investment should go to risk reduction.", "usage": {"prompt_tokens": 790, "completion_tokens": 15, "total_tokens": 805}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 795, "completion_tokens": 6, "total_tokens": 801}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1234, "completion_tokens": 6, "total_tokens": 1240}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1234, "completion_tokens": 6, "total_tokens": 1240}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Her wish to get Shelly﹣Ann out of poverty.", "usage": {"prompt_tokens": 1234, "completion_tokens": 22, "total_tokens": 1256}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1233, "completion_tokens": 6, "total_tokens": 1239}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) motivation allows great athletes to be on the top.", "usage": {"prompt_tokens": 1225, "completion_tokens": 18, "total_tokens": 1243}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The Power of Full Responsibility.", "usage": {"prompt_tokens": 1200, "completion_tokens": 15, "total_tokens": 1215}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Ask at the local station.", "usage": {"prompt_tokens": 417, "completion_tokens": 12, "total_tokens": 429}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Roma Street.", "usage": {"prompt_tokens": 406, "completion_tokens": 9, "total_tokens": 415}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) 7:29 pm.", "usage": {"prompt_tokens": 419, "completion_tokens": 13, "total_tokens": 432}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) It extends the understanding of oneself.", "usage": {"prompt_tokens": 552, "completion_tokens": 14, "total_tokens": 566}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 565, "completion_tokens": 6, "total_tokens": 571}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) He loves poetry.", "usage": {"prompt_tokens": 538, "completion_tokens": 11, "total_tokens": 549}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They have to follow special rules.", "usage": {"prompt_tokens": 542, "completion_tokens": 13, "total_tokens": 555}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) It’s less likely to cause knee injuries.", "usage": {"prompt_tokens": 550, "completion_tokens": 18, "total_tokens": 568}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Hiring an experienced coach.", "usage": {"prompt_tokens": 544, "completion_tokens": 12, "total_tokens": 556}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Tolerant.", "usage": {"prompt_tokens": 533, "completion_tokens": 10, "total_tokens": 543}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Benefits from green plants.", "usage": {"prompt_tokens": 557, "completion_tokens": 13, "total_tokens": 570}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) To change compositions of plants.", "usage": {"prompt_tokens": 564, "completion_tokens": 13, "total_tokens": 577}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They might help reduce energy consumption.", "usage": {"prompt_tokens": 565, "completion_tokens": 13, "total_tokens": 578}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Could glowing plants replace lamps?", "usage": {"prompt_tokens": 573, "completion_tokens": 15, "total_tokens": 588}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) People's occupations.", "usage": {"prompt_tokens": 772, "completion_tokens": 12, "total_tokens": 784}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) built houses and furniture.", "usage": {"prompt_tokens": 764, "completion_tokens": 12, "total_tokens": 776}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Donald Greenwood.", "usage": {"prompt_tokens": 776, "completion_tokens": 10, "total_tokens": 786}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) later generations.", "usage": {"prompt_tokens": 761, "completion_tokens": 10, "total_tokens": 771}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 863, "completion_tokens": 6, "total_tokens": 869}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 868, "completion_tokens": 6, "total_tokens": 874}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 867, "completion_tokens": 6, "total_tokens": 873}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) wolves will kill people and people will in turn kill them.", "usage": {"prompt_tokens": 879, "completion_tokens": 19, "total_tokens": 898}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) 50CAN.", "usage": {"prompt_tokens": 249, "completion_tokens": 12, "total_tokens": 261}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) 200US.", "usage": {"prompt_tokens": 244, "completion_tokens": 12, "total_tokens": 256}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 325, "completion_tokens": 6, "total_tokens": 331}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 874, "completion_tokens": 6, "total_tokens": 880}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) financial problems.", "usage": {"prompt_tokens": 835, "completion_tokens": 9, "total_tokens": 844}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Positive.", "usage": {"prompt_tokens": 838, "completion_tokens": 9, "total_tokens": 847}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) International Railway Network.", "usage": {"prompt_tokens": 830, "completion_tokens": 10, "total_tokens": 840}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) your supporter and helps you.", "usage": {"prompt_tokens": 522, "completion_tokens": 13, "total_tokens": 535}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 527, "completion_tokens": 5, "total_tokens": 532}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) how to make good use of time.", "usage": {"prompt_tokens": 518, "completion_tokens": 14, "total_tokens": 532}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) energy from the Sun.", "usage": {"prompt_tokens": 476, "completion_tokens": 11, "total_tokens": 487}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 496, "completion_tokens": 5, "total_tokens": 501}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice C.", "usage": {"prompt_tokens": 504, "completion_tokens": 5, "total_tokens": 509}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Have all their carried items inspected at the entrance.", "usage": {"prompt_tokens": 515, "completion_tokens": 17, "total_tokens": 532}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice A. Visitors have to keep their valuable items in the checkrooms.", "usage": {"prompt_tokens": 524, "completion_tokens": 18, "total_tokens": 542}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 517, "completion_tokens": 5, "total_tokens": 522}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice B. pictures and videos can be taken in some places for personal use.", "usage": {"prompt_tokens": 521, "completion_tokens": 18, "total_tokens": 539}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice B. Jack was too busy with his business and family to think about Mr. Belser.", "usage": {"prompt_tokens": 965, "completion_tokens": 22, "total_tokens": 987}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Mr. Belser had pleasant memories of their time together.", "usage": {"prompt_tokens": 964, "completion_tokens": 19, "total_tokens": 983}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A). Because he was grateful for Jack’s time with him.", "usage": {"prompt_tokens": 944, "completion_tokens": 18, "total_tokens": 962}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 959, "completion_tokens": 6, "total_tokens": 965}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) What He Valued Most.", "usage": {"prompt_tokens": 925, "completion_tokens": 12, "total_tokens": 937}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) they think they can have a good time and develop relationships.", "usage": {"prompt_tokens": 646, "completion_tokens": 18, "total_tokens": 664}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) keep a close tie with her.", "usage": {"prompt_tokens": 642, "completion_tokens": 13, "total_tokens": 655}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Social conditioning is not the reason why women love talking.", "usage": {"prompt_tokens": 653, "completion_tokens": 18, "total_tokens": 671}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Talking Maintains Relationships", "usage": {"prompt_tokens": 635, "completion_tokens": 15, "total_tokens": 650}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 731, "completion_tokens": 6, "total_tokens": 737}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The wrong size of the boots.", "usage": {"prompt_tokens": 745, "completion_tokens": 14, "total_tokens": 759}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) four times.", "usage": {"prompt_tokens": 726, "completion_tokens": 9, "total_tokens": 735}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) \"…，she managed to act as though I wasn't an annoying little girl．\" (Paragraph 4)", "usage": {"prompt_tokens": 797, "completion_tokens": 34, "total_tokens": 831}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) He was Dr. Epstein’s patient.", "usage": {"prompt_tokens": 517, "completion_tokens": 16, "total_tokens": 533}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 513, "completion_tokens": 6, "total_tokens": 519}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) to become a powerful person in your mind.", "usage": {"prompt_tokens": 521, "completion_tokens": 15, "total_tokens": 536}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To encourage us to use our imagination.", "usage": {"prompt_tokens": 519, "completion_tokens": 15, "total_tokens": 534}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) the reasons for success.", "usage": {"prompt_tokens": 510, "completion_tokens": 11, "total_tokens": 521}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 525, "completion_tokens": 6, "total_tokens": 531}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 522, "completion_tokens": 6, "total_tokens": 528}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 537, "completion_tokens": 6, "total_tokens": 543}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) One cannot succeed without time and practice.", "usage": {"prompt_tokens": 530, "completion_tokens": 14, "total_tokens": 544}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) showed up with his teacher.", "usage": {"prompt_tokens": 582, "completion_tokens": 12, "total_tokens": 594}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 589, "completion_tokens": 6, "total_tokens": 595}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 598, "completion_tokens": 6, "total_tokens": 604}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 596, "completion_tokens": 6, "total_tokens": 602}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The author’s silent communication with him.", "usage": {"prompt_tokens": 585, "completion_tokens": 15, "total_tokens": 600}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To keep her from dishonest behaviors.", "usage": {"prompt_tokens": 536, "completion_tokens": 17, "total_tokens": 553}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) advanced technique.", "usage": {"prompt_tokens": 528, "completion_tokens": 9, "total_tokens": 537}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 531, "completion_tokens": 6, "total_tokens": 537}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) giving difficult test questions.", "usage": {"prompt_tokens": 528, "completion_tokens": 11, "total_tokens": 539}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The Fight against Cheating in Online Education", "usage": {"prompt_tokens": 540, "completion_tokens": 14, "total_tokens": 554}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 462, "completion_tokens": 6, "total_tokens": 468}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Take science to the classroom.", "usage": {"prompt_tokens": 463, "completion_tokens": 13, "total_tokens": 476}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 466, "completion_tokens": 6, "total_tokens": 472}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Creatures forced out of their homes.", "usage": {"prompt_tokens": 532, "completion_tokens": 14, "total_tokens": 546}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) To look at a baby owl.", "usage": {"prompt_tokens": 520, "completion_tokens": 14, "total_tokens": 534}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) A recording.", "usage": {"prompt_tokens": 503, "completion_tokens": 9, "total_tokens": 512}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) It's beautiful.", "usage": {"prompt_tokens": 516, "completion_tokens": 11, "total_tokens": 527}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) to recognize the value of jazz.", "usage": {"prompt_tokens": 610, "completion_tokens": 13, "total_tokens": 623}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 612, "completion_tokens": 6, "total_tokens": 618}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) It should keep up with the times.", "usage": {"prompt_tokens": 607, "completion_tokens": 14, "total_tokens": 621}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Celebrating the Jazz Day.", "usage": {"prompt_tokens": 613, "completion_tokens": 14, "total_tokens": 627}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) help vocabulary learning.", "usage": {"prompt_tokens": 450, "completion_tokens": 13, "total_tokens": 463}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Room 602.", "usage": {"prompt_tokens": 458, "completion_tokens": 12, "total_tokens": 470}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Kahoot.", "usage": {"prompt_tokens": 445, "completion_tokens": 10, "total_tokens": 455}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) 2:00 pm.", "usage": {"prompt_tokens": 458, "completion_tokens": 13, "total_tokens": 471}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) the strength of family unity.", "usage": {"prompt_tokens": 519, "completion_tokens": 12, "total_tokens": 531}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 528, "completion_tokens": 6, "total_tokens": 534}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They were influenced by what Helene taught them.", "usage": {"prompt_tokens": 530, "completion_tokens": 16, "total_tokens": 546}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Family Unity Builds Success.", "usage": {"prompt_tokens": 517, "completion_tokens": 12, "total_tokens": 529}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 470, "completion_tokens": 5, "total_tokens": 475}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The first group did not try to remember the formation.", "usage": {"prompt_tokens": 486, "completion_tokens": 17, "total_tokens": 503}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) remember how to find the information.", "usage": {"prompt_tokens": 466, "completion_tokens": 13, "total_tokens": 479}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) We are using memory differently.", "usage": {"prompt_tokens": 480, "completion_tokens": 12, "total_tokens": 492}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) more successful than all other animals.", "usage": {"prompt_tokens": 495, "completion_tokens": 13, "total_tokens": 508}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) communication.", "usage": {"prompt_tokens": 475, "completion_tokens": 8, "total_tokens": 483}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Fight against.", "usage": {"prompt_tokens": 486, "completion_tokens": 9, "total_tokens": 495}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) The behavior of ants contributes most to their survival.", "usage": {"prompt_tokens": 490, "completion_tokens": 19, "total_tokens": 509}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) can help to develop unity.", "usage": {"prompt_tokens": 501, "completion_tokens": 12, "total_tokens": 513}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Success.", "usage": {"prompt_tokens": 502, "completion_tokens": 8, "total_tokens": 510}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) using examples.", "usage": {"prompt_tokens": 490, "completion_tokens": 9, "total_tokens": 499}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The importance of food in culture.", "usage": {"prompt_tokens": 499, "completion_tokens": 13, "total_tokens": 512}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Room 2.", "usage": {"prompt_tokens": 441, "completion_tokens": 10, "total_tokens": 451}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 439, "completion_tokens": 6, "total_tokens": 445}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Researchers come to the Footwear Library for data.", "usage": {"prompt_tokens": 481, "completion_tokens": 18, "total_tokens": 499}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) visit the museum", "usage": {"prompt_tokens": 437, "completion_tokens": 9, "total_tokens": 446}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) cultural values.", "usage": {"prompt_tokens": 459, "completion_tokens": 9, "total_tokens": 468}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice C. To encourage people to make a purchase.", "usage": {"prompt_tokens": 475, "completion_tokens": 14, "total_tokens": 489}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Blue.", "usage": {"prompt_tokens": 447, "completion_tokens": 8, "total_tokens": 455}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice C. Colors and Personal Experiences", "usage": {"prompt_tokens": 463, "completion_tokens": 11, "total_tokens": 474}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) a much more famous person.", "usage": {"prompt_tokens": 508, "completion_tokens": 12, "total_tokens": 520}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) her bent spine.", "usage": {"prompt_tokens": 496, "completion_tokens": 11, "total_tokens": 507}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) 1950s.", "usage": {"prompt_tokens": 505, "completion_tokens": 13, "total_tokens": 518}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Sympathy.", "usage": {"prompt_tokens": 493, "completion_tokens": 10, "total_tokens": 503}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Daphne designs kites for the Big Wind Kite Factory.", "usage": {"prompt_tokens": 545, "completion_tokens": 20, "total_tokens": 565}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) It is shaped like a diamond.", "usage": {"prompt_tokens": 518, "completion_tokens": 15, "total_tokens": 533}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Any type of kite.", "usage": {"prompt_tokens": 519, "completion_tokens": 12, "total_tokens": 531}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Kite-flying lessons.", "usage": {"prompt_tokens": 509, "completion_tokens": 14, "total_tokens": 523}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) clothes will be able to change their pattern.", "usage": {"prompt_tokens": 466, "completion_tokens": 15, "total_tokens": 481}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Food in the grocery store will carry electronic information.", "usage": {"prompt_tokens": 482, "completion_tokens": 18, "total_tokens": 500}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Cars will be able to drive automatically.", "usage": {"prompt_tokens": 473, "completion_tokens": 15, "total_tokens": 488}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Future technology in everyday life.", "usage": {"prompt_tokens": 469, "completion_tokens": 13, "total_tokens": 482}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Holiday Lights Tour.", "usage": {"prompt_tokens": 539, "completion_tokens": 12, "total_tokens": 551}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 541, "completion_tokens": 6, "total_tokens": 547}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 538, "completion_tokens": 6, "total_tokens": 544}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 507, "completion_tokens": 6, "total_tokens": 513}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The theater owner found it suitable.", "usage": {"prompt_tokens": 493, "completion_tokens": 14, "total_tokens": 507}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) It will be knocked down.", "usage": {"prompt_tokens": 492, "completion_tokens": 13, "total_tokens": 505}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 500, "completion_tokens": 6, "total_tokens": 506}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The reintroduction of wolves to Yellowstone Park.", "usage": {"prompt_tokens": 572, "completion_tokens": 19, "total_tokens": 591}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Forced out.", "usage": {"prompt_tokens": 554, "completion_tokens": 10, "total_tokens": 564}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Damage to local ecology.", "usage": {"prompt_tokens": 569, "completion_tokens": 14, "total_tokens": 583}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Positive.", "usage": {"prompt_tokens": 557, "completion_tokens": 9, "total_tokens": 566}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 531, "completion_tokens": 6, "total_tokens": 537}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) It keeps them independent.", "usage": {"prompt_tokens": 533, "completion_tokens": 11, "total_tokens": 544}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Develop driver-assist technologies.", "usage": {"prompt_tokens": 536, "completion_tokens": 14, "total_tokens": 550}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Keeping Older Drivers on the Road", "usage": {"prompt_tokens": 532, "completion_tokens": 16, "total_tokens": 548}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) appeals to a large number of users.", "usage": {"prompt_tokens": 463, "completion_tokens": 15, "total_tokens": 478}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) By using a broad-band connection.", "usage": {"prompt_tokens": 468, "completion_tokens": 14, "total_tokens": 482}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 484, "completion_tokens": 6, "total_tokens": 490}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) an introduction to a professor.", "usage": {"prompt_tokens": 460, "completion_tokens": 12, "total_tokens": 472}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 440, "completion_tokens": 6, "total_tokens": 446}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Producing electricity.", "usage": {"prompt_tokens": 431, "completion_tokens": 11, "total_tokens": 442}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) wind power is cleaner.", "usage": {"prompt_tokens": 441, "completion_tokens": 11, "total_tokens": 452}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The global trend towards producing power from wind.", "usage": {"prompt_tokens": 431, "completion_tokens": 16, "total_tokens": 447}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To lock the rope in place.", "usage": {"prompt_tokens": 534, "completion_tokens": 14, "total_tokens": 548}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Wellman hadn't decided whether to climb again.", "usage": {"prompt_tokens": 530, "completion_tokens": 18, "total_tokens": 548}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 522, "completion_tokens": 6, "total_tokens": 528}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) friendship is precious in life", "usage": {"prompt_tokens": 513, "completion_tokens": 12, "total_tokens": 525}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) How two \"Irelands\" came into being.", "usage": {"prompt_tokens": 518, "completion_tokens": 17, "total_tokens": 535}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Irish culture.", "usage": {"prompt_tokens": 500, "completion_tokens": 9, "total_tokens": 509}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Ireland, Past and Present", "usage": {"prompt_tokens": 504, "completion_tokens": 12, "total_tokens": 516}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) to be quiet.", "usage": {"prompt_tokens": 489, "completion_tokens": 10, "total_tokens": 499}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 491, "completion_tokens": 6, "total_tokens": 497}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 501, "completion_tokens": 6, "total_tokens": 507}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 494, "completion_tokens": 6, "total_tokens": 500}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Her social work.", "usage": {"prompt_tokens": 562, "completion_tokens": 10, "total_tokens": 572}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The discrimination against women.", "usage": {"prompt_tokens": 578, "completion_tokens": 13, "total_tokens": 591}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Rosa Parks.", "usage": {"prompt_tokens": 576, "completion_tokens": 10, "total_tokens": 586}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They are pioneers.", "usage": {"prompt_tokens": 568, "completion_tokens": 11, "total_tokens": 579}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) It strengthened her family ties.", "usage": {"prompt_tokens": 506, "completion_tokens": 14, "total_tokens": 520}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The majority thought it was a trend.", "usage": {"prompt_tokens": 519, "completion_tokens": 15, "total_tokens": 534}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) They were unsure of themselves.", "usage": {"prompt_tokens": 518, "completion_tokens": 13, "total_tokens": 531}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Sacrifice for their struggling children.", "usage": {"prompt_tokens": 520, "completion_tokens": 13, "total_tokens": 533}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) delivery man.", "usage": {"prompt_tokens": 474, "completion_tokens": 9, "total_tokens": 483}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) The donor can only wait for that long.", "usage": {"prompt_tokens": 496, "completion_tokens": 16, "total_tokens": 512}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Newark.", "usage": {"prompt_tokens": 470, "completion_tokens": 9, "total_tokens": 479}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 521, "completion_tokens": 6, "total_tokens": 527}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) The Russians.", "usage": {"prompt_tokens": 519, "completion_tokens": 11, "total_tokens": 530}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Make use of its healing effects.", "usage": {"prompt_tokens": 534, "completion_tokens": 14, "total_tokens": 548}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) What It Means to Be Silent", "usage": {"prompt_tokens": 524, "completion_tokens": 14, "total_tokens": 538}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 493, "completion_tokens": 6, "total_tokens": 499}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) 15-29.", "usage": {"prompt_tokens": 493, "completion_tokens": 13, "total_tokens": 506}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Summer Employment Opportunities.", "usage": {"prompt_tokens": 487, "completion_tokens": 14, "total_tokens": 501}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Making a speech.", "usage": {"prompt_tokens": 542, "completion_tokens": 11, "total_tokens": 553}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Silly jokes.", "usage": {"prompt_tokens": 554, "completion_tokens": 11, "total_tokens": 565}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Caring.", "usage": {"prompt_tokens": 546, "completion_tokens": 9, "total_tokens": 555}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To cut the cost of e-space protection.", "usage": {"prompt_tokens": 456, "completion_tokens": 16, "total_tokens": 472}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Typing patterns vary from person to person.", "usage": {"prompt_tokens": 460, "completion_tokens": 15, "total_tokens": 475}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 465, "completion_tokens": 6, "total_tokens": 471}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) A magazine.", "usage": {"prompt_tokens": 440, "completion_tokens": 9, "total_tokens": 449}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) The characteristics of adolescents.", "usage": {"prompt_tokens": 686, "completion_tokens": 14, "total_tokens": 700}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) They tended to be more adaptable.", "usage": {"prompt_tokens": 692, "completion_tokens": 15, "total_tokens": 707}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Be Nice-You Won’t Finish Last", "usage": {"prompt_tokens": 708, "completion_tokens": 17, "total_tokens": 725}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Leaving home for the city.", "usage": {"prompt_tokens": 470, "completion_tokens": 13, "total_tokens": 483}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) He lives in the city now.", "usage": {"prompt_tokens": 465, "completion_tokens": 13, "total_tokens": 478}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) persuade the reader to live in the city.", "usage": {"prompt_tokens": 471, "completion_tokens": 16, "total_tokens": 487}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) By giving explanations.\n\nThe passage is mainly developed through a series of explanations of the disadvantages and advantages of living in the city. The author provides specific examples of the challenges they face in their own life, such as the high cost of living, pollution, and traffic congestion. They also mention the benefits of living in the city, such as the abundance of cultural and entertainment options, as well as the availability of good jobs and shopping. Throughout the passage, the author provides explanations for each of these points, helping to develop the main idea that city life has both advantages and disadvantages.", "usage": {"prompt_tokens": 451, "completion_tokens": 139, "total_tokens": 590}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice A. Website: jobweb.com", "usage": {"prompt_tokens": 535, "completion_tokens": 11, "total_tokens": 546}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 522, "completion_tokens": 6, "total_tokens": 528}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) To swim soon after lunch.", "usage": {"prompt_tokens": 514, "completion_tokens": 14, "total_tokens": 528}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) of Body Language in an Interview.", "usage": {"prompt_tokens": 513, "completion_tokens": 14, "total_tokens": 527}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice A. People are fairly interested in climbing nowadays.", "usage": {"prompt_tokens": 474, "completion_tokens": 16, "total_tokens": 490}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) to control your fear.", "usage": {"prompt_tokens": 453, "completion_tokens": 11, "total_tokens": 464}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) exercise.", "usage": {"prompt_tokens": 447, "completion_tokens": 8, "total_tokens": 455}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) introduce the sport of wall climbing.", "usage": {"prompt_tokens": 462, "completion_tokens": 14, "total_tokens": 476}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice C.", "usage": {"prompt_tokens": 433, "completion_tokens": 5, "total_tokens": 438}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Reading is still necessary today.", "usage": {"prompt_tokens": 438, "completion_tokens": 12, "total_tokens": 450}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 430, "completion_tokens": 5, "total_tokens": 435}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice A. The small number of newborn babies.", "usage": {"prompt_tokens": 462, "completion_tokens": 15, "total_tokens": 477}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice D. The word “DINKS” appeared in an Asian country.", "usage": {"prompt_tokens": 481, "completion_tokens": 18, "total_tokens": 499}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) $5,900.", "usage": {"prompt_tokens": 467, "completion_tokens": 13, "total_tokens": 480}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) care for the growing needs of women for jobs.", "usage": {"prompt_tokens": 472, "completion_tokens": 16, "total_tokens": 488}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 521, "completion_tokens": 6, "total_tokens": 527}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) A period of financial problems.", "usage": {"prompt_tokens": 483, "completion_tokens": 12, "total_tokens": 495}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 4872, "completion_tokens": 6, "total_tokens": 4878}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The History of Olivetti", "usage": {"prompt_tokens": 473, "completion_tokens": 11, "total_tokens": 484}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 456, "completion_tokens": 6, "total_tokens": 462}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) move quickly.", "usage": {"prompt_tokens": 418, "completion_tokens": 9, "total_tokens": 427}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) buildings and other structures would float away.", "usage": {"prompt_tokens": 435, "completion_tokens": 14, "total_tokens": 449}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) In a student's book.", "usage": {"prompt_tokens": 420, "completion_tokens": 13, "total_tokens": 433}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) They are similar.", "usage": {"prompt_tokens": 505, "completion_tokens": 10, "total_tokens": 515}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Because they were richer and needed more space.", "usage": {"prompt_tokens": 536, "completion_tokens": 16, "total_tokens": 552}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) are faced with housing problems.", "usage": {"prompt_tokens": 520, "completion_tokens": 12, "total_tokens": 532}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) people have different views on American cities.", "usage": {"prompt_tokens": 516, "completion_tokens": 14, "total_tokens": 530}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 562, "completion_tokens": 6, "total_tokens": 568}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) His father’s letter removed his fear of failing his parents.", "usage": {"prompt_tokens": 564, "completion_tokens": 19, "total_tokens": 583}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 555, "completion_tokens": 6, "total_tokens": 561}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 545, "completion_tokens": 6, "total_tokens": 551}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) the costs of water redistribution should be considered.", "usage": {"prompt_tokens": 536, "completion_tokens": 17, "total_tokens": 553}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The underground water in Saudi Arabia might run out in 20 years.", "usage": {"prompt_tokens": 546, "completion_tokens": 24, "total_tokens": 570}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) Measures to deal with worldwide water shortages.", "usage": {"prompt_tokens": 537, "completion_tokens": 17, "total_tokens": 554}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 515, "completion_tokens": 6, "total_tokens": 521}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 462, "completion_tokens": 6, "total_tokens": 468}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Take science to the classroom.", "usage": {"prompt_tokens": 463, "completion_tokens": 13, "total_tokens": 476}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 466, "completion_tokens": 6, "total_tokens": 472}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Creatures forced out of their homes.", "usage": {"prompt_tokens": 532, "completion_tokens": 14, "total_tokens": 546}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) To look at a baby owl.", "usage": {"prompt_tokens": 520, "completion_tokens": 14, "total_tokens": 534}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) A recording.", "usage": {"prompt_tokens": 503, "completion_tokens": 9, "total_tokens": 512}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) It's beautiful.", "usage": {"prompt_tokens": 516, "completion_tokens": 11, "total_tokens": 527}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) to recognize the value of jazz.", "usage": {"prompt_tokens": 610, "completion_tokens": 13, "total_tokens": 623}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 612, "completion_tokens": 6, "total_tokens": 618}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) It should keep up with the times.", "usage": {"prompt_tokens": 607, "completion_tokens": 14, "total_tokens": 621}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Celebrating the Jazz Day.", "usage": {"prompt_tokens": 613, "completion_tokens": 14, "total_tokens": 627}, "finish_reason": "stop", "model": "Vicuna-13B"}

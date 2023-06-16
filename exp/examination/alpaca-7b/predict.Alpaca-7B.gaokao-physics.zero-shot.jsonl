@@ -1,0 +1,200 @@
+{"text": "Answer is: D", "usage": {"prompt_tokens": 362, "completion_tokens": 4, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 348, "completion_tokens": 4, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 307, "completion_tokens": 1, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 221, "completion_tokens": 5, "total_tokens": 226}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 534, "completion_tokens": 4, "total_tokens": 538}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 219, "completion_tokens": 1, "total_tokens": 220}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 357, "completion_tokens": 4, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 257, "completion_tokens": 4, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B $\\alpha$ particle.", "usage": {"prompt_tokens": 206, "completion_tokens": 9, "total_tokens": 215}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 335, "completion_tokens": 4, "total_tokens": 339}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B I L", "usage": {"prompt_tokens": 225, "completion_tokens": 6, "total_tokens": 231}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: Option D\"", "usage": {"prompt_tokens": 307, "completion_tokens": 10, "total_tokens": 317}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: C $\\left(\\frac{\\mathrm{R}-\\mathrm{d}}{\\mathrm{R}}\\right)^{2}$.", "usage": {"prompt_tokens": 268, "completion_tokens": 25, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: $16 \\mathrm{MeV}$.", "usage": {"prompt_tokens": 357, "completion_tokens": 14, "total_tokens": 371}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B $100 \\sqrt{3} \\mathrm{~kg}$.", "usage": {"prompt_tokens": 307, "completion_tokens": 19, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 327, "completion_tokens": 4, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 233, "completion_tokens": 5, "total_tokens": 238}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 在 2015 年内一定会出现木星冲日", "usage": {"prompt_tokens": 563, "completion_tokens": 23, "total_tokens": 586}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 328, "completion_tokens": 4, "total_tokens": 332}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 327, "completion_tokens": 4, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option()", "usage": {"prompt_tokens": 184, "completion_tokens": 4, "total_tokens": 188}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 229, "completion_tokens": 4, "total_tokens": 233}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 260, "completion_tokens": 4, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 363, "completion_tokens": 4, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 310, "completion_tokens": 4, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 376, "completion_tokens": 4, "total_tokens": 380}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 348, "completion_tokens": 4, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)牛顿发现 “万有引力定律”", "usage": {"prompt_tokens": 437, "completion_tokens": 20, "total_tokens": 457}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 波长变短\nB) 光子能量增加\nC) 频率降低\nD) 传播速", "usage": {"prompt_tokens": 268, "completion_tokens": 46, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is:\".", "usage": {"prompt_tokens": 384, "completion_tokens": 7, "total_tokens": 391}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n(中子)", "usage": {"prompt_tokens": 328, "completion_tokens": 6, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 384, "completion_tokens": 4, "total_tokens": 388}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 262, "completion_tokens": 5, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 284, "completion_tokens": 4, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B. Electric fields at different points on the same equipotential surface are equal in magnitude.", "usage": {"prompt_tokens": 236, "completion_tokens": 22, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B $\\frac{s}{t^{2}}$.", "usage": {"prompt_tokens": 210, "completion_tokens": 13, "total_tokens": 223}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 255, "completion_tokens": 4, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 247, "completion_tokens": 4, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 227, "completion_tokens": 4, "total_tokens": 231}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 214, "completion_tokens": 5, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 531, "completion_tokens": 4, "total_tokens": 535}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: - $\\frac{2 h c}{\\mathrm{E}_{1}}$.", "usage": {"prompt_tokens": 264, "completion_tokens": 19, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: 卫星动能增大, 引力势能增大.", "usage": {"prompt_tokens": 360, "completion_tokens": 29, "total_tokens": 389}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 467, "completion_tokens": 5, "total_tokens": 472}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (B) $0.98 \\mathrm{eV}$.", "usage": {"prompt_tokens": 353, "completion_tokens": 17, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 349, "completion_tokens": 4, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D) 5.", "usage": {"prompt_tokens": 199, "completion_tokens": 9, "total_tokens": 208}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option.", "usage": {"prompt_tokens": 230, "completion_tokens": 5, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 405, "completion_tokens": 1, "total_tokens": 406}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 260, "completion_tokens": 5, "total_tokens": 265}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: \nWhen the cloudy medium is filled between two parallel plates, the electric field strength between the plates will increase.", "usage": {"prompt_tokens": 276, "completion_tokens": 31, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 256, "completion_tokens": 4, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 197, "completion_tokens": 5, "total_tokens": 202}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 216, "completion_tokens": 4, "total_tokens": 220}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 214, "completion_tokens": 5, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D) $5\\pi/12$.", "usage": {"prompt_tokens": 227, "completion_tokens": 14, "total_tokens": 241}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 459, "completion_tokens": 4, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 271, "completion_tokens": 4, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 240, "completion_tokens": 5, "total_tokens": 245}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is:\".", "usage": {"prompt_tokens": 314, "completion_tokens": 8, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 188, "completion_tokens": 4, "total_tokens": 192}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 278, "completion_tokens": 4, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 373, "completion_tokens": 4, "total_tokens": 377}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 195, "completion_tokens": 5, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: ${ }_{92}^{238} \\mathrm{U} \\rightarrow{ }_{90}^{234} \\mathrm{Th}+{ }^{4} \\mathrm{He}$.", "usage": {"prompt_tokens": 305, "completion_tokens": 47, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 223, "completion_tokens": 4, "total_tokens": 227}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is:\".", "usage": {"prompt_tokens": 359, "completion_tokens": 8, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Only when the card reader transmits the specific frequency of electromagnetic wave, the IC card can work effectively.", "usage": {"prompt_tokens": 512, "completion_tokens": 28, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D)", "usage": {"prompt_tokens": 247, "completion_tokens": 7, "total_tokens": 254}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: Angle velocity ratio is 2:1.", "usage": {"prompt_tokens": 264, "completion_tokens": 15, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) $\\left(\\frac{P R}{k U}\\right)^2 R, \\frac{1}{n}$.", "usage": {"prompt_tokens": 388, "completion_tokens": 28, "total_tokens": 416}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 284, "completion_tokens": 4, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D)", "usage": {"prompt_tokens": 288, "completion_tokens": 7, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 270, "completion_tokens": 5, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 214, "completion_tokens": 4, "total_tokens": 218}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) 1000 kg", "usage": {"prompt_tokens": 457, "completion_tokens": 12, "total_tokens": 469}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 438, "completion_tokens": 4, "total_tokens": 442}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D) Atomic Radiation.", "usage": {"prompt_tokens": 147, "completion_tokens": 11, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 199, "completion_tokens": 4, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 323, "completion_tokens": 4, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 274, "completion_tokens": 4, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 354, "completion_tokens": 5, "total_tokens": 359}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 163, "completion_tokens": 4, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"B\"", "usage": {"prompt_tokens": 188, "completion_tokens": 6, "total_tokens": 194}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 260, "completion_tokens": 4, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) $\\left(\\frac{3}{4 \\pi G \\rho}\\right)^{\\frac{1}{2}}$", "usage": {"prompt_tokens": 263, "completion_tokens": 27, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 251, "completion_tokens": 4, "total_tokens": 255}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 412, "completion_tokens": 4, "total_tokens": 416}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 370, "completion_tokens": 5, "total_tokens": 375}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 415, "completion_tokens": 4, "total_tokens": 419}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: \"", "usage": {"prompt_tokens": 268, "completion_tokens": 8, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n6 hours 25 minutes", "usage": {"prompt_tokens": 523, "completion_tokens": 8, "total_tokens": 531}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 327, "completion_tokens": 4, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 174, "completion_tokens": 4, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 240, "completion_tokens": 4, "total_tokens": 244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B: \"B\"", "usage": {"prompt_tokens": 163, "completion_tokens": 8, "total_tokens": 171}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 202, "completion_tokens": 4, "total_tokens": 206}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 205, "completion_tokens": 4, "total_tokens": 209}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 322, "completion_tokens": 4, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 265, "completion_tokens": 4, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 400, "completion_tokens": 4, "total_tokens": 404}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 363, "completion_tokens": 4, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 310, "completion_tokens": 4, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 376, "completion_tokens": 4, "total_tokens": 380}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 345, "completion_tokens": 4, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D) Diffraction pattern of the oil droplet experiment demonstrates that the electron path is not continuous.", "usage": {"prompt_tokens": 266, "completion_tokens": 28, "total_tokens": 294}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: \"B\"", "usage": {"prompt_tokens": 186, "completion_tokens": 8, "total_tokens": 194}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: speed and wavelength both change.", "usage": {"prompt_tokens": 176, "completion_tokens": 13, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B $5 \\sqrt{2} \\mathrm{~V}$.", "usage": {"prompt_tokens": 259, "completion_tokens": 17, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 223, "completion_tokens": 4, "total_tokens": 227}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 303, "completion_tokens": 5, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) 2e/h", "usage": {"prompt_tokens": 346, "completion_tokens": 10, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) $\\sqrt{\\frac{R P K g}{Q}}$.", "usage": {"prompt_tokens": 369, "completion_tokens": 17, "total_tokens": 386}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 319, "completion_tokens": 4, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 342, "completion_tokens": 4, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 266, "completion_tokens": 4, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 212, "completion_tokens": 4, "total_tokens": 216}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D) Time and location different.", "usage": {"prompt_tokens": 246, "completion_tokens": 11, "total_tokens": 257}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 267, "completion_tokens": 4, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 199, "completion_tokens": 5, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 262, "completion_tokens": 4, "total_tokens": 266}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 348, "completion_tokens": 4, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option()", "usage": {"prompt_tokens": 274, "completion_tokens": 4, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. $\\frac{m v_{0}}{\\mathrm{qR}}$.", "usage": {"prompt_tokens": 360, "completion_tokens": 18, "total_tokens": 378}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 362, "completion_tokens": 4, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D)", "usage": {"prompt_tokens": 346, "completion_tokens": 6, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 166, "completion_tokens": 4, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 379, "completion_tokens": 4, "total_tokens": 383}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 245, "completion_tokens": 4, "total_tokens": 249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) $104 \\mathrm{~cm}$.", "usage": {"prompt_tokens": 338, "completion_tokens": 16, "total_tokens": 354}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 350, "completion_tokens": 4, "total_tokens": 354}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 240, "completion_tokens": 4, "total_tokens": 244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 313, "completion_tokens": 4, "total_tokens": 317}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 233, "completion_tokens": 4, "total_tokens": 237}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 196, "completion_tokens": 4, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 282, "completion_tokens": 4, "total_tokens": 286}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 276, "completion_tokens": 4, "total_tokens": 280}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 247, "completion_tokens": 4, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 194, "completion_tokens": 4, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. 光敏电阻是一种光电传感器.", "usage": {"prompt_tokens": 337, "completion_tokens": 25, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 294, "completion_tokens": 4, "total_tokens": 298}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 359, "completion_tokens": 1, "total_tokens": 360}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 208, "completion_tokens": 5, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option D.", "usage": {"prompt_tokens": 374, "completion_tokens": 5, "total_tokens": 379}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) In the moment when the object leaves the hand, the object's acceleration is greater than the gravitational acceleration.", "usage": {"prompt_tokens": 311, "completion_tokens": 29, "total_tokens": 340}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: 0.2", "usage": {"prompt_tokens": 213, "completion_tokens": 7, "total_tokens": 220}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. X nucleus is lighter than Z nucleus by one neutron.", "usage": {"prompt_tokens": 354, "completion_tokens": 20, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 309, "completion_tokens": 4, "total_tokens": 313}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: C. t1 < t2", "usage": {"prompt_tokens": 360, "completion_tokens": 10, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 248, "completion_tokens": 5, "total_tokens": 253}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Option()\"", "usage": {"prompt_tokens": 304, "completion_tokens": 6, "total_tokens": 310}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 200, "completion_tokens": 4, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: Bubble reaction: ${ }^{1} \\mathrm{H}+\\stackrel{1}{0}_{\\mathrm{n} \\rightarrow}{ }^{3} \\mathrm{H}+\\gamma$.", "usage": {"prompt_tokens": 368, "completion_tokens": 44, "total_tokens": 412}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 230, "completion_tokens": 1, "total_tokens": 231}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 波长是 $0.5 \\mathrm{~m}$", "usage": {"prompt_tokens": 266, "completion_tokens": 16, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"B\"", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 247, "completion_tokens": 4, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 387, "completion_tokens": 4, "total_tokens": 391}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) $8 \\times 10^{15} \\mathrm{~Hz}$.", "usage": {"prompt_tokens": 332, "completion_tokens": 23, "total_tokens": 355}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 249, "completion_tokens": 4, "total_tokens": 253}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (B): m=7, n=4.", "usage": {"prompt_tokens": 195, "completion_tokens": 14, "total_tokens": 209}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 222, "completion_tokens": 4, "total_tokens": 226}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 353, "completion_tokens": 4, "total_tokens": 357}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D. In a static electric field, the direction of the electric force is always toward the region of lower electric potential.", "usage": {"prompt_tokens": 282, "completion_tokens": 27, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 345, "completion_tokens": 5, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) $4.0 \\mathrm{~m}$.", "usage": {"prompt_tokens": 330, "completion_tokens": 16, "total_tokens": 346}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (B): $0.1 \\mathrm{~m}, 8 \\mathrm{~s}$.", "usage": {"prompt_tokens": 319, "completion_tokens": 24, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B$5.0 \\mathrm{~km} / \\mathrm{s}$.", "usage": {"prompt_tokens": 256, "completion_tokens": 20, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 282, "completion_tokens": 4, "total_tokens": 286}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 276, "completion_tokens": 4, "total_tokens": 280}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 247, "completion_tokens": 4, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 471, "completion_tokens": 5, "total_tokens": 476}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 157, "completion_tokens": 4, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 170, "completion_tokens": 4, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) one Faraday table and multiple potentiometers.", "usage": {"prompt_tokens": 269, "completion_tokens": 17, "total_tokens": 286}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: PM10", "usage": {"prompt_tokens": 626, "completion_tokens": 6, "total_tokens": 632}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B.  discovery of the Compton effect.", "usage": {"prompt_tokens": 167, "completion_tokens": 13, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D)", "usage": {"prompt_tokens": 297, "completion_tokens": 6, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) 2U1, E2 = 4E1", "usage": {"prompt_tokens": 397, "completion_tokens": 17, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B) \n(C) \n(D) \n(A) \n(B)", "usage": {"prompt_tokens": 288, "completion_tokens": 511, "total_tokens": 799}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "Answer is Option D.", "usage": {"prompt_tokens": 295, "completion_tokens": 5, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 255, "completion_tokens": 4, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 305, "completion_tokens": 4, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D) 0.086 m.", "usage": {"prompt_tokens": 297, "completion_tokens": 14, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option (D) $3 \\mathrm{v}$ 、向上.", "usage": {"prompt_tokens": 388, "completion_tokens": 18, "total_tokens": 406}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 391, "completion_tokens": 1, "total_tokens": 392}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) Utilizing laser-induced controllable (4) is one of the techniques currently being attempted.", "usage": {"prompt_tokens": 437, "completion_tokens": 28, "total_tokens": 465}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 273, "completion_tokens": 1, "total_tokens": 274}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 465, "completion_tokens": 5, "total_tokens": 470}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: \nKeeping the pressure constant, molecular motion may become more energetic.", "usage": {"prompt_tokens": 235, "completion_tokens": 23, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: (D) 1.68 × 10^-3 m", "usage": {"prompt_tokens": 291, "completion_tokens": 18, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option D.", "usage": {"prompt_tokens": 313, "completion_tokens": 5, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B: 轨道半径增大, 角速度减小.", "usage": {"prompt_tokens": 299, "completion_tokens": 30, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 519, "completion_tokens": 4, "total_tokens": 523}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 111, "completion_tokens": 4, "total_tokens": 115}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 189, "completion_tokens": 4, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option B.", "usage": {"prompt_tokens": 198, "completion_tokens": 5, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 259, "completion_tokens": 4, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Option()\".", "usage": {"prompt_tokens": 351, "completion_tokens": 6, "total_tokens": 357}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 326, "completion_tokens": 4, "total_tokens": 330}, "finish_reason": "stop", "model": "Alpaca-7B"}

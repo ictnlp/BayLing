@@ -1,0 +1,118 @@
+{"context": "问题：已知 $a \\in \\mathrm{R}$, 函数 $f(x)=\\left\\{\\begin{array}{l}x^{2}-4, x>2 \\\\ |x-3|+a, x \\leq 2,\\end{array}\\right.$ 若 $f[f(\\sqrt{6})]=3$, 则 $a=(\\quad)$\n答案：", "metadata": 0, "question_id": 0}
+{"context": "问题：已知多项式 $(x-1)^{3}+(x+1)^{4}=x^{4}+a_{1} x^{3}+a_{2} x^{2}+a_{3} x+a_{4}$, 则 $a_{1}=(\\quad)$, $a_{2}+a_{3}+a_{4}=(\\quad)$\n答案：", "metadata": 1, "question_id": 1}
+{"context": "问题：袋中有 4 个红球 $m$ 个黄球, $n$ 个绿球. 现从中任取两个球, 记取出的红球数为 $\\xi$, 若取出的两个球都是 红球的概率为 $\\frac{1}{6}$, 一红一黄的概率为 $\\frac{1}{3}$, 则 $m-n=(\\quad)$, $E(\\xi)=(\\quad)$\n答案：", "metadata": 2, "question_id": 2}
+{"context": "问题：已知椭圆 $\\frac{x^{2}}{a^{2}}+\\frac{y^{2}}{b^{2}}=1(a>b>0)$, 焦点 $F_{1}(-c, 0)$, $F_{2}(c, 0)(c>0)$, 若过 $F_{1}$ 的直线和圆 $\\left(x-\\frac{1}{2} c\\right)^{2}+y^{2}=c^{2}$ 相切, 与椭圆在第一象限交于点 $P$, 且 $P F_{2} \\perp x$ 轴, 则该直线的斜率是 $(\\quad)$, 椭圆的离心率是 $(\\quad)$\n答案：", "metadata": 3, "question_id": 3}
+{"context": "问题：记 $S_{n}$ 为数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和. 若 $S_{n}=2 a_{n}+1$, 则 $S_{6}=(\\quad)$.\n答案：", "metadata": 4, "question_id": 4}
+{"context": "问题：（5 分) 从 2 位女生, 4 位男生中选 3 人参加科技比赛, 且至少有 1 位女生 入选, 则不同的选法共有 $(\\quad)$ 种. (用数字填写答案)\n答案：", "metadata": 5, "question_id": 5}
+{"context": "问题：（5 分）已知函数 $f(x)=2 \\sin x+\\sin 2 x$, 则 $f(x)$ 的最小值是 $(\\quad)$.\n答案：", "metadata": 6, "question_id": 6}
+{"context": "问题：$(x+a)^{10}$ 的展开式中, $x^{7}$ 的系数为 15 , 则 $a=(\\quad)$\n答案：", "metadata": 7, "question_id": 7}
+{"context": "问题：（5 分）已知 $\\alpha$ 是第三象限角, $\\sin \\alpha=-\\frac{1}{3}$, 则 $\\cot\\alpha=(\\quad)$.\n答案：", "metadata": 8, "question_id": 8}
+{"context": "问题：函数 $y=\\sin x-\\sqrt{3} \\cos x$ 的图象可由函数 $y=\\sin x+\\sqrt{3} \\cos x$ 的图象至少向 右平移 $(\\quad)$ 个单位长度得到.\n答案：", "metadata": 9, "question_id": 9}
+{"context": "问题：（5 分) 已知 $f(x)$ 为偶函数, 当 $x<0$ 时, $f(x)=\\ln (-x)+3 x$, 则曲线 $y=f(x)$ 在点 $(1,-3)$ 处的切线方程是 $(\\quad)$.\n答案：", "metadata": 10, "question_id": 10}
+{"context": "问题：已知直线 $\\mid: m x+y+3 m-\\sqrt{3}=0$ 与圆 $x^{2}+y^{2}=12$ 交于 $A, B$ 两点, 过 $A$,$B$ 分别作 $\\mid$ 的垂线与 $x$ 轴交于 $C, D$ 两点, 若 $|A B|=2 \\sqrt{3}$, 则 $|C D|=4$.\n答案：", "metadata": 11, "question_id": 11}
+{"context": "问题：已知单位向量 $a, b$ 的夹角为 $45^{\\circ}, k a-b$ 与 $a$ 垂直, 则 $k=(\\quad)$\n答案：", "metadata": 12, "question_id": 12}
+{"context": "问题：设复数 $z_{1}, z_{2}$ 满足 $\\left|z_{1}\\right|=\\left|z_{2}\\right|=2, \\quad z_{1}+z_{2}=\\sqrt{3}+i$, 则 $\\left|z_{1}-z_{2}\\right|=(\\quad)$\n答案：", "metadata": 13, "question_id": 13}
+{"context": "问题：已知双曲线 $\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1(a>0, b>0)$ 的离心率为 2 , 则该双曲线的渐近线方程为 $(\\quad)$\n答案：", "metadata": 14, "question_id": 14}
+{"context": "问题：已知向量 $\\vec{a}+\\vec{b}+\\vec{c}=\\overrightarrow{0},|\\vec{a}|=1,|\\vec{b}|=|\\vec{c}|=2, \\vec{a} \\cdot \\vec{b}+\\vec{b} \\cdot \\vec{c}+\\vec{c} \\cdot \\vec{a}=(\\quad)$\n答案：", "metadata": 15, "question_id": 15}
+{"context": "问题：已知函数 $f(x)=\\left|e^{x}-1\\right|, x_{1}<0, x_{2}>0$, 函数 $f(x)$ 的图象在点 $A\\left(x_{1}, f\\left(x_{1}\\right)\\right)$ 和点 $B\\left(x_{2}, f\\left(x_{2}\\right)\\right)$ 的两条 切线互相垂直, 且分别交 $y$ 轴于 $M, N$ 两点, 则 $\\frac{|A M|}{|B N|}$ 取值范围是 $(\\quad)$.\n答案：", "metadata": 16, "question_id": 16}
+{"context": "问题：（5 分) 不等式 $\\sqrt{2 x^{2}+1}-x \\leqslant 1$ 的解集是 $(\\quad)$.\n答案：", "metadata": 17, "question_id": 17}
+{"context": "问题：设向量 $\\vec{a}=(1,2), \\vec{b}=(2,3)$, 若向量 $\\lambda \\vec{a}+\\vec{b}$ 与向量 $\\vec{c}=(-4,-7)$ 共 线, 则 $\\lambda=(\\quad)$. \n答案：", "metadata": 18, "question_id": 18}
+{"context": "问题：设曲线 $y=e^{a x}$ 在点 $(0,1)$ 处的切线与直线 $x+2 y+1=0$ 垂直, 则 $ a=(\\quad)$.\n答案：", "metadata": 19, "question_id": 19}
+{"context": "问题：已知 $F$ 是抛物线 $C: y^{2}=4 x$ 的焦点, 过 $F$ 且斜率为 1 的直线交 $C$ 于 $A$, B 两点. 设 $|F A|>|F B|$, 则 $|F A|$ 与 $|F B|$ 的比值等于 ($\\quad$).\n答案：", "metadata": 20, "question_id": 20}
+{"context": "问题：平面内的一个四边形为平行四边形的充要条件有多个, 如两组对边 分别平行, 类似地, 写出空间中的一个四棱柱为平行六面体的两个充要条件: \\\\\n充要条件$\\textcircled{1}(\\quad)$;\\\\\n充要条件$\\textcircled{2}(\\quad)$.\\\\\n(写出你认为正确的两个充要条件)\n答案：", "metadata": 21, "question_id": 21}
+{"context": "问题：$(x-y)(x+y)^{8}$ 的展开式中 $x^{2} y^{7}$ 的系数为 $(\\quad)$. (用数字填写答 案)\n答案：", "metadata": 22, "question_id": 22}
+{"context": "问题：甲、乙、丙三位同学被问到是否去过 A, B, C三个城市时,\\\\\n甲说: 我去过的城市比乙多, 但没去过 $\\mathrm{B}$ 城市;\\\\\n乙说: 我没去过 C 城市;\\\\\n丙说: 我们三人去过同一城市;\\\\\n由此可判断乙去过的城市为 $(\\quad)$.\n答案：", "metadata": 23, "question_id": 23}
+{"context": "问题：已知 $A, B, C$ 为圆 $O$ 上的三点, 若 $\\overrightarrow{\\mathrm{AO}}=\\frac{1}{2}(\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{AC}})$, 则 $\\overrightarrow{\\mathrm{AB}}$ 与 $\\overrightarrow{\\mathrm{AC}}$ 的夹 角为 $(\\quad)$.\n答案：", "metadata": 24, "question_id": 24}
+{"context": "问题：已知 $a, b, c$ 分别为 $\\triangle A B C$ 的三个内角 $A, B, C$ 的对边, $a=2$ 且 $(2+b)(\\sin A-\\sin B)=(c-b) \\sin C$, 则 $\\triangle A B C$ 面积的最大值为 $(\\quad)$.\n答案：", "metadata": 25, "question_id": 25}
+{"context": "问题：曲线 $y=2 \\ln (x+1)$ 在点 $(0,0)$ 处的切线方程为 $(\\quad)$.\n答案：", "metadata": 26, "question_id": 26}
+{"context": "问题：已知 $\\sin \\alpha+\\cos \\beta=1, \\cos \\alpha+\\sin \\beta=0$, 则 $\\sin (\\alpha+\\beta)=(\\quad)$.\n答案：", "metadata": 27, "question_id": 27}
+{"context": "问题：已知圆雉的顶点为 $\\mathrm{S}$, 母线 $\\mathrm{SA}, \\mathrm{SB}$ 所成角的余弦值为 $\\frac{7}{8}, \\mathrm{SA}$ 与圆 锥底面所成角为 $45^{\\circ}$, 若 $\\triangle \\mathrm{SAB}$ 的面积为 $5 \\sqrt{15}$, 则该圆雉的侧面积为 $(\\quad)$.\n答案：", "metadata": 28, "question_id": 28}
+{"context": "问题：曲线 $y=\\frac{2 x-1}{x+2}$ 在点 $(-1,-3)$ 处的切线方程为 $(\\quad)$\n答案：", "metadata": 29, "question_id": 29}
+{"context": "问题：已知 $F_{1}, F_{2}$ 为椭圆 $C: \\frac{x^{2}}{16}+\\frac{y^{2}}{4}=1$ 的 两个焦点, $P, Q$ 为 $C$ 上关于坐标原点对称的两点, 且 $|P Q|=\\left|F_{1} F_{2}\\right|$, 则四边形 $P F_{1} Q F_{2}$ 的面积为 $(\\quad)$\n答案：", "metadata": 30, "question_id": 30}
+{"context": "问题：已知 $\\mathrm{a}$ 是第二象限的角, $\\tan (\\pi+2 \\alpha)=-\\frac{4}{3}$, 则 $\\tan \\alpha=(\\quad)$.\n答案：", "metadata": 31, "question_id": 31}
+{"context": "问题：若 $\\left(x-\\frac{a}{x}\\right){ }^{9}$ 的展开式中 $x^{3}$ 的系数是 -84 , 则 $a=(\\quad)$.\n答案：", "metadata": 32, "question_id": 32}
+{"context": "问题：已知抛物线 $C: y^{2}=2 p x(p>0)$ 的准线 $\\mid$, 过 $M(1,0)$ 且斜率为 $\\sqrt{3}$ 的直线与 $\\mid$ 相交于 $A$, 与 $C$ 的一个交点为 $B$, 若 $\\overrightarrow{\\mathrm{AM}}=\\overrightarrow{\\mathrm{MB}}$, 则 $p=(\\quad)$.\n答案：", "metadata": 33, "question_id": 33}
+{"context": "问题：已知双曲线$C:\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1\\left(a\\textgreater0,b\\textgreater0\\right)$的右顶点为 $A$, 以 $A$ 为 圆心, $b$ 为半径作圆 $A$, 圆 $A$ 与双曲线 $C$ 的一条渐近线交于 $M$、 $N$ 两点. 若 $\\angle \\mathrm{MAN}=60^{\\circ}$, 则 $\\mathrm{C}$ 的离心率为 $(\\quad)$.\n答案：", "metadata": 34, "question_id": 34}
+{"context": "问题：若变量 $x, y$ 满足约束条件 $\\left\\{\\begin{array}{l}3 \\leqslant 2 x+y \\leqslant 9 \\\\ 6 \\leqslant x-y \\leqslant 9\\end{array}\\right.$, 则 $z=x+2 y$ 的最小值为 $(\\quad)$. \n答案：", "metadata": 35, "question_id": 35}
+{"context": "问题：已知矩形 $A B C D$ 的顶点都在半径为 4 的球 $O$ 的球面上, 且 $A B=6$, $B C=2 \\sqrt{3}$, 则棱雉 $O-A B C D$ 的体积为 $(\\quad)$\n答案：", "metadata": 36, "question_id": 36}
+{"context": "问题：在 $\\triangle A B C$ 中, $B=60^{\\circ}, A C=\\sqrt{3}$, 则 $A B+2 B C$ 的最大值为 $(\\quad)$.\n答案：", "metadata": 37, "question_id": 37}
+{"context": "问题：已知随机变量 $X$ 服从正态分布 $N\\left(2, \\sigma^{2}\\right)$, 且 $P(2<X \\leq 2.5)=0.36$, 则 $P(X>2.5)=(\\quad)$\n答案：", "metadata": 38, "question_id": 38}
+{"context": "问题：写出曲线 $y=\\ln |x|$ 过坐标原点的切线方程: $(\\quad)$, $(\\quad)$\n答案：", "metadata": 39, "question_id": 39}
+{"context": "问题：已知点 $A(-2,3), B(0, a)$, 若直线 $A B$ 关于 $y=a$ 的对称直线与圆 $(x+3)^{2}+(y+2)^{2}=1$ 存在公共点, 则实数 $a$ 的取值范围为 $(\\quad)$\n答案：", "metadata": 40, "question_id": 40}
+{"context": "问题：从班委会 5 名成员中选出 3 名, 分别担任班级学习委员、文娱委员与体育委员，其中甲、乙二人不能担任文娱委员，则不同的选法共有 ($\\quad$) 种. (用数字作答)\n答案：", "metadata": 41, "question_id": 41}
+{"context": "问题：等比数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $S_{n}$, 已知 $S_{1}, 2 S_{2}$, $3 S_{3}$ 成等差数列, 则 $\\left\\{a_{n}\\right\\}$ 的公比为 ($\\quad$).\n答案：", "metadata": 42, "question_id": 42}
+{"context": "问题：一个等腰直角三角形的三个顶点分别在正三棱柱 的三条侧棱上, 已知正三棱柱的底面边长为 2 , 则该三角形的斜边长为 ($\\quad$).\n答案：", "metadata": 43, "question_id": 43}
+{"context": "问题：设向量 $\\vec{a}, \\vec{b}$ 的夹角的余弦值为 $\\frac{1}{3}$, 且 $|\\vec{a}|=1,|\\vec{b}|=3$, 则 $(2 \\vec{a}+\\vec{b}) \\cdot \\vec{b}=(\\quad)$\n<Answer>\\\\\n11\\\\\n\n\n<Next Instance>\\\\\n<Question>\\\\\n若双曲线 $y^{2}-\\frac{x^{2}}{m^{2}}=1(m>0)$ 的渐近线与圆 $x^{2}+y^{2}-4 y+3=0$ 相切, 则 $m=(\\quad)$\n答案：", "metadata": 44, "question_id": 44}
+{"context": "问题：从正方体的 8 个顶点中任选 4 个, 则这 4 个点在同一个平面的概率为 $(\\quad)$\n答案：", "metadata": 45, "question_id": 45}
+{"context": "问题：已知 $\\triangle A B C$ 中, 点 $D$ 在边 $B C$ 上, $\\angle A D B=120^{\\circ}, A D=2, C D=2 B D$. 当 $\\frac{A C}{A B}$ 取得 最小值时, $B D=(\\quad)$\n答案：", "metadata": 46, "question_id": 46}
+{"context": "问题：已知单位向量 $a, b$ 的夹角为 $45^{\\circ}, k a-b$ 与 $a$ 垂直, 则 $k=(\\quad)$\n答案：", "metadata": 47, "question_id": 47}
+{"context": "问题：设复数 $z_{1}, z_{2}$ 满足 $\\left|z_{1}\\right|=\\left|z_{2}\\right|=2, \\quad z_{1}+z_{2}=\\sqrt{3}+i$, 则 $\\left|z_{1}-z_{2}\\right|=(\\quad)$\n答案：", "metadata": 48, "question_id": 48}
+{"context": "问题：已知 $\\mathrm{i}$ 是虚数单位, 化简 $\\frac{11-3 \\mathrm{i}}{1+2 \\mathrm{i}}$ 的结果为 $(\\quad)$\n答案：", "metadata": 49, "question_id": 49}
+{"context": "问题：$\\left(\\sqrt{x}+\\frac{3}{x^{2}}\\right)^{5}$ 的展开式中的常数项为 $(\\quad)$\n答案：", "metadata": 50, "question_id": 50}
+{"context": "问题：若直线 $x-y+m=0(m>0)$ 与圆 $(x-1)^{2}+(y-1)^{2}=3$ 相交所得的弦长为 $m$, 则 $m=(\\quad)$\n答案：", "metadata": 51, "question_id": 51}
+{"context": "问题：52 张扑克牌, 没有大小王, 无放回地抽取两次, 则两次都抽到 $A$ 的概率为 $(\\quad)$；已知第一次 抽到的是 $A$, 则第二次抽取 $A$ 的概率为 $(\\quad)$\n答案：", "metadata": 52, "question_id": 52}
+{"context": "问题：一批产品的二等品率为 0.02 , 从这批产品中每次随机取一件, 有放 回地抽取 100 次. $X$ 表示抽到的二等品件数, 则 $D X=(\\quad)$\n答案：", "metadata": 53, "question_id": 53}
+{"context": "问题：函数 $f(x)=\\sin ^{2} x+\\sqrt{3} \\cos x-\\frac{3}{4}\\left(x \\in\\left[0, \\frac{\\pi}{2}\\right]\\right)$ 的最大值是 $(\\quad)$.\n答案：", "metadata": 54, "question_id": 54}
+{"context": "问题：等差数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $S_{n}, a_{3}=3, S_{4}=10$, 则 $\\sum_{k=1}^{n} \\frac{1}{S_{k}}= (\\quad)$.\n答案：", "metadata": 55, "question_id": 55}
+{"context": "问题：（5 分) 已知 $F$ 是抛物线 $C: y^{2}=8 x$ 的焦点, $M$ 是 $C$ 上一点, $F M$ 的延长线交 $y$ 轴于点 $N$. 若 $M$ 为 $F N$ 的中点, 则 $|F N|=(\\quad)$.\n答案：", "metadata": 56, "question_id": 56}
+{"context": "问题：$\\left(x^{3}-\\frac{1}{x}\\right)^{4}$ 展开式中常数项为 $(\\quad)$\n答案：", "metadata": 57, "question_id": 57}
+{"context": "问题：$\\vec{a}=(2,1), \\vec{b}=(2,-1), \\vec{c}=(0,1)$, 则 $(\\vec{a}+\\vec{b}) \\cdot \\vec{c}=(\\quad)$ ;$\\vec{a} \\cdot \\vec{b}=(\\quad)$\n答案：", "metadata": 58, "question_id": 58}
+{"context": "问题：从甲、乙等 5 名同学中随机选 3 名参加社区服务工作, 则甲、乙都入选的概率为 $(\\quad)$\n答案：", "metadata": 59, "question_id": 59}
+{"context": "问题：记函数 $f(x)=\\cos (\\omega x+\\varphi)(\\omega>0,0<\\varphi<\\pi)$ 的最小正周期为 $T$, 若 $f(T)=\\frac{\\sqrt{3}}{2}$, $x=\\frac{\\pi}{9}$ 为 $f(x)$ 的零点, 则 $\\omega$ 的最小值为 $(\\quad)$\n答案：", "metadata": 60, "question_id": 60}
+{"context": "问题：已知 $x=x_{1}$ 和 $x=x_{2}$ 分别是函数 $f(x)=2 a^{x}-e x^{2}(a>0$ 且 $a \\neq 1)$ 的极小值点和极 大值点. 若 $x_{1}<x_{2}$, 则 $a$ 的取值范围是 $(\\quad)$\n答案：", "metadata": 61, "question_id": 61}
+{"context": "问题：已知正方形 $A B C D$ 的边长为 $2, E$ 为 $C D$ 的中点, 则 $\\overrightarrow{\\mathrm{AE}} \\cdot \\overrightarrow{\\mathrm{BD}}=(\\quad)$.\n答案：", "metadata": 62, "question_id": 62}
+{"context": "问题：从 $\\mathrm{n}$ 个正整数 $1,2, \\ldots, n$ 中任意取出两个不同的数, 若取出的两 数之和等于 5 的概率为 $\\frac{1}{14}$, 则 $n=(\\quad)$.\n答案：", "metadata": 63, "question_id": 63}
+{"context": "问题：等差数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $S_{n}$, 已知 $S_{10}=0, S_{15}=25$, 则 $n S_{n}$ 的最小值为$(\\quad)$.\n答案：", "metadata": 64, "question_id": 64}
+{"context": "问题：$i$ 是虚数单位, 复数 $\\frac{9+2 i}{2+i}=(\\quad)$.\n答案：", "metadata": 65, "question_id": 65}
+{"context": "问题：在 $\\left(2 x^{3}+\\frac{1}{x}\\right)^{6}$ 的展开式中, $x^{6}$ 的系数是 $(\\quad)$.\n答案：", "metadata": 66, "question_id": 66}
+{"context": "问题：若斜率为 $\\sqrt{3}$ 的直线与 $y$ 轴交于点 $\\mathrm{A}$, 与圆 $x^{2}+(y-1)^{2}=1$ 相切于点 $B$, 则 $|A B|=(\\quad)$.\n答案：", "metadata": 67, "question_id": 67}
+{"context": "问题：若 $a>0, b>0$, 则 $\\frac{1}{a}+\\frac{a}{b^{2}}+b$ 的最小值为 $(\\quad)$.\n答案：", "metadata": 68, "question_id": 68}
+{"context": "问题：甲、乙两人在每次猜谜活动中各猜一个谜语, 若一方猜对且另一方猜错, 则猜对的 一方获胜, 否则本次平局, 已知每次活动中, 甲、乙猜对的概率分别为 $\\frac{5}{6}$ 和 $\\frac{1}{5}$, 且每 次活动中甲、乙猜对与否互不影响, 各次活动也互不影响, 则一次活动中, 甲获胜的概率为 $(\\quad)$, 3 次活动中, 甲至少获胜 2 次的概率为 $(\\quad)$.\n答案：", "metadata": 69, "question_id": 69}
+{"context": "问题：在边长为 1 的等边三角形 $A B C$ 中, $D$ 为线段 $B C$ 上的动点, $D E \\perp A B$ 且交 $A B$ 于点E.$D F / / A B$ 且交 $A C$ 于点 $F$, 则 $|2 \\overrightarrow{B E}+\\overrightarrow{D F}|$ 的值为 $(\\quad)$; $(\\overrightarrow{D E}+\\overrightarrow{D F}) \\cdot \\overrightarrow{D A}$ 的最小值为 $(\\quad)$.\n答案：", "metadata": 70, "question_id": 70}
+{"context": "问题：$(x \\sqrt{y}-y \\sqrt{x})^{4}$ 的展开式中 $x^{3} y^{3}$ 的系数为($\\quad$).\n答案：", "metadata": 71, "question_id": 71}
+{"context": "问题：若函数 $f(x)=x \\ln \\left(x+\\sqrt{a+x^{2}}\\right)$ 为偶函数, 则 $a=(\\quad)$.\n答案：", "metadata": 72, "question_id": 72}
+{"context": "问题：一个圆经过椭圆 $\\frac{x^{2}}{16}+\\frac{y^{2}}{4}=1$ 的三个顶点. 且圆心在 $x$ 轴的正半轴 上. 则该圆标准方程为 $(\\quad)$.\n答案：", "metadata": 73, "question_id": 73}
+{"context": "问题：函数 $f(x)=\\frac{1}{x}+\\sqrt{1-x}$ 的定义域是 $(\\quad)$\n答案：", "metadata": 74, "question_id": 74}
+{"context": "问题：已知双曲线 $y^{2}+\\frac{x^{2}}{m}=1$ 的渐近线方程为 $y=\\pm \\frac{\\sqrt{3}}{3} x$, 则 $m=(\\quad)$\n答案：", "metadata": 75, "question_id": 75}
+{"context": "问题：若函数 $f(x)=A \\sin x-\\sqrt{3} \\cos x$ 的一个零点为 $\\frac{\\pi}{3}$, 则 $A=(\\quad)$; $f\\left(\\frac{\\pi}{12}\\right)=(\\quad)$\n答案：", "metadata": 76, "question_id": 76}
+{"context": "问题：已知数列 $\\left\\{a_{n}\\right\\}$ 各项均为正数, 其前 $n$ 项和 $S_{n}$ 满足 $a_{n} \\cdot S_{n}=9(n=1,2, \\cdots)$. 给出下列四个结论:\\\\\n$\\textcircled{1}$ $\\left\\{a_{n}\\right\\}$ 的第 2 项小于$3$;\\\\\n$\\textcircled{2}$ $\\left\\{a_{n}\\right\\}$ 为等比数列;\\\\\n$\\textcircled{3}$ $\\left\\{a_{n}\\right\\}$ 为递减数列;\\\\\n$\\textcircled{4}$ $\\left\\{a_{n}\\right\\}$ 中存在小于 $\\frac{1}{100}$ 的项.\\\\\n其中所有正确结论的序号是 $(\\quad)$\n答案：", "metadata": 77, "question_id": 77}
+{"context": "问题：$\\left(1-\\frac{y}{x}\\right)(x+y)^{8}$ 的展开式中 $x^{2} y^{6}$ 的系数为 $(\\quad)$(用数字作答).\n答案：", "metadata": 78, "question_id": 78}
+{"context": "问题：若曲线 $y=(x+a) \\mathrm{e}^{x}$ 有两条过坐标原点的切线, 则 $a$ 的取值范围是 $(\\quad)$.\n答案：", "metadata": 79, "question_id": 79}
+{"context": "问题：我国高铁发展迅速, 技术先进. 经统计, 在经停某站的高铁列车中, 有 10 个车次的正点 率为 $0.97$, 有 20 个车次的正点率为 $0.98$, 有 10 个车次的正点率为 $0.99$, 则经停该站高铁列 车所有车次的平均正点率的估计值为 $(\\quad)$\n答案：", "metadata": 80, "question_id": 80}
+{"context": "问题：$\\triangle A B C$ 的内角 $A, B, C$ 的对边分别为 $a, b, c$. 若 $b=6, a=2 c, B=\\frac{\\pi}{3}$, 则 $\\triangle A B C$ 的面积为 $(\\quad)$\n答案：", "metadata": 81, "question_id": 81}
+{"context": "问题：若 $x, y$ 满足约束条件 $\\left\\{\\begin{array}{l}x-y \\geqslant 0 \\\\ x+y-2 \\leqslant 0 \\\\ y \\geqslant 0\\end{array}\\right.$, 则 $z=3 x-4 y$ 的最小值为 $(\\quad)$.\n答案：", "metadata": 82, "question_id": 82}
+{"context": "问题：(5 分） 设等比数列 $\\left\\{a_{n}\\right\\}$ 满足 $a_{1}+a_{2}=-1, a_{1}-a_{3}=-3$, 则 $a_{4}=(\\quad)$.\n答案：", "metadata": 83, "question_id": 83}
+{"context": "问题：设函数 $f(x)=\\left\\{\\begin{array}{ll}x+1, & x \\leqslant 0 \\\\ 2^{x}, & x>0\\end{array}\\right.$, 则满足 $f(x)+f\\left(x-\\frac{1}{2}\\right)>1$ 的 $x$ 的 取值范围是 $(\\quad)$.\n答案：", "metadata": 84, "question_id": 84}
+{"context": "问题：$\\left(x^{2}+\\frac{2}{x}\\right)^{6}$ 的展开式中常数项是 $(\\quad)$ (用数字作答).\n答案：", "metadata": 85, "question_id": 85}
+{"context": "问题：关于函数 $f(x)=\\sin x+\\frac{1}{\\sin x}$ 有如下四个命题:\\\\\n$\\textcircled{1}$ $f(x)$ 的图像关于 $y$ 轴对称.\\\\\n$\\textcircled{2}$ $f(x)$ 的图像关于原点对称.\\\\\n$\\textcircled{3}$ $f(x)$ 的图像关于直线 $x=\\frac{\\pi}{2}$ 对称.\\\\\n$\\textcircled{4}$ $f(x)$ 的最小值为2.\\\\\n其中所有真命题的序号是 $(\\quad)$\n答案：", "metadata": 86, "question_id": 86}
+{"context": "问题：曲线 $y=3\\left(x^{2}+x\\right) \\mathrm{e}^{x}$ 在点 $(0,0)$ 处的切线方程为 $(\\quad)$\n答案：", "metadata": 87, "question_id": 87}
+{"context": "问题：记 $S_{n}$ 为等比数列 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和. 若 $a_{1}=\\frac{1}{3}, a_{4}^{2}=a_{6}$, 则 $S_{5}=(\\quad)$\n答案：", "metadata": 88, "question_id": 88}
+{"context": "问题：甲、乙两队进行篮球决赛, 采取七场四胜制(当一队赢得四场胜利时, 该队获胜, 决赛 结束). 根据前期比赛成绩, 甲队的主客场安排依次为“主主客客主客主”. 设甲队主场取胜 的概率为 $0.6$, 客场取胜的概率为 $0.5$, 且各场比赛结果相互独立, 则甲队以 $4: 1$ 获胜的概率是 $(\\quad)$\n答案：", "metadata": 89, "question_id": 89}
+{"context": "问题：已知函数 $f(x)=x^{3}\\left(a \\cdot 2^{x}-2^{-x}\\right)$ 是偶函数, 则 $a=(\\quad)$\n答案：", "metadata": 90, "question_id": 90}
+{"context": "问题：已知 $O$ 为坐标原点, 抛物线 $C: y^{2}=2 p x(p>0)$ 的焦点为 $F, P$ 为 $C$ 上一点, $P F$ 与 $x$ 轴垂直, $Q$ 为 $x$ 轴上一点, 且 $P Q \\perp O P$, 若 $|F Q|=6$, 则 $C$ 的准线方程为 $(\\quad)$\n答案：", "metadata": 91, "question_id": 91}
+{"context": "问题：函数 $f(x)=|2 x-1|-2 \\ln x$ 的最小值为 $(\\quad)$\n答案：", "metadata": 92, "question_id": 92}
+{"context": "问题：某校学生在研究民间剪纸艺术时, 发现剪纸时经常会沿纸的某条对称轴把纸对折, 规格为 $20 \\mathrm{dm} \\times 12 \\mathrm{dm}$ 的长方形纸, 对折 1 次共可以得到 $10 \\mathrm{dm} \\times 12 \\mathrm{dm}, 20 \\mathrm{dm} \\times 6 \\mathrm{dm}$ 两种规格的图形, 它们的面积之和 $S_{1}=240 \\mathrm{dm}^{2}$, 对折 2 次共可以得到 $5 \\mathrm{dm} \\times 12 \\mathrm{dm}, 10 \\mathrm{dm} \\times 6 \\mathrm{dm}, 20 \\mathrm{dm} \\times 3 \\mathrm{dm}$ 三种规格的图形, 它们的 面积之和 $S_{2}=180 \\mathrm{dm}^{2}$, 以此类推, 则对折 4 次共可以得到不同规格图形的种数为 $(\\quad)$; 如果对折 $n$ 次, 那么 $\\sum_{k=1}^{n} S_{k}=(\\quad)\\mathrm{dm}^{2}$.\n答案：", "metadata": 93, "question_id": 93}
+{"context": "问题：$\\left(\\frac{x}{\\sqrt{y}}-\\frac{y}{\\sqrt{x}}\\right)^{8}$ 的展开式中 $x^{2} y^{2}$ 的系数为$(\\quad)$. (用数字作答)\n答案：", "metadata": 94, "question_id": 94}
+{"context": "问题：直线 $l_{1}$ 和 $l_{2}$ 是圆 $x^{2}+y^{2}=2$ 的两条切线, 若 $l_{1}$ 与 $l_{2}$ 的交点为 $(1,3)$, 则 $I_{1}$ 与 $I_{2}$ 的夹角的正切值等于 $(\\quad)$\n答案：", "metadata": 95, "question_id": 95}
+{"context": "问题：若函数 $f(x)=\\cos 2 x+a \\sin x$ 在区间 $\\left(\\frac{\\pi}{6}, \\frac{\\pi}{2}\\right.$ ) 是减函数, 则 $a$ 的取值范围是 $(\\quad)$.\n答案：", "metadata": 96, "question_id": 96}
+{"context": "问题：$(a+x)(1+x)^{4}$ 的展开式中 $x$ 的奇数次幂项的系数之和为 32 , 则 $a=(\\quad)$.\n答案：", "metadata": 97, "question_id": 97}
+{"context": "问题：设 $a, b$ 为单位向量, 且 $|\\boldsymbol{a}+\\boldsymbol{b}|=1$, 则 $|a-b|=(\\quad)$\n答案：", "metadata": 98, "question_id": 98}
+{"context": "问题：已知 $F$ 为双曲线 $C: \\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1(a>0, b>0)$ 的右焦点, $A$ 为 $C$ 的右顶点, $B$ 为 $C$ 上的点, 且 $B F$ 垂直于 $x$ 轴.若 $A B$ 的斜率为 3 , 则 $C$ 的离心率为 $(\\quad)$\n答案：", "metadata": 99, "question_id": 99}
+{"context": "问题：当函数 $y=\\sin x-\\sqrt{3} \\cos x(0 \\leqslant x<2 \\pi)$ 取得最大值时, $x=(\\quad)$.\n答案：", "metadata": 100, "question_id": 100}
+{"context": "问题：我国南宋著名数学家秦九韶, 发现了从三角形三边求面积的公式, 他把这种方法称为 “三斜求积”, 它填补了我国传统数学的一个空白. 如果把这个方法写成公式, 就是 $S=\\sqrt{\\frac{1}{4}\\left[c^{2} a^{2}-\\left(\\frac{c^{2}+a^{2}-b^{2}}{2}\\right)^{2}\\right]}$, 其中 $a, b, c$ 是三角形的三边, $S$ 是三角形的面积. 设 某三角形的三边 $a=\\sqrt{2}, b=\\sqrt{3}, c=2$, 则该三角形的面积 $S=(\\quad)$\n答案：", "metadata": 101, "question_id": 101}
+{"context": "问题：已知多项式 $(x+2)(x-1)^{4}=a_{0}+a_{1} x+a_{2} x^{2}+a_{3} x^{3}+a_{4} x^{4}+a_{5} x^{5}$, 则 $a_{2}=(\\quad)$, $a_{1}+a_{2}+a_{3}+a_{4}+a_{5}=(\\quad)$\n答案：", "metadata": 102, "question_id": 102}
+{"context": "问题：若 $3 \\sin \\alpha-\\sin \\beta=\\sqrt{10}, \\alpha+\\beta=\\frac{\\pi}{2}$, 则 $\\sin \\alpha=(\\quad)$, $\\cos 2 \\beta=(\\quad)$\n答案：", "metadata": 103, "question_id": 103}
+{"context": "问题：已知函数 $f(x)=\\left\\{\\begin{array}{l}-x^{2}+2, x \\leq 1, \\\\ x+\\frac{1}{x}-1, x>1,\\end{array}\\right.$ 则 $f\\left(f\\left(\\frac{1}{2}\\right)\\right)=(\\quad)$; 若当 $x \\in[a, b]$ 时, $1 \\leq f(x) \\leq 3$, 则 $b-a$ 的最大值是 $(\\quad)$\n答案：", "metadata": 104, "question_id": 104}
+{"context": "问题：现有 7 张卡片, 分别写上数字 $1,2,2,3,4,5,6$. 从这 7 张卡片中随机抽取 3 张, 记所抽取卡片上数字的最小值为 $\\xi$, 则 $P(\\xi=2)=(\\quad)$ , $E(\\xi)=(\\quad)$\n答案：", "metadata": 105, "question_id": 105}
+{"context": "问题：已知双曲线 $\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1(a>0, b>0)$ 的左焦点为 $F$, 过 $F$ 且斜率为 $\\frac{b}{4 a}$ 的直线交双曲线于 点 $A\\left(x_{1}, y_{1}\\right)$, 交双曲线的渐近线于点 $B\\left(x_{2}, y_{2}\\right)$ 且 $x_{1}<0<x_{2}$. 若 $|F B|=3|F A|$, 则双曲 线的离心率是 $(\\quad)$\n答案：", "metadata": 106, "question_id": 106}
+{"context": "问题：函数 $f(x)=\\frac{1}{x+1}+\\ln x$ 的定义域是 $(\\quad)$\n答案：", "metadata": 107, "question_id": 107}
+{"context": "问题：已知双曲线 $C: \\frac{x^{2}}{6}-\\frac{y^{2}}{3}=1$, 则 $C$ 的右焦点的坐标为 $(\\quad)$ ; $C$ 的焦点到其渐近线的距离是 $(\\quad)$\n答案：", "metadata": 108, "question_id": 108}
+{"context": "问题：若函数 $f(x)=\\sin (x+\\varphi)+\\cos x$ 的最大值为 2 , 则常数 $\\varphi$ 的一个取值为 $(\\quad)$\n答案：", "metadata": 109, "question_id": 109}
+{"context": "问题：（5 分）已知向量 $\\vec{a}=(1,2), \\vec{b}=(2,-2), \\vec{c}=(1, \\lambda)$. 若 $\\vec{c} / /(2 \\vec{a}+\\vec{b})$, 则 $\\lambda=(\\quad)$.\n答案：", "metadata": 110, "question_id": 110}
+{"context": "问题：曲线 $y=(a x+1) e^{x}$ 在点 $(0,1)$ 处的切线的斜率为 -2 , 则 $a=(\\quad)$.\n答案：", "metadata": 111, "question_id": 111}
+{"context": "问题：函数 $f(x)=\\cos \\left(3 x+\\frac{\\pi}{6}\\right)$ 在 $[0, \\pi]$ 的零点个数为 $(\\quad)$.\n答案：", "metadata": 112, "question_id": 112}
+{"context": "问题：已知点 $M(-1,1)$ 和抛物线 $C: y^{2}=4 x$, 过 $C$ 的焦点且斜率为 $k$ 的 直线与 $C$ 交于 $A, B$ 两点. 若 $\\angle A M B=90^{\\circ}$, 则 $k=(\\quad)$.\n答案：", "metadata": 113, "question_id": 113}
+{"context": "问题：将数列 $\\{2 n-1\\}$ 与 $\\{3 n-2\\}$ 的公共项从小到大排列得到数列 $\\left\\{a_{n}\\right\\}$, 则 $\\left\\{a_{n}\\right\\}$ 的前 $n$ 项和为 $(\\quad)$\n答案：", "metadata": 114, "question_id": 114}
+{"context": "问题：设向量 $\\vec{a}=(m, 1), \\vec{b}=(1,2)$, 且 $|\\vec{a}+\\vec{b}|^{2}=|\\vec{a}|^{2}+|\\vec{b}|^{2}$, 则 $m=(\\quad)$\n答案：", "metadata": 115, "question_id": 115}
+{"context": "问题：$(2 x+\\sqrt{x})^{5}$ 的展开式中, $x^{3}$ 的系数是 $(\\quad)$. (用数字填写答案)\n答案：", "metadata": 116, "question_id": 116}
+{"context": "问题：设等比数列 $\\left\\{a_{n}\\right\\}$ 满足 $a_{1}+a_{3}=10, a_{2}+a_{4}=5$, 则 $a_{1} a_{2} \\ldots a_{n}$ 的最大值为 $(\\quad)$.\n答案：", "metadata": 117, "question_id": 117}

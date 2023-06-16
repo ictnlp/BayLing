@@ -1,0 +1,220 @@
+{"text": "Answer is choice (D) 10.", "usage": {"prompt_tokens": 129, "completion_tokens": 10, "total_tokens": 139}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $15+12i$.", "usage": {"prompt_tokens": 149, "completion_tokens": 14, "total_tokens": 163}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $20 m p$.", "usage": {"prompt_tokens": 176, "completion_tokens": 12, "total_tokens": 188}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) Kathy repairs phones at a rate of 108 per day.", "usage": {"prompt_tokens": 267, "completion_tokens": 23, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $2 x^{2} y+8 x y^{2}-6 y^{2}$.", "usage": {"prompt_tokens": 204, "completion_tokens": 25, "total_tokens": 229}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 5.7 inches.", "usage": {"prompt_tokens": 193, "completion_tokens": 12, "total_tokens": 205}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (A) $P=\\frac{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}}{\\left(1+\\frac{r}{1,200}\\right)^{N}-1} m$", "usage": {"prompt_tokens": 364, "completion_tokens": 65, "total_tokens": 429}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 2.", "usage": {"prompt_tokens": 126, "completion_tokens": 9, "total_tokens": 135}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $(3,-8)$", "usage": {"prompt_tokens": 162, "completion_tokens": 11, "total_tokens": 173}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 0.", "usage": {"prompt_tokens": 148, "completion_tokens": 9, "total_tokens": 157}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\$ 2.85$.", "usage": {"prompt_tokens": 233, "completion_tokens": 14, "total_tokens": 247}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $(1,7)$", "usage": {"prompt_tokens": 153, "completion_tokens": 11, "total_tokens": 164}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\frac{x^{2}+5 x+6}{2 x+5}$", "usage": {"prompt_tokens": 180, "completion_tokens": 23, "total_tokens": 203}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 4.", "usage": {"prompt_tokens": 145, "completion_tokens": 9, "total_tokens": 154}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 6 and 35.", "usage": {"prompt_tokens": 168, "completion_tokens": 13, "total_tokens": 181}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 23.", "usage": {"prompt_tokens": 147, "completion_tokens": 10, "total_tokens": 157}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 16.", "usage": {"prompt_tokens": 133, "completion_tokens": 10, "total_tokens": 143}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 200.", "usage": {"prompt_tokens": 222, "completion_tokens": 11, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) There is no such value of n.", "usage": {"prompt_tokens": 130, "completion_tokens": 14, "total_tokens": 144}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $t=\\frac{1.08}{a+1,052}$", "usage": {"prompt_tokens": 265, "completion_tokens": 24, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) - $48^{\\circ} \\mathrm{F}$", "usage": {"prompt_tokens": 245, "completion_tokens": 18, "total_tokens": 263}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) - 5.", "usage": {"prompt_tokens": 128, "completion_tokens": 10, "total_tokens": 138}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) Females taking Algebra II.", "usage": {"prompt_tokens": 390, "completion_tokens": 13, "total_tokens": 403}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) Range.", "usage": {"prompt_tokens": 318, "completion_tokens": 8, "total_tokens": 326}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (A) $a>b$.", "usage": {"prompt_tokens": 182, "completion_tokens": 11, "total_tokens": 193}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 93", "usage": {"prompt_tokens": 184, "completion_tokens": 9, "total_tokens": 193}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\frac{p}{0.88}$", "usage": {"prompt_tokens": 210, "completion_tokens": 16, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\frac{79}{100}$.", "usage": {"prompt_tokens": 355, "completion_tokens": 16, "total_tokens": 371}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $x^{2}+(y-4)^{2}=\\frac{5}{3}$.", "usage": {"prompt_tokens": 213, "completion_tokens": 24, "total_tokens": 237}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 5.0 seconds.", "usage": {"prompt_tokens": 179, "completion_tokens": 12, "total_tokens": 191}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 120", "usage": {"prompt_tokens": 182, "completion_tokens": 10, "total_tokens": 192}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 1,500.", "usage": {"prompt_tokens": 436, "completion_tokens": 13, "total_tokens": 449}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) The remainder when $p(x)$ is divided by $x-3$ is -2.", "usage": {"prompt_tokens": 191, "completion_tokens": 26, "total_tokens": 217}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 1.", "usage": {"prompt_tokens": 126, "completion_tokens": 9, "total_tokens": 135}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $300=30w$.", "usage": {"prompt_tokens": 215, "completion_tokens": 15, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $f(x)=3.39 x+16.94$", "usage": {"prompt_tokens": 367, "completion_tokens": 23, "total_tokens": 390}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $3 x^{2}$", "usage": {"prompt_tokens": 142, "completion_tokens": 12, "total_tokens": 154}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) -3 and -1.", "usage": {"prompt_tokens": 135, "completion_tokens": 12, "total_tokens": 147}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $(x-5)^{2}+(y-7)^{2}=2$", "usage": {"prompt_tokens": 193, "completion_tokens": 22, "total_tokens": 215}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 2.", "usage": {"prompt_tokens": 150, "completion_tokens": 9, "total_tokens": 159}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) I and II.", "usage": {"prompt_tokens": 142, "completion_tokens": 10, "total_tokens": 152}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 6.", "usage": {"prompt_tokens": 159, "completion_tokens": 9, "total_tokens": 168}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $y = 40 + 21 t$.", "usage": {"prompt_tokens": 202, "completion_tokens": 18, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 15.", "usage": {"prompt_tokens": 124, "completion_tokens": 10, "total_tokens": 134}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 2.", "usage": {"prompt_tokens": 134, "completion_tokens": 9, "total_tokens": 143}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $2 x^{3}-3 x$.", "usage": {"prompt_tokens": 153, "completion_tokens": 15, "total_tokens": 168}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) Selecting 10 employees from each store at random and then surveying each employee selected.", "usage": {"prompt_tokens": 241, "completion_tokens": 25, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 4.", "usage": {"prompt_tokens": 134, "completion_tokens": 9, "total_tokens": 143}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) At least 23%, but no more than 25%, of the students see a movie at least once per month.", "usage": {"prompt_tokens": 307, "completion_tokens": 32, "total_tokens": 339}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) The means are the same, and the standard deviations are the same.", "usage": {"prompt_tokens": 261, "completion_tokens": 21, "total_tokens": 282}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\$ 30.00$.", "usage": {"prompt_tokens": 184, "completion_tokens": 15, "total_tokens": 199}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 6.", "usage": {"prompt_tokens": 152, "completion_tokens": 9, "total_tokens": 161}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 90,000.", "usage": {"prompt_tokens": 233, "completion_tokens": 14, "total_tokens": 247}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\sqrt[3]{\\frac{4 \\pi}{3 V}}$", "usage": {"prompt_tokens": 200, "completion_tokens": 20, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 0.69.", "usage": {"prompt_tokens": 275, "completion_tokens": 12, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) Its maximum occurs at $(3, a)$.", "usage": {"prompt_tokens": 193, "completion_tokens": 15, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) The standard deviation.", "usage": {"prompt_tokens": 172, "completion_tokens": 10, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 100.", "usage": {"prompt_tokens": 246, "completion_tokens": 11, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) The function f is an increasing linear function.", "usage": {"prompt_tokens": 232, "completion_tokens": 15, "total_tokens": 247}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $x+2 y=5 a$.", "usage": {"prompt_tokens": 246, "completion_tokens": 15, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) -0.25", "usage": {"prompt_tokens": 188, "completion_tokens": 11, "total_tokens": 199}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $P(t) = 310^{1.01 t}$.", "usage": {"prompt_tokens": 283, "completion_tokens": 23, "total_tokens": 306}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) - $\\frac{2}{3}(9 x-6)-4=9 x-6$.", "usage": {"prompt_tokens": 152, "completion_tokens": 26, "total_tokens": 178}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) The approximate increase in a man's height, in inches, for each one-inch increase in his femur length.", "usage": {"prompt_tokens": 261, "completion_tokens": 31, "total_tokens": 292}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) K.", "usage": {"prompt_tokens": 222, "completion_tokens": 8, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 39.", "usage": {"prompt_tokens": 124, "completion_tokens": 10, "total_tokens": 134}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\sqrt[3]{a^{\\frac{1}{2}}}$", "usage": {"prompt_tokens": 164, "completion_tokens": 20, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\frac{x}{2}=30$", "usage": {"prompt_tokens": 216, "completion_tokens": 16, "total_tokens": 232}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 5.", "usage": {"prompt_tokens": 140, "completion_tokens": 9, "total_tokens": 149}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 8.", "usage": {"prompt_tokens": 163, "completion_tokens": 9, "total_tokens": 172}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $x-3$.", "usage": {"prompt_tokens": 222, "completion_tokens": 11, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\frac{4-d}{c}$", "usage": {"prompt_tokens": 207, "completion_tokens": 15, "total_tokens": 222}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) - $\\frac{12}{5}$", "usage": {"prompt_tokens": 197, "completion_tokens": 15, "total_tokens": 212}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 16.", "usage": {"prompt_tokens": 164, "completion_tokens": 10, "total_tokens": 174}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) -2 a.", "usage": {"prompt_tokens": 172, "completion_tokens": 10, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 16.", "usage": {"prompt_tokens": 176, "completion_tokens": 10, "total_tokens": 186}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $x=-2 \\pm \\frac{\\sqrt{30}}{3}$", "usage": {"prompt_tokens": 164, "completion_tokens": 22, "total_tokens": 186}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) I and II only.", "usage": {"prompt_tokens": 256, "completion_tokens": 11, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\frac{11}{25}$", "usage": {"prompt_tokens": 324, "completion_tokens": 15, "total_tokens": 339}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $f(n) = 2n-4$.", "usage": {"prompt_tokens": 222, "completion_tokens": 18, "total_tokens": 240}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 30.", "usage": {"prompt_tokens": 197, "completion_tokens": 10, "total_tokens": 207}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $8 x^{2}+7 x-4$.", "usage": {"prompt_tokens": 189, "completion_tokens": 17, "total_tokens": 206}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\frac{4}{5}$.", "usage": {"prompt_tokens": 152, "completion_tokens": 13, "total_tokens": 165}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) The average number of students per classroom in 2000.", "usage": {"prompt_tokens": 259, "completion_tokens": 21, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 700 meters.", "usage": {"prompt_tokens": 157, "completion_tokens": 12, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 86.", "usage": {"prompt_tokens": 417, "completion_tokens": 10, "total_tokens": 427}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) Saturn.", "usage": {"prompt_tokens": 427, "completion_tokens": 9, "total_tokens": 436}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) v = (h-k+16)/t", "usage": {"prompt_tokens": 228, "completion_tokens": 17, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) Treatment $\\mathrm{X}$ improves eyesight better than all other available treatments.", "usage": {"prompt_tokens": 296, "completion_tokens": 26, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) The quantity supplied will increase by 5 units.", "usage": {"prompt_tokens": 302, "completion_tokens": 16, "total_tokens": 318}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $155$.", "usage": {"prompt_tokens": 283, "completion_tokens": 11, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 1,350.", "usage": {"prompt_tokens": 318, "completion_tokens": 13, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) Each successive year, $1.5 \\%$ of the initial savings and $100$ is added to the value of the account.", "usage": {"prompt_tokens": 223, "completion_tokens": 38, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 513.", "usage": {"prompt_tokens": 154, "completion_tokens": 11, "total_tokens": 165}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 21", "usage": {"prompt_tokens": 197, "completion_tokens": 9, "total_tokens": 206}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 4.", "usage": {"prompt_tokens": 147, "completion_tokens": 9, "total_tokens": 156}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 22.", "usage": {"prompt_tokens": 156, "completion_tokens": 10, "total_tokens": 166}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $50,000(0.1)^{\\frac{t}{20}}$.", "usage": {"prompt_tokens": 243, "completion_tokens": 25, "total_tokens": 268}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 0.357", "usage": {"prompt_tokens": 376, "completion_tokens": 12, "total_tokens": 388}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $x$ is $y$ minus $\\frac{1}{2}$.", "usage": {"prompt_tokens": 220, "completion_tokens": 21, "total_tokens": 241}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (A) $x=-1$ and $x=-3$.", "usage": {"prompt_tokens": 160, "completion_tokens": 17, "total_tokens": 177}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 79.", "usage": {"prompt_tokens": 142, "completion_tokens": 10, "total_tokens": 152}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $a^{3}$", "usage": {"prompt_tokens": 145, "completion_tokens": 11, "total_tokens": 156}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) The increase in the speed of sound, in meters per second, that corresponds to an increase of $0.6^{\\circ} \\mathrm{C}$", "usage": {"prompt_tokens": 275, "completion_tokens": 37, "total_tokens": 312}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 9.", "usage": {"prompt_tokens": 162, "completion_tokens": 9, "total_tokens": 171}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $(4 a+8 b)^{2}$.", "usage": {"prompt_tokens": 166, "completion_tokens": 15, "total_tokens": 181}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 22", "usage": {"prompt_tokens": 154, "completion_tokens": 9, "total_tokens": 163}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\sqrt[4]{9}$", "usage": {"prompt_tokens": 140, "completion_tokens": 13, "total_tokens": 153}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) Two.", "usage": {"prompt_tokens": 150, "completion_tokens": 8, "total_tokens": 158}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $\\frac{4}{25} m = 5$", "usage": {"prompt_tokens": 234, "completion_tokens": 19, "total_tokens": 253}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $f(x) = 5x$.", "usage": {"prompt_tokens": 215, "completion_tokens": 16, "total_tokens": 231}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 10.", "usage": {"prompt_tokens": 181, "completion_tokens": 10, "total_tokens": 191}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 3.", "usage": {"prompt_tokens": 134, "completion_tokens": 9, "total_tokens": 143}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 111.", "usage": {"prompt_tokens": 192, "completion_tokens": 11, "total_tokens": 203}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 4.", "usage": {"prompt_tokens": 173, "completion_tokens": 9, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $y=n x-b$", "usage": {"prompt_tokens": 205, "completion_tokens": 14, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) - $2.95 x^{2}-7.2 x+12.16$", "usage": {"prompt_tokens": 196, "completion_tokens": 27, "total_tokens": 223}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (A) $m=d V$.", "usage": {"prompt_tokens": 173, "completion_tokens": 12, "total_tokens": 185}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $2 x+6 y=3$.", "usage": {"prompt_tokens": 167, "completion_tokens": 15, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 4.", "usage": {"prompt_tokens": 162, "completion_tokens": 9, "total_tokens": 171}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) (-1, 3).", "usage": {"prompt_tokens": 167, "completion_tokens": 12, "total_tokens": 179}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 0.318.", "usage": {"prompt_tokens": 370, "completion_tokens": 13, "total_tokens": 383}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) II only.", "usage": {"prompt_tokens": 304, "completion_tokens": 9, "total_tokens": 313}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 48 years.", "usage": {"prompt_tokens": 342, "completion_tokens": 11, "total_tokens": 353}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 1.2", "usage": {"prompt_tokens": 168, "completion_tokens": 10, "total_tokens": 178}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $c=-1$", "usage": {"prompt_tokens": 151, "completion_tokens": 11, "total_tokens": 162}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 30,600.", "usage": {"prompt_tokens": 262, "completion_tokens": 14, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $r(p)=6.5p+440$.", "usage": {"prompt_tokens": 477, "completion_tokens": 20, "total_tokens": 497}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $291,700$.", "usage": {"prompt_tokens": 213, "completion_tokens": 15, "total_tokens": 228}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $p>0.20(300+36)$, where $p \\leq 150$.", "usage": {"prompt_tokens": 333, "completion_tokens": 31, "total_tokens": 364}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $6a$.", "usage": {"prompt_tokens": 158, "completion_tokens": 10, "total_tokens": 168}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 24.", "usage": {"prompt_tokens": 153, "completion_tokens": 10, "total_tokens": 163}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $(20,16)$", "usage": {"prompt_tokens": 168, "completion_tokens": 13, "total_tokens": 181}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 212, "completion_tokens": 6, "total_tokens": 218}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) The number of minutes spent biking each day.", "usage": {"prompt_tokens": 199, "completion_tokens": 17, "total_tokens": 216}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $15 x-6$.", "usage": {"prompt_tokens": 136, "completion_tokens": 13, "total_tokens": 149}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) (0,3).", "usage": {"prompt_tokens": 164, "completion_tokens": 11, "total_tokens": 175}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $4+6 i$.", "usage": {"prompt_tokens": 159, "completion_tokens": 12, "total_tokens": 171}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 5.", "usage": {"prompt_tokens": 130, "completion_tokens": 9, "total_tokens": 139}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $16,200$.\n\nThe camera equipment is worth $\\$ 32,400$ when it is purchased, and it depreciates at a constant rate of $\\$ 1,000$ per year. After 4 years, the equipment will have depreciated by $\\$ 1,000 \\* 4 = \\$ 4,000$. Therefore, the equipment is worth $\\$ 32,400 - 4,000 = \\$ 28,400$.", "usage": {"prompt_tokens": 204, "completion_tokens": 124, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $(x-3)^{2}-5$.", "usage": {"prompt_tokens": 155, "completion_tokens": 15, "total_tokens": 170}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 33.", "usage": {"prompt_tokens": 215, "completion_tokens": 10, "total_tokens": 225}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 408, "completion_tokens": 6, "total_tokens": 414}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $x-3$.", "usage": {"prompt_tokens": 189, "completion_tokens": 11, "total_tokens": 200}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $3<x<4$", "usage": {"prompt_tokens": 184, "completion_tokens": 13, "total_tokens": 197}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $x+1-\\frac{8}{x-3}$", "usage": {"prompt_tokens": 174, "completion_tokens": 19, "total_tokens": 193}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $0<x \\leq 11 \\frac{2}{3}$", "usage": {"prompt_tokens": 263, "completion_tokens": 22, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\sqrt{2}$", "usage": {"prompt_tokens": 162, "completion_tokens": 11, "total_tokens": 173}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\frac{2}{25}$", "usage": {"prompt_tokens": 296, "completion_tokens": 14, "total_tokens": 310}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $4 x^{2}-2$.", "usage": {"prompt_tokens": 161, "completion_tokens": 14, "total_tokens": 175}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 150", "usage": {"prompt_tokens": 164, "completion_tokens": 10, "total_tokens": 174}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) Most people who like this book will dislike this movie.", "usage": {"prompt_tokens": 251, "completion_tokens": 18, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) II only.", "usage": {"prompt_tokens": 155, "completion_tokens": 9, "total_tokens": 164}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) - 5", "usage": {"prompt_tokens": 145, "completion_tokens": 9, "total_tokens": 154}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 12.", "usage": {"prompt_tokens": 134, "completion_tokens": 10, "total_tokens": 144}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 15 minutes.", "usage": {"prompt_tokens": 141, "completion_tokens": 11, "total_tokens": 152}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $30s+20c=1,870$", "usage": {"prompt_tokens": 320, "completion_tokens": 21, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\$ 52.60$.", "usage": {"prompt_tokens": 174, "completion_tokens": 15, "total_tokens": 189}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 200.", "usage": {"prompt_tokens": 180, "completion_tokens": 11, "total_tokens": 191}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 12.", "usage": {"prompt_tokens": 135, "completion_tokens": 10, "total_tokens": 145}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) A charge per mile of $\\$ 1.50$", "usage": {"prompt_tokens": 249, "completion_tokens": 19, "total_tokens": 268}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $w=30A+4$.", "usage": {"prompt_tokens": 265, "completion_tokens": 15, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $2(4+w)$", "usage": {"prompt_tokens": 283, "completion_tokens": 13, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $0.95 \\%$.", "usage": {"prompt_tokens": 385, "completion_tokens": 14, "total_tokens": 399}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $640 \\mathrm{~cm}^{3}$.", "usage": {"prompt_tokens": 244, "completion_tokens": 18, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) The maximum height, in feet, of the object.", "usage": {"prompt_tokens": 203, "completion_tokens": 17, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $k=4.2 x$.", "usage": {"prompt_tokens": 312, "completion_tokens": 14, "total_tokens": 326}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $f=20-\\frac{4}{9}(p+c)$", "usage": {"prompt_tokens": 373, "completion_tokens": 22, "total_tokens": 395}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $P(t)=1.019t+4$", "usage": {"prompt_tokens": 242, "completion_tokens": 20, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $(3,2)$", "usage": {"prompt_tokens": 160, "completion_tokens": 11, "total_tokens": 171}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 6,440", "usage": {"prompt_tokens": 273, "completion_tokens": 12, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 3.", "usage": {"prompt_tokens": 148, "completion_tokens": 9, "total_tokens": 157}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $P=\\frac{O+4 M+E}{6}$", "usage": {"prompt_tokens": 233, "completion_tokens": 20, "total_tokens": 253}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $w^2 + 6w$.", "usage": {"prompt_tokens": 173, "completion_tokens": 15, "total_tokens": 188}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $y>\\frac{3}{2}$", "usage": {"prompt_tokens": 172, "completion_tokens": 15, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) {0, -1, 5}", "usage": {"prompt_tokens": 142, "completion_tokens": 15, "total_tokens": 157}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\frac{x(x-3)}{x+1}$.", "usage": {"prompt_tokens": 206, "completion_tokens": 19, "total_tokens": 225}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 20.", "usage": {"prompt_tokens": 188, "completion_tokens": 10, "total_tokens": 198}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 2.", "usage": {"prompt_tokens": 142, "completion_tokens": 9, "total_tokens": 151}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $f(t)=\\frac{19}{130} t+4$.", "usage": {"prompt_tokens": 254, "completion_tokens": 24, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) There are exactly 2 solutions.", "usage": {"prompt_tokens": 166, "completion_tokens": 13, "total_tokens": 179}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 2", "usage": {"prompt_tokens": 155, "completion_tokens": 8, "total_tokens": 163}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $\\frac{2}{c}$", "usage": {"prompt_tokens": 149, "completion_tokens": 13, "total_tokens": 162}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 200.", "usage": {"prompt_tokens": 158, "completion_tokens": 11, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $40 B + 75 L = 19,250$ $B + L = 350$.", "usage": {"prompt_tokens": 336, "completion_tokens": 34, "total_tokens": 370}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) y = x - 3.", "usage": {"prompt_tokens": 153, "completion_tokens": 13, "total_tokens": 166}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 2.", "usage": {"prompt_tokens": 143, "completion_tokens": 9, "total_tokens": 152}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) $x+y<57$ $50,000 x+100,000 y>3,000,000$", "usage": {"prompt_tokens": 384, "completion_tokens": 42, "total_tokens": 426}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 4.", "usage": {"prompt_tokens": 146, "completion_tokens": 9, "total_tokens": 155}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $5 x^{2}$", "usage": {"prompt_tokens": 156, "completion_tokens": 12, "total_tokens": 168}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) It has a negative slope and a negative $y$-intercept.", "usage": {"prompt_tokens": 184, "completion_tokens": 20, "total_tokens": 204}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $h = 15s + \\frac{335}{15}$", "usage": {"prompt_tokens": 228, "completion_tokens": 24, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $125$.", "usage": {"prompt_tokens": 221, "completion_tokens": 11, "total_tokens": 232}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) 80.", "usage": {"prompt_tokens": 131, "completion_tokens": 10, "total_tokens": 141}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 8.", "usage": {"prompt_tokens": 153, "completion_tokens": 9, "total_tokens": 162}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 40.", "usage": {"prompt_tokens": 174, "completion_tokens": 10, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 4.", "usage": {"prompt_tokens": 147, "completion_tokens": 9, "total_tokens": 156}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (A) $\\frac{2 x+5}{2 x+1}$.", "usage": {"prompt_tokens": 182, "completion_tokens": 19, "total_tokens": 201}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\{-1\\}$", "usage": {"prompt_tokens": 140, "completion_tokens": 10, "total_tokens": 150}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 27.", "usage": {"prompt_tokens": 122, "completion_tokens": 10, "total_tokens": 132}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 99.", "usage": {"prompt_tokens": 129, "completion_tokens": 10, "total_tokens": 139}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 3.", "usage": {"prompt_tokens": 130, "completion_tokens": 9, "total_tokens": 139}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 120.", "usage": {"prompt_tokens": 198, "completion_tokens": 11, "total_tokens": 209}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 62.0", "usage": {"prompt_tokens": 203, "completion_tokens": 11, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 5. The Beebe Vent Field is located at a depth of 3.1 miles below the sea's surface, which is approximately 5.2 kilometers below the sea's surface.", "usage": {"prompt_tokens": 181, "completion_tokens": 49, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 6.", "usage": {"prompt_tokens": 188, "completion_tokens": 9, "total_tokens": 197}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) v = 120,000 - 30,000 t", "usage": {"prompt_tokens": 259, "completion_tokens": 25, "total_tokens": 284}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) y = 2x + 4.", "usage": {"prompt_tokens": 173, "completion_tokens": 15, "total_tokens": 188}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 12.", "usage": {"prompt_tokens": 159, "completion_tokens": 10, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (C) 13.", "usage": {"prompt_tokens": 139, "completion_tokens": 10, "total_tokens": 149}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $p=5x$.", "usage": {"prompt_tokens": 282, "completion_tokens": 12, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\frac{1}{4} \\operatorname{cup}$.", "usage": {"prompt_tokens": 329, "completion_tokens": 18, "total_tokens": 347}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) $h(x)=d(3)^{x}$", "usage": {"prompt_tokens": 195, "completion_tokens": 17, "total_tokens": 212}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) Standard deviation.", "usage": {"prompt_tokens": 177, "completion_tokens": 9, "total_tokens": 186}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) Those who responded to the poll were not a random sample of the population of the United States.", "usage": {"prompt_tokens": 285, "completion_tokens": 26, "total_tokens": 311}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (D) 30.", "usage": {"prompt_tokens": 149, "completion_tokens": 10, "total_tokens": 159}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $\\sin \\left(90^{\\circ}-x^{\\circ}\\right)=a$", "usage": {"prompt_tokens": 182, "completion_tokens": 24, "total_tokens": 206}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) The maximum height of the projectile.", "usage": {"prompt_tokens": 225, "completion_tokens": 14, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (A) $f(x)=(x-a)(x-b)$", "usage": {"prompt_tokens": 214, "completion_tokens": 20, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-7B"}
+{"text": "Answer is choice (B) $x$-intercept of the line.", "usage": {"prompt_tokens": 169, "completion_tokens": 15, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-7B"}

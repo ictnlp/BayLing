@@ -1,0 +1,306 @@
+{"text": "Answer is B.", "usage": {"prompt_tokens": 410, "completion_tokens": 4, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 429, "completion_tokens": 4, "total_tokens": 433}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. ＄299", "usage": {"prompt_tokens": 403, "completion_tokens": 11, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. In a company brochure.", "usage": {"prompt_tokens": 403, "completion_tokens": 11, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Some crops.", "usage": {"prompt_tokens": 568, "completion_tokens": 8, "total_tokens": 576}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 580, "completion_tokens": 4, "total_tokens": 584}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. To see if elephants would run away.", "usage": {"prompt_tokens": 587, "completion_tokens": 14, "total_tokens": 601}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Elephants do not go near trees with bees living in them.", "usage": {"prompt_tokens": 604, "completion_tokens": 19, "total_tokens": 623}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. By showing what ordinary people have collected.", "usage": {"prompt_tokens": 487, "completion_tokens": 12, "total_tokens": 499}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A. Who they are.", "usage": {"prompt_tokens": 469, "completion_tokens": 8, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To encourage more people to collect.", "usage": {"prompt_tokens": 482, "completion_tokens": 12, "total_tokens": 494}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 473, "completion_tokens": 4, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 577, "completion_tokens": 3, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 590, "completion_tokens": 3, "total_tokens": 593}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. gets permission from Ashoka.", "usage": {"prompt_tokens": 591, "completion_tokens": 10, "total_tokens": 601}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 567, "completion_tokens": 3, "total_tokens": 570}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Washington Capital Monuments Bicycle Tour.", "usage": {"prompt_tokens": 555, "completion_tokens": 13, "total_tokens": 568}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Go to a national park.", "usage": {"prompt_tokens": 530, "completion_tokens": 10, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. Safety lights.", "usage": {"prompt_tokens": 523, "completion_tokens": 8, "total_tokens": 531}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. She has started a new programme.", "usage": {"prompt_tokens": 513, "completion_tokens": 11, "total_tokens": 524}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He prepares food for her kids.", "usage": {"prompt_tokens": 513, "completion_tokens": 13, "total_tokens": 526}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Provide some advice for the readers.", "usage": {"prompt_tokens": 510, "completion_tokens": 12, "total_tokens": 522}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Balancing Our Daily Diet.", "usage": {"prompt_tokens": 505, "completion_tokens": 10, "total_tokens": 515}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They were large in number.", "usage": {"prompt_tokens": 578, "completion_tokens": 10, "total_tokens": 588}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 572, "completion_tokens": 5, "total_tokens": 577}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. About 3,400.", "usage": {"prompt_tokens": 592, "completion_tokens": 12, "total_tokens": 604}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. People's lifestyles are reflected in languages.", "usage": {"prompt_tokens": 584, "completion_tokens": 15, "total_tokens": 599}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They are no better than the old.", "usage": {"prompt_tokens": 639, "completion_tokens": 12, "total_tokens": 651}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To test the life cycle of a product.", "usage": {"prompt_tokens": 648, "completion_tokens": 13, "total_tokens": 661}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B (tablet).", "usage": {"prompt_tokens": 628, "completion_tokens": 7, "total_tokens": 635}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Take them apart.", "usage": {"prompt_tokens": 629, "completion_tokens": 8, "total_tokens": 637}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. They will be delighted.", "usage": {"prompt_tokens": 559, "completion_tokens": 10, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) tell him a white lie.", "usage": {"prompt_tokens": 554, "completion_tokens": 11, "total_tokens": 565}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. a couple of names first.", "usage": {"prompt_tokens": 552, "completion_tokens": 10, "total_tokens": 562}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A. Tips on an important social skill.", "usage": {"prompt_tokens": 557, "completion_tokens": 12, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. animals for taking goods", "usage": {"prompt_tokens": 560, "completion_tokens": 9, "total_tokens": 569}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. ceremonies are held when people cook cattle bone soup.", "usage": {"prompt_tokens": 573, "completion_tokens": 17, "total_tokens": 590}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. People's respect and love for oxen.", "usage": {"prompt_tokens": 569, "completion_tokens": 14, "total_tokens": 583}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To introduce the Chinese folk culture.", "usage": {"prompt_tokens": 565, "completion_tokens": 11, "total_tokens": 576}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Large, flat, black surfaces need to be built in cities.", "usage": {"prompt_tokens": 532, "completion_tokens": 18, "total_tokens": 550}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To store heat for future use.", "usage": {"prompt_tokens": 509, "completion_tokens": 11, "total_tokens": 520}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. the system can do more than warming up the building.", "usage": {"prompt_tokens": 521, "completion_tokens": 16, "total_tokens": 537}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The WHO-China Joint Mission on Covid-19 held a press conference.", "usage": {"prompt_tokens": 559, "completion_tokens": 24, "total_tokens": 583}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 523, "completion_tokens": 5, "total_tokens": 528}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 665, "completion_tokens": 3, "total_tokens": 668}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They provided bad services.", "usage": {"prompt_tokens": 671, "completion_tokens": 9, "total_tokens": 680}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The push of the local organizations.", "usage": {"prompt_tokens": 663, "completion_tokens": 11, "total_tokens": 674}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 651, "completion_tokens": 3, "total_tokens": 654}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Their lack of exercise led to overweight.", "usage": {"prompt_tokens": 656, "completion_tokens": 13, "total_tokens": 669}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They consumed a bit more calories.", "usage": {"prompt_tokens": 648, "completion_tokens": 13, "total_tokens": 661}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Too much workout often slows metabolic rates.", "usage": {"prompt_tokens": 659, "completion_tokens": 17, "total_tokens": 676}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 927, "completion_tokens": 4, "total_tokens": 931}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They had a nice conversation with each other.", "usage": {"prompt_tokens": 943, "completion_tokens": 13, "total_tokens": 956}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Juan knew so little about the world.", "usage": {"prompt_tokens": 950, "completion_tokens": 12, "total_tokens": 962}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To deepen his research into Amazonians.", "usage": {"prompt_tokens": 949, "completion_tokens": 15, "total_tokens": 964}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They followed other scientists closely.", "usage": {"prompt_tokens": 943, "completion_tokens": 11, "total_tokens": 954}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The Known and the Unknown.", "usage": {"prompt_tokens": 945, "completion_tokens": 12, "total_tokens": 957}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They are not on the day school timetable.", "usage": {"prompt_tokens": 456, "completion_tokens": 15, "total_tokens": 471}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To do their assignments independently.", "usage": {"prompt_tokens": 442, "completion_tokens": 11, "total_tokens": 453}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Chimps tend to provide food for their children.", "usage": {"prompt_tokens": 706, "completion_tokens": 15, "total_tokens": 721}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Know how to offer help to adults.", "usage": {"prompt_tokens": 690, "completion_tokens": 13, "total_tokens": 703}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Cooperation as a distinctive human nature.", "usage": {"prompt_tokens": 687, "completion_tokens": 13, "total_tokens": 700}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It takes place almost every year all over the world.", "usage": {"prompt_tokens": 801, "completion_tokens": 15, "total_tokens": 816}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Droughts become more harmful than floods.", "usage": {"prompt_tokens": 799, "completion_tokens": 15, "total_tokens": 814}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Governments of poor countries need more aid.", "usage": {"prompt_tokens": 787, "completion_tokens": 13, "total_tokens": 800}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 792, "completion_tokens": 4, "total_tokens": 796}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He sensed a great potential in her despite her weaknesses.", "usage": {"prompt_tokens": 1231, "completion_tokens": 18, "total_tokens": 1249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. She badly needed to set higher goals.", "usage": {"prompt_tokens": 1231, "completion_tokens": 12, "total_tokens": 1243}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Her interest in Shelly﹣Ann's quick profit.", "usage": {"prompt_tokens": 1231, "completion_tokens": 19, "total_tokens": 1250}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. She became an athletic star in her country.", "usage": {"prompt_tokens": 1230, "completion_tokens": 14, "total_tokens": 1244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Great athletes need to concentrate on patience.", "usage": {"prompt_tokens": 1222, "completion_tokens": 15, "total_tokens": 1237}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B: The Dream for Championship.", "usage": {"prompt_tokens": 1197, "completion_tokens": 9, "total_tokens": 1206}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Visit translink.com.au.", "usage": {"prompt_tokens": 414, "completion_tokens": 13, "total_tokens": 427}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 403, "completion_tokens": 5, "total_tokens": 408}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 416, "completion_tokens": 5, "total_tokens": 421}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It’s a window to a whole new world.", "usage": {"prompt_tokens": 549, "completion_tokens": 15, "total_tokens": 564}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It's about Hemingway's life as a young man.", "usage": {"prompt_tokens": 562, "completion_tokens": 19, "total_tokens": 581}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 535, "completion_tokens": 5, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They are qualified for the marathon.", "usage": {"prompt_tokens": 540, "completion_tokens": 12, "total_tokens": 552}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It’s less challenging physically.", "usage": {"prompt_tokens": 548, "completion_tokens": 13, "total_tokens": 561}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Having a medical checkup.", "usage": {"prompt_tokens": 542, "completion_tokens": 10, "total_tokens": 552}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 531, "completion_tokens": 5, "total_tokens": 536}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A. A new study of different plants.", "usage": {"prompt_tokens": 554, "completion_tokens": 11, "total_tokens": 565}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To make the life of plants longer.", "usage": {"prompt_tokens": 561, "completion_tokens": 12, "total_tokens": 573}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They may transmit electricity to the home.", "usage": {"prompt_tokens": 562, "completion_tokens": 13, "total_tokens": 575}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 570, "completion_tokens": 3, "total_tokens": 573}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. People's characters.", "usage": {"prompt_tokens": 770, "completion_tokens": 9, "total_tokens": 779}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. made things with metals.", "usage": {"prompt_tokens": 762, "completion_tokens": 10, "total_tokens": 772}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D.", "usage": {"prompt_tokens": 774, "completion_tokens": 4, "total_tokens": 778}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 759, "completion_tokens": 5, "total_tokens": 764}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They kill large numbers of deer.", "usage": {"prompt_tokens": 860, "completion_tokens": 12, "total_tokens": 872}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 865, "completion_tokens": 3, "total_tokens": 868}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 864, "completion_tokens": 3, "total_tokens": 867}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 876, "completion_tokens": 3, "total_tokens": 879}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 750CAN", "usage": {"prompt_tokens": 246, "completion_tokens": 10, "total_tokens": 256}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 48US", "usage": {"prompt_tokens": 241, "completion_tokens": 8, "total_tokens": 249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 322, "completion_tokens": 6, "total_tokens": 328}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 871, "completion_tokens": 3, "total_tokens": 874}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. \nSafety of the system is the greatest challenge to the new high﹣speed railway plan.", "usage": {"prompt_tokens": 832, "completion_tokens": 27, "total_tokens": 859}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D", "usage": {"prompt_tokens": 835, "completion_tokens": 3, "total_tokens": 838}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 827, "completion_tokens": 3, "total_tokens": 830}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. your supporter and helps you.", "usage": {"prompt_tokens": 519, "completion_tokens": 12, "total_tokens": 531}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. could be managed by the internal clock of human bodies.", "usage": {"prompt_tokens": 524, "completion_tokens": 15, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. how to make up for lost time.", "usage": {"prompt_tokens": 515, "completion_tokens": 12, "total_tokens": 527}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. energy from the Sun.", "usage": {"prompt_tokens": 473, "completion_tokens": 9, "total_tokens": 482}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. reflected by the gases in the upper atmosphere.", "usage": {"prompt_tokens": 493, "completion_tokens": 15, "total_tokens": 508}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. all living things on the Earth depend on the Sun for their food.", "usage": {"prompt_tokens": 501, "completion_tokens": 19, "total_tokens": 520}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. leave all their carried items at the checkrooms.", "usage": {"prompt_tokens": 513, "completion_tokens": 15, "total_tokens": 528}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The size of visitor items allowed into the Gallery is limited.", "usage": {"prompt_tokens": 522, "completion_tokens": 17, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. can carry their children in soft front child carriers.", "usage": {"prompt_tokens": 515, "completion_tokens": 16, "total_tokens": 531}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. pictures and videos can be taken in some places for personal use.", "usage": {"prompt_tokens": 519, "completion_tokens": 18, "total_tokens": 537}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Jack was too busy with his business and family to think about Mr. Belser.", "usage": {"prompt_tokens": 962, "completion_tokens": 21, "total_tokens": 983}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Mr. Belser’s funeral would take place on Wednesday.", "usage": {"prompt_tokens": 961, "completion_tokens": 20, "total_tokens": 981}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Because he had no children or relatives.", "usage": {"prompt_tokens": 941, "completion_tokens": 12, "total_tokens": 953}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He had promised to spare more time to stay with his son.", "usage": {"prompt_tokens": 956, "completion_tokens": 17, "total_tokens": 973}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. What He Valued Most", "usage": {"prompt_tokens": 922, "completion_tokens": 9, "total_tokens": 931}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 643, "completion_tokens": 4, "total_tokens": 647}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 639, "completion_tokens": 3, "total_tokens": 642}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Women love to talk because they are more sociable than men.", "usage": {"prompt_tokens": 650, "completion_tokens": 17, "total_tokens": 667}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) Talking Maintains Relationships", "usage": {"prompt_tokens": 632, "completion_tokens": 13, "total_tokens": 645}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The jacket and boots.", "usage": {"prompt_tokens": 728, "completion_tokens": 11, "total_tokens": 739}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The slowness of the teacher.", "usage": {"prompt_tokens": 742, "completion_tokens": 11, "total_tokens": 753}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) twice.", "usage": {"prompt_tokens": 723, "completion_tokens": 6, "total_tokens": 729}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 794, "completion_tokens": 3, "total_tokens": 797}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He was a dishonest boy.", "usage": {"prompt_tokens": 514, "completion_tokens": 13, "total_tokens": 527}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. acted like a superhero.", "usage": {"prompt_tokens": 510, "completion_tokens": 11, "total_tokens": 521}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C (to become a powerful person in your mind).", "usage": {"prompt_tokens": 518, "completion_tokens": 13, "total_tokens": 531}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To help us make right decisions.", "usage": {"prompt_tokens": 516, "completion_tokens": 12, "total_tokens": 528}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The meaning of success.", "usage": {"prompt_tokens": 507, "completion_tokens": 9, "total_tokens": 516}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) setting a practical goal.", "usage": {"prompt_tokens": 522, "completion_tokens": 9, "total_tokens": 531}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. one tends to enjoy his work.", "usage": {"prompt_tokens": 519, "completion_tokens": 11, "total_tokens": 530}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) People sometimes succeed without luck or talent.", "usage": {"prompt_tokens": 534, "completion_tokens": 12, "total_tokens": 546}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C: One cannot succeed without time and practice.", "usage": {"prompt_tokens": 527, "completion_tokens": 12, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. walked energetically", "usage": {"prompt_tokens": 579, "completion_tokens": 8, "total_tokens": 587}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 586, "completion_tokens": 3, "total_tokens": 589}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. needed to share sorrow with the author.", "usage": {"prompt_tokens": 595, "completion_tokens": 12, "total_tokens": 607}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He liked biking before he lost his family.", "usage": {"prompt_tokens": 593, "completion_tokens": 15, "total_tokens": 608}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The author's friendship.", "usage": {"prompt_tokens": 582, "completion_tokens": 10, "total_tokens": 592}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To find her secrets in the room.", "usage": {"prompt_tokens": 534, "completion_tokens": 13, "total_tokens": 547}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)dividing line", "usage": {"prompt_tokens": 526, "completion_tokens": 10, "total_tokens": 536}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They can defeat academic cheating.", "usage": {"prompt_tokens": 529, "completion_tokens": 11, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 526, "completion_tokens": 4, "total_tokens": 530}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 538, "completion_tokens": 3, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. In Building 3.", "usage": {"prompt_tokens": 459, "completion_tokens": 9, "total_tokens": 468}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. Take science to the classroom.", "usage": {"prompt_tokens": 460, "completion_tokens": 11, "total_tokens": 471}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To advertise coming events.", "usage": {"prompt_tokens": 463, "completion_tokens": 10, "total_tokens": 473}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Getting injured in his work.", "usage": {"prompt_tokens": 529, "completion_tokens": 10, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To take care of a woman.", "usage": {"prompt_tokens": 517, "completion_tokens": 11, "total_tokens": 528}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Some food.", "usage": {"prompt_tokens": 500, "completion_tokens": 7, "total_tokens": 507}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It's beautiful.", "usage": {"prompt_tokens": 513, "completion_tokens": 9, "total_tokens": 522}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To protect cultural diversity.", "usage": {"prompt_tokens": 607, "completion_tokens": 10, "total_tokens": 617}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The production of jazz growing faster.", "usage": {"prompt_tokens": 609, "completion_tokens": 12, "total_tokens": 621}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It remains black and white.", "usage": {"prompt_tokens": 604, "completion_tokens": 10, "total_tokens": 614}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 610, "completion_tokens": 3, "total_tokens": 613}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 447, "completion_tokens": 4, "total_tokens": 451}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Room 502.", "usage": {"prompt_tokens": 455, "completion_tokens": 10, "total_tokens": 465}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Prezi.", "usage": {"prompt_tokens": 442, "completion_tokens": 8, "total_tokens": 450}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 3:30 pm", "usage": {"prompt_tokens": 455, "completion_tokens": 12, "total_tokens": 467}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A", "usage": {"prompt_tokens": 516, "completion_tokens": 3, "total_tokens": 519}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 525, "completion_tokens": 4, "total_tokens": 529}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They could not bear to work in the family business.", "usage": {"prompt_tokens": 527, "completion_tokens": 15, "total_tokens": 542}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 514, "completion_tokens": 3, "total_tokens": 517}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. describe how to use the Internet.", "usage": {"prompt_tokens": 467, "completion_tokens": 11, "total_tokens": 478}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)The two groups remembered the information equally well.", "usage": {"prompt_tokens": 483, "completion_tokens": 14, "total_tokens": 497}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. change the quantity of information.", "usage": {"prompt_tokens": 463, "completion_tokens": 10, "total_tokens": 473}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A. We are using memory differently.", "usage": {"prompt_tokens": 477, "completion_tokens": 10, "total_tokens": 487}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C", "usage": {"prompt_tokens": 492, "completion_tokens": 3, "total_tokens": 495}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. communication", "usage": {"prompt_tokens": 472, "completion_tokens": 5, "total_tokens": 477}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 483, "completion_tokens": 5, "total_tokens": 488}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 487, "completion_tokens": 5, "total_tokens": 492}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 499, "completion_tokens": 4, "total_tokens": 503}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Success.", "usage": {"prompt_tokens": 500, "completion_tokens": 6, "total_tokens": 506}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 488, "completion_tokens": 5, "total_tokens": 493}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The specific meaning of food.", "usage": {"prompt_tokens": 497, "completion_tokens": 10, "total_tokens": 507}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 439, "completion_tokens": 4, "total_tokens": 443}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. have the same shape.", "usage": {"prompt_tokens": 437, "completion_tokens": 9, "total_tokens": 446}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Room 2 is the most visited place in the museum.", "usage": {"prompt_tokens": 479, "completion_tokens": 16, "total_tokens": 495}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. design shoes", "usage": {"prompt_tokens": 435, "completion_tokens": 7, "total_tokens": 442}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. cultural values", "usage": {"prompt_tokens": 456, "completion_tokens": 7, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To increase people’s appetites.", "usage": {"prompt_tokens": 472, "completion_tokens": 13, "total_tokens": 485}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. Purple.", "usage": {"prompt_tokens": 444, "completion_tokens": 7, "total_tokens": 451}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The Cultural Meaning of Color", "usage": {"prompt_tokens": 460, "completion_tokens": 10, "total_tokens": 470}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. a much more famous person.", "usage": {"prompt_tokens": 505, "completion_tokens": 10, "total_tokens": 515}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. her bent spine.", "usage": {"prompt_tokens": 493, "completion_tokens": 9, "total_tokens": 502}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.1940s", "usage": {"prompt_tokens": 502, "completion_tokens": 9, "total_tokens": 511}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. Encouragement.", "usage": {"prompt_tokens": 490, "completion_tokens": 9, "total_tokens": 499}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Children never fly kites on their own in flying lessons.", "usage": {"prompt_tokens": 542, "completion_tokens": 17, "total_tokens": 559}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is simple in design.", "usage": {"prompt_tokens": 515, "completion_tokens": 10, "total_tokens": 525}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Any type of kite.", "usage": {"prompt_tokens": 516, "completion_tokens": 10, "total_tokens": 526}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Kite-flying lessons.", "usage": {"prompt_tokens": 506, "completion_tokens": 12, "total_tokens": 518}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Everyone will look the same.", "usage": {"prompt_tokens": 464, "completion_tokens": 11, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. More drinks will be available for sale.", "usage": {"prompt_tokens": 480, "completion_tokens": 13, "total_tokens": 493}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Fridge will know what people need.", "usage": {"prompt_tokens": 471, "completion_tokens": 12, "total_tokens": 483}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 467, "completion_tokens": 3, "total_tokens": 470}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)Back to the Fifties Tour.", "usage": {"prompt_tokens": 536, "completion_tokens": 14, "total_tokens": 550}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Enjoy the holiday scenes.", "usage": {"prompt_tokens": 538, "completion_tokens": 12, "total_tokens": 550}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 535, "completion_tokens": 5, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It signaled the closedown of the theater.", "usage": {"prompt_tokens": 504, "completion_tokens": 15, "total_tokens": 519}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It was about the history of the town.", "usage": {"prompt_tokens": 490, "completion_tokens": 13, "total_tokens": 503}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. It will be knocked down.", "usage": {"prompt_tokens": 489, "completion_tokens": 11, "total_tokens": 500}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They are sad to part with the old theater.", "usage": {"prompt_tokens": 497, "completion_tokens": 15, "total_tokens": 512}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 569, "completion_tokens": 4, "total_tokens": 573}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice C.", "usage": {"prompt_tokens": 551, "completion_tokens": 5, "total_tokens": 556}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A decline in the park’s income.", "usage": {"prompt_tokens": 566, "completion_tokens": 14, "total_tokens": 580}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Positive.", "usage": {"prompt_tokens": 554, "completion_tokens": 7, "total_tokens": 561}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. To find out older driver’s problems.", "usage": {"prompt_tokens": 528, "completion_tokens": 13, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A. It keeps them independent.", "usage": {"prompt_tokens": 530, "completion_tokens": 9, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Develop driver-assist technologies.", "usage": {"prompt_tokens": 533, "completion_tokens": 12, "total_tokens": 545}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A Solution to Traffic Problems.", "usage": {"prompt_tokens": 529, "completion_tokens": 12, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 460, "completion_tokens": 4, "total_tokens": 464}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. By repairing the system.", "usage": {"prompt_tokens": 465, "completion_tokens": 10, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Friedman is now studying the Great Barrier Reef.", "usage": {"prompt_tokens": 481, "completion_tokens": 16, "total_tokens": 497}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 457, "completion_tokens": 3, "total_tokens": 460}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 438, "completion_tokens": 4, "total_tokens": 442}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B: Producing electricity.", "usage": {"prompt_tokens": 429, "completion_tokens": 9, "total_tokens": 438}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It was one of the oldest power sources.", "usage": {"prompt_tokens": 439, "completion_tokens": 13, "total_tokens": 452}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The design of wind power plants.", "usage": {"prompt_tokens": 429, "completion_tokens": 11, "total_tokens": 440}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To climb it twice.", "usage": {"prompt_tokens": 531, "completion_tokens": 10, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Wellman had lost interest in climbing.", "usage": {"prompt_tokens": 527, "completion_tokens": 13, "total_tokens": 540}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He was disabled in a traffic accident.", "usage": {"prompt_tokens": 519, "completion_tokens": 12, "total_tokens": 531}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 510, "completion_tokens": 3, "total_tokens": 513}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. How Ireland gained independence.", "usage": {"prompt_tokens": 516, "completion_tokens": 9, "total_tokens": 525}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 498, "completion_tokens": 3, "total_tokens": 501}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 502, "completion_tokens": 3, "total_tokens": 505}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) to be attentive to someone.", "usage": {"prompt_tokens": 487, "completion_tokens": 12, "total_tokens": 499}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. We have to put up with noise.", "usage": {"prompt_tokens": 489, "completion_tokens": 12, "total_tokens": 501}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 499, "completion_tokens": 3, "total_tokens": 502}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is a good idea to use sign language.", "usage": {"prompt_tokens": 492, "completion_tokens": 14, "total_tokens": 506}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A. Her social work.", "usage": {"prompt_tokens": 559, "completion_tokens": 8, "total_tokens": 567}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Her lack of proper training in law.", "usage": {"prompt_tokens": 575, "completion_tokens": 12, "total_tokens": 587}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 573, "completion_tokens": 5, "total_tokens": 578}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. They are pioneers.", "usage": {"prompt_tokens": 565, "completion_tokens": 9, "total_tokens": 574}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is A. It strengthened her family ties.", "usage": {"prompt_tokens": 503, "completion_tokens": 12, "total_tokens": 515}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 516, "completion_tokens": 3, "total_tokens": 519}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They were eager to raise more children.", "usage": {"prompt_tokens": 515, "completion_tokens": 12, "total_tokens": 527}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Ask their children to pay more visits to them.", "usage": {"prompt_tokens": 517, "completion_tokens": 15, "total_tokens": 532}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 471, "completion_tokens": 5, "total_tokens": 476}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The donor can only wait for that long.", "usage": {"prompt_tokens": 493, "completion_tokens": 14, "total_tokens": 507}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To Newark.", "usage": {"prompt_tokens": 467, "completion_tokens": 8, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It promotes friendship.", "usage": {"prompt_tokens": 518, "completion_tokens": 9, "total_tokens": 527}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The Mexicans.", "usage": {"prompt_tokens": 516, "completion_tokens": 8, "total_tokens": 524}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Break it while treating patients.", "usage": {"prompt_tokens": 531, "completion_tokens": 11, "total_tokens": 542}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B: What It Means to Be Silent", "usage": {"prompt_tokens": 521, "completion_tokens": 12, "total_tokens": 533}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It provides awards for running new businesses.", "usage": {"prompt_tokens": 490, "completion_tokens": 13, "total_tokens": 503}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)16-17.", "usage": {"prompt_tokens": 490, "completion_tokens": 12, "total_tokens": 502}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. Jobs for Youth.", "usage": {"prompt_tokens": 484, "completion_tokens": 10, "total_tokens": 494}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Making a speech.", "usage": {"prompt_tokens": 539, "completion_tokens": 9, "total_tokens": 548}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 551, "completion_tokens": 5, "total_tokens": 556}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 543, "completion_tokens": 3, "total_tokens": 546}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To improve accuracy in typing.", "usage": {"prompt_tokens": 453, "completion_tokens": 10, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Fingerprint scanning techniques develop fast.", "usage": {"prompt_tokens": 457, "completion_tokens": 13, "total_tokens": 470}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It'll be made of plastics.", "usage": {"prompt_tokens": 462, "completion_tokens": 14, "total_tokens": 476}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)A magazine.", "usage": {"prompt_tokens": 437, "completion_tokens": 9, "total_tokens": 446}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The characteristics of adolescents.", "usage": {"prompt_tokens": 683, "completion_tokens": 12, "total_tokens": 695}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Lonely.", "usage": {"prompt_tokens": 689, "completion_tokens": 8, "total_tokens": 697}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Lonely.", "usage": {"prompt_tokens": 705, "completion_tokens": 8, "total_tokens": 713}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Moving to the countryside.", "usage": {"prompt_tokens": 467, "completion_tokens": 13, "total_tokens": 480}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He is in good health.", "usage": {"prompt_tokens": 462, "completion_tokens": 10, "total_tokens": 472}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. describe his life in the countryside.", "usage": {"prompt_tokens": 468, "completion_tokens": 14, "total_tokens": 482}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. By comparing.", "usage": {"prompt_tokens": 448, "completion_tokens": 7, "total_tokens": 455}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Atlantic City Beach Office.", "usage": {"prompt_tokens": 532, "completion_tokens": 9, "total_tokens": 541}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He has to work from Monday to Friday.", "usage": {"prompt_tokens": 519, "completion_tokens": 13, "total_tokens": 532}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To dive into unknown waters.", "usage": {"prompt_tokens": 511, "completion_tokens": 11, "total_tokens": 522}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Stops to a Successful Interview", "usage": {"prompt_tokens": 510, "completion_tokens": 12, "total_tokens": 522}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It is impossible to build up one’s body by climbing.", "usage": {"prompt_tokens": 471, "completion_tokens": 18, "total_tokens": 489}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. to control your fear.", "usage": {"prompt_tokens": 450, "completion_tokens": 9, "total_tokens": 459}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. exercise", "usage": {"prompt_tokens": 444, "completion_tokens": 5, "total_tokens": 449}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To prove the basic need for climbing.", "usage": {"prompt_tokens": 459, "completion_tokens": 13, "total_tokens": 472}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. cinemas are the best choice in getting information.", "usage": {"prompt_tokens": 430, "completion_tokens": 14, "total_tokens": 444}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Reading is still necessary today.", "usage": {"prompt_tokens": 435, "completion_tokens": 10, "total_tokens": 445}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A good dictionary should be kept in every home.", "usage": {"prompt_tokens": 427, "completion_tokens": 14, "total_tokens": 441}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice A. The small number of newborn babies.", "usage": {"prompt_tokens": 459, "completion_tokens": 15, "total_tokens": 474}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The prices of in Asia are quite low now.", "usage": {"prompt_tokens": 478, "completion_tokens": 14, "total_tokens": 492}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. $5,900", "usage": {"prompt_tokens": 464, "completion_tokens": 10, "total_tokens": 474}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. allow one of the parents to go out to work.", "usage": {"prompt_tokens": 469, "completion_tokens": 15, "total_tokens": 484}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Olivetti earned more in the 1960s than in the 1950s.", "usage": {"prompt_tokens": 518, "completion_tokens": 26, "total_tokens": 544}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A period of financial problems.", "usage": {"prompt_tokens": 480, "completion_tokens": 10, "total_tokens": 490}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 4869, "completion_tokens": 6, "total_tokens": 4875}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 470, "completion_tokens": 3, "total_tokens": 473}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Planes go slower when they are moving with the wind.", "usage": {"prompt_tokens": 453, "completion_tokens": 16, "total_tokens": 469}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. move quickly", "usage": {"prompt_tokens": 415, "completion_tokens": 6, "total_tokens": 421}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 432, "completion_tokens": 4, "total_tokens": 436}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. In a short story.", "usage": {"prompt_tokens": 417, "completion_tokens": 9, "total_tokens": 426}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. They are hopeless.", "usage": {"prompt_tokens": 502, "completion_tokens": 9, "total_tokens": 511}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B because they were richer and needed more space.", "usage": {"prompt_tokens": 533, "completion_tokens": 13, "total_tokens": 546}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 517, "completion_tokens": 4, "total_tokens": 521}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. people have different views on American cities.", "usage": {"prompt_tokens": 513, "completion_tokens": 12, "total_tokens": 525}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Worked hard before he read his father's letter.", "usage": {"prompt_tokens": 559, "completion_tokens": 16, "total_tokens": 575}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Children are afraid to be disappointed.", "usage": {"prompt_tokens": 561, "completion_tokens": 12, "total_tokens": 573}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. He wrote back to his father at 12.", "usage": {"prompt_tokens": 552, "completion_tokens": 15, "total_tokens": 567}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. answer some questions children have", "usage": {"prompt_tokens": 542, "completion_tokens": 9, "total_tokens": 551}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. The costs of water redistribution should be considered.", "usage": {"prompt_tokens": 533, "completion_tokens": 15, "total_tokens": 548}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Most industries in the world suffer from water shortages.", "usage": {"prompt_tokens": 543, "completion_tokens": 16, "total_tokens": 559}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is C. Measures to deal with worldwide water shortages.", "usage": {"prompt_tokens": 534, "completion_tokens": 15, "total_tokens": 549}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 512, "completion_tokens": 3, "total_tokens": 515}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. In Building 3.", "usage": {"prompt_tokens": 459, "completion_tokens": 9, "total_tokens": 468}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is D. Take science to the classroom.", "usage": {"prompt_tokens": 460, "completion_tokens": 11, "total_tokens": 471}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To advertise coming events.", "usage": {"prompt_tokens": 463, "completion_tokens": 10, "total_tokens": 473}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Getting injured in his work.", "usage": {"prompt_tokens": 529, "completion_tokens": 10, "total_tokens": 539}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To take care of a woman.", "usage": {"prompt_tokens": 517, "completion_tokens": 11, "total_tokens": 528}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Some food.", "usage": {"prompt_tokens": 500, "completion_tokens": 7, "total_tokens": 507}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It's beautiful.", "usage": {"prompt_tokens": 513, "completion_tokens": 9, "total_tokens": 522}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. To protect cultural diversity.", "usage": {"prompt_tokens": 607, "completion_tokens": 10, "total_tokens": 617}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B. The production of jazz growing faster.", "usage": {"prompt_tokens": 609, "completion_tokens": 12, "total_tokens": 621}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. It remains black and white.", "usage": {"prompt_tokens": 604, "completion_tokens": 10, "total_tokens": 614}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 610, "completion_tokens": 3, "total_tokens": 613}, "finish_reason": "stop", "model": "Alpaca-7B"}

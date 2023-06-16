@@ -1,0 +1,220 @@
+{"text": "Answer is choice (D)10", "usage": {"prompt_tokens": 109, "completion_tokens": 8, "total_tokens": 117}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C) $15+12 i$.", "usage": {"prompt_tokens": 129, "completion_tokens": 14, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $4 m+5 p$.", "usage": {"prompt_tokens": 156, "completion_tokens": 12, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Kathy starts each week with 108 phones to fix.", "usage": {"prompt_tokens": 247, "completion_tokens": 19, "total_tokens": 266}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 184, "completion_tokens": 5, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)14.3", "usage": {"prompt_tokens": 173, "completion_tokens": 9, "total_tokens": 182}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 344, "completion_tokens": 5, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)4", "usage": {"prompt_tokens": 106, "completion_tokens": 6, "total_tokens": 112}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) ($(9,-6)$).", "usage": {"prompt_tokens": 142, "completion_tokens": 13, "total_tokens": 155}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)0", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $\\$ 3.35$.", "usage": {"prompt_tokens": 213, "completion_tokens": 14, "total_tokens": 227}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 133, "completion_tokens": 6, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) x^2 + 5 x + 6.", "usage": {"prompt_tokens": 160, "completion_tokens": 16, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)The value cannot be determined from the information given.", "usage": {"prompt_tokens": 125, "completion_tokens": 15, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)6 and 35.", "usage": {"prompt_tokens": 148, "completion_tokens": 12, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)23", "usage": {"prompt_tokens": 127, "completion_tokens": 7, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C)16", "usage": {"prompt_tokens": 113, "completion_tokens": 7, "total_tokens": 120}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)20,000", "usage": {"prompt_tokens": 202, "completion_tokens": 11, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)There is no such value of $n$.", "usage": {"prompt_tokens": 110, "completion_tokens": 14, "total_tokens": 124}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $t=\\frac{a+1,052}{1.08}$.", "usage": {"prompt_tokens": 245, "completion_tokens": 23, "total_tokens": 268}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $50^{\\circ} \\mathrm{F}$.", "usage": {"prompt_tokens": 225, "completion_tokens": 17, "total_tokens": 242}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) - 5", "usage": {"prompt_tokens": 108, "completion_tokens": 9, "total_tokens": 117}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Males taking Algebra I.", "usage": {"prompt_tokens": 370, "completion_tokens": 12, "total_tokens": 382}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B (Median)", "usage": {"prompt_tokens": 298, "completion_tokens": 7, "total_tokens": 305}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $a=-b$.", "usage": {"prompt_tokens": 162, "completion_tokens": 11, "total_tokens": 173}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)105", "usage": {"prompt_tokens": 164, "completion_tokens": 8, "total_tokens": 172}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\frac{p}{(0.8)(1.08)}$", "usage": {"prompt_tokens": 190, "completion_tokens": 19, "total_tokens": 209}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\frac{164}{200}$.", "usage": {"prompt_tokens": 335, "completion_tokens": 16, "total_tokens": 351}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 193, "completion_tokens": 6, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)5.0", "usage": {"prompt_tokens": 159, "completion_tokens": 9, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)173.", "usage": {"prompt_tokens": 162, "completion_tokens": 10, "total_tokens": 172}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) 1,500", "usage": {"prompt_tokens": 416, "completion_tokens": 12, "total_tokens": 428}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)The remainder when $p(x)$ is divided by $x-3$ is -2 .", "usage": {"prompt_tokens": 171, "completion_tokens": 25, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)1", "usage": {"prompt_tokens": 106, "completion_tokens": 6, "total_tokens": 112}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) $300=30 w$.", "usage": {"prompt_tokens": 195, "completion_tokens": 15, "total_tokens": 210}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $f(x)=0.99 x+11.99$.", "usage": {"prompt_tokens": 347, "completion_tokens": 22, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $18 x^{4}$.", "usage": {"prompt_tokens": 122, "completion_tokens": 13, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) -3 and -1.", "usage": {"prompt_tokens": 115, "completion_tokens": 11, "total_tokens": 126}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 173, "completion_tokens": 5, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)4", "usage": {"prompt_tokens": 130, "completion_tokens": 6, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)Neither I nor II.", "usage": {"prompt_tokens": 122, "completion_tokens": 12, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C)3", "usage": {"prompt_tokens": 139, "completion_tokens": 6, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $y = 40 t + 21$.", "usage": {"prompt_tokens": 182, "completion_tokens": 17, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C) 15", "usage": {"prompt_tokens": 104, "completion_tokens": 9, "total_tokens": 113}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)2", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $2 x^{3}-6 x^{2}$.", "usage": {"prompt_tokens": 133, "completion_tokens": 17, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)Selecting 10 employees from each store at random and then surveying each employee selected.", "usage": {"prompt_tokens": 221, "completion_tokens": 24, "total_tokens": 245}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)28", "usage": {"prompt_tokens": 114, "completion_tokens": 7, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. At least 23%, but no more than 25%, of the students see a movie at least once per month.", "usage": {"prompt_tokens": 287, "completion_tokens": 30, "total_tokens": 317}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B (The means are the same, and the standard deviations are the same.)", "usage": {"prompt_tokens": 241, "completion_tokens": 19, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B ($10.80).", "usage": {"prompt_tokens": 164, "completion_tokens": 10, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 36.", "usage": {"prompt_tokens": 132, "completion_tokens": 10, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C)160,000", "usage": {"prompt_tokens": 213, "completion_tokens": 13, "total_tokens": 226}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $\\sqrt[3]{\\frac{3 V}{4 \\pi}}$.", "usage": {"prompt_tokens": 180, "completion_tokens": 20, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 0.69.", "usage": {"prompt_tokens": 255, "completion_tokens": 12, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 173, "completion_tokens": 6, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)The standard deviation.", "usage": {"prompt_tokens": 152, "completion_tokens": 9, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)100", "usage": {"prompt_tokens": 226, "completion_tokens": 8, "total_tokens": 234}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The function f is an increasing linear function.", "usage": {"prompt_tokens": 212, "completion_tokens": 13, "total_tokens": 225}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)x+2y=5a.", "usage": {"prompt_tokens": 226, "completion_tokens": 13, "total_tokens": 239}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)1.75", "usage": {"prompt_tokens": 168, "completion_tokens": 10, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $P(t)=310^{1.01 t}$.", "usage": {"prompt_tokens": 263, "completion_tokens": 20, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 4", "usage": {"prompt_tokens": 132, "completion_tokens": 8, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The approximate increase in a man's femur length, in inches, for each increase of 32.01 inches in his height.", "usage": {"prompt_tokens": 241, "completion_tokens": 34, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $n$.", "usage": {"prompt_tokens": 202, "completion_tokens": 9, "total_tokens": 211}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)39", "usage": {"prompt_tokens": 104, "completion_tokens": 8, "total_tokens": 112}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $\\sqrt{a^{3}}$.", "usage": {"prompt_tokens": 144, "completion_tokens": 12, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)x+30=2.", "usage": {"prompt_tokens": 196, "completion_tokens": 13, "total_tokens": 209}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.5", "usage": {"prompt_tokens": 120, "completion_tokens": 5, "total_tokens": 125}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)8", "usage": {"prompt_tokens": 143, "completion_tokens": 7, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $x-5$.", "usage": {"prompt_tokens": 202, "completion_tokens": 11, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $\\frac{c-4}{d}$.", "usage": {"prompt_tokens": 187, "completion_tokens": 14, "total_tokens": 201}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) - $\\frac{12}{5}$.", "usage": {"prompt_tokens": 177, "completion_tokens": 14, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)16", "usage": {"prompt_tokens": 144, "completion_tokens": 8, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) -2 a$.", "usage": {"prompt_tokens": 152, "completion_tokens": 10, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)16", "usage": {"prompt_tokens": 156, "completion_tokens": 7, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) $x=-2 \\pm \\frac{\\sqrt{30}}{3$.", "usage": {"prompt_tokens": 144, "completion_tokens": 22, "total_tokens": 166}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)I and II only.", "usage": {"prompt_tokens": 236, "completion_tokens": 10, "total_tokens": 246}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\frac{16}{25}$.", "usage": {"prompt_tokens": 304, "completion_tokens": 14, "total_tokens": 318}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $f(n)=4 n-6$.", "usage": {"prompt_tokens": 202, "completion_tokens": 15, "total_tokens": 217}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 30.", "usage": {"prompt_tokens": 177, "completion_tokens": 10, "total_tokens": 187}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 169, "completion_tokens": 6, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) $\\frac{4}{5}$.", "usage": {"prompt_tokens": 132, "completion_tokens": 11, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The average number of students per classroom in 2000.", "usage": {"prompt_tokens": 239, "completion_tokens": 19, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 450 meters.", "usage": {"prompt_tokens": 137, "completion_tokens": 10, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 86.", "usage": {"prompt_tokens": 397, "completion_tokens": 8, "total_tokens": 405}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. Saturn.", "usage": {"prompt_tokens": 407, "completion_tokens": 7, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 276, "completion_tokens": 3, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The quantity supplied will increase by 5 units.", "usage": {"prompt_tokens": 282, "completion_tokens": 14, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\$ 155$.", "usage": {"prompt_tokens": 263, "completion_tokens": 12, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)1,350.", "usage": {"prompt_tokens": 298, "completion_tokens": 12, "total_tokens": 310}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)Each successive year, $1.5 \\%$ of the initial savings and $\\$ 100$ is added to the value of the account.", "usage": {"prompt_tokens": 203, "completion_tokens": 39, "total_tokens": 242}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)155", "usage": {"prompt_tokens": 134, "completion_tokens": 9, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)26", "usage": {"prompt_tokens": 177, "completion_tokens": 7, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)16", "usage": {"prompt_tokens": 127, "completion_tokens": 8, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)22", "usage": {"prompt_tokens": 136, "completion_tokens": 8, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 223, "completion_tokens": 4, "total_tokens": 227}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)0.250", "usage": {"prompt_tokens": 356, "completion_tokens": 10, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. $x$ is $y$ minus $\\frac{1}{2}$.", "usage": {"prompt_tokens": 200, "completion_tokens": 19, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) $x=-1$ and $x=3$.", "usage": {"prompt_tokens": 140, "completion_tokens": 17, "total_tokens": 157}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)79", "usage": {"prompt_tokens": 122, "completion_tokens": 8, "total_tokens": 130}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) a^3.", "usage": {"prompt_tokens": 125, "completion_tokens": 9, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B", "usage": {"prompt_tokens": 255, "completion_tokens": 4, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)9", "usage": {"prompt_tokens": 142, "completion_tokens": 7, "total_tokens": 149}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) ($4 a+8 b)^{2}$", "usage": {"prompt_tokens": 146, "completion_tokens": 14, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B.", "usage": {"prompt_tokens": 134, "completion_tokens": 4, "total_tokens": 138}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $3 \\sqrt{3}$.", "usage": {"prompt_tokens": 120, "completion_tokens": 13, "total_tokens": 133}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. One.", "usage": {"prompt_tokens": 130, "completion_tokens": 6, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B) $\\frac{25}{4} m=5$.", "usage": {"prompt_tokens": 214, "completion_tokens": 16, "total_tokens": 230}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $f(x)=5 x$.", "usage": {"prompt_tokens": 195, "completion_tokens": 13, "total_tokens": 208}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 10 pounds of chocolate are needed to make 48 signature chocolate muffins.", "usage": {"prompt_tokens": 161, "completion_tokens": 27, "total_tokens": 188}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)5", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)230", "usage": {"prompt_tokens": 172, "completion_tokens": 9, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)5", "usage": {"prompt_tokens": 153, "completion_tokens": 6, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $y=n(b)^x$.", "usage": {"prompt_tokens": 185, "completion_tokens": 14, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 176, "completion_tokens": 6, "total_tokens": 182}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $m=\\frac{d}{V}$.", "usage": {"prompt_tokens": 153, "completion_tokens": 14, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $3 x + 4 y = 6$.", "usage": {"prompt_tokens": 147, "completion_tokens": 16, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $\\frac{7}{2}$.", "usage": {"prompt_tokens": 142, "completion_tokens": 12, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) ($(2,-1)$).", "usage": {"prompt_tokens": 147, "completion_tokens": 13, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B.", "usage": {"prompt_tokens": 350, "completion_tokens": 5, "total_tokens": 355}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B (II only)", "usage": {"prompt_tokens": 284, "completion_tokens": 7, "total_tokens": 291}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 36 years.", "usage": {"prompt_tokens": 322, "completion_tokens": 9, "total_tokens": 331}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)1.4", "usage": {"prompt_tokens": 148, "completion_tokens": 9, "total_tokens": 157}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $c=-1$.", "usage": {"prompt_tokens": 131, "completion_tokens": 11, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)23,400", "usage": {"prompt_tokens": 242, "completion_tokens": 12, "total_tokens": 254}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 457, "completion_tokens": 6, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) $291,700.", "usage": {"prompt_tokens": 193, "completion_tokens": 15, "total_tokens": 208}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 313, "completion_tokens": 6, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $6 a$.", "usage": {"prompt_tokens": 138, "completion_tokens": 10, "total_tokens": 148}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)24", "usage": {"prompt_tokens": 133, "completion_tokens": 7, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 148, "completion_tokens": 6, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C)", "usage": {"prompt_tokens": 192, "completion_tokens": 5, "total_tokens": 197}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. The number of minutes spent biking each day.", "usage": {"prompt_tokens": 179, "completion_tokens": 15, "total_tokens": 194}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $15 x - 6$.", "usage": {"prompt_tokens": 116, "completion_tokens": 13, "total_tokens": 129}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) ($36,-6$).", "usage": {"prompt_tokens": 144, "completion_tokens": 12, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $14+18i$.", "usage": {"prompt_tokens": 139, "completion_tokens": 13, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)5", "usage": {"prompt_tokens": 110, "completion_tokens": 6, "total_tokens": 116}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B ($16,200).", "usage": {"prompt_tokens": 184, "completion_tokens": 11, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) ($(x-3)^{2}-5$).", "usage": {"prompt_tokens": 135, "completion_tokens": 15, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)16.", "usage": {"prompt_tokens": 195, "completion_tokens": 8, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 388, "completion_tokens": 6, "total_tokens": 394}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)x+5.", "usage": {"prompt_tokens": 169, "completion_tokens": 10, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $3<x<4$.", "usage": {"prompt_tokens": 164, "completion_tokens": 13, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)x+1-\\frac{2}{x-3}.", "usage": {"prompt_tokens": 154, "completion_tokens": 17, "total_tokens": 171}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $0<x \\leq 20$.", "usage": {"prompt_tokens": 243, "completion_tokens": 16, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $\\sqrt{6}$.", "usage": {"prompt_tokens": 142, "completion_tokens": 11, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\frac{2}{7}$.", "usage": {"prompt_tokens": 276, "completion_tokens": 12, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $-2 x^{2} - 2$.", "usage": {"prompt_tokens": 141, "completion_tokens": 16, "total_tokens": 157}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 150 packages can be secured with 6 meters of tape.", "usage": {"prompt_tokens": 144, "completion_tokens": 20, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B", "usage": {"prompt_tokens": 231, "completion_tokens": 3, "total_tokens": 234}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)I and III only.", "usage": {"prompt_tokens": 135, "completion_tokens": 11, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)0", "usage": {"prompt_tokens": 125, "completion_tokens": 7, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)12", "usage": {"prompt_tokens": 114, "completion_tokens": 7, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B 15", "usage": {"prompt_tokens": 121, "completion_tokens": 6, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) $30 s+20 c=1,870$.", "usage": {"prompt_tokens": 300, "completion_tokens": 21, "total_tokens": 321}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. $\\$ 50.00$.", "usage": {"prompt_tokens": 154, "completion_tokens": 13, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)390.", "usage": {"prompt_tokens": 160, "completion_tokens": 10, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B  (12 + 10 = 22)", "usage": {"prompt_tokens": 115, "completion_tokens": 16, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. A charge per mile of $\\$ 1.50$.", "usage": {"prompt_tokens": 229, "completion_tokens": 17, "total_tokens": 246}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $w=30(A+4)$.", "usage": {"prompt_tokens": 245, "completion_tokens": 15, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\frac{(4+w)^{2}}{2}$.", "usage": {"prompt_tokens": 263, "completion_tokens": 16, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B ($0.95 \\%$).", "usage": {"prompt_tokens": 365, "completion_tokens": 11, "total_tokens": 376}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice B ($185 \\mathrm{~cm}^{3}$).", "usage": {"prompt_tokens": 224, "completion_tokens": 17, "total_tokens": 241}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B (Maximum height, in feet).", "usage": {"prompt_tokens": 183, "completion_tokens": 11, "total_tokens": 194}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)x = 4.2k.", "usage": {"prompt_tokens": 292, "completion_tokens": 13, "total_tokens": 305}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $f=20+\\frac{9}{4}(p+c)$.", "usage": {"prompt_tokens": 353, "completion_tokens": 21, "total_tokens": 374}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $P(t)=1.019 t+4$.", "usage": {"prompt_tokens": 222, "completion_tokens": 19, "total_tokens": 241}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) ($(3,2)$).", "usage": {"prompt_tokens": 140, "completion_tokens": 13, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 6,027.", "usage": {"prompt_tokens": 253, "completion_tokens": 11, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)3", "usage": {"prompt_tokens": 128, "completion_tokens": 7, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C) $P=\\frac{O+4 M+E}{6}$.", "usage": {"prompt_tokens": 213, "completion_tokens": 19, "total_tokens": 232}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $w^{2} + 6 w$.", "usage": {"prompt_tokens": 153, "completion_tokens": 16, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $y>\\frac{3}{2}$.", "usage": {"prompt_tokens": 152, "completion_tokens": 15, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $\\{0,-1,5\\}$.", "usage": {"prompt_tokens": 122, "completion_tokens": 13, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B) $\\frac{x+3}{x+1}$.", "usage": {"prompt_tokens": 186, "completion_tokens": 17, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 20", "usage": {"prompt_tokens": 168, "completion_tokens": 7, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)4", "usage": {"prompt_tokens": 122, "completion_tokens": 6, "total_tokens": 128}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 234, "completion_tokens": 6, "total_tokens": 240}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)There are no solutions.", "usage": {"prompt_tokens": 146, "completion_tokens": 10, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)2", "usage": {"prompt_tokens": 135, "completion_tokens": 6, "total_tokens": 141}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\frac{c}{2}$.", "usage": {"prompt_tokens": 129, "completion_tokens": 12, "total_tokens": 141}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. 200", "usage": {"prompt_tokens": 138, "completion_tokens": 8, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)y=x-3.", "usage": {"prompt_tokens": 133, "completion_tokens": 11, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)4", "usage": {"prompt_tokens": 123, "completion_tokens": 7, "total_tokens": 130}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 364, "completion_tokens": 6, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)20", "usage": {"prompt_tokens": 126, "completion_tokens": 8, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $5 x^{2}$.", "usage": {"prompt_tokens": 136, "completion_tokens": 11, "total_tokens": 147}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)It has a negative slope and a negative $y$-intercept.", "usage": {"prompt_tokens": 164, "completion_tokens": 19, "total_tokens": 183}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is B. $\\$ 125$.", "usage": {"prompt_tokens": 201, "completion_tokens": 11, "total_tokens": 212}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)80", "usage": {"prompt_tokens": 111, "completion_tokens": 8, "total_tokens": 119}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)8", "usage": {"prompt_tokens": 133, "completion_tokens": 6, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 40", "usage": {"prompt_tokens": 154, "completion_tokens": 9, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)4", "usage": {"prompt_tokens": 127, "completion_tokens": 6, "total_tokens": 133}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $\\frac{2 x+6}{2 x+1}$.", "usage": {"prompt_tokens": 162, "completion_tokens": 18, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)There are no solutions to the given equation.", "usage": {"prompt_tokens": 120, "completion_tokens": 15, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)27", "usage": {"prompt_tokens": 102, "completion_tokens": 8, "total_tokens": 110}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)99", "usage": {"prompt_tokens": 109, "completion_tokens": 8, "total_tokens": 117}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) 3", "usage": {"prompt_tokens": 110, "completion_tokens": 8, "total_tokens": 118}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)70.", "usage": {"prompt_tokens": 178, "completion_tokens": 8, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)90.0", "usage": {"prompt_tokens": 183, "completion_tokens": 9, "total_tokens": 192}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)5", "usage": {"prompt_tokens": 161, "completion_tokens": 7, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)6", "usage": {"prompt_tokens": 168, "completion_tokens": 6, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 239, "completion_tokens": 6, "total_tokens": 245}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 153, "completion_tokens": 6, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)12", "usage": {"prompt_tokens": 139, "completion_tokens": 7, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)17", "usage": {"prompt_tokens": 119, "completion_tokens": 8, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) ($1.05)^x$.", "usage": {"prompt_tokens": 262, "completion_tokens": 13, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D) $\\frac{1}{2} \\operatorname{cup}$.", "usage": {"prompt_tokens": 309, "completion_tokens": 18, "total_tokens": 327}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $h(x)=d(3)^{x}$.", "usage": {"prompt_tokens": 175, "completion_tokens": 16, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D)Standard deviation.", "usage": {"prompt_tokens": 157, "completion_tokens": 8, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 265, "completion_tokens": 5, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (D)30", "usage": {"prompt_tokens": 129, "completion_tokens": 8, "total_tokens": 137}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (D) $\\sin \\left(x^{2}\\right)^{\\circ}=a^{2}$.", "usage": {"prompt_tokens": 162, "completion_tokens": 22, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 205, "completion_tokens": 6, "total_tokens": 211}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (B) $f(x)=(x+a)(x+b)$.", "usage": {"prompt_tokens": 194, "completion_tokens": 19, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is (C) $y$-intercept.", "usage": {"prompt_tokens": 149, "completion_tokens": 11, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}

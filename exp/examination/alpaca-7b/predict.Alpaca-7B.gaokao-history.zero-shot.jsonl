@@ -1,0 +1,235 @@
+{"text": "A) 中华文明", "usage": {"prompt_tokens": 125, "completion_tokens": 7, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 吉尔伽美什", "usage": {"prompt_tokens": 209, "completion_tokens": 12, "total_tokens": 221}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Han and Mongolian rulers compiled the Code of Hammurabi, the great law code of the ancient Near East.", "usage": {"prompt_tokens": 309, "completion_tokens": 28, "total_tokens": 337}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 120, "completion_tokens": 1, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 135, "completion_tokens": 1, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 190, "completion_tokens": 1, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 196, "completion_tokens": 1, "total_tokens": 197}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 220, "completion_tokens": 1, "total_tokens": 221}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 131, "completion_tokens": 1, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 沈括", "usage": {"prompt_tokens": 198, "completion_tokens": 9, "total_tokens": 207}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 185, "completion_tokens": 1, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)抗击沙俄入侵", "usage": {"prompt_tokens": 215, "completion_tokens": 14, "total_tokens": 229}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 192, "completion_tokens": 1, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Locke", "usage": {"prompt_tokens": 214, "completion_tokens": 4, "total_tokens": 218}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 162, "completion_tokens": 1, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 161, "completion_tokens": 1, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 夷场", "usage": {"prompt_tokens": 196, "completion_tokens": 7, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 223, "completion_tokens": 1, "total_tokens": 224}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 238, "completion_tokens": 1, "total_tokens": 239}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 176, "completion_tokens": 1, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) \"善恶必书\"的秉笔直书精神", "usage": {"prompt_tokens": 226, "completion_tokens": 25, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 《民报》、《时务报》", "usage": {"prompt_tokens": 253, "completion_tokens": 17, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 斯麦", "usage": {"prompt_tokens": 221, "completion_tokens": 7, "total_tokens": 228}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 216, "completion_tokens": 1, "total_tokens": 217}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 《中华民国临时约法》", "usage": {"prompt_tokens": 215, "completion_tokens": 17, "total_tokens": 232}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 反对美苏争霸", "usage": {"prompt_tokens": 262, "completion_tokens": 15, "total_tokens": 277}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 欧洲/发现，美洲/文明相遇，全球史观/侵犯", "usage": {"prompt_tokens": 360, "completion_tokens": 34, "total_tokens": 394}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n选项()代表小农经济。", "usage": {"prompt_tokens": 265, "completion_tokens": 17, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 195, "completion_tokens": 1, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 中原", "usage": {"prompt_tokens": 216, "completion_tokens": 5, "total_tokens": 221}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 推行分封制", "usage": {"prompt_tokens": 181, "completion_tokens": 12, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 《诗经》", "usage": {"prompt_tokens": 176, "completion_tokens": 9, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC) \nD) \n\n扩展答案：\nA) \nB) \nC", "usage": {"prompt_tokens": 265, "completion_tokens": 1023, "total_tokens": 1288}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A) 清政府", "usage": {"prompt_tokens": 218, "completion_tokens": 6, "total_tokens": 224}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n毛泽东率领数万工农红军所完成的战略转移，就是中国革命史上的伟大传奇。他所说的“伟大传奇”是指选项()", "usage": {"prompt_tokens": 203, "completion_tokens": 72, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)苏共将派代表到西柏坡", "usage": {"prompt_tokens": 254, "completion_tokens": 20, "total_tokens": 274}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 183, "completion_tokens": 1, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 农耕逐渐取代采集", "usage": {"prompt_tokens": 184, "completion_tokens": 21, "total_tokens": 205}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 《旧约全书》、《古兰经》", "usage": {"prompt_tokens": 197, "completion_tokens": 21, "total_tokens": 218}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n夏人的活动地域", "usage": {"prompt_tokens": 188, "completion_tokens": 11, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 儒家", "usage": {"prompt_tokens": 169, "completion_tokens": 7, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 164, "completion_tokens": 1, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 军事强人", "usage": {"prompt_tokens": 171, "completion_tokens": 9, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) From a conflict-of-interest perspective.", "usage": {"prompt_tokens": 157, "completion_tokens": 12, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 中书省、伊犁将军\nB) 宣政院、中书\nC) 伊犁将军、澎湖巡检司\nD) 宣政院、澎湖巡检司", "usage": {"prompt_tokens": 162, "completion_tokens": 68, "total_tokens": 230}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 161, "completion_tokens": 1, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)辛亥革命", "usage": {"prompt_tokens": 174, "completion_tokens": 12, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ①②③", "usage": {"prompt_tokens": 259, "completion_tokens": 12, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 203, "completion_tokens": 1, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 174, "completion_tokens": 1, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 法国爆发了大革命", "usage": {"prompt_tokens": 218, "completion_tokens": 15, "total_tokens": 233}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 234, "completion_tokens": 1, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 护国运动", "usage": {"prompt_tokens": 197, "completion_tokens": 9, "total_tokens": 206}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 商务印书馆、利玛窦\nB) 《几何原本》、冯如\nC) 商务印书馆、冯如\nD) 同文馆、利玛窦", "usage": {"prompt_tokens": 187, "completion_tokens": 72, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 212, "completion_tokens": 1, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 唐胥铁路开通\nB) 街上路人互行脱帽鞠躬礼\nC) 《申报》上刊登北伐的消息\nD) 李大钊发表《庶民的胜利》的演说", "usage": {"prompt_tokens": 213, "completion_tokens": 91, "total_tokens": 304}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Strengthen freedom and autonomy.", "usage": {"prompt_tokens": 176, "completion_tokens": 10, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 推行了土地改革", "usage": {"prompt_tokens": 258, "completion_tokens": 14, "total_tokens": 272}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 135, "completion_tokens": 1, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 138, "completion_tokens": 1, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 经济全球化——西欧一体化——欧元启用\nB) 《王位继承法》——《权利法案》——光荣革命\nC) 苏联的现代化道路——新经济政策——社会主义工业化\nD) 中途岛战役——斯大林格勒战役——阿拉曼战役", "usage": {"prompt_tokens": 284, "completion_tokens": 145, "total_tokens": 429}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) ③ ① ② ④", "usage": {"prompt_tokens": 219, "completion_tokens": 19, "total_tokens": 238}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 商汤", "usage": {"prompt_tokens": 177, "completion_tokens": 7, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 重农抑商", "usage": {"prompt_tokens": 193, "completion_tokens": 11, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 吃葡萄、喝肉羹", "usage": {"prompt_tokens": 199, "completion_tokens": 22, "total_tokens": 221}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 府兵制、三省六部制", "usage": {"prompt_tokens": 202, "completion_tokens": 12, "total_tokens": 214}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)顽固派", "usage": {"prompt_tokens": 261, "completion_tokens": 11, "total_tokens": 272}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 戊戌变法", "usage": {"prompt_tokens": 263, "completion_tokens": 11, "total_tokens": 274}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 中央革命根据地", "usage": {"prompt_tokens": 233, "completion_tokens": 14, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) English design, American build.", "usage": {"prompt_tokens": 156, "completion_tokens": 8, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 176, "completion_tokens": 1, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 164, "completion_tokens": 1, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 第一次世界大战", "usage": {"prompt_tokens": 230, "completion_tokens": 12, "total_tokens": 242}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 争取建立国际经济新秩序", "usage": {"prompt_tokens": 232, "completion_tokens": 22, "total_tokens": 254}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)①③", "usage": {"prompt_tokens": 327, "completion_tokens": 9, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 183, "completion_tokens": 1, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)玄奘长期生活于天竺那烂陀", "usage": {"prompt_tokens": 256, "completion_tokens": 24, "total_tokens": 280}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 共产党宣言, \nB) 庶民的胜利, \nC) 列国际军制, \nD) 汽车新制.", "usage": {"prompt_tokens": 196, "completion_tokens": 57, "total_tokens": 253}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B\n\n民族工业没有技术优势", "usage": {"prompt_tokens": 290, "completion_tokens": 19, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ①②", "usage": {"prompt_tokens": 188, "completion_tokens": 9, "total_tokens": 197}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 百团大战的最新战况", "usage": {"prompt_tokens": 213, "completion_tokens": 20, "total_tokens": 233}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 工商业改造", "usage": {"prompt_tokens": 218, "completion_tokens": 8, "total_tokens": 226}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Thermidorean Revolution/“Glorious Revolution”", "usage": {"prompt_tokens": 246, "completion_tokens": 15, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 357, "completion_tokens": 1, "total_tokens": 358}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 188, "completion_tokens": 1, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 分封制", "usage": {"prompt_tokens": 122, "completion_tokens": 8, "total_tokens": 130}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 儒家的思想", "usage": {"prompt_tokens": 159, "completion_tokens": 10, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 史记", "usage": {"prompt_tokens": 134, "completion_tokens": 5, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 162, "completion_tokens": 1, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ① \nB) ② \nC) ① \nD) ③ \n\nAnswer: A) ① \nB) ② \nC) ① \nD) ③ \n\nThe answer is A) ①.", "usage": {"prompt_tokens": 166, "completion_tokens": 78, "total_tokens": 244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 七国之乱", "usage": {"prompt_tokens": 190, "completion_tokens": 9, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 126, "completion_tokens": 1, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 194, "completion_tokens": 1, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 162, "completion_tokens": 1, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 135, "completion_tokens": 1, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)吴三桂要去借清兵，顺治帝登基享现成", "usage": {"prompt_tokens": 242, "completion_tokens": 29, "total_tokens": 271}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 1921年10月开往上海的船票", "usage": {"prompt_tokens": 272, "completion_tokens": 24, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. Developing countries' cooperation/North-South dialogue \nB. Developed countries' cooperation/North-South dialogue \nC. Developed countries' cooperation/Developing countries' dialogue \nD. Developing countries' cooperation/Developed countries' dialogue", "usage": {"prompt_tokens": 190, "completion_tokens": 68, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) More durable", "usage": {"prompt_tokens": 157, "completion_tokens": 5, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A) 甲\n(B) 乙\n(C) 丙\n(D) 丁", "usage": {"prompt_tokens": 268, "completion_tokens": 27, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 152, "completion_tokens": 1, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 对科举制的评价是完全正确的", "usage": {"prompt_tokens": 286, "completion_tokens": 22, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 议会", "usage": {"prompt_tokens": 138, "completion_tokens": 7, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 可以采信", "usage": {"prompt_tokens": 207, "completion_tokens": 9, "total_tokens": 216}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 普法战争", "usage": {"prompt_tokens": 163, "completion_tokens": 13, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n正始建设现代国家", "usage": {"prompt_tokens": 186, "completion_tokens": 10, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Science and technology, and management methods to a high degree of development.", "usage": {"prompt_tokens": 199, "completion_tokens": 16, "total_tokens": 215}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 保路运动", "usage": {"prompt_tokens": 170, "completion_tokens": 7, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A. 国民党中央官吏今日下午离开沈阳，解放军很几次进城。", "usage": {"prompt_tokens": 221, "completion_tokens": 44, "total_tokens": 265}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 198, "completion_tokens": 1, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 三个世界理论", "usage": {"prompt_tokens": 190, "completion_tokens": 11, "total_tokens": 201}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 神话传说", "usage": {"prompt_tokens": 135, "completion_tokens": 7, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 姜寨遗址", "usage": {"prompt_tokens": 165, "completion_tokens": 13, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 156, "completion_tokens": 1, "total_tokens": 157}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 144, "completion_tokens": 1, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 张骞出使西域", "usage": {"prompt_tokens": 149, "completion_tokens": 13, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 秉笔直书", "usage": {"prompt_tokens": 147, "completion_tokens": 11, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 124, "completion_tokens": 1, "total_tokens": 125}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 180, "completion_tokens": 1, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 城市化进程开始", "usage": {"prompt_tokens": 136, "completion_tokens": 10, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 汉口", "usage": {"prompt_tokens": 136, "completion_tokens": 5, "total_tokens": 141}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) American War of Independence", "usage": {"prompt_tokens": 146, "completion_tokens": 7, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 以中国文化为本位", "usage": {"prompt_tokens": 155, "completion_tokens": 11, "total_tokens": 166}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) France", "usage": {"prompt_tokens": 139, "completion_tokens": 3, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 129, "completion_tokens": 1, "total_tokens": 130}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\nThis government publication should be released after the Olympics.", "usage": {"prompt_tokens": 173, "completion_tokens": 13, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 134, "completion_tokens": 1, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Freedom Capitalism enters a phase of monopoly.", "usage": {"prompt_tokens": 172, "completion_tokens": 14, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 日内瓦会议召开", "usage": {"prompt_tokens": 179, "completion_tokens": 16, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n选项()代表“先走一步”是指实行选项()A土地改革。", "usage": {"prompt_tokens": 189, "completion_tokens": 33, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)欧盟", "usage": {"prompt_tokens": 160, "completion_tokens": 8, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 185, "completion_tokens": 1, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ①②\nB) ②③\nC) ③④\nD) ①④", "usage": {"prompt_tokens": 257, "completion_tokens": 39, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)民主科学，自由平等", "usage": {"prompt_tokens": 206, "completion_tokens": 11, "total_tokens": 217}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 京津两地工人罢工游行", "usage": {"prompt_tokens": 276, "completion_tokens": 17, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B\n\n现实主义", "usage": {"prompt_tokens": 173, "completion_tokens": 7, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n1954年12月，毛泽东在一次党内外人士座谈会上指出，政协仍有存在的必要，但是我们不能把政协搞成国家权力机关。此话的主要背景是（A）第一个五年计划的颁布。", "usage": {"prompt_tokens": 257, "completion_tokens": 107, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 191, "completion_tokens": 1, "total_tokens": 192}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n弊病：\nB\n\n深蒂固：\nC\n\n原因无法解释：\nD\n\n特定历史条件：\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "usage": {"prompt_tokens": 343, "completion_tokens": 1023, "total_tokens": 1366}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A) 使社会各阶层有了共同目标", "usage": {"prompt_tokens": 282, "completion_tokens": 21, "total_tokens": 303}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 关注社会现实及世界形势", "usage": {"prompt_tokens": 272, "completion_tokens": 16, "total_tokens": 288}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 286, "completion_tokens": 1, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n工业革命带来社会生活的变化", "usage": {"prompt_tokens": 325, "completion_tokens": 19, "total_tokens": 344}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n五四运动期间", "usage": {"prompt_tokens": 306, "completion_tokens": 8, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ①②", "usage": {"prompt_tokens": 413, "completion_tokens": 9, "total_tokens": 422}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 《新民主主义论》", "usage": {"prompt_tokens": 249, "completion_tokens": 13, "total_tokens": 262}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 257, "completion_tokens": 1, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)强调了君主至尊的见念", "usage": {"prompt_tokens": 225, "completion_tokens": 22, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 260, "completion_tokens": 1, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 283, "completion_tokens": 1, "total_tokens": 284}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 欧洲其他国家科学水平超越英国", "usage": {"prompt_tokens": 324, "completion_tokens": 19, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 331, "completion_tokens": 1, "total_tokens": 332}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 262, "completion_tokens": 1, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)①②", "usage": {"prompt_tokens": 357, "completion_tokens": 9, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 加入亚太经合组织", "usage": {"prompt_tokens": 244, "completion_tokens": 15, "total_tokens": 259}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A, B, C, D", "usage": {"prompt_tokens": 403, "completion_tokens": 7, "total_tokens": 410}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 泉州", "usage": {"prompt_tokens": 195, "completion_tokens": 5, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)在军机处办理要务易于保密", "usage": {"prompt_tokens": 278, "completion_tokens": 18, "total_tokens": 296}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 中国恢复联合国席位\nB) 尼克松总统访华\nC) 邓小平访问美国", "usage": {"prompt_tokens": 228, "completion_tokens": 48, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 242, "completion_tokens": 1, "total_tokens": 243}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 223, "completion_tokens": 1, "total_tokens": 224}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\nFrom this event, the French monarchy was abolished.", "usage": {"prompt_tokens": 205, "completion_tokens": 14, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 通过了新的《中立法》", "usage": {"prompt_tokens": 255, "completion_tokens": 13, "total_tokens": 268}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "usage": {"prompt_tokens": 263, "completion_tokens": 1023, "total_tokens": 1286}, "finish_reason": "length", "model": "Alpaca-7B"}
+{"text": "A)儒家对农业的重视", "usage": {"prompt_tokens": 238, "completion_tokens": 14, "total_tokens": 252}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n西班牙", "usage": {"prompt_tokens": 216, "completion_tokens": 9, "total_tokens": 225}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 253, "completion_tokens": 1, "total_tokens": 254}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 正确。社会科学可以借鉴自然科学理论", "usage": {"prompt_tokens": 337, "completion_tokens": 26, "total_tokens": 363}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 开始开眼看世界", "usage": {"prompt_tokens": 240, "completion_tokens": 12, "total_tokens": 252}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)中国近代主权丧失", "usage": {"prompt_tokens": 292, "completion_tokens": 14, "total_tokens": 306}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)促进了国共两党进一步合作", "usage": {"prompt_tokens": 263, "completion_tokens": 20, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 235, "completion_tokens": 1, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ①②③", "usage": {"prompt_tokens": 263, "completion_tokens": 12, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ① ② ③ ④ \nB) ① ② ③ ④ \nC) ① ③ ④ \nD) ② ③ ④", "usage": {"prompt_tokens": 193, "completion_tokens": 70, "total_tokens": 263}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 产品商品化程度提高", "usage": {"prompt_tokens": 219, "completion_tokens": 14, "total_tokens": 233}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\n选项()代表\"民主与科学\"被认为是新文化运动的两大基本口号。", "usage": {"prompt_tokens": 235, "completion_tokens": 32, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "1901-1911", "usage": {"prompt_tokens": 255, "completion_tokens": 9, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 263, "completion_tokens": 1, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Mengdetrek", "usage": {"prompt_tokens": 209, "completion_tokens": 6, "total_tokens": 215}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)①③②④", "usage": {"prompt_tokens": 210, "completion_tokens": 15, "total_tokens": 225}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)反法同盟战争", "usage": {"prompt_tokens": 176, "completion_tokens": 14, "total_tokens": 190}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 260, "completion_tokens": 1, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 人文主义的教育理念", "usage": {"prompt_tokens": 281, "completion_tokens": 14, "total_tokens": 295}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 中国茶叶产量大增", "usage": {"prompt_tokens": 290, "completion_tokens": 17, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 349, "completion_tokens": 1, "total_tokens": 350}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 调动农民参加革命的积极性", "usage": {"prompt_tokens": 311, "completion_tokens": 23, "total_tokens": 334}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 284, "completion_tokens": 1, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 苏俄、中国都实行开放政策", "usage": {"prompt_tokens": 266, "completion_tokens": 21, "total_tokens": 287}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n反映了德日矛盾的激化", "usage": {"prompt_tokens": 288, "completion_tokens": 20, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Han Wu De guan xuan ren caizi, wan xian xing shi le meng. \nThis material mainly implies that (A) Han Wu De guan xuan ren caizi were widely accepted by the people.", "usage": {"prompt_tokens": 199, "completion_tokens": 52, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 梭伦改革彻底化了社会矛盾。", "usage": {"prompt_tokens": 192, "completion_tokens": 30, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 234, "completion_tokens": 1, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B 调整农业结构", "usage": {"prompt_tokens": 230, "completion_tokens": 12, "total_tokens": 242}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 239, "completion_tokens": 1, "total_tokens": 240}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 310, "completion_tokens": 1, "total_tokens": 311}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "(A)①②", "usage": {"prompt_tokens": 208, "completion_tokens": 9, "total_tokens": 217}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Max Planck", "usage": {"prompt_tokens": 154, "completion_tokens": 5, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 210, "completion_tokens": 1, "total_tokens": 211}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 新航路开辟", "usage": {"prompt_tokens": 224, "completion_tokens": 10, "total_tokens": 234}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)顽固派对洋务派的批评", "usage": {"prompt_tokens": 236, "completion_tokens": 24, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B)《临时约法》规定有言论、出版等自由", "usage": {"prompt_tokens": 262, "completion_tokens": 27, "total_tokens": 289}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n民主主义国家", "usage": {"prompt_tokens": 204, "completion_tokens": 8, "total_tokens": 212}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 297, "completion_tokens": 1, "total_tokens": 298}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ① ② \nB) ① ③ \nC) ② ③ \nD) ② ④", "usage": {"prompt_tokens": 240, "completion_tokens": 46, "total_tokens": 286}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A)专制皇权", "usage": {"prompt_tokens": 183, "completion_tokens": 8, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ① ② ③", "usage": {"prompt_tokens": 233, "completion_tokens": 14, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) 解放广大农民", "usage": {"prompt_tokens": 194, "completion_tokens": 11, "total_tokens": 205}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ① \nB) ② \nC) ① \nD) ④", "usage": {"prompt_tokens": 234, "completion_tokens": 30, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 实业救国", "usage": {"prompt_tokens": 194, "completion_tokens": 9, "total_tokens": 203}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 221, "completion_tokens": 1, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 212, "completion_tokens": 1, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 231, "completion_tokens": 1, "total_tokens": 232}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 344, "completion_tokens": 1, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 249, "completion_tokens": 1, "total_tokens": 250}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 296, "completion_tokens": 1, "total_tokens": 297}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 历史可以重演，应当以史为鉴", "usage": {"prompt_tokens": 228, "completion_tokens": 22, "total_tokens": 250}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 313, "completion_tokens": 1, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 中国商人", "usage": {"prompt_tokens": 235, "completion_tokens": 7, "total_tokens": 242}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) ①②\nB) ①③\nC) ①④\nD) ③④", "usage": {"prompt_tokens": 327, "completion_tokens": 39, "total_tokens": 366}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) One week after the Manchurian Incident, the United States formally proposed the \"Yellow Peril\" plan to Japan. The plan called for the United States and Japan to cooperate in order to contain the supposed threat of a communist takeover of the Asia-Pacific region. The United States also considered strengthening its defenses in Hawaii, Japan, and the Philippines after the Paris Conference, and further considered the possibility of a stronger presence in the South China Sea and the Yellow and East China Seas. These actions indicate that the United States was taking the threat of the \"Yellow Peril\" seriously.", "usage": {"prompt_tokens": 342, "completion_tokens": 133, "total_tokens": 475}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 尚未看到社会主义实践成果", "usage": {"prompt_tokens": 264, "completion_tokens": 19, "total_tokens": 283}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B\n罗斯福时期", "usage": {"prompt_tokens": 223, "completion_tokens": 9, "total_tokens": 232}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 说明中共“另起炉灶”方针开始实行", "usage": {"prompt_tokens": 340, "completion_tokens": 27, "total_tokens": 367}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n表明中国已经融入世界经济体系", "usage": {"prompt_tokens": 244, "completion_tokens": 20, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 372, "completion_tokens": 1, "total_tokens": 373}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 355, "completion_tokens": 1, "total_tokens": 356}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 身份的获得有不同途径", "usage": {"prompt_tokens": 324, "completion_tokens": 19, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B", "usage": {"prompt_tokens": 284, "completion_tokens": 1, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 最高权力归属仍未解决", "usage": {"prompt_tokens": 249, "completion_tokens": 21, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) Socialism is still immature.", "usage": {"prompt_tokens": 285, "completion_tokens": 9, "total_tokens": 294}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 拥有广泛的群众基础", "usage": {"prompt_tokens": 281, "completion_tokens": 20, "total_tokens": 301}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 348, "completion_tokens": 1, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 日本全面侵华导致了民族危机加深", "usage": {"prompt_tokens": 325, "completion_tokens": 24, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n中共七大", "usage": {"prompt_tokens": 242, "completion_tokens": 6, "total_tokens": 248}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A) 冷战政策与公司发展相互影响", "usage": {"prompt_tokens": 283, "completion_tokens": 26, "total_tokens": 309}, "finish_reason": "stop", "model": "Alpaca-7B"}

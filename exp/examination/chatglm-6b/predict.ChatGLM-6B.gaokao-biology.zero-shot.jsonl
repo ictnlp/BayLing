@@ -1,0 +1,210 @@
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 141, "completion_tokens": 6, "total_tokens": 147}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)该菌在有氧和无氧条件下都能产生 $\\mathrm{CO}_{2}$。", "usage": {"prompt_tokens": 102, "completion_tokens": 22, "total_tokens": 124}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 116, "completion_tokens": 6, "total_tokens": 122}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 125, "completion_tokens": 6, "total_tokens": 131}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)需要酶的催化。", "usage": {"prompt_tokens": 77, "completion_tokens": 9, "total_tokens": 86}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 178, "completion_tokens": 6, "total_tokens": 184}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 108, "completion_tokens": 5, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 120, "completion_tokens": 6, "total_tokens": 126}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)D。", "usage": {"prompt_tokens": 186, "completion_tokens": 7, "total_tokens": 193}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)分裂与分化。", "usage": {"prompt_tokens": 74, "completion_tokens": 9, "total_tokens": 83}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 96, "completion_tokens": 6, "total_tokens": 102}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)赤霉素。", "usage": {"prompt_tokens": 73, "completion_tokens": 8, "total_tokens": 81}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 86, "completion_tokens": 6, "total_tokens": 92}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：无机盐。", "usage": {"prompt_tokens": 93, "completion_tokens": 7, "total_tokens": 100}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 107, "completion_tokens": 6, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 147, "completion_tokens": 6, "total_tokens": 153}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 254, "completion_tokens": 6, "total_tokens": 260}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 139, "completion_tokens": 6, "total_tokens": 145}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 169, "completion_tokens": 6, "total_tokens": 175}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 285, "completion_tokens": 6, "total_tokens": 291}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 136, "completion_tokens": 6, "total_tokens": 142}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 223, "completion_tokens": 6, "total_tokens": 229}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)类风湿性关节炎。", "usage": {"prompt_tokens": 86, "completion_tokens": 7, "total_tokens": 93}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)二倍体植物的配子只含有一个染色体组。", "usage": {"prompt_tokens": 51, "completion_tokens": 17, "total_tokens": 68}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 241, "completion_tokens": 6, "total_tokens": 247}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 147, "completion_tokens": 6, "total_tokens": 153}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 187, "completion_tokens": 6, "total_tokens": 193}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 329, "completion_tokens": 5, "total_tokens": 334}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 130, "completion_tokens": 6, "total_tokens": 136}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 268, "completion_tokens": 6, "total_tokens": 274}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 149, "completion_tokens": 6, "total_tokens": 155}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 111, "completion_tokens": 6, "total_tokens": 117}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)都有线粒体。", "usage": {"prompt_tokens": 75, "completion_tokens": 9, "total_tokens": 84}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)抑制垂体活动导致甲状腺激素分泌减少。", "usage": {"prompt_tokens": 101, "completion_tokens": 13, "total_tokens": 114}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 163, "completion_tokens": 6, "total_tokens": 169}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：制备用于植物组织培养的固体培养基。", "usage": {"prompt_tokens": 92, "completion_tokens": 15, "total_tokens": 107}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 85, "completion_tokens": 6, "total_tokens": 91}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):\n摩尔根的果蝇杂交实验中，采用测交实验来验证假说，而孟德尔的踠豆杂交实验中未采用测交实验。", "usage": {"prompt_tokens": 113, "completion_tokens": 41, "total_tokens": 154}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项：(D)。", "usage": {"prompt_tokens": 118, "completion_tokens": 7, "total_tokens": 125}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)2。", "usage": {"prompt_tokens": 123, "completion_tokens": 7, "total_tokens": 130}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 140, "completion_tokens": 6, "total_tokens": 146}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 159, "completion_tokens": 3, "total_tokens": 162}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 152, "completion_tokens": 6, "total_tokens": 158}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 208, "completion_tokens": 3, "total_tokens": 211}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项：C)“废物蛋白”被该酶切割过程中发生肽键断裂。", "usage": {"prompt_tokens": 110, "completion_tokens": 19, "total_tokens": 129}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 219, "completion_tokens": 6, "total_tokens": 225}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 121, "completion_tokens": 6, "total_tokens": 127}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 89, "completion_tokens": 6, "total_tokens": 95}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 176, "completion_tokens": 3, "total_tokens": 179}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 112, "completion_tokens": 6, "total_tokens": 118}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 100, "completion_tokens": 5, "total_tokens": 105}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)AAbb(D)$\\times$ aaBBdd，或 $A A B B D D \\times a a b b d d$。", "usage": {"prompt_tokens": 314, "completion_tokens": 36, "total_tokens": 350}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 98, "completion_tokens": 6, "total_tokens": 104}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 C。", "usage": {"prompt_tokens": 119, "completion_tokens": 3, "total_tokens": 122}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：水稻和病毒 $V$ 是互利共生关系。", "usage": {"prompt_tokens": 116, "completion_tokens": 17, "total_tokens": 133}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 180, "completion_tokens": 6, "total_tokens": 186}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 281, "completion_tokens": 3, "total_tokens": 284}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 183, "completion_tokens": 6, "total_tokens": 189}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 164, "completion_tokens": 6, "total_tokens": 170}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 262, "completion_tokens": 6, "total_tokens": 268}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 163, "completion_tokens": 6, "total_tokens": 169}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 160, "completion_tokens": 6, "total_tokens": 166}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 142, "completion_tokens": 6, "total_tokens": 148}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)66 只/公顷。", "usage": {"prompt_tokens": 181, "completion_tokens": 12, "total_tokens": 193}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 101, "completion_tokens": 6, "total_tokens": 107}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 219, "completion_tokens": 6, "total_tokens": 225}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 93, "completion_tokens": 6, "total_tokens": 99}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 93, "completion_tokens": 6, "total_tokens": 99}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 149, "completion_tokens": 6, "total_tokens": 155}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 122, "completion_tokens": 6, "total_tokens": 128}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 94, "completion_tokens": 6, "total_tokens": 100}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 113, "completion_tokens": 6, "total_tokens": 119}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 93, "completion_tokens": 6, "total_tokens": 99}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 159, "completion_tokens": 6, "total_tokens": 165}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):\n根据题意，用纯合白花植株的花粉给纯合红花植株授粉，得到的子代植株中，红花为101株，白花为302株。由此可知，F2代中白花植株的基因型种类比红花植株的多。", "usage": {"prompt_tokens": 218, "completion_tokens": 61, "total_tokens": 279}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 109, "completion_tokens": 3, "total_tokens": 112}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 159, "completion_tokens": 6, "total_tokens": 165}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)光、矿质元素和空气。", "usage": {"prompt_tokens": 109, "completion_tokens": 13, "total_tokens": 122}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 203, "completion_tokens": 6, "total_tokens": 209}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 108, "completion_tokens": 6, "total_tokens": 114}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 172, "completion_tokens": 6, "total_tokens": 178}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 233, "completion_tokens": 6, "total_tokens": 239}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 88, "completion_tokens": 6, "total_tokens": 94}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 85, "completion_tokens": 6, "total_tokens": 91}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 96, "completion_tokens": 6, "total_tokens": 102}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 116, "completion_tokens": 6, "total_tokens": 122}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 94, "completion_tokens": 5, "total_tokens": 99}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 122, "completion_tokens": 6, "total_tokens": 128}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 137, "completion_tokens": 6, "total_tokens": 143}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 173, "completion_tokens": 6, "total_tokens": 179}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 177, "completion_tokens": 6, "total_tokens": 183}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项：D。", "usage": {"prompt_tokens": 122, "completion_tokens": 5, "total_tokens": 127}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 132, "completion_tokens": 6, "total_tokens": 138}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 118, "completion_tokens": 6, "total_tokens": 124}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 116, "completion_tokens": 6, "total_tokens": 122}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 106, "completion_tokens": 6, "total_tokens": 112}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 126, "completion_tokens": 3, "total_tokens": 129}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 204, "completion_tokens": 5, "total_tokens": 209}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 90, "completion_tokens": 6, "total_tokens": 96}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 147, "completion_tokens": 6, "total_tokens": 153}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 118, "completion_tokens": 6, "total_tokens": 124}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 139, "completion_tokens": 3, "total_tokens": 142}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 122, "completion_tokens": 6, "total_tokens": 128}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 126, "completion_tokens": 6, "total_tokens": 132}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 243, "completion_tokens": 6, "total_tokens": 249}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 103, "completion_tokens": 6, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 94, "completion_tokens": 6, "total_tokens": 100}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 161, "completion_tokens": 3, "total_tokens": 164}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：机体血浆渗透压上升，排出相应量的 $\\mathrm{NaCl}$ 后恢复到注射前水平。\n\n给人静脉注射一定量的 $0.9 \\% \\mathrm{NaCl}$ 溶液，会导致机体血浆渗透压发生变化。在静脉注射后，由于 NaCl 的渗透压比水高，所以 NaCl 会进入细胞，导致细胞失水，从而使渗透压降低。随后，机体会通过排汗、排尿等方式将多余的水排出，从而恢复渗透压平衡，使得细胞内外渗透压相等，从而恢复到注射前水平。在这个过程中，机体血浆渗透压的变化是一个重要的生理现象，对于维持机体正常的生理功能具有重要的意义。", "usage": {"prompt_tokens": 146, "completion_tokens": 140, "total_tokens": 286}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 107, "completion_tokens": 6, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 131, "completion_tokens": 6, "total_tokens": 137}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 81, "completion_tokens": 5, "total_tokens": 86}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 88, "completion_tokens": 6, "total_tokens": 94}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 131, "completion_tokens": 6, "total_tokens": 137}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 104, "completion_tokens": 5, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)250、500、250。", "usage": {"prompt_tokens": 214, "completion_tokens": 16, "total_tokens": 230}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 112, "completion_tokens": 6, "total_tokens": 118}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 165, "completion_tokens": 6, "total_tokens": 171}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：与空气相比，氮气环境有利于该植物幼根对该离子的吸收。", "usage": {"prompt_tokens": 243, "completion_tokens": 21, "total_tokens": 264}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 121, "completion_tokens": 6, "total_tokens": 127}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 87, "completion_tokens": 6, "total_tokens": 93}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 83, "completion_tokens": 6, "total_tokens": 89}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 107, "completion_tokens": 6, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 85, "completion_tokens": 6, "total_tokens": 91}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 100, "completion_tokens": 5, "total_tokens": 105}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 D。", "usage": {"prompt_tokens": 100, "completion_tokens": 3, "total_tokens": 103}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 56, "completion_tokens": 6, "total_tokens": 62}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 99, "completion_tokens": 6, "total_tokens": 105}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 92, "completion_tokens": 6, "total_tokens": 98}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 111, "completion_tokens": 6, "total_tokens": 117}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 99, "completion_tokens": 6, "total_tokens": 105}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项：C。", "usage": {"prompt_tokens": 123, "completion_tokens": 5, "total_tokens": 128}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 96, "completion_tokens": 6, "total_tokens": 102}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 106, "completion_tokens": 6, "total_tokens": 112}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 76, "completion_tokens": 6, "total_tokens": 82}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：这对等位基因位于 $\\mathrm{X}$ 染色体上， $\\mathrm{G}$ 基因纯合时致死。", "usage": {"prompt_tokens": 226, "completion_tokens": 31, "total_tokens": 257}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 104, "completion_tokens": 6, "total_tokens": 110}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 113, "completion_tokens": 6, "total_tokens": 119}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：艾滋病患者的血液中可以检出 HIV 这种病毒。", "usage": {"prompt_tokens": 91, "completion_tokens": 14, "total_tokens": 105}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 106, "completion_tokens": 6, "total_tokens": 112}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 100, "completion_tokens": 6, "total_tokens": 106}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 103, "completion_tokens": 6, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 161, "completion_tokens": 5, "total_tokens": 166}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 92, "completion_tokens": 6, "total_tokens": 98}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 227, "completion_tokens": 6, "total_tokens": 233}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 146, "completion_tokens": 6, "total_tokens": 152}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 84, "completion_tokens": 6, "total_tokens": 90}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 100, "completion_tokens": 6, "total_tokens": 106}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 349, "completion_tokens": 5, "total_tokens": 354}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：用适当比例的生长素和细胞分裂素诱导愈伤组织生芽。", "usage": {"prompt_tokens": 110, "completion_tokens": 20, "total_tokens": 130}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)细胞骨架： 蛋白质。", "usage": {"prompt_tokens": 81, "completion_tokens": 10, "total_tokens": 91}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{O}_{2}$ 通过主动运输进入线粒体。", "usage": {"prompt_tokens": 90, "completion_tokens": 19, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)选项：摄入高糖食品 $\\rightarrow$ 人体胰岛素分泌增加 $\\rightarrow$ 血糖水平回落。", "usage": {"prompt_tokens": 128, "completion_tokens": 26, "total_tokens": 154}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 95, "completion_tokens": 6, "total_tokens": 101}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)生态系。", "usage": {"prompt_tokens": 58, "completion_tokens": 8, "total_tokens": 66}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)乙烯。", "usage": {"prompt_tokens": 84, "completion_tokens": 7, "total_tokens": 91}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)缺失。", "usage": {"prompt_tokens": 65, "completion_tokens": 7, "total_tokens": 72}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 86, "completion_tokens": 6, "total_tokens": 92}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 81, "completion_tokens": 6, "total_tokens": 87}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)天敌。", "usage": {"prompt_tokens": 62, "completion_tokens": 7, "total_tokens": 69}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)胸腺嘧啶。", "usage": {"prompt_tokens": 86, "completion_tokens": 10, "total_tokens": 96}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 98, "completion_tokens": 6, "total_tokens": 104}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 137, "completion_tokens": 6, "total_tokens": 143}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 111, "completion_tokens": 5, "total_tokens": 116}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 144, "completion_tokens": 6, "total_tokens": 150}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 112, "completion_tokens": 6, "total_tokens": 118}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 144, "completion_tokens": 6, "total_tokens": 150}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 99, "completion_tokens": 6, "total_tokens": 105}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 127, "completion_tokens": 3, "total_tokens": 130}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 93, "completion_tokens": 6, "total_tokens": 99}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 118, "completion_tokens": 6, "total_tokens": 124}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 104, "completion_tokens": 6, "total_tokens": 110}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 212, "completion_tokens": 6, "total_tokens": 218}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 103, "completion_tokens": 6, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 94, "completion_tokens": 6, "total_tokens": 100}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 178, "completion_tokens": 6, "total_tokens": 184}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 157, "completion_tokens": 5, "total_tokens": 162}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 119, "completion_tokens": 3, "total_tokens": 122}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 168, "completion_tokens": 6, "total_tokens": 174}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)为了防止污染将培养瓶瓶口密封。", "usage": {"prompt_tokens": 99, "completion_tokens": 14, "total_tokens": 113}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 156, "completion_tokens": 6, "total_tokens": 162}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 157, "completion_tokens": 6, "total_tokens": 163}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 119, "completion_tokens": 6, "total_tokens": 125}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)。", "usage": {"prompt_tokens": 303, "completion_tokens": 5, "total_tokens": 308}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 188, "completion_tokens": 3, "total_tokens": 191}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 122, "completion_tokens": 3, "total_tokens": 125}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 183, "completion_tokens": 6, "total_tokens": 189}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 95, "completion_tokens": 6, "total_tokens": 101}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 102, "completion_tokens": 6, "total_tokens": 108}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 100, "completion_tokens": 6, "total_tokens": 106}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 96, "completion_tokens": 6, "total_tokens": 102}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)：摩尔根的果蝇杂交实验。", "usage": {"prompt_tokens": 134, "completion_tokens": 13, "total_tokens": 147}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 92, "completion_tokens": 6, "total_tokens": 98}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：胶原蛋白比蛋清蛋白的营养价值高。", "usage": {"prompt_tokens": 103, "completion_tokens": 12, "total_tokens": 115}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：合成的噬菌体 RNA 与大肠杆菌的核糖体结合。", "usage": {"prompt_tokens": 104, "completion_tokens": 20, "total_tokens": 124}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 124, "completion_tokens": 6, "total_tokens": 130}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 109, "completion_tokens": 6, "total_tokens": 115}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 127, "completion_tokens": 6, "total_tokens": 133}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 148, "completion_tokens": 6, "total_tokens": 154}, "finish_reason": "stop", "model": "ChatGLM-6B"}

@@ -1,0 +1,207 @@
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 356, "completion_tokens": 13, "total_tokens": 369}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)溶解度： $\\mathrm{Na}_{2} \\mathrm{CO}_{3}<\\mathrm{NaHCO}_{3}$", "usage": {"prompt_tokens": 258, "completion_tokens": 41, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 281, "completion_tokens": 13, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是D。", "usage": {"prompt_tokens": 787, "completion_tokens": 9, "total_tokens": 796}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)", "usage": {"prompt_tokens": 544, "completion_tokens": 12, "total_tokens": 556}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(D)小苏打。", "usage": {"prompt_tokens": 150, "completion_tokens": 16, "total_tokens": 166}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)草酸: HOOC-COOH。", "usage": {"prompt_tokens": 193, "completion_tokens": 23, "total_tokens": 216}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)乙炔的实验式 $\\mathrm{C}_{2} \\mathrm{H}_{2}$。", "usage": {"prompt_tokens": 203, "completion_tokens": 39, "total_tokens": 242}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 244, "completion_tokens": 13, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 341, "completion_tokens": 12, "total_tokens": 353}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)碳酸镁与稀盐酸反应: $\\mathrm{CO}_{3}^{2-}+2 \\mathrm{H}^{+}=\\mathrm{CO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$", "usage": {"prompt_tokens": 409, "completion_tokens": 73, "total_tokens": 482}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 221, "completion_tokens": 12, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)风能发电。", "usage": {"prompt_tokens": 168, "completion_tokens": 19, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)石墨用作润滑剂。", "usage": {"prompt_tokens": 211, "completion_tokens": 28, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)同周期元素形成的单质中 $\\mathrm{Y}$ 氧化性最强。", "usage": {"prompt_tokens": 301, "completion_tokens": 41, "total_tokens": 342}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 443, "completion_tokens": 13, "total_tokens": 456}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)2。\n\n在实验中，操作步骤中有两个错误：\n\n1. 在操作步骤中，应该在加入稀硫酸之前，先将试管 I 中的 20% 蔗糖溶液加入试管 II，然后再加入稀硫酸。\n2. 在操作步骤中，应该在加入 $2 \\% \\mathrm{CuSO}_{4}$ 溶液之前，先将试管 II 中的反应液加入试管 I，然后再加入 $2 \\% \\mathrm{CuSO}_{4}$ 溶液。\n\n因此，选项(B)2是正确的答案。", "usage": {"prompt_tokens": 426, "completion_tokens": 229, "total_tokens": 655}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 323, "completion_tokens": 13, "total_tokens": 336}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)高锰酸钾溶液。", "usage": {"prompt_tokens": 179, "completion_tokens": 29, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 169, "completion_tokens": 13, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)白磷: $P_{2}$", "usage": {"prompt_tokens": 238, "completion_tokens": 22, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)乙醛的结构简式: $\\mathrm{CH}_{3} \\mathrm{COH}$", "usage": {"prompt_tokens": 188, "completion_tokens": 39, "total_tokens": 227}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 278, "completion_tokens": 12, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 352, "completion_tokens": 13, "total_tokens": 365}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)用标准液润洗滴定管后, 应将润洗液从滴定管上口倒出。", "usage": {"prompt_tokens": 340, "completion_tokens": 58, "total_tokens": 398}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 361, "completion_tokens": 13, "total_tokens": 374}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)溴与冷的 $\\mathrm{NaOH}$ 溶液反应: $\\mathrm{Br}_{2}+\\mathrm{OH}^{-}=\\mathrm{Br}^{-}+\\mathrm{BrO}^{-}+\\mathrm{H}^{+}$。", "usage": {"prompt_tokens": 460, "completion_tokens": 66, "total_tokens": 526}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 635, "completion_tokens": 13, "total_tokens": 648}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 625, "completion_tokens": 13, "total_tokens": 638}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)钢是以铁为主的含碳合金。", "usage": {"prompt_tokens": 413, "completion_tokens": 32, "total_tokens": 445}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 417, "completion_tokens": 13, "total_tokens": 430}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)活性炭具有除异味和杀菌作用。", "usage": {"prompt_tokens": 214, "completion_tokens": 38, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 366, "completion_tokens": 13, "total_tokens": 379}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(D)小苏打。", "usage": {"prompt_tokens": 150, "completion_tokens": 16, "total_tokens": 166}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(B)", "usage": {"prompt_tokens": 162, "completion_tokens": 10, "total_tokens": 172}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)尿素: $\\mathrm{CO}\\left(\\mathrm{NH}_{2}\\right)_{2}$。", "usage": {"prompt_tokens": 199, "completion_tokens": 36, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)乙炔的实验式 $\\mathrm{C}_{2} \\mathrm{H}_{2}$。", "usage": {"prompt_tokens": 202, "completion_tokens": 39, "total_tokens": 241}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 248, "completion_tokens": 13, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 288, "completion_tokens": 13, "total_tokens": 301}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 248, "completion_tokens": 12, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 252, "completion_tokens": 13, "total_tokens": 265}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 341, "completion_tokens": 12, "total_tokens": 353}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)碳酸镁与稀盐酸反应: $\\mathrm{CO}_{3}^{2-}+2 \\mathrm{H}^{+}=\\mathrm{CO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$", "usage": {"prompt_tokens": 409, "completion_tokens": 73, "total_tokens": 482}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 220, "completion_tokens": 12, "total_tokens": 232}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 316, "completion_tokens": 13, "total_tokens": 329}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 394, "completion_tokens": 13, "total_tokens": 407}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)风能发电。", "usage": {"prompt_tokens": 168, "completion_tokens": 19, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)石墨用作润滑剂。", "usage": {"prompt_tokens": 211, "completion_tokens": 28, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)同周期元素形成的单质中 $\\mathrm{Y}$ 氧化性最强。", "usage": {"prompt_tokens": 301, "completion_tokens": 41, "total_tokens": 342}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 443, "completion_tokens": 13, "total_tokens": 456}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)2。\n\n在实验中，操作步骤中有两个错误：\n\n1. 在操作步骤中，应该在加入稀硫酸之前，先将试管 I 中的 20% 蔗糖溶液加入试管 II，然后再加入稀硫酸。\n2. 在操作步骤中，应该在加入 $2 \\% \\mathrm{CuSO}_{4}$ 溶液之前，先将试管 II 中的反应液加入试管 I，然后再加入 $2 \\% \\mathrm{CuSO}_{4}$ 溶液。\n\n因此，选项(B)2是正确的答案。", "usage": {"prompt_tokens": 426, "completion_tokens": 229, "total_tokens": 655}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 323, "completion_tokens": 13, "total_tokens": 336}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 427, "completion_tokens": 13, "total_tokens": 440}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 373, "completion_tokens": 13, "total_tokens": 386}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 294, "completion_tokens": 13, "total_tokens": 307}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 338, "completion_tokens": 13, "total_tokens": 351}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)用苯酚稀溶液与饱和溴水制备 $2,4,6-$ 三溴苯酚的反应。", "usage": {"prompt_tokens": 345, "completion_tokens": 63, "total_tokens": 408}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：\n\n在给定溶液中，下列各组离子能大量共存的是：\n\n* $\\ce{Fe^{2+}}$\n* $\\ce{Mg^{2+}}$\n* $\\ce{SO_4^{2-}}$\n* $\\ce{NO_3^-}$\n\n因此，选项(A)是正确的答案。", "usage": {"prompt_tokens": 365, "completion_tokens": 109, "total_tokens": 474}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 614, "completion_tokens": 13, "total_tokens": 627}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)", "usage": {"prompt_tokens": 300, "completion_tokens": 12, "total_tokens": 312}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是A。", "usage": {"prompt_tokens": 572, "completion_tokens": 9, "total_tokens": 581}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 428, "completion_tokens": 12, "total_tokens": 440}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)8种。", "usage": {"prompt_tokens": 169, "completion_tokens": 15, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)陶瓷化学性质稳定, 具有耐酸碱侵蚀、抗氧化等优点。", "usage": {"prompt_tokens": 343, "completion_tokens": 63, "total_tokens": 406}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：可以发生加成聚合反应。", "usage": {"prompt_tokens": 201, "completion_tokens": 26, "total_tokens": 227}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)使用含磷洗涤剂不会造成水体污染。", "usage": {"prompt_tokens": 252, "completion_tokens": 42, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)A。", "usage": {"prompt_tokens": 331, "completion_tokens": 14, "total_tokens": 345}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 402, "completion_tokens": 13, "total_tokens": 415}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(B)碳。", "usage": {"prompt_tokens": 163, "completion_tokens": 14, "total_tokens": 177}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 275, "completion_tokens": 13, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 460, "completion_tokens": 13, "total_tokens": 473}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 265, "completion_tokens": 13, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 440, "completion_tokens": 12, "total_tokens": 452}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)原子半径: $\\mathrm{r}(\\mathrm{W})>\\mathrm{r}(\\mathrm{Z})>\\mathrm{r}(\\mathrm{Y})>\\mathrm{r}(\\mathrm{X})$。", "usage": {"prompt_tokens": 394, "completion_tokens": 58, "total_tokens": 452}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：$\\ce{NaHSO4}$。", "usage": {"prompt_tokens": 149, "completion_tokens": 22, "total_tokens": 171}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 180, "completion_tokens": 13, "total_tokens": 193}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 441, "completion_tokens": 13, "total_tokens": 454}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：$\\Delta H_{1}<\\Delta H_{2}$。", "usage": {"prompt_tokens": 423, "completion_tokens": 26, "total_tokens": 449}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：与足量盐酸作用，所得固体产物主要为 $\\mathrm{SiO}_{2}$。", "usage": {"prompt_tokens": 326, "completion_tokens": 47, "total_tokens": 373}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：\n\n根据题意，黄色固体 $\\mathrm{X}$ 可能含有漂白粉、 $\\mathrm{FeSO}_{4} 、 \\mathrm{Fe}_{2}\\left(\\mathrm{SO}_{4}\\right)_{3} 、 \\mathrm{CuCl}_{2} 、 \\mathrm{KI}$ 之中的几种或全部。将 $\\mathrm{X}$ 与足量的水作用，得到深棕色固体混合物 $\\mathrm{Y}$ 和无色碱性溶液 $\\mathrm{Z}$ 。因此，选项(B)是正确的答案。", "usage": {"prompt_tokens": 443, "completion_tokens": 182, "total_tokens": 625}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)蚕丝属于天然高分子材料。", "usage": {"prompt_tokens": 297, "completion_tokens": 30, "total_tokens": 327}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 368, "completion_tokens": 13, "total_tokens": 381}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)原子半径: $\\mathrm{W}<\\mathrm{X}$。\n\n根据元素周期表，原子半径从左到右依次递增，因此 $\\mathrm{W}<\\mathrm{X}$。", "usage": {"prompt_tokens": 368, "completion_tokens": 78, "total_tokens": 446}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)12 种。", "usage": {"prompt_tokens": 169, "completion_tokens": 17, "total_tokens": 186}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)使用含磷洗涤剂不会造成水体污染。", "usage": {"prompt_tokens": 252, "completion_tokens": 42, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)A。", "usage": {"prompt_tokens": 335, "completion_tokens": 14, "total_tokens": 349}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)甲醇既可发生取代反应也可发生加成反应。", "usage": {"prompt_tokens": 250, "completion_tokens": 35, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 387, "completion_tokens": 13, "total_tokens": 400}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)A。", "usage": {"prompt_tokens": 355, "completion_tokens": 14, "total_tokens": 369}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：$\\mathrm{Cu}(\\mathrm{OH})_{2} \\cdot \\mathrm{CuCO}_{3}$ 中铜的质量分数高于 $\\mathrm{Cu}(\\mathrm{OH})_{2} \\cdot 2 \\mathrm{CuCO}_{3}$。\n\n孔雀石和蓝铜砿颜料中的铜离子分子分子质量分数分别为 28 和 32，而 $\\left.\\mathrm{Cu}(\\mathrm{OH})_{2} \\cdot \\mathrm{CuCO}_{3}\\right)$ 中的铜离子分子分子质量分数为 32，因此选项(D)是正确的。", "usage": {"prompt_tokens": 429, "completion_tokens": 200, "total_tokens": 629}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)石硫黄(S): “能化......银、铜、铁, 奇物”", "usage": {"prompt_tokens": 275, "completion_tokens": 41, "total_tokens": 316}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 431, "completion_tokens": 13, "total_tokens": 444}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)晶体中所有化学键均为极性键。", "usage": {"prompt_tokens": 280, "completion_tokens": 36, "total_tokens": 316}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 488, "completion_tokens": 13, "total_tokens": 501}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)A。\n\n根据给定的信息，我们可以看出，选项(A)A是符合要求的。因为CO2是气体，饱和Na2CO3是液体，而CaCO是固体粉末。因此，选项(A)A是正确的。", "usage": {"prompt_tokens": 438, "completion_tokens": 97, "total_tokens": 535}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)定期清淤, 疏通河道。", "usage": {"prompt_tokens": 244, "completion_tokens": 27, "total_tokens": 271}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 512, "completion_tokens": 12, "total_tokens": 524}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)简单离子半径: $\\mathrm{Z}>\\mathrm{X}>\\mathrm{Y}$", "usage": {"prompt_tokens": 406, "completion_tokens": 42, "total_tokens": 448}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)产生 $22.4 \\mathrm{~L}$ (标准状况) $\\mathrm{Cl}_{2}$ 时, 反应中转移 $10 \\mathrm{~mole}^{-}$。", "usage": {"prompt_tokens": 433, "completion_tokens": 65, "total_tokens": 498}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)合成结晶牛胰岛素。", "usage": {"prompt_tokens": 195, "completion_tokens": 29, "total_tokens": 224}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 308, "completion_tokens": 13, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)甲烷的燃烧: $\\mathrm{CH}_{4}(g)+2 \\mathrm{O}_{2}(g)=\\mathrm{CO}_{2}(g)+2 \\mathrm{H}_{2} \\mathrm{O}(g) \\quad \\Delta \\mathrm{H}=890.3 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$", "usage": {"prompt_tokens": 683, "completion_tokens": 97, "total_tokens": 780}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 698, "completion_tokens": 12, "total_tokens": 710}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)：$\\mathrm{Cu}(\\mathrm{OH})_{2} \\cdot \\mathrm{CuCO}_{3}$ 中铜的质量分数高于 $\\mathrm{Cu}(\\mathrm{OH})_{2} \\cdot 2 \\mathrm{CuCO}_{3}$。\n\n孔雀石和蓝铜砿颜料中的铜离子分子分子质量分数分别为 28 和 32，而 $\\left.\\mathrm{Cu}(\\mathrm{OH})_{2} \\cdot \\mathrm{CuCO}_{3}\\right)$ 中的铜离子分子分子质量分数为 32，因此选项(D)是正确的。", "usage": {"prompt_tokens": 429, "completion_tokens": 200, "total_tokens": 629}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)陶瓷化学性质稳定, 具有耐酸碱侵蚀、抗氧化等优点。", "usage": {"prompt_tokens": 343, "completion_tokens": 63, "total_tokens": 406}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：可以发生加成聚合反应。", "usage": {"prompt_tokens": 201, "completion_tokens": 26, "total_tokens": 227}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)趁热过滤。", "usage": {"prompt_tokens": 244, "completion_tokens": 23, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(D)氡　第六周期。", "usage": {"prompt_tokens": 184, "completion_tokens": 19, "total_tokens": 203}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 287, "completion_tokens": 13, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)新榨油脂不及时干燥脱水易变质。", "usage": {"prompt_tokens": 230, "completion_tokens": 43, "total_tokens": 273}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 438, "completion_tokens": 13, "total_tokens": 451}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 372, "completion_tokens": 13, "total_tokens": 385}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 764, "completion_tokens": 12, "total_tokens": 776}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)研发催化剂将 $\\mathrm{CO}_{2}$ 还原为甲醇。", "usage": {"prompt_tokens": 359, "completion_tokens": 38, "total_tokens": 397}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)原子半径大小顺序为 $\\mathrm{W}>\\mathrm{X}>\\mathrm{Y}>\\mathrm{Z}$。", "usage": {"prompt_tokens": 425, "completion_tokens": 48, "total_tokens": 473}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)核电站反应堆所用轴棒中含有的 ${ }_{92}^{235} \\mathrm{U}$ 与 ${ }_{92}^{238} \\mathrm{U}$ 互为同位素。", "usage": {"prompt_tokens": 415, "completion_tokens": 77, "total_tokens": 492}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：$\\mathrm{Na}_{2} \\mathrm{CO}_{3} 、 \\mathrm{NaOH} 、 \\mathrm{HCl}$。", "usage": {"prompt_tokens": 314, "completion_tokens": 44, "total_tokens": 358}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 464, "completion_tokens": 12, "total_tokens": 476}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)阴极上 $\\mathrm{Al}$ 被氧化。", "usage": {"prompt_tokens": 297, "completion_tokens": 31, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)加入 $\\mathrm{K}_{3}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$ 溶液无蓝色。", "usage": {"prompt_tokens": 356, "completion_tokens": 49, "total_tokens": 405}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)A。", "usage": {"prompt_tokens": 426, "completion_tokens": 14, "total_tokens": 440}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)碱转化为酸式盐: $\\mathrm{OH}^{-}+2 \\mathrm{H}^{+}+\\mathrm{CO}_{3}^{2-}=\\mathrm{HCO}_{3}^{-}+2 \\mathrm{H}_{2} \\mathrm{O}$", "usage": {"prompt_tokens": 371, "completion_tokens": 70, "total_tokens": 441}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)白瓷的白色是因铁含量较高。", "usage": {"prompt_tokens": 243, "completion_tokens": 33, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)陶瓷化学性质稳定, 具有耐酸碱侵蚀、抗氧化等优点。", "usage": {"prompt_tokens": 343, "completion_tokens": 63, "total_tokens": 406}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：可以发生加成聚合反应。", "usage": {"prompt_tokens": 202, "completion_tokens": 26, "total_tokens": 228}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D) \"敖胆矶铁釜, 久之亦化为铜\"是发生了置换反应。", "usage": {"prompt_tokens": 344, "completion_tokens": 50, "total_tokens": 394}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)利用基本的化学原料生产化学合成药物。", "usage": {"prompt_tokens": 256, "completion_tokens": 34, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 664, "completion_tokens": 12, "total_tokens": 676}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)无水 $\\mathrm{CoCl}_{2}$ 呈蓝色, 吸水会变为粉红色, 可用于判断变色硅胶是否吸水。", "usage": {"prompt_tokens": 335, "completion_tokens": 66, "total_tokens": 401}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)研发催化剂将 $\\mathrm{CO}_{2}$ 还原为甲醇。", "usage": {"prompt_tokens": 359, "completion_tokens": 38, "total_tokens": 397}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)原子半径大小顺序为 $\\mathrm{W}>\\mathrm{X}>\\mathrm{Y}>\\mathrm{Z}$。", "usage": {"prompt_tokens": 425, "completion_tokens": 48, "total_tokens": 473}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 178, "completion_tokens": 13, "total_tokens": 191}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)", "usage": {"prompt_tokens": 159, "completion_tokens": 10, "total_tokens": 169}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)氯仿: $\\mathrm{CHCl}_{3}$。", "usage": {"prompt_tokens": 235, "completion_tokens": 28, "total_tokens": 263}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 211, "completion_tokens": 12, "total_tokens": 223}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 272, "completion_tokens": 13, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 332, "completion_tokens": 12, "total_tokens": 344}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 442, "completion_tokens": 12, "total_tokens": 454}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 299, "completion_tokens": 13, "total_tokens": 312}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 328, "completion_tokens": 13, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：$\\mathrm{KCl} 、 \\mathrm{NaCl}$。\n\n根据题目描述，某白色固体混合物由$\\mathrm{NaCl} 、 \\mathrm{KCl} 、 \\mathrm{MgSO}_{4} 、 \\mathrm{CaCO}_{3}$中的两种组成，进行如下实验: (1)混合物溶于水, 得到澄清透明溶液; (2)做焰色反应, 通过钴玻璃可观察到紫色; (3)向溶液中加碱, 产生白色沉淀。根据实验现象可判断其组成为$\\mathrm{KCl} 、 \\mathrm{NaCl}$。", "usage": {"prompt_tokens": 363, "completion_tokens": 237, "total_tokens": 600}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 424, "completion_tokens": 13, "total_tokens": 437}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 330, "completion_tokens": 13, "total_tokens": 343}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 477, "completion_tokens": 12, "total_tokens": 489}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 373, "completion_tokens": 13, "total_tokens": 386}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 294, "completion_tokens": 13, "total_tokens": 307}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 338, "completion_tokens": 13, "total_tokens": 351}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)用苯酚稀溶液与饱和溴水制备 $2,4,6-$ 三溴苯酚的反应。", "usage": {"prompt_tokens": 345, "completion_tokens": 63, "total_tokens": 408}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：\n\n在给定溶液中，下列各组离子能大量共存的是：\n\n* $\\ce{Fe^{2+}}$\n* $\\ce{Mg^{2+}}$\n* $\\ce{SO_4^{2-}}$\n* $\\ce{NO_3^-}$\n\n因此，选项(A)是正确的答案。", "usage": {"prompt_tokens": 365, "completion_tokens": 109, "total_tokens": 474}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 614, "completion_tokens": 13, "total_tokens": 627}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)活性炭具有除异味和杀菌作用。", "usage": {"prompt_tokens": 214, "completion_tokens": 38, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 366, "completion_tokens": 13, "total_tokens": 379}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 276, "completion_tokens": 13, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)使用食品添加剂不应降低食品本身营养价值。", "usage": {"prompt_tokens": 239, "completion_tokens": 44, "total_tokens": 283}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(C)萃取。", "usage": {"prompt_tokens": 218, "completion_tokens": 15, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 468, "completion_tokens": 12, "total_tokens": 480}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)反应转移电子为 $0.1 \\mathrm{~mol}$。", "usage": {"prompt_tokens": 319, "completion_tokens": 31, "total_tokens": 350}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)恒容下，充入一定量的 $\\mathrm{CH}_{2}=\\mathrm{CH}_{2}(\\mathrm{~g}), \\mathrm{CH}_{2}=\\mathrm{CH}_{2}(\\mathrm{~g})$ 的平衡转化率增大。", "usage": {"prompt_tokens": 408, "completion_tokens": 78, "total_tokens": 486}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 344, "completion_tokens": 13, "total_tokens": 357}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 376, "completion_tokens": 13, "total_tokens": 389}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)淀粉和纤维素水解的最终产物均为葡萄糖。", "usage": {"prompt_tokens": 273, "completion_tokens": 51, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 371, "completion_tokens": 13, "total_tokens": 384}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)生成 $1 \\mathrm{molC}_{5} \\mathrm{H}_{12}$, 至少需要 $2 \\mathrm{molH}_{2}$。", "usage": {"prompt_tokens": 382, "completion_tokens": 52, "total_tokens": 434}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 341, "completion_tokens": 13, "total_tokens": 354}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)加入明矾后泥水变澄清。", "usage": {"prompt_tokens": 210, "completion_tokens": 29, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)鎏金工艺的原理可用于金的富集。", "usage": {"prompt_tokens": 283, "completion_tokens": 31, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)核酸可视为核苷酸的聚合产物。", "usage": {"prompt_tokens": 234, "completion_tokens": 40, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 252, "completion_tokens": 13, "total_tokens": 265}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)含有 $\\mathrm{sp}^{3}$ 杂化的碳原子。", "usage": {"prompt_tokens": 260, "completion_tokens": 35, "total_tokens": 295}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 319, "completion_tokens": 13, "total_tokens": 332}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)为非极性分子。", "usage": {"prompt_tokens": 235, "completion_tokens": 21, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：\n\n根据酸碱质子理论，质子的能力越强，酸性越强。因此，在选项中，N2H5+的能力比N2H4和NH4+更强，所以N2H5+>N2H4>NH4+。", "usage": {"prompt_tokens": 463, "completion_tokens": 102, "total_tokens": 565}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)活性炭具有除异味和杀菌作用。", "usage": {"prompt_tokens": 214, "completion_tokens": 38, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)甲苯。", "usage": {"prompt_tokens": 155, "completion_tokens": 17, "total_tokens": 172}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：X与Z可形成离子化合物ZX。", "usage": {"prompt_tokens": 376, "completion_tokens": 29, "total_tokens": 405}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 366, "completion_tokens": 13, "total_tokens": 379}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)短道速滑服使用的超高分子量聚乙烯属于有机高分子材料。", "usage": {"prompt_tokens": 269, "completion_tokens": 50, "total_tokens": 319}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 248, "completion_tokens": 13, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 344, "completion_tokens": 13, "total_tokens": 357}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：能发生加成反应和取代反应。", "usage": {"prompt_tokens": 196, "completion_tokens": 26, "total_tokens": 222}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 339, "completion_tokens": 13, "total_tokens": 352}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)溶液恢复棕色的原因是 $\\mathrm{I}^{-}$被氧化。", "usage": {"prompt_tokens": 339, "completion_tokens": 42, "total_tokens": 381}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 448, "completion_tokens": 13, "total_tokens": 461}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。\n\n根据给定的数据，可以看出在 $1 \\mathrm{~L}$ 恒容密闭容器中，$2.0 \\mathrm{~mol} \\mathrm{X}$ 发生反应 $2 \\mathrm{X}(\\mathrm{s})$ 日回 $\\mathrm{Y}(\\mathrm{g})+2 \\mathrm{Z}(\\mathrm{g})$，且在 $0 \\sim 2$ 分钟内，产物 $\\mathrm{Z}$ 的平均生成速率为 $0.20 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\cdot \\mathrm{min}^{-1}$。因此，在 $1 \\mathrm{~min}$ 时，$\\mathrm{Z}$ 的浓度大于 $0.20 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$。", "usage": {"prompt_tokens": 518, "completion_tokens": 226, "total_tokens": 744}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 633, "completion_tokens": 12, "total_tokens": 645}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 242, "completion_tokens": 13, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)铜的金属活动性大于银。", "usage": {"prompt_tokens": 332, "completion_tokens": 27, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是A。", "usage": {"prompt_tokens": 624, "completion_tokens": 9, "total_tokens": 633}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)：\n\n金属 Na 溶解于液氨中形成氨合钠离子和氨合电子，而穴醚类配体 L 是一种离子化合物，其中离子化合物的电子排布和化合物的化学性质与金属离子的化学性质有关。因此，选项(A)是正确的。", "usage": {"prompt_tokens": 315, "completion_tokens": 132, "total_tokens": 447}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是 D", "usage": {"prompt_tokens": 1284, "completion_tokens": 8, "total_tokens": 1292}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 287, "completion_tokens": 13, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 317, "completion_tokens": 13, "total_tokens": 330}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 310, "completion_tokens": 13, "total_tokens": 323}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 233, "completion_tokens": 12, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(D)最高价含氧酸的酸性: $\\mathrm{Z}>\\mathrm{Y}$", "usage": {"prompt_tokens": 366, "completion_tokens": 42, "total_tokens": 408}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 971, "completion_tokens": 12, "total_tokens": 983}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 328, "completion_tokens": 13, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 319, "completion_tokens": 13, "total_tokens": 332}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 487, "completion_tokens": 12, "total_tokens": 499}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是A。", "usage": {"prompt_tokens": 471, "completion_tokens": 9, "total_tokens": 480}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 408, "completion_tokens": 13, "total_tokens": 421}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(B)：CO2在正极上得电子。", "usage": {"prompt_tokens": 266, "completion_tokens": 25, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)A。", "usage": {"prompt_tokens": 437, "completion_tokens": 14, "total_tokens": 451}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)", "usage": {"prompt_tokens": 238, "completion_tokens": 12, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(C)：四种元素的简单离子具有相同的电子层结构。", "usage": {"prompt_tokens": 382, "completion_tokens": 41, "total_tokens": 423}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 404, "completion_tokens": 13, "total_tokens": 417}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "答案是(A)A。", "usage": {"prompt_tokens": 821, "completion_tokens": 12, "total_tokens": 833}, "finish_reason": "stop", "model": "BayLing-13B"}

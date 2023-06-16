@@ -1,0 +1,199 @@
+{"text": "Answer is option B: ①④", "usage": {"prompt_tokens": 212, "completion_tokens": 12, "total_tokens": 224}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. International market demand is high.", "usage": {"prompt_tokens": 156, "completion_tokens": 11, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 154, "completion_tokens": 4, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 191, "completion_tokens": 4, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"C\"", "usage": {"prompt_tokens": 175, "completion_tokens": 5, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 192, "completion_tokens": 4, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 182, "completion_tokens": 5, "total_tokens": 187}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 243, "completion_tokens": 4, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 260, "completion_tokens": 4, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "The answer is \"D\".", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 298, "completion_tokens": 1, "total_tokens": 299}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 414, "completion_tokens": 4, "total_tokens": 418}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A③", "usage": {"prompt_tokens": 436, "completion_tokens": 4, "total_tokens": 440}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 379, "completion_tokens": 5, "total_tokens": 384}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 314, "completion_tokens": 5, "total_tokens": 319}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 318, "completion_tokens": 5, "total_tokens": 323}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is: B\"", "usage": {"prompt_tokens": 341, "completion_tokens": 8, "total_tokens": 349}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is: D\".", "usage": {"prompt_tokens": 300, "completion_tokens": 8, "total_tokens": 308}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n\nAnswer: \nA\n\nExplanation:\nThe answer is \"A\" as it is the only option that matches the given description.", "usage": {"prompt_tokens": 308, "completion_tokens": 33, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. 保证产品品质", "usage": {"prompt_tokens": 320, "completion_tokens": 18, "total_tokens": 338}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"B\"", "usage": {"prompt_tokens": 337, "completion_tokens": 6, "total_tokens": 343}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 310, "completion_tokens": 4, "total_tokens": 314}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 381, "completion_tokens": 5, "total_tokens": 386}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 367, "completion_tokens": 5, "total_tokens": 372}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "2021-10-16, the Shenzhou 13 spacecraft successfully launched from the Jiuquan Satellite Launch Center, sending three Chinese astronauts to a safe return to Earth. During the stay, the Jiuquan Satellite Launch Center tower and the Guangzhou Tower were observed at the same time every day at noon, the difference in altitude (DHA).", "usage": {"prompt_tokens": 280, "completion_tokens": 90, "total_tokens": 370}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 569, "completion_tokens": 5, "total_tokens": 574}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 520, "completion_tokens": 5, "total_tokens": 525}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 532, "completion_tokens": 5, "total_tokens": 537}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S集团在美国、墨西哥、波兰等国家建厂的主要区位因素是（D）劳动力。", "usage": {"prompt_tokens": 399, "completion_tokens": 45, "total_tokens": 444}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S集团选择在越南建厂，可以（）\n(A)降低生产成本\n(B)增加产品产量\n(C)提高产品质量\n(D)方便原料供应。", "usage": {"prompt_tokens": 416, "completion_tokens": 82, "total_tokens": 498}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "S集团在自建厂房的同时租用厂房的主要目的是（D）满足客户需求。", "usage": {"prompt_tokens": 419, "completion_tokens": 41, "total_tokens": 460}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 379, "completion_tokens": 5, "total_tokens": 384}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 401, "completion_tokens": 4, "total_tokens": 405}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A①③", "usage": {"prompt_tokens": 412, "completion_tokens": 7, "total_tokens": 419}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 340, "completion_tokens": 5, "total_tokens": 345}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 359, "completion_tokens": 5, "total_tokens": 364}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 343, "completion_tokens": 4, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 505, "completion_tokens": 1, "total_tokens": 506}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 526, "completion_tokens": 1, "total_tokens": 527}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 413, "completion_tokens": 4, "total_tokens": 417}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 417, "completion_tokens": 1, "total_tokens": 418}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 482, "completion_tokens": 1, "total_tokens": 483}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 257, "completion_tokens": 4, "total_tokens": 261}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\".", "usage": {"prompt_tokens": 826, "completion_tokens": 5, "total_tokens": 831}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 825, "completion_tokens": 1, "total_tokens": 826}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 872, "completion_tokens": 1, "total_tokens": 873}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 717, "completion_tokens": 4, "total_tokens": 721}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 670, "completion_tokens": 1, "total_tokens": 671}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\" for \"What is the geographical feature of the winter phenomenon of reverse temperature gradient due to strong ground reflection?\"", "usage": {"prompt_tokens": 262, "completion_tokens": 28, "total_tokens": 290}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\".", "usage": {"prompt_tokens": 295, "completion_tokens": 5, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 504, "completion_tokens": 1, "total_tokens": 505}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 525, "completion_tokens": 1, "total_tokens": 526}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option()", "usage": {"prompt_tokens": 142, "completion_tokens": 4, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 191, "completion_tokens": 3, "total_tokens": 194}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A①B②C③D", "usage": {"prompt_tokens": 279, "completion_tokens": 13, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 321, "completion_tokens": 5, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: <nooutput>\"", "usage": {"prompt_tokens": 350, "completion_tokens": 11, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 191, "completion_tokens": 4, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 181, "completion_tokens": 4, "total_tokens": 185}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 413, "completion_tokens": 4, "total_tokens": 417}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 417, "completion_tokens": 1, "total_tokens": 418}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 482, "completion_tokens": 1, "total_tokens": 483}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 242, "completion_tokens": 5, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 253, "completion_tokens": 5, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 319, "completion_tokens": 1, "total_tokens": 320}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 360, "completion_tokens": 1, "total_tokens": 361}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 325, "completion_tokens": 1, "total_tokens": 326}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 278, "completion_tokens": 4, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 264, "completion_tokens": 5, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: <nooutput>\"", "usage": {"prompt_tokens": 255, "completion_tokens": 11, "total_tokens": 266}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 380, "completion_tokens": 4, "total_tokens": 384}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 433, "completion_tokens": 4, "total_tokens": 437}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 427, "completion_tokens": 4, "total_tokens": 431}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 455, "completion_tokens": 1, "total_tokens": 456}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 543, "completion_tokens": 4, "total_tokens": 547}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 374, "completion_tokens": 4, "total_tokens": 378}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 462, "completion_tokens": 1, "total_tokens": 463}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 399, "completion_tokens": 1, "total_tokens": 400}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\" - Wood is a good business.", "usage": {"prompt_tokens": 389, "completion_tokens": 12, "total_tokens": 401}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"D\"", "usage": {"prompt_tokens": 408, "completion_tokens": 6, "total_tokens": 414}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\nB\nC\nD", "usage": {"prompt_tokens": 355, "completion_tokens": 7, "total_tokens": 362}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 259, "completion_tokens": 5, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 349, "completion_tokens": 5, "total_tokens": 354}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 397, "completion_tokens": 5, "total_tokens": 402}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 264, "completion_tokens": 5, "total_tokens": 269}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\".", "usage": {"prompt_tokens": 255, "completion_tokens": 5, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n产品种类", "usage": {"prompt_tokens": 339, "completion_tokens": 8, "total_tokens": 347}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A③", "usage": {"prompt_tokens": 416, "completion_tokens": 4, "total_tokens": 420}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 206, "completion_tokens": 4, "total_tokens": 210}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option D.", "usage": {"prompt_tokens": 228, "completion_tokens": 5, "total_tokens": 233}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 228, "completion_tokens": 5, "total_tokens": 233}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 264, "completion_tokens": 4, "total_tokens": 268}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 295, "completion_tokens": 4, "total_tokens": 299}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: <nooutput>\"", "usage": {"prompt_tokens": 256, "completion_tokens": 11, "total_tokens": 267}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 311, "completion_tokens": 4, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A.①②", "usage": {"prompt_tokens": 387, "completion_tokens": 8, "total_tokens": 395}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 277, "completion_tokens": 4, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 623, "completion_tokens": 5, "total_tokens": 628}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 597, "completion_tokens": 1, "total_tokens": 598}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 271, "completion_tokens": 4, "total_tokens": 275}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 260, "completion_tokens": 4, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 331, "completion_tokens": 5, "total_tokens": 336}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is:\".", "usage": {"prompt_tokens": 362, "completion_tokens": 7, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A③", "usage": {"prompt_tokens": 414, "completion_tokens": 4, "total_tokens": 418}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 351, "completion_tokens": 1, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Low land cost.", "usage": {"prompt_tokens": 269, "completion_tokens": 9, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\" Technology.", "usage": {"prompt_tokens": 210, "completion_tokens": 7, "total_tokens": 217}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is: B\".", "usage": {"prompt_tokens": 243, "completion_tokens": 8, "total_tokens": 251}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "The International Astronomical Union's most recent discovery is that a planet located approximately 8,000 light years away from Earth may produce a superwave storm that could wipe out any life on planets it passes. Luckily, the planet's potential superwave blast direction does not currently threaten Earth. The planet is located in the (A) Moon system, (B) Sun system, (C) Milky Way system, or (D) Outer planet system.", "usage": {"prompt_tokens": 252, "completion_tokens": 101, "total_tokens": 353}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 367, "completion_tokens": 1, "total_tokens": 368}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\". The car journey started in Guangxi and went through Hunan, Hubei, Sichuan, and Gansu. It arrived in Xinjiang on January 30th. The car traversed both mountainous and desert areas, with the length of the shadow remaining constant throughout the journey.", "usage": {"prompt_tokens": 309, "completion_tokens": 69, "total_tokens": 378}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 337, "completion_tokens": 4, "total_tokens": 341}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 265, "completion_tokens": 5, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 256, "completion_tokens": 4, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 240, "completion_tokens": 5, "total_tokens": 245}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 227, "completion_tokens": 4, "total_tokens": 231}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 270, "completion_tokens": 4, "total_tokens": 274}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 281, "completion_tokens": 4, "total_tokens": 285}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: \"Answer is: <nooutput>\"", "usage": {"prompt_tokens": 289, "completion_tokens": 11, "total_tokens": 300}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 308, "completion_tokens": 4, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A continuous layered structure.", "usage": {"prompt_tokens": 309, "completion_tokens": 6, "total_tokens": 315}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 334, "completion_tokens": 4, "total_tokens": 338}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 303, "completion_tokens": 4, "total_tokens": 307}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 253, "completion_tokens": 5, "total_tokens": 258}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 277, "completion_tokens": 4, "total_tokens": 281}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\n水土流失", "usage": {"prompt_tokens": 264, "completion_tokens": 6, "total_tokens": 270}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is:\".", "usage": {"prompt_tokens": 362, "completion_tokens": 7, "total_tokens": 369}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A③", "usage": {"prompt_tokens": 418, "completion_tokens": 4, "total_tokens": 422}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A", "usage": {"prompt_tokens": 351, "completion_tokens": 1, "total_tokens": 352}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 207, "completion_tokens": 4, "total_tokens": 211}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 207, "completion_tokens": 5, "total_tokens": 212}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 196, "completion_tokens": 4, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 248, "completion_tokens": 4, "total_tokens": 252}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 191, "completion_tokens": 4, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Shrinkage.", "usage": {"prompt_tokens": 165, "completion_tokens": 10, "total_tokens": 175}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Temperature increases, drought.", "usage": {"prompt_tokens": 183, "completion_tokens": 13, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 165, "completion_tokens": 4, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 173, "completion_tokens": 4, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B) Labor Shortage.", "usage": {"prompt_tokens": 174, "completion_tokens": 9, "total_tokens": 183}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\" - Science Technology.", "usage": {"prompt_tokens": 183, "completion_tokens": 9, "total_tokens": 192}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 164, "completion_tokens": 4, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 218, "completion_tokens": 5, "total_tokens": 223}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 169, "completion_tokens": 4, "total_tokens": 173}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 325, "completion_tokens": 4, "total_tokens": 329}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is:\".", "usage": {"prompt_tokens": 271, "completion_tokens": 7, "total_tokens": 278}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\" to ensure product quality.", "usage": {"prompt_tokens": 272, "completion_tokens": 10, "total_tokens": 282}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is:\".", "usage": {"prompt_tokens": 210, "completion_tokens": 7, "total_tokens": 217}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\nB\nC\nD", "usage": {"prompt_tokens": 269, "completion_tokens": 7, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 213, "completion_tokens": 5, "total_tokens": 218}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 170, "completion_tokens": 4, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 193, "completion_tokens": 4, "total_tokens": 197}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 183, "completion_tokens": 5, "total_tokens": 188}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 245, "completion_tokens": 4, "total_tokens": 249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 166, "completion_tokens": 4, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 335, "completion_tokens": 4, "total_tokens": 339}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 306, "completion_tokens": 4, "total_tokens": 310}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 594, "completion_tokens": 1, "total_tokens": 595}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 611, "completion_tokens": 1, "total_tokens": 612}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 587, "completion_tokens": 1, "total_tokens": 588}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option D.", "usage": {"prompt_tokens": 327, "completion_tokens": 5, "total_tokens": 332}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer is:\".", "usage": {"prompt_tokens": 272, "completion_tokens": 7, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\" to ensure product quality.", "usage": {"prompt_tokens": 269, "completion_tokens": 10, "total_tokens": 279}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. Industrial upgrading and optimization.", "usage": {"prompt_tokens": 237, "completion_tokens": 12, "total_tokens": 249}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 154, "completion_tokens": 4, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 146, "completion_tokens": 4, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is Option()", "usage": {"prompt_tokens": 187, "completion_tokens": 4, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 272, "completion_tokens": 5, "total_tokens": 277}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 194, "completion_tokens": 4, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B: Sand dunes and valleys.", "usage": {"prompt_tokens": 155, "completion_tokens": 12, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 169, "completion_tokens": 5, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 187, "completion_tokens": 4, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\" for \"Southwest China is one of the key winter vegetable production bases in China, with sufficient soil and water resources, convenient transportation, and advanced technology.\"", "usage": {"prompt_tokens": 181, "completion_tokens": 39, "total_tokens": 220}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 172, "completion_tokens": 5, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"D\"", "usage": {"prompt_tokens": 176, "completion_tokens": 5, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option (D) Television.", "usage": {"prompt_tokens": 198, "completion_tokens": 9, "total_tokens": 207}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 206, "completion_tokens": 4, "total_tokens": 210}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 218, "completion_tokens": 4, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 161, "completion_tokens": 4, "total_tokens": 165}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: Option()", "usage": {"prompt_tokens": 181, "completion_tokens": 5, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 164, "completion_tokens": 4, "total_tokens": 168}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 186, "completion_tokens": 4, "total_tokens": 190}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 209, "completion_tokens": 4, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 261, "completion_tokens": 4, "total_tokens": 265}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 162, "completion_tokens": 4, "total_tokens": 166}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B. The Changjiang (Yangtze) River is the only river in China that can generate a cooling and drying effect on the land along its east coast.", "usage": {"prompt_tokens": 179, "completion_tokens": 41, "total_tokens": 220}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 160, "completion_tokens": 4, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 251, "completion_tokens": 4, "total_tokens": 255}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 136, "completion_tokens": 4, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 219, "completion_tokens": 4, "total_tokens": 223}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: B", "usage": {"prompt_tokens": 198, "completion_tokens": 4, "total_tokens": 202}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\" East Asia cultural zone.", "usage": {"prompt_tokens": 201, "completion_tokens": 10, "total_tokens": 211}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is: D", "usage": {"prompt_tokens": 200, "completion_tokens": 4, "total_tokens": 204}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A\nB\nC\nD", "usage": {"prompt_tokens": 207, "completion_tokens": 7, "total_tokens": 214}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "A①B②C③D", "usage": {"prompt_tokens": 263, "completion_tokens": 13, "total_tokens": 276}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 202, "completion_tokens": 5, "total_tokens": 207}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B: 较少的年份,农业生产倾向增产.", "usage": {"prompt_tokens": 225, "completion_tokens": 35, "total_tokens": 260}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is option B.", "usage": {"prompt_tokens": 210, "completion_tokens": 5, "total_tokens": 215}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"Answer\".", "usage": {"prompt_tokens": 237, "completion_tokens": 5, "total_tokens": 242}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer is \"B\"", "usage": {"prompt_tokens": 251, "completion_tokens": 5, "total_tokens": 256}, "finish_reason": "stop", "model": "Alpaca-7B"}

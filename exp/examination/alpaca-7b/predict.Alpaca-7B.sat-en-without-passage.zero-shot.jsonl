@@ -1,0 +1,206 @@
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 134, "completion_tokens": 6, "total_tokens": 140}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) A cheerful recounting of an amusing anecdote.", "usage": {"prompt_tokens": 121, "completion_tokens": 21, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)She will underestimate the sincerity of his emotions.", "usage": {"prompt_tokens": 128, "completion_tokens": 20, "total_tokens": 148}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)respect but not utter deference.", "usage": {"prompt_tokens": 115, "completion_tokens": 14, "total_tokens": 129}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)analyze a reaction.", "usage": {"prompt_tokens": 99, "completion_tokens": 11, "total_tokens": 110}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)confirm the relationship between the density of DNA and the known chemical formula of DNA.", "usage": {"prompt_tokens": 160, "completion_tokens": 22, "total_tokens": 182}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A) gives the correct percentages of the purines in yeast DNA.", "usage": {"prompt_tokens": 157, "completion_tokens": 20, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)Yes, because for each given organism, the percentage of adenine is closest to the percentage of thymine, and the percentage of guanine is closest to the percentage of cytosine.", "usage": {"prompt_tokens": 263, "completion_tokens": 49, "total_tokens": 312}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) $17.7 \\%$ and $32.8 \\%$.", "usage": {"prompt_tokens": 165, "completion_tokens": 23, "total_tokens": 188}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 112, "completion_tokens": 6, "total_tokens": 118}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 152, "completion_tokens": 6, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) is correct. The bridge is symbolic of the legacy of past and present sons of educated men.", "usage": {"prompt_tokens": 144, "completion_tokens": 26, "total_tokens": 170}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) has become less exclusionary in its membership in recent years.", "usage": {"prompt_tokens": 130, "completion_tokens": 19, "total_tokens": 149}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 136, "completion_tokens": 6, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) its effects should be thoughtfully considered before it becomes a reality.", "usage": {"prompt_tokens": 153, "completion_tokens": 19, "total_tokens": 172}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Passage 2 expresses reservations about developments discussed in Passage 1.", "usage": {"prompt_tokens": 158, "completion_tokens": 25, "total_tokens": 183}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) They will be valuable only if they can be harvested cheaply.", "usage": {"prompt_tokens": 137, "completion_tokens": 21, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Miss Spivey.", "usage": {"prompt_tokens": 117, "completion_tokens": 11, "total_tokens": 128}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 111, "completion_tokens": 6, "total_tokens": 117}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) resentment, because they feel that she is minimizing their discomfort.", "usage": {"prompt_tokens": 175, "completion_tokens": 23, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)demonstrate that the children want to amuse Miss Spivey with their questions.", "usage": {"prompt_tokens": 175, "completion_tokens": 25, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)attending college in New York City.", "usage": {"prompt_tokens": 128, "completion_tokens": 14, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)worried.", "usage": {"prompt_tokens": 112, "completion_tokens": 9, "total_tokens": 121}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) The test subject would perceive gentle stimuli as painful.", "usage": {"prompt_tokens": 158, "completion_tokens": 19, "total_tokens": 177}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) The speed at which a nerve fires is dependent on the strength of pressure applied to the nerve.", "usage": {"prompt_tokens": 174, "completion_tokens": 27, "total_tokens": 201}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Effect of microneurography on CT fiber signaling.", "usage": {"prompt_tokens": 148, "completion_tokens": 21, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 152, "completion_tokens": 6, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 126, "completion_tokens": 6, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 129, "completion_tokens": 6, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 158, "completion_tokens": 6, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) vibrancy and diversity of American culture.", "usage": {"prompt_tokens": 141, "completion_tokens": 17, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Beveridge considers it so exemplary as to justify conquest of other regions, whereas Bryan warns that its exemplary quality would be undermined by imperial expansion.", "usage": {"prompt_tokens": 249, "completion_tokens": 43, "total_tokens": 292}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) deceptive, since economic domination would be the true goal of the American government.", "usage": {"prompt_tokens": 181, "completion_tokens": 24, "total_tokens": 205}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)achieve maximum growth.", "usage": {"prompt_tokens": 105, "completion_tokens": 11, "total_tokens": 116}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)comparable to Hartmann's original projection.", "usage": {"prompt_tokens": 155, "completion_tokens": 17, "total_tokens": 172}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Sample D", "usage": {"prompt_tokens": 104, "completion_tokens": 8, "total_tokens": 112}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Sample J", "usage": {"prompt_tokens": 100, "completion_tokens": 8, "total_tokens": 108}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)A woman takes an immediate dislike to her new employer.", "usage": {"prompt_tokens": 137, "completion_tokens": 19, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)unfriendly.", "usage": {"prompt_tokens": 100, "completion_tokens": 10, "total_tokens": 110}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 123, "completion_tokens": 6, "total_tokens": 129}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)active engagement.", "usage": {"prompt_tokens": 108, "completion_tokens": 10, "total_tokens": 118}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 126, "completion_tokens": 6, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 201, "completion_tokens": 6, "total_tokens": 207}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)The acquisition of flight in young birds sheds light on the acquisition of flight in their evolutionary ancestors.", "usage": {"prompt_tokens": 178, "completion_tokens": 30, "total_tokens": 208}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Their continual hopping motions.", "usage": {"prompt_tokens": 131, "completion_tokens": 15, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Their method of locomotion is similar to that of ground birds.", "usage": {"prompt_tokens": 148, "completion_tokens": 21, "total_tokens": 169}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 143, "completion_tokens": 6, "total_tokens": 149}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)receive an education comparable to that of men.", "usage": {"prompt_tokens": 129, "completion_tokens": 17, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) ensured equality for all people.", "usage": {"prompt_tokens": 125, "completion_tokens": 13, "total_tokens": 138}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Passage 2 restates in different terms the argument presented in Passage 1.", "usage": {"prompt_tokens": 157, "completion_tokens": 24, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) They generally enjoyed fewer rights than men did.", "usage": {"prompt_tokens": 138, "completion_tokens": 15, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 151, "completion_tokens": 1, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: D", "usage": {"prompt_tokens": 140, "completion_tokens": 3, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) will not be a good food source for honeybees in the control colonies.", "usage": {"prompt_tokens": 138, "completion_tokens": 24, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)100 percent", "usage": {"prompt_tokens": 116, "completion_tokens": 9, "total_tokens": 125}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Nosema ceranae infected the highest percentage of honeybee colonies without colony collapse disorder.", "usage": {"prompt_tokens": 127, "completion_tokens": 31, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) Yes, because for each pathogen, the percent of colonies infected is greater for colonies with colony collapse disorder than for colonies without colony collapse disorder.", "usage": {"prompt_tokens": 192, "completion_tokens": 43, "total_tokens": 235}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 145, "completion_tokens": 6, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 140, "completion_tokens": 6, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) he is preparing to leave the restaurant.", "usage": {"prompt_tokens": 126, "completion_tokens": 15, "total_tokens": 141}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) is the main idea of the last paragraph.", "usage": {"prompt_tokens": 130, "completion_tokens": 15, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Women are inferior to men, but women play a role as significant as that played by men.", "usage": {"prompt_tokens": 165, "completion_tokens": 26, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 153, "completion_tokens": 6, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Men and women should have equal opportunities to flourish.", "usage": {"prompt_tokens": 137, "completion_tokens": 19, "total_tokens": 156}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) They retain their moral authority regardless of whether they are recognized by law.", "usage": {"prompt_tokens": 135, "completion_tokens": 16, "total_tokens": 151}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Passage 2 elaborates upon several ideas implied in Passage 1.", "usage": {"prompt_tokens": 155, "completion_tokens": 23, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Political activism is as important for women as it is for men.", "usage": {"prompt_tokens": 135, "completion_tokens": 20, "total_tokens": 155}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)challenge the authenticity of previous data.", "usage": {"prompt_tokens": 128, "completion_tokens": 15, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 168, "completion_tokens": 6, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)displayed noticeably smaller hippocampal regions.", "usage": {"prompt_tokens": 136, "completion_tokens": 18, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)exercise their brains regularly through puzzles and other mental challenges.", "usage": {"prompt_tokens": 139, "completion_tokens": 22, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) The restorative power of parental love.", "usage": {"prompt_tokens": 120, "completion_tokens": 16, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)self-sufficiency.", "usage": {"prompt_tokens": 105, "completion_tokens": 12, "total_tokens": 117}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 212, "completion_tokens": 6, "total_tokens": 218}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) looks forward to a different kind of future.", "usage": {"prompt_tokens": 124, "completion_tokens": 15, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)expanding awareness and Silas's increasing engagement with life.", "usage": {"prompt_tokens": 158, "completion_tokens": 22, "total_tokens": 180}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)describe how squadrons of planes can save fuel by flying in a $\\mathrm{V}$ formation.", "usage": {"prompt_tokens": 169, "completion_tokens": 28, "total_tokens": 197}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Usherwood knew the ibises were familiar with carrying data loggers during migration.", "usage": {"prompt_tokens": 168, "completion_tokens": 25, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) They expend more energy than do ibises.", "usage": {"prompt_tokens": 148, "completion_tokens": 16, "total_tokens": 164}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Both sexes would be greatly harmed.", "usage": {"prompt_tokens": 136, "completion_tokens": 16, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) are matters of deeply entrenched tradition.", "usage": {"prompt_tokens": 135, "completion_tokens": 15, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (C) is the correct answer.", "usage": {"prompt_tokens": 131, "completion_tokens": 11, "total_tokens": 142}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) Tocqueville believes that an individual's economic class should determine that individual's position, while Mill believes that class is not a legitimate consideration.", "usage": {"prompt_tokens": 253, "completion_tokens": 40, "total_tokens": 293}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 175, "completion_tokens": 6, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Sempere was a friend of the book's author.", "usage": {"prompt_tokens": 162, "completion_tokens": 19, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 132, "completion_tokens": 6, "total_tokens": 138}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Sempere considers himself to be Dickens's most appreciative reader.", "usage": {"prompt_tokens": 151, "completion_tokens": 23, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 241, "completion_tokens": 6, "total_tokens": 247}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) They were founded on an assumption that slavery was necessary for economic growth.", "usage": {"prompt_tokens": 157, "completion_tokens": 21, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 177, "completion_tokens": 6, "total_tokens": 183}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Douglas expresses concerns about the economic impact of abolition, but Lincoln dismisses those concerns as irrelevant.", "usage": {"prompt_tokens": 193, "completion_tokens": 29, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) questions of morality.", "usage": {"prompt_tokens": 105, "completion_tokens": 11, "total_tokens": 116}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)discuss findings that offer a scientific explanation for the Venus flytrap's closing action.", "usage": {"prompt_tokens": 164, "completion_tokens": 27, "total_tokens": 191}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) prevents the plant from closing before capturing its prey.", "usage": {"prompt_tokens": 143, "completion_tokens": 18, "total_tokens": 161}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)The second trigger stabilizes the surge of calcium ions created by the first trigger.", "usage": {"prompt_tokens": 177, "completion_tokens": 25, "total_tokens": 202}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)A large insect makes contact with a second trigger hair after a period of inactivity during which calcium ion concentrations have diminished appreciably.", "usage": {"prompt_tokens": 209, "completion_tokens": 35, "total_tokens": 244}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Volkov's measurements did not corroborate a central element of Hodick and Sievers's model.", "usage": {"prompt_tokens": 182, "completion_tokens": 31, "total_tokens": 213}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "B) Analysis of data collected from previous researchers' work involving the Venus flytrap's response to electricity.", "usage": {"prompt_tokens": 160, "completion_tokens": 26, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 170, "completion_tokens": 6, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 112, "completion_tokens": 6, "total_tokens": 118}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 121, "completion_tokens": 6, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 121, "completion_tokens": 6, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) offers a larger space for presenting products.", "usage": {"prompt_tokens": 143, "completion_tokens": 15, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)argue that the causes of abolition and women's rights are continuations of the spirit of the American Revolution.", "usage": {"prompt_tokens": 170, "completion_tokens": 30, "total_tokens": 200}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 172, "completion_tokens": 6, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 133, "completion_tokens": 6, "total_tokens": 139}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 142, "completion_tokens": 1, "total_tokens": 143}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) The Northern states would have to provide financial assistance to the rebelling slaves.", "usage": {"prompt_tokens": 160, "completion_tokens": 21, "total_tokens": 181}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 135, "completion_tokens": 6, "total_tokens": 141}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)", "usage": {"prompt_tokens": 147, "completion_tokens": 6, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 183, "completion_tokens": 6, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)It shows that conventional methods can still yield new types of antibiotics.", "usage": {"prompt_tokens": 170, "completion_tokens": 22, "total_tokens": 192}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 187, "completion_tokens": 6, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Passage 2 takes a dismissive stance regarding the findings mentioned in Passage 1.", "usage": {"prompt_tokens": 163, "completion_tokens": 27, "total_tokens": 190}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) shaping a new method of studying the effectiveness of antibiotics.", "usage": {"prompt_tokens": 150, "completion_tokens": 22, "total_tokens": 172}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Teixobactin attacked the proteins of the bacteria that caused their upper respiratory tract infections.", "usage": {"prompt_tokens": 198, "completion_tokens": 32, "total_tokens": 230}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 138, "completion_tokens": 6, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 129, "completion_tokens": 6, "total_tokens": 135}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 156, "completion_tokens": 6, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)enhance an existing idea by improvising technical innovations for artworks.", "usage": {"prompt_tokens": 151, "completion_tokens": 23, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 121, "completion_tokens": 6, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)The second study confirms a hypothesis that they were unable to confirm in the first study.", "usage": {"prompt_tokens": 162, "completion_tokens": 24, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) is correct. The economic impact of a megacity is dependent on the types of companies located in the megacity.", "usage": {"prompt_tokens": 144, "completion_tokens": 29, "total_tokens": 173}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)2005–2010", "usage": {"prompt_tokens": 139, "completion_tokens": 14, "total_tokens": 153}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 204, "completion_tokens": 6, "total_tokens": 210}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)It has nearly tripled in size in the last few million years.", "usage": {"prompt_tokens": 151, "completion_tokens": 20, "total_tokens": 171}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 172, "completion_tokens": 6, "total_tokens": 178}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Passage 1 focuses on small-scale genetic changes that influenced brain evolution, while Passage 2 focuses on the influence of large-scale population-level changes.", "usage": {"prompt_tokens": 222, "completion_tokens": 43, "total_tokens": 265}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (B)chimpanzees.", "usage": {"prompt_tokens": 109, "completion_tokens": 10, "total_tokens": 119}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 152, "completion_tokens": 6, "total_tokens": 158}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) allows the government to evade the obligation to be answerable for its policies.", "usage": {"prompt_tokens": 169, "completion_tokens": 24, "total_tokens": 193}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) The regret it has expressed for the injustices it committed against indigenous peoples.", "usage": {"prompt_tokens": 158, "completion_tokens": 26, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)funded such programs as generously as it funds programs benefiting nonindigenous people.", "usage": {"prompt_tokens": 174, "completion_tokens": 25, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 177, "completion_tokens": 6, "total_tokens": 183}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 170, "completion_tokens": 6, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) there were originally about as many primitive asteroids as differentiated asteroids in the asteroid belt.", "usage": {"prompt_tokens": 192, "completion_tokens": 27, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 202, "completion_tokens": 6, "total_tokens": 208}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)low in reflectivity.", "usage": {"prompt_tokens": 116, "completion_tokens": 11, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D) Two of them are the same type.", "usage": {"prompt_tokens": 137, "completion_tokens": 13, "total_tokens": 150}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)They once comprised a smaller portion of the asteroid belt than type V asteroids did.", "usage": {"prompt_tokens": 157, "completion_tokens": 26, "total_tokens": 183}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 156, "completion_tokens": 6, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)He admires Gallaher’s rise to fame but is thankful that he himself lives a relatively inconspicuous life.", "usage": {"prompt_tokens": 189, "completion_tokens": 33, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 140, "completion_tokens": 6, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)He immerses himself in sights and sounds that strike him as ultimately frivolous.", "usage": {"prompt_tokens": 169, "completion_tokens": 26, "total_tokens": 195}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 193, "completion_tokens": 6, "total_tokens": 199}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 196, "completion_tokens": 6, "total_tokens": 202}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 167, "completion_tokens": 6, "total_tokens": 173}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)exhibit behavior that is potentially threatening to humans.", "usage": {"prompt_tokens": 136, "completion_tokens": 18, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) Photographic technology has improved in its ability to detect animals in remote environments.", "usage": {"prompt_tokens": 168, "completion_tokens": 21, "total_tokens": 189}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Assumption of stability in population growth over time that is not supported by data.", "usage": {"prompt_tokens": 162, "completion_tokens": 22, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Passage 2 challenges the reliability of research results discussed in Passage 1.", "usage": {"prompt_tokens": 159, "completion_tokens": 25, "total_tokens": 184}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) beginning to return to the levels recorded in 2010.", "usage": {"prompt_tokens": 143, "completion_tokens": 20, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) may lead people to believe that tigers are recovering when in fact they continue to require vigilant protection.", "usage": {"prompt_tokens": 180, "completion_tokens": 30, "total_tokens": 210}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 125, "completion_tokens": 6, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)bring to light inconsistencies within the current political system.", "usage": {"prompt_tokens": 135, "completion_tokens": 19, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 130, "completion_tokens": 6, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 138, "completion_tokens": 6, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 170, "completion_tokens": 6, "total_tokens": 176}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 143, "completion_tokens": 6, "total_tokens": 149}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 151, "completion_tokens": 6, "total_tokens": 157}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 157, "completion_tokens": 6, "total_tokens": 163}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)responses of any individual chick to the model were influenced by the responses of other chicks in the same group.", "usage": {"prompt_tokens": 192, "completion_tokens": 30, "total_tokens": 222}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 146, "completion_tokens": 6, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 230, "completion_tokens": 6, "total_tokens": 236}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) 3.6.", "usage": {"prompt_tokens": 116, "completion_tokens": 11, "total_tokens": 127}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)After the first success at acquiring prey, a few of them ceased using the technique altogether.", "usage": {"prompt_tokens": 172, "completion_tokens": 26, "total_tokens": 198}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) Quisqueya dyes her hair.", "usage": {"prompt_tokens": 144, "completion_tokens": 15, "total_tokens": 159}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)The narrator’s daughter attends school with Mayor.", "usage": {"prompt_tokens": 161, "completion_tokens": 18, "total_tokens": 179}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) How long have the narrator and her family lived in the United States?", "usage": {"prompt_tokens": 152, "completion_tokens": 21, "total_tokens": 173}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 148, "completion_tokens": 6, "total_tokens": 154}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 213, "completion_tokens": 6, "total_tokens": 219}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 188, "completion_tokens": 6, "total_tokens": 194}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "D", "usage": {"prompt_tokens": 165, "completion_tokens": 1, "total_tokens": 166}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 154, "completion_tokens": 6, "total_tokens": 160}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) has been the subject of a smaller number of scientific investigations.", "usage": {"prompt_tokens": 143, "completion_tokens": 19, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 132, "completion_tokens": 6, "total_tokens": 138}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)ignore the advice of former leaders.", "usage": {"prompt_tokens": 125, "completion_tokens": 13, "total_tokens": 138}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)sensible, but are likely to be undermined.", "usage": {"prompt_tokens": 137, "completion_tokens": 18, "total_tokens": 155}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) left their government essentially unchanged for hundreds of years.", "usage": {"prompt_tokens": 135, "completion_tokens": 17, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) The leaders of France’s former government.", "usage": {"prompt_tokens": 116, "completion_tokens": 15, "total_tokens": 131}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)High levels of osmium, which is rare on Earth but relatively common in asteroids, are observed in the geologic record from approximately 13,000 years ago.", "usage": {"prompt_tokens": 228, "completion_tokens": 45, "total_tokens": 273}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: C", "usage": {"prompt_tokens": 131, "completion_tokens": 3, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) High concentrations of iridium that have been found in sedimentary layers beneath the proposed impact layer.", "usage": {"prompt_tokens": 186, "completion_tokens": 28, "total_tokens": 214}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Passage 2 identifies evidence in favor of the central hypothesis advanced in Passage 1.", "usage": {"prompt_tokens": 161, "completion_tokens": 26, "total_tokens": 187}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 118, "completion_tokens": 6, "total_tokens": 124}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) They are a product of the global cooling that occurred during the Younger Dryas period.", "usage": {"prompt_tokens": 184, "completion_tokens": 26, "total_tokens": 210}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)", "usage": {"prompt_tokens": 138, "completion_tokens": 6, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)Harouni sees bene\u001dt to himself from giving Nawab a motorcycle.", "usage": {"prompt_tokens": 172, "completion_tokens": 24, "total_tokens": 196}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)indifference.", "usage": {"prompt_tokens": 102, "completion_tokens": 9, "total_tokens": 111}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)He can spend more time with his wife.", "usage": {"prompt_tokens": 129, "completion_tokens": 15, "total_tokens": 144}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (A)analyze the technological developments that have affected the production, circulation, and reception of news stories.", "usage": {"prompt_tokens": 147, "completion_tokens": 27, "total_tokens": 174}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) They should be committed to bringing about positive social change.", "usage": {"prompt_tokens": 132, "completion_tokens": 17, "total_tokens": 149}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) details that the subjects of news reports wish to keep private.", "usage": {"prompt_tokens": 127, "completion_tokens": 18, "total_tokens": 145}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)2011", "usage": {"prompt_tokens": 105, "completion_tokens": 9, "total_tokens": 114}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)Between 2007 and 2011, people’s perception that news organizations are accurate increased, but people’s perception that news organizations are fair diminished.", "usage": {"prompt_tokens": 217, "completion_tokens": 47, "total_tokens": 264}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer: (D)Random sampling", "usage": {"prompt_tokens": 105, "completion_tokens": 7, "total_tokens": 112}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B)", "usage": {"prompt_tokens": 161, "completion_tokens": 6, "total_tokens": 167}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D) emitted more varied fragrant compounds.", "usage": {"prompt_tokens": 130, "completion_tokens": 16, "total_tokens": 146}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 180, "completion_tokens": 6, "total_tokens": 186}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) It undermines and repudiates the nation’s values.", "usage": {"prompt_tokens": 132, "completion_tokens": 20, "total_tokens": 152}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 126, "completion_tokens": 6, "total_tokens": 132}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A)make an argument about the difference between legal duties and moral imperatives.", "usage": {"prompt_tokens": 142, "completion_tokens": 20, "total_tokens": 162}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (A) both authors see the cause as warranting drastic action.", "usage": {"prompt_tokens": 147, "completion_tokens": 19, "total_tokens": 166}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (B) Scientist comparing competing research methods.", "usage": {"prompt_tokens": 120, "completion_tokens": 14, "total_tokens": 134}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)", "usage": {"prompt_tokens": 120, "completion_tokens": 6, "total_tokens": 126}, "finish_reason": "stop", "model": "Alpaca-7B"}
+{"text": "Answer Choice (D)introduce a potential new area of study.", "usage": {"prompt_tokens": 120, "completion_tokens": 16, "total_tokens": 136}, "finish_reason": "stop", "model": "Alpaca-7B"}

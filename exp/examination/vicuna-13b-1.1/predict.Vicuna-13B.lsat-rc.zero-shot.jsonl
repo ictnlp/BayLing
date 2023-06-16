@@ -1,0 +1,269 @@
+{"text": "Answer is choice (D) Lawyers should be mindful of their duty to society as well as to their clients and base the decision as to whether, and how, to defend a client on the facts of the case.", "usage": {"prompt_tokens": 871, "completion_tokens": 46, "total_tokens": 917}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) confident that it enables defense lawyers to balance their competing responsibilities to the court and to society.", "usage": {"prompt_tokens": 787, "completion_tokens": 29, "total_tokens": 816}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 869, "completion_tokens": 6, "total_tokens": 875}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) a diligent representative of the client's position.", "usage": {"prompt_tokens": 758, "completion_tokens": 17, "total_tokens": 775}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) agreement in general with the earlier position but disagreement over the particulars.", "usage": {"prompt_tokens": 771, "completion_tokens": 22, "total_tokens": 793}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 754, "completion_tokens": 6, "total_tokens": 760}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 774, "completion_tokens": 6, "total_tokens": 780}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 944, "completion_tokens": 6, "total_tokens": 950}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 867, "completion_tokens": 6, "total_tokens": 873}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 848, "completion_tokens": 6, "total_tokens": 854}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 830, "completion_tokens": 6, "total_tokens": 836}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) a study that employs the methods of Western science to investigate a nonscientific culture.", "usage": {"prompt_tokens": 867, "completion_tokens": 26, "total_tokens": 893}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) Genuine understanding of another culture is necessary for adequately appreciating that culture.", "usage": {"prompt_tokens": 871, "completion_tokens": 24, "total_tokens": 895}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Early Native Americans created autobiographies with forms and underlying assumptions that frequently differ from those of European-style autobiographies.", "usage": {"prompt_tokens": 901, "completion_tokens": 33, "total_tokens": 934}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) \"failed to address\".", "usage": {"prompt_tokens": 830, "completion_tokens": 11, "total_tokens": 841}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 879, "completion_tokens": 6, "total_tokens": 885}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) to provide examples that support an argument.", "usage": {"prompt_tokens": 806, "completion_tokens": 14, "total_tokens": 820}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 853, "completion_tokens": 6, "total_tokens": 859}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 863, "completion_tokens": 6, "total_tokens": 869}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 915, "completion_tokens": 6, "total_tokens": 921}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 827, "completion_tokens": 6, "total_tokens": 833}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 816, "completion_tokens": 6, "total_tokens": 822}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 898, "completion_tokens": 6, "total_tokens": 904}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 863, "completion_tokens": 6, "total_tokens": 869}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 766, "completion_tokens": 6, "total_tokens": 772}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) correcting a scientific misconception.", "usage": {"prompt_tokens": 767, "completion_tokens": 14, "total_tokens": 781}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 828, "completion_tokens": 6, "total_tokens": 834}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1036, "completion_tokens": 6, "total_tokens": 1042}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C).", "usage": {"prompt_tokens": 887, "completion_tokens": 6, "total_tokens": 893}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C).", "usage": {"prompt_tokens": 1024, "completion_tokens": 6, "total_tokens": 1030}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) necessary.", "usage": {"prompt_tokens": 798, "completion_tokens": 8, "total_tokens": 806}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 940, "completion_tokens": 6, "total_tokens": 946}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 952, "completion_tokens": 6, "total_tokens": 958}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) the use of psychological statistics in court cases.", "usage": {"prompt_tokens": 831, "completion_tokens": 16, "total_tokens": 847}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 998, "completion_tokens": 6, "total_tokens": 1004}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) appreciation for its ability to incorporate both realism and naivete.", "usage": {"prompt_tokens": 809, "completion_tokens": 22, "total_tokens": 831}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 831, "completion_tokens": 6, "total_tokens": 837}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) a painting that depicts products as they appear in magazine advertisements to comment on society's values.", "usage": {"prompt_tokens": 853, "completion_tokens": 29, "total_tokens": 882}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 863, "completion_tokens": 6, "total_tokens": 869}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 788, "completion_tokens": 6, "total_tokens": 794}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 838, "completion_tokens": 6, "total_tokens": 844}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 808, "completion_tokens": 6, "total_tokens": 814}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) increased access to databases.", "usage": {"prompt_tokens": 719, "completion_tokens": 11, "total_tokens": 730}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) participation in the regulation of society through either public or private institutions.", "usage": {"prompt_tokens": 746, "completion_tokens": 20, "total_tokens": 766}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 834, "completion_tokens": 6, "total_tokens": 840}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 800, "completion_tokens": 6, "total_tokens": 806}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 800, "completion_tokens": 6, "total_tokens": 806}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1036, "completion_tokens": 6, "total_tokens": 1042}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) optimism about its potential applications.", "usage": {"prompt_tokens": 842, "completion_tokens": 13, "total_tokens": 855}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 879, "completion_tokens": 6, "total_tokens": 885}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 833, "completion_tokens": 6, "total_tokens": 839}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1015, "completion_tokens": 6, "total_tokens": 1021}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 859, "completion_tokens": 6, "total_tokens": 865}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 920, "completion_tokens": 6, "total_tokens": 926}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 774, "completion_tokens": 6, "total_tokens": 780}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 941, "completion_tokens": 6, "total_tokens": 947}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 890, "completion_tokens": 6, "total_tokens": 896}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 797, "completion_tokens": 6, "total_tokens": 803}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 832, "completion_tokens": 6, "total_tokens": 838}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 810, "completion_tokens": 6, "total_tokens": 816}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 754, "completion_tokens": 6, "total_tokens": 760}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 779, "completion_tokens": 6, "total_tokens": 785}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 763, "completion_tokens": 6, "total_tokens": 769}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 769, "completion_tokens": 6, "total_tokens": 775}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 813, "completion_tokens": 6, "total_tokens": 819}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 974, "completion_tokens": 6, "total_tokens": 980}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 955, "completion_tokens": 6, "total_tokens": 961}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) misinterpreting the interests that motivate human actions.", "usage": {"prompt_tokens": 883, "completion_tokens": 18, "total_tokens": 901}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 885, "completion_tokens": 6, "total_tokens": 891}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 962, "completion_tokens": 6, "total_tokens": 968}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Genes may promote their self-propagation through actions that appear unselfish.", "usage": {"prompt_tokens": 937, "completion_tokens": 24, "total_tokens": 961}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 968, "completion_tokens": 6, "total_tokens": 974}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 888, "completion_tokens": 6, "total_tokens": 894}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 802, "completion_tokens": 6, "total_tokens": 808}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 782, "completion_tokens": 6, "total_tokens": 788}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 759, "completion_tokens": 6, "total_tokens": 765}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 782, "completion_tokens": 6, "total_tokens": 788}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 816, "completion_tokens": 6, "total_tokens": 822}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) A work of literature that is well written cannot serve any particular political view.", "usage": {"prompt_tokens": 797, "completion_tokens": 21, "total_tokens": 818}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) recognize the full significance of artistic merit when evaluating literary works.", "usage": {"prompt_tokens": 792, "completion_tokens": 21, "total_tokens": 813}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 824, "completion_tokens": 6, "total_tokens": 830}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) the price paid to have books printed and bound.", "usage": {"prompt_tokens": 742, "completion_tokens": 16, "total_tokens": 758}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 798, "completion_tokens": 6, "total_tokens": 804}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) having unsold books returned to publishers.", "usage": {"prompt_tokens": 714, "completion_tokens": 15, "total_tokens": 729}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) There will be significantly less demand by publishers for the services of copy editors and book designers.", "usage": {"prompt_tokens": 778, "completion_tokens": 27, "total_tokens": 805}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 799, "completion_tokens": 6, "total_tokens": 805}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 752, "completion_tokens": 6, "total_tokens": 758}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) There are a number of fundamental problems in the field of fingerprint identification as it is currently practiced.", "usage": {"prompt_tokens": 901, "completion_tokens": 27, "total_tokens": 928}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) the relative merits of the point-counting and holistic methods of fingerprint identification.", "usage": {"prompt_tokens": 868, "completion_tokens": 25, "total_tokens": 893}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 851, "completion_tokens": 6, "total_tokens": 857}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) the partial or smudged prints that are typically used as evidence in criminal cases.", "usage": {"prompt_tokens": 863, "completion_tokens": 23, "total_tokens": 886}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) Fingerprint examiners must follow objective standards if fingerprint identification is to be reliable.", "usage": {"prompt_tokens": 905, "completion_tokens": 25, "total_tokens": 930}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 860, "completion_tokens": 6, "total_tokens": 866}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) tentative in its claims.", "usage": {"prompt_tokens": 811, "completion_tokens": 12, "total_tokens": 823}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 933, "completion_tokens": 6, "total_tokens": 939}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 915, "completion_tokens": 6, "total_tokens": 921}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 906, "completion_tokens": 6, "total_tokens": 912}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 835, "completion_tokens": 6, "total_tokens": 841}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 831, "completion_tokens": 6, "total_tokens": 837}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 932, "completion_tokens": 6, "total_tokens": 938}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 923, "completion_tokens": 6, "total_tokens": 929}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 834, "completion_tokens": 6, "total_tokens": 840}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 861, "completion_tokens": 6, "total_tokens": 867}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 889, "completion_tokens": 6, "total_tokens": 895}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) the fact that the sum of the number of protons and neutrons in the nuclei of barium and technetium was the same as the number of these particles in a uranium nucleus.", "usage": {"prompt_tokens": 953, "completion_tokens": 49, "total_tokens": 1002}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) Physicists conducted experiments in the neutron bombardment of some substance other than uranium.", "usage": {"prompt_tokens": 965, "completion_tokens": 28, "total_tokens": 993}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) It neglected earlier theoretical developments.", "usage": {"prompt_tokens": 873, "completion_tokens": 14, "total_tokens": 887}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) The corrido is a type of folk song that promotes cohesiveness in Border communities through the use of familiar conventions.", "usage": {"prompt_tokens": 898, "completion_tokens": 32, "total_tokens": 930}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) use of a formal closing verse.", "usage": {"prompt_tokens": 808, "completion_tokens": 13, "total_tokens": 821}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 832, "completion_tokens": 6, "total_tokens": 838}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) stampedes.", "usage": {"prompt_tokens": 792, "completion_tokens": 9, "total_tokens": 801}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) identify an element common to all variants of a particular corrido.", "usage": {"prompt_tokens": 839, "completion_tokens": 19, "total_tokens": 858}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 843, "completion_tokens": 6, "total_tokens": 849}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 886, "completion_tokens": 6, "total_tokens": 892}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 934, "completion_tokens": 6, "total_tokens": 940}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) to avoid contact with the dangerous parts of the plant.", "usage": {"prompt_tokens": 784, "completion_tokens": 17, "total_tokens": 801}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 785, "completion_tokens": 6, "total_tokens": 791}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 899, "completion_tokens": 6, "total_tokens": 905}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 1003, "completion_tokens": 6, "total_tokens": 1009}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Some of them are the results of recent natural mutations in plants.", "usage": {"prompt_tokens": 809, "completion_tokens": 20, "total_tokens": 829}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 923, "completion_tokens": 6, "total_tokens": 929}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) Economists have, until somewhat recently, failed to account for the increasing returns to scale common in many industries.", "usage": {"prompt_tokens": 823, "completion_tokens": 29, "total_tokens": 852}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) receptivity. The author's attitude towards the idea that the Pin Factory model should be part of the mainstream of economic thought is one of receptivity. The author acknowledges the struggle between the Pin Factory and the Invisible Hand and the difficulty in incorporating the Pin Factory model into economic theory due to its lack of mathematical rigor. However, the author notes that economists have made progress in describing the Pin Factory with the rigor needed to make it respectable, and that it has finally surfaced into the mainstream of economic thought in the late 1970s.", "usage": {"prompt_tokens": 731, "completion_tokens": 129, "total_tokens": 860}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) describe the tensions resulting from attempts to model two competing economic assumptions.", "usage": {"prompt_tokens": 757, "completion_tokens": 21, "total_tokens": 778}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A). The passage states that the Pin Factory model, which represents the idea that increasing returns to scale can lead to monopolies, has historically been an \"underground river\" in economic thought because it is difficult to represent mathematically. The passage goes on to say that economics has always had scientific aspirations and that the fact that economics has always sought rigor and clarity in its ideas is one of the reasons why the Pin Factory model has not been fully incorporated into mainstream economic thought. The passage also mentions that economists have only recently found ways to describe the Pin Factory model with mathematical rigor, which has allowed it to become more respectable in economic thought. Therefore, choice (A) is the best answer.", "usage": {"prompt_tokens": 790, "completion_tokens": 156, "total_tokens": 946}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 788, "completion_tokens": 6, "total_tokens": 794}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 945, "completion_tokens": 6, "total_tokens": 951}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C). The passage states that the Pin Factory model's long-standing failure to gain prominence among economists was not a problem of ideology, but rather a problem of mathematical rigor. Economics has always had scientific aspirations and has sought to represent its ideas using numbers and equations, but the economics of increasing returns, such as the Pin Factory model, are notoriously hard to represent mathematically. Many economists tried to bring the Pin Factory model into the mainstream of economic thought, but they repeatedly failed because they could not state their ideas rigorously enough until the late 1970s.", "usage": {"prompt_tokens": 799, "completion_tokens": 134, "total_tokens": 933}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 886, "completion_tokens": 6, "total_tokens": 892}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) loopholes.", "usage": {"prompt_tokens": 810, "completion_tokens": 10, "total_tokens": 820}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) The only reasonable solution to the problem of overdue water bills in the city is to enact a law that classifies water bills as taxes.", "usage": {"prompt_tokens": 930, "completion_tokens": 38, "total_tokens": 968}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) \"discretionary\".", "usage": {"prompt_tokens": 868, "completion_tokens": 12, "total_tokens": 880}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) A better plan would have been to place liens on the properties owned by those who are late paying their bills.", "usage": {"prompt_tokens": 952, "completion_tokens": 31, "total_tokens": 983}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) not following the intent of the legislature in enforcing the law.", "usage": {"prompt_tokens": 887, "completion_tokens": 20, "total_tokens": 907}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 949, "completion_tokens": 6, "total_tokens": 955}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 890, "completion_tokens": 6, "total_tokens": 896}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 895, "completion_tokens": 6, "total_tokens": 901}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 914, "completion_tokens": 6, "total_tokens": 920}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 869, "completion_tokens": 6, "total_tokens": 875}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 874, "completion_tokens": 6, "total_tokens": 880}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 945, "completion_tokens": 6, "total_tokens": 951}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 906, "completion_tokens": 6, "total_tokens": 912}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 810, "completion_tokens": 6, "total_tokens": 816}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Most experts in the field of dance are too preoccupied to conduct studies in the field of dance ethnology.", "usage": {"prompt_tokens": 855, "completion_tokens": 31, "total_tokens": 886}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 833, "completion_tokens": 6, "total_tokens": 839}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 829, "completion_tokens": 6, "total_tokens": 835}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 963, "completion_tokens": 6, "total_tokens": 969}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 889, "completion_tokens": 6, "total_tokens": 895}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) the human desire to create value.", "usage": {"prompt_tokens": 828, "completion_tokens": 13, "total_tokens": 841}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) The overall level of happiness in a society usually increases as the society becomes wealthier.", "usage": {"prompt_tokens": 893, "completion_tokens": 23, "total_tokens": 916}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) unflattering in its implications about human nature but more or less valid in the conclusions drawn from the evidence.", "usage": {"prompt_tokens": 901, "completion_tokens": 31, "total_tokens": 932}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 899, "completion_tokens": 6, "total_tokens": 905}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 844, "completion_tokens": 6, "total_tokens": 850}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 845, "completion_tokens": 6, "total_tokens": 851}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 883, "completion_tokens": 6, "total_tokens": 889}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) a belief as to whether the risk is incurred voluntarily or involuntarily.", "usage": {"prompt_tokens": 791, "completion_tokens": 24, "total_tokens": 815}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) traveling in airplanes.", "usage": {"prompt_tokens": 746, "completion_tokens": 13, "total_tokens": 759}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 875, "completion_tokens": 6, "total_tokens": 881}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 808, "completion_tokens": 6, "total_tokens": 814}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 817, "completion_tokens": 6, "total_tokens": 823}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 830, "completion_tokens": 6, "total_tokens": 836}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Great perfumes are works of art and deserve respect and attention as such.", "usage": {"prompt_tokens": 867, "completion_tokens": 22, "total_tokens": 889}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 855, "completion_tokens": 6, "total_tokens": 861}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) perfumers.", "usage": {"prompt_tokens": 772, "completion_tokens": 10, "total_tokens": 782}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) A work of art can bring about an aesthetic experience through the memories that it evokes.", "usage": {"prompt_tokens": 824, "completion_tokens": 28, "total_tokens": 852}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 840, "completion_tokens": 6, "total_tokens": 846}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) a business executive who convinces her company to invest in art merely for the sake of tax benefits.", "usage": {"prompt_tokens": 859, "completion_tokens": 26, "total_tokens": 885}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 829, "completion_tokens": 6, "total_tokens": 835}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 922, "completion_tokens": 6, "total_tokens": 928}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 917, "completion_tokens": 6, "total_tokens": 923}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 868, "completion_tokens": 6, "total_tokens": 874}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) jurors' desire to arrive at a firm view regarding the case they are hearing.", "usage": {"prompt_tokens": 847, "completion_tokens": 23, "total_tokens": 870}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 877, "completion_tokens": 6, "total_tokens": 883}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 850, "completion_tokens": 6, "total_tokens": 856}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 864, "completion_tokens": 6, "total_tokens": 870}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 937, "completion_tokens": 6, "total_tokens": 943}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) The decision should be based on careful deliberations that anticipate both positive and negative reactions of jurors and opposing lawyers.", "usage": {"prompt_tokens": 883, "completion_tokens": 34, "total_tokens": 917}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 803, "completion_tokens": 6, "total_tokens": 809}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) self-delusion.", "usage": {"prompt_tokens": 739, "completion_tokens": 11, "total_tokens": 750}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 802, "completion_tokens": 6, "total_tokens": 808}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) dismissive.", "usage": {"prompt_tokens": 735, "completion_tokens": 9, "total_tokens": 744}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 937, "completion_tokens": 6, "total_tokens": 943}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 819, "completion_tokens": 6, "total_tokens": 825}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 886, "completion_tokens": 6, "total_tokens": 892}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 877, "completion_tokens": 6, "total_tokens": 883}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B).", "usage": {"prompt_tokens": 871, "completion_tokens": 6, "total_tokens": 877}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 876, "completion_tokens": 6, "total_tokens": 882}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Variations in the influence of Mexican American leaders over the Mexican American population at large account in part for variations in ethnic consciousness.", "usage": {"prompt_tokens": 848, "completion_tokens": 33, "total_tokens": 881}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 896, "completion_tokens": 6, "total_tokens": 902}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 848, "completion_tokens": 6, "total_tokens": 854}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 817, "completion_tokens": 6, "total_tokens": 823}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 818, "completion_tokens": 6, "total_tokens": 824}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) the depiction of emotional states that had never been captured in music before.", "usage": {"prompt_tokens": 811, "completion_tokens": 22, "total_tokens": 833}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 880, "completion_tokens": 6, "total_tokens": 886}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 882, "completion_tokens": 6, "total_tokens": 888}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) Funding for scientific research projects should depend at least in part on the commercial potential of those projects.", "usage": {"prompt_tokens": 845, "completion_tokens": 26, "total_tokens": 871}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 863, "completion_tokens": 6, "total_tokens": 869}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 885, "completion_tokens": 6, "total_tokens": 891}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B). The author refers to the early days of biotechnology primarily in order to establish that present competitive practices in biotechnology research are not entirely unprecedented. The author notes that even in the early days of biotechnology, some researchers took measures to prevent competitors from gaining access to materials they had created, and suggests that this is evidence that the communal tradition of freely sharing research materials has shifted to a market model. The author goes on to argue that while some researchers may fear that patenting biotechnology will result in restrictions on access to research materials, in reality, whether a patent could or would be enforced against a researcher, particularly one conducting basic and noncommercial research, is questionable. The author suggests that patents will actually spur rather than hinder basic research, because patents provide scientists with a compelling incentive to innovate.", "usage": {"prompt_tokens": 834, "completion_tokens": 199, "total_tokens": 1033}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 876, "completion_tokens": 6, "total_tokens": 882}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 918, "completion_tokens": 6, "total_tokens": 924}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 1071, "completion_tokens": 6, "total_tokens": 1077}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) a type of knowledge that was encoded and passed on through the use of wampum.", "usage": {"prompt_tokens": 890, "completion_tokens": 24, "total_tokens": 914}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) illustrate how wampum functioned as a system of symbolic representation.", "usage": {"prompt_tokens": 906, "completion_tokens": 21, "total_tokens": 927}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 1000, "completion_tokens": 6, "total_tokens": 1006}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 985, "completion_tokens": 6, "total_tokens": 991}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 982, "completion_tokens": 6, "total_tokens": 988}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) the role of auxiliary assumptions in predicting planetary orbits.", "usage": {"prompt_tokens": 824, "completion_tokens": 20, "total_tokens": 844}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) revising a theory.", "usage": {"prompt_tokens": 804, "completion_tokens": 11, "total_tokens": 815}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Mercury.", "usage": {"prompt_tokens": 797, "completion_tokens": 9, "total_tokens": 806}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 841, "completion_tokens": 6, "total_tokens": 847}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) the success of Einstein's general theory of relativity at predicting Mercury's orbit.", "usage": {"prompt_tokens": 857, "completion_tokens": 27, "total_tokens": 884}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Uranus.", "usage": {"prompt_tokens": 816, "completion_tokens": 10, "total_tokens": 826}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) There is a logical asymmetry between positive and negative evidence.", "usage": {"prompt_tokens": 863, "completion_tokens": 19, "total_tokens": 882}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Bernard Brunhes discovered rocks that were magnetized in a direction opposite to that of the present-day magnetic field. He concluded that Earth's magnetic field must have been reversed at some point in the past.", "usage": {"prompt_tokens": 1094, "completion_tokens": 49, "total_tokens": 1143}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) permissive.", "usage": {"prompt_tokens": 802, "completion_tokens": 10, "total_tokens": 812}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) more confident in the ability of juries to exercise the power to nullify in a just manner.", "usage": {"prompt_tokens": 881, "completion_tokens": 26, "total_tokens": 907}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 962, "completion_tokens": 6, "total_tokens": 968}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 871, "completion_tokens": 6, "total_tokens": 877}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C).", "usage": {"prompt_tokens": 919, "completion_tokens": 6, "total_tokens": 925}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) Passage A offers a critique of a power possessed by juries, while passage B argues in support of that power.", "usage": {"prompt_tokens": 906, "completion_tokens": 31, "total_tokens": 937}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 898, "completion_tokens": 6, "total_tokens": 904}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 790, "completion_tokens": 6, "total_tokens": 796}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) disappointment.", "usage": {"prompt_tokens": 748, "completion_tokens": 9, "total_tokens": 757}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) patrons who unwillingly bought artwork that conflicted with their values.", "usage": {"prompt_tokens": 816, "completion_tokens": 22, "total_tokens": 838}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 859, "completion_tokens": 6, "total_tokens": 865}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 785, "completion_tokens": 6, "total_tokens": 791}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 835, "completion_tokens": 6, "total_tokens": 841}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) a realization that patronage ensures the production of high-quality art.", "usage": {"prompt_tokens": 809, "completion_tokens": 22, "total_tokens": 831}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1080, "completion_tokens": 6, "total_tokens": 1086}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) Religious rituals were probably less important to the society's members than agriculture and trade were.", "usage": {"prompt_tokens": 925, "completion_tokens": 27, "total_tokens": 952}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) eventual", "usage": {"prompt_tokens": 878, "completion_tokens": 8, "total_tokens": 886}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 901, "completion_tokens": 6, "total_tokens": 907}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) the inscriptions refer to general categories rather than specific things.", "usage": {"prompt_tokens": 906, "completion_tokens": 19, "total_tokens": 925}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 887, "completion_tokens": 6, "total_tokens": 893}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 975, "completion_tokens": 6, "total_tokens": 981}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 1017, "completion_tokens": 6, "total_tokens": 1023}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D).", "usage": {"prompt_tokens": 932, "completion_tokens": 6, "total_tokens": 938}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 992, "completion_tokens": 6, "total_tokens": 998}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 943, "completion_tokens": 6, "total_tokens": 949}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C) testing the chemical to determine whether it would chemically react with chlorine.", "usage": {"prompt_tokens": 960, "completion_tokens": 22, "total_tokens": 982}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 974, "completion_tokens": 6, "total_tokens": 980}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) a thought experiment.", "usage": {"prompt_tokens": 738, "completion_tokens": 10, "total_tokens": 748}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 758, "completion_tokens": 6, "total_tokens": 764}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 752, "completion_tokens": 6, "total_tokens": 758}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C).", "usage": {"prompt_tokens": 836, "completion_tokens": 6, "total_tokens": 842}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 797, "completion_tokens": 6, "total_tokens": 803}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 836, "completion_tokens": 6, "total_tokens": 842}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) In migration movements, earlier migrants reduce the physical costs of moving and provide a cultural and linguistic cushion for later migrants.", "usage": {"prompt_tokens": 883, "completion_tokens": 34, "total_tokens": 917}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) previous migration had yet to develop sufficient momentum to induce further migration.", "usage": {"prompt_tokens": 781, "completion_tokens": 20, "total_tokens": 801}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 755, "completion_tokens": 6, "total_tokens": 761}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 829, "completion_tokens": 6, "total_tokens": 835}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B) extend the authors' explanation of the causes of the Great Migration to include later events.", "usage": {"prompt_tokens": 768, "completion_tokens": 24, "total_tokens": 792}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) Most migrants in the Great Migration made at least one trip back to the South to provide help and information to other people who were considering migrating as well.", "usage": {"prompt_tokens": 881, "completion_tokens": 39, "total_tokens": 920}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 860, "completion_tokens": 6, "total_tokens": 866}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D) Is insider trading harmful to the stock market?", "usage": {"prompt_tokens": 824, "completion_tokens": 18, "total_tokens": 842}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 804, "completion_tokens": 6, "total_tokens": 810}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A) insider trading tends to undermine investor confidence in the stock market.", "usage": {"prompt_tokens": 839, "completion_tokens": 23, "total_tokens": 862}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 924, "completion_tokens": 6, "total_tokens": 930}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 824, "completion_tokens": 6, "total_tokens": 830}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 981, "completion_tokens": 6, "total_tokens": 987}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E)", "usage": {"prompt_tokens": 851, "completion_tokens": 6, "total_tokens": 857}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 767, "completion_tokens": 6, "total_tokens": 773}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 851, "completion_tokens": 6, "total_tokens": 857}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 831, "completion_tokens": 6, "total_tokens": 837}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (A).", "usage": {"prompt_tokens": 787, "completion_tokens": 6, "total_tokens": 793}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (E) features of a general mental activity that is spread throughout the brain.", "usage": {"prompt_tokens": 768, "completion_tokens": 19, "total_tokens": 787}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 861, "completion_tokens": 6, "total_tokens": 867}, "finish_reason": "stop", "model": "Vicuna-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 881, "completion_tokens": 6, "total_tokens": 887}, "finish_reason": "stop", "model": "Vicuna-13B"}

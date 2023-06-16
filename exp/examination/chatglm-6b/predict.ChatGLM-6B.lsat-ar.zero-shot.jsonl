@@ -1,0 +1,230 @@
+{"text": "Answer is (E)", "usage": {"prompt_tokens": 366, "completion_tokens": 4, "total_tokens": 370}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Robert, George, and Helen", "usage": {"prompt_tokens": 234, "completion_tokens": 10, "total_tokens": 244}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Kyle and Nina", "usage": {"prompt_tokens": 221, "completion_tokens": 7, "total_tokens": 228}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Nina gives a report on Tuesday.", "usage": {"prompt_tokens": 240, "completion_tokens": 12, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Robert, Irving, and Lenore", "usage": {"prompt_tokens": 253, "completion_tokens": 11, "total_tokens": 264}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D) Kyle gives a report on Tuesday.", "usage": {"prompt_tokens": 239, "completion_tokens": 11, "total_tokens": 250}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) three French novels, one Russian novel, two French plays", "usage": {"prompt_tokens": 232, "completion_tokens": 15, "total_tokens": 247}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)All three Russian novels are selected.", "usage": {"prompt_tokens": 204, "completion_tokens": 11, "total_tokens": 215}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)two Russian novels, one French play", "usage": {"prompt_tokens": 208, "completion_tokens": 11, "total_tokens": 219}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)one French novel and one Russian play", "usage": {"prompt_tokens": 187, "completion_tokens": 11, "total_tokens": 198}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)No Russian novels and exactly one play are selected.", "usage": {"prompt_tokens": 228, "completion_tokens": 14, "total_tokens": 242}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)P, T, F, S, O, R, L, H", "usage": {"prompt_tokens": 280, "completion_tokens": 19, "total_tokens": 299}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E) seventh.", "usage": {"prompt_tokens": 191, "completion_tokens": 6, "total_tokens": 197}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B) third or sixth", "usage": {"prompt_tokens": 211, "completion_tokens": 7, "total_tokens": 218}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)sixth or seventh", "usage": {"prompt_tokens": 209, "completion_tokens": 8, "total_tokens": 217}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)O, P, T", "usage": {"prompt_tokens": 233, "completion_tokens": 9, "total_tokens": 242}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)F or O", "usage": {"prompt_tokens": 212, "completion_tokens": 7, "total_tokens": 219}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B) third", "usage": {"prompt_tokens": 203, "completion_tokens": 5, "total_tokens": 208}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 312, "completion_tokens": 4, "total_tokens": 316}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Himalayans are featured on day 6.", "usage": {"prompt_tokens": 254, "completion_tokens": 15, "total_tokens": 269}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C) Greyhounds and Himalayans are both featured on day 4.", "usage": {"prompt_tokens": 265, "completion_tokens": 18, "total_tokens": 283}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)day 5 and day 7", "usage": {"prompt_tokens": 254, "completion_tokens": 11, "total_tokens": 265}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)Himalayans are featured on every day that Rottweilers are not.", "usage": {"prompt_tokens": 265, "completion_tokens": 21, "total_tokens": 286}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D) Rottweilers are featured only on day 3.", "usage": {"prompt_tokens": 260, "completion_tokens": 16, "total_tokens": 276}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)G, H, K, L, M", "usage": {"prompt_tokens": 227, "completion_tokens": 13, "total_tokens": 240}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)F, G, and H are all selected.", "usage": {"prompt_tokens": 228, "completion_tokens": 14, "total_tokens": 242}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)P.", "usage": {"prompt_tokens": 200, "completion_tokens": 6, "total_tokens": 206}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "If P is the only zoologist selected, then either (A) K is selected, and G cannot be, or (E) K is not selected, and G can be. Therefore, the correct answer is (A) if K is selected, G cannot be selected.", "usage": {"prompt_tokens": 243, "completion_tokens": 55, "total_tokens": 298}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)F or else M", "usage": {"prompt_tokens": 204, "completion_tokens": 8, "total_tokens": 212}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)fuel, machinery, textiles", "usage": {"prompt_tokens": 222, "completion_tokens": 9, "total_tokens": 231}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)textiles", "usage": {"prompt_tokens": 184, "completion_tokens": 6, "total_tokens": 190}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)five.", "usage": {"prompt_tokens": 201, "completion_tokens": 6, "total_tokens": 207}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)bay 2.", "usage": {"prompt_tokens": 185, "completion_tokens": 8, "total_tokens": 193}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)The bay holding textiles is next to the bay holding fuel.", "usage": {"prompt_tokens": 227, "completion_tokens": 16, "total_tokens": 243}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)Bay 4 is holding textiles.", "usage": {"prompt_tokens": 218, "completion_tokens": 11, "total_tokens": 229}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C) four.", "usage": {"prompt_tokens": 192, "completion_tokens": 6, "total_tokens": 198}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)oatmeal: Monday, Tuesday, Thursday peanut butter: Monday, Wednesday, Thursday sugar: Monday, Thursday, Friday", "usage": {"prompt_tokens": 312, "completion_tokens": 28, "total_tokens": 340}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)two.", "usage": {"prompt_tokens": 196, "completion_tokens": 6, "total_tokens": 202}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 255, "completion_tokens": 4, "total_tokens": 259}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E) Fewer batches of cookies are made on Monday than on Tuesday.", "usage": {"prompt_tokens": 240, "completion_tokens": 17, "total_tokens": 257}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)The third batch of oatmeal cookies is made on Friday.", "usage": {"prompt_tokens": 244, "completion_tokens": 15, "total_tokens": 259}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Exactly two batches of cookies are made on Tuesday.", "usage": {"prompt_tokens": 256, "completion_tokens": 14, "total_tokens": 270}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A) Lopez", "usage": {"prompt_tokens": 199, "completion_tokens": 5, "total_tokens": 204}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Megregian reviews more of the plays than O'Neill does.", "usage": {"prompt_tokens": 230, "completion_tokens": 18, "total_tokens": 248}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Jiang reviews Undulation.", "usage": {"prompt_tokens": 215, "completion_tokens": 10, "total_tokens": 225}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)Kramer, O'Neill", "usage": {"prompt_tokens": 218, "completion_tokens": 10, "total_tokens": 228}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)Jiang reviews Sunset.", "usage": {"prompt_tokens": 210, "completion_tokens": 9, "total_tokens": 219}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 380, "completion_tokens": 4, "total_tokens": 384}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Togowa is assigned parking space #3.", "usage": {"prompt_tokens": 264, "completion_tokens": 14, "total_tokens": 278}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)Souza is assigned parking space #1.", "usage": {"prompt_tokens": 262, "completion_tokens": 12, "total_tokens": 274}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)two.", "usage": {"prompt_tokens": 222, "completion_tokens": 6, "total_tokens": 228}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B) Young is assigned parking space #2.", "usage": {"prompt_tokens": 262, "completion_tokens": 12, "total_tokens": 274}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Young is assigned parking space #2.", "usage": {"prompt_tokens": 257, "completion_tokens": 12, "total_tokens": 269}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Venezuela: Novetzke Yemen: Jaramillo Zambia: Kayne", "usage": {"prompt_tokens": 277, "completion_tokens": 18, "total_tokens": 295}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)Jaramillo and Ong", "usage": {"prompt_tokens": 239, "completion_tokens": 10, "total_tokens": 249}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Landon and Novetzke", "usage": {"prompt_tokens": 246, "completion_tokens": 10, "total_tokens": 256}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Ong is not assigned to an ambassadorship.", "usage": {"prompt_tokens": 265, "completion_tokens": 14, "total_tokens": 279}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Ong is not assigned to an ambassadorship.", "usage": {"prompt_tokens": 256, "completion_tokens": 14, "total_tokens": 270}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Jaramillo and Novetzke are not both assigned to ambassadorships.", "usage": {"prompt_tokens": 329, "completion_tokens": 19, "total_tokens": 348}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)F: Yuki, Seamus; G: Theresa, Reynaldo; H: Reynaldo, Theresa; J: Seamus, Yuki.", "usage": {"prompt_tokens": 360, "completion_tokens": 34, "total_tokens": 394}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Theresa tests H on the second day.", "usage": {"prompt_tokens": 250, "completion_tokens": 13, "total_tokens": 263}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)Reynaldo tests J on the first day.", "usage": {"prompt_tokens": 242, "completion_tokens": 14, "total_tokens": 256}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)Reynaldo tests H on the first day.", "usage": {"prompt_tokens": 241, "completion_tokens": 14, "total_tokens": 255}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Seamus is one of the testers for J.", "usage": {"prompt_tokens": 251, "completion_tokens": 14, "total_tokens": 265}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Both Theresa and Yuki test F.", "usage": {"prompt_tokens": 237, "completion_tokens": 11, "total_tokens": 248}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)F, H, M", "usage": {"prompt_tokens": 210, "completion_tokens": 9, "total_tokens": 219}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)I and M are placed on the same shelf as each other.", "usage": {"prompt_tokens": 251, "completion_tokens": 17, "total_tokens": 268}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)F is placed on a shelf higher than the shelf L is placed on.", "usage": {"prompt_tokens": 246, "completion_tokens": 19, "total_tokens": 265}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)H, I, L", "usage": {"prompt_tokens": 214, "completion_tokens": 9, "total_tokens": 223}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)K and O are placed on the same shelf as each other.", "usage": {"prompt_tokens": 253, "completion_tokens": 17, "total_tokens": 270}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Wednesday: Kevin, Rebecca Thursday: Julio, Nessa Friday: Olivia, Lan", "usage": {"prompt_tokens": 275, "completion_tokens": 20, "total_tokens": 295}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Julio", "usage": {"prompt_tokens": 201, "completion_tokens": 6, "total_tokens": 207}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Kevin, Nessa, Rebecca", "usage": {"prompt_tokens": 244, "completion_tokens": 10, "total_tokens": 254}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E) Olivia's session meets Friday morning.", "usage": {"prompt_tokens": 235, "completion_tokens": 12, "total_tokens": 247}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E) five.", "usage": {"prompt_tokens": 199, "completion_tokens": 6, "total_tokens": 205}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)pharmacy, veterinarian, optometrist, shoe store, restaurant, toy store, restaurant", "usage": {"prompt_tokens": 291, "completion_tokens": 22, "total_tokens": 313}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)The toy store is in space 6.", "usage": {"prompt_tokens": 243, "completion_tokens": 14, "total_tokens": 257}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)The toy store is in space 3.", "usage": {"prompt_tokens": 243, "completion_tokens": 14, "total_tokens": 257}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 230, "completion_tokens": 4, "total_tokens": 234}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)The shoe store is next to the veterinarian.", "usage": {"prompt_tokens": 247, "completion_tokens": 13, "total_tokens": 260}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D) No more than two businesses can separate the pharmacy and the restaurant nearest it.", "usage": {"prompt_tokens": 295, "completion_tokens": 19, "total_tokens": 314}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 373, "completion_tokens": 4, "total_tokens": 377}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Tiao works in Zone 1.", "usage": {"prompt_tokens": 268, "completion_tokens": 12, "total_tokens": 280}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Parra and Stuckey both work in Zone I.", "usage": {"prompt_tokens": 274, "completion_tokens": 16, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Parra, Quinn, Stuckey, Udall", "usage": {"prompt_tokens": 258, "completion_tokens": 16, "total_tokens": 274}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Udall", "usage": {"prompt_tokens": 230, "completion_tokens": 7, "total_tokens": 237}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Stuckey works in Zone 2.", "usage": {"prompt_tokens": 266, "completion_tokens": 12, "total_tokens": 278}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)the third and fourth", "usage": {"prompt_tokens": 219, "completion_tokens": 8, "total_tokens": 227}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)one.", "usage": {"prompt_tokens": 197, "completion_tokens": 6, "total_tokens": 203}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "If the pianist who performs the first solo also performs the second solo, then the following must be true:\n(D)The second solo is a traditional piece.", "usage": {"prompt_tokens": 236, "completion_tokens": 32, "total_tokens": 268}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)five", "usage": {"prompt_tokens": 195, "completion_tokens": 5, "total_tokens": 200}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)The second solo is a modem piece.", "usage": {"prompt_tokens": 232, "completion_tokens": 12, "total_tokens": 244}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)0, P, M, N, K, L, J", "usage": {"prompt_tokens": 265, "completion_tokens": 17, "total_tokens": 282}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)J, P", "usage": {"prompt_tokens": 209, "completion_tokens": 7, "total_tokens": 216}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C) L is shown in the evening.", "usage": {"prompt_tokens": 218, "completion_tokens": 11, "total_tokens": 229}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)L is shown at some time after J is shown.", "usage": {"prompt_tokens": 240, "completion_tokens": 15, "total_tokens": 255}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)M is shown in the afternoon.", "usage": {"prompt_tokens": 220, "completion_tokens": 11, "total_tokens": 231}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Monday: Garcia and Jackson Tuesday: Franco and Hong Wednesday: Iturbe", "usage": {"prompt_tokens": 245, "completion_tokens": 19, "total_tokens": 264}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Garcia is the only witness scheduled to testify on Monday and Hong is one of two witnesses scheduled to testify on Wednesday.", "usage": {"prompt_tokens": 247, "completion_tokens": 27, "total_tokens": 274}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E) Garcia is scheduled to testify on the same day as Hong.", "usage": {"prompt_tokens": 227, "completion_tokens": 16, "total_tokens": 243}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D) Franco is scheduled to testify on the same day as Hong.", "usage": {"prompt_tokens": 230, "completion_tokens": 16, "total_tokens": 246}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Hong is scheduled to testify on Tuesday.", "usage": {"prompt_tokens": 228, "completion_tokens": 12, "total_tokens": 240}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Truvest's voicemail target is 2 days.", "usage": {"prompt_tokens": 268, "completion_tokens": 15, "total_tokens": 283}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Solide's website target is 1 day.", "usage": {"prompt_tokens": 263, "completion_tokens": 15, "total_tokens": 278}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)Image's voicemail target", "usage": {"prompt_tokens": 241, "completion_tokens": 9, "total_tokens": 250}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E) Truvest's website target", "usage": {"prompt_tokens": 245, "completion_tokens": 10, "total_tokens": 255}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)a 3-day voicemail target", "usage": {"prompt_tokens": 241, "completion_tokens": 11, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E) Truvest's voicemail target is shorter than Solide's.", "usage": {"prompt_tokens": 278, "completion_tokens": 18, "total_tokens": 296}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)S, G, Q, J, Y, R, H", "usage": {"prompt_tokens": 244, "completion_tokens": 17, "total_tokens": 261}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)R is seventh.", "usage": {"prompt_tokens": 192, "completion_tokens": 8, "total_tokens": 200}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "If G is fourth, J is first.", "usage": {"prompt_tokens": 193, "completion_tokens": 8, "total_tokens": 201}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)S is second", "usage": {"prompt_tokens": 186, "completion_tokens": 7, "total_tokens": 193}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "If J is third, G is sixth, and Q is first.", "usage": {"prompt_tokens": 188, "completion_tokens": 13, "total_tokens": 201}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E) sixth.", "usage": {"prompt_tokens": 189, "completion_tokens": 6, "total_tokens": 195}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Y is fifth.", "usage": {"prompt_tokens": 200, "completion_tokens": 8, "total_tokens": 208}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Zircon", "usage": {"prompt_tokens": 203, "completion_tokens": 7, "total_tokens": 210}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)five", "usage": {"prompt_tokens": 209, "completion_tokens": 5, "total_tokens": 214}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Zircon performs in an earlier slot than Uneasy.", "usage": {"prompt_tokens": 249, "completion_tokens": 16, "total_tokens": 265}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Zircon performs in slot three.", "usage": {"prompt_tokens": 232, "completion_tokens": 12, "total_tokens": 244}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)Vegemite, Wellspring", "usage": {"prompt_tokens": 239, "completion_tokens": 10, "total_tokens": 249}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Wellspring performs in slot three.", "usage": {"prompt_tokens": 231, "completion_tokens": 11, "total_tokens": 242}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)Vegemite and Wellspring each perform in an earlier slot than Xpert.", "usage": {"prompt_tokens": 293, "completion_tokens": 20, "total_tokens": 313}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Schmidt, Thomson, Yoder, and Zayre", "usage": {"prompt_tokens": 221, "completion_tokens": 14, "total_tokens": 235}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)Paine and Zayre", "usage": {"prompt_tokens": 193, "completion_tokens": 9, "total_tokens": 202}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)Zayre", "usage": {"prompt_tokens": 187, "completion_tokens": 7, "total_tokens": 194}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D) Neither Ortega nor Thomson is on the team.", "usage": {"prompt_tokens": 216, "completion_tokens": 13, "total_tokens": 229}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)Paine and Schmidt", "usage": {"prompt_tokens": 197, "completion_tokens": 8, "total_tokens": 205}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)", "usage": {"prompt_tokens": 522, "completion_tokens": 4, "total_tokens": 526}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)the western, the horror film", "usage": {"prompt_tokens": 288, "completion_tokens": 10, "total_tokens": 298}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)The sci-fi film begins at 7 P.M.", "usage": {"prompt_tokens": 303, "completion_tokens": 17, "total_tokens": 320}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)The sci-fi film is shown on screen 2.", "usage": {"prompt_tokens": 298, "completion_tokens": 16, "total_tokens": 314}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)the western, the sci-fi film", "usage": {"prompt_tokens": 288, "completion_tokens": 12, "total_tokens": 300}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)The sci-fi film begins at 9 P.M.", "usage": {"prompt_tokens": 304, "completion_tokens": 17, "total_tokens": 321}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 284, "completion_tokens": 4, "total_tokens": 288}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)The second and fifth lectures are both in Gladwyn Hall.", "usage": {"prompt_tokens": 246, "completion_tokens": 16, "total_tokens": 262}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)It is on terns and is in Howard Auditorium.", "usage": {"prompt_tokens": 264, "completion_tokens": 16, "total_tokens": 280}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)It is on terns and is in Gladwyn Hall.", "usage": {"prompt_tokens": 253, "completion_tokens": 17, "total_tokens": 270}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)The second lecture is on terns and is in Gladwyn Hall.", "usage": {"prompt_tokens": 269, "completion_tokens": 19, "total_tokens": 288}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) keyboard player, trumpeter, violinist, saxophonist, guitarist, percussionist", "usage": {"prompt_tokens": 255, "completion_tokens": 18, "total_tokens": 273}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)The percussionist performs a solo at some time before the trumpeter does.", "usage": {"prompt_tokens": 244, "completion_tokens": 19, "total_tokens": 263}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)The guitarist performs a solo at some time before the percussionist does.", "usage": {"prompt_tokens": 228, "completion_tokens": 18, "total_tokens": 246}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)trumpeter", "usage": {"prompt_tokens": 184, "completion_tokens": 6, "total_tokens": 190}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)The trumpeter performs a solo at some time before the guitarist does.", "usage": {"prompt_tokens": 250, "completion_tokens": 18, "total_tokens": 268}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Holden: sculptures; Farley: watercolors; Jiang: oil paintings; Garcia: lithographs", "usage": {"prompt_tokens": 296, "completion_tokens": 24, "total_tokens": 320}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)Holden's lecture is earlier than the lithographs lecture.", "usage": {"prompt_tokens": 248, "completion_tokens": 18, "total_tokens": 266}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)Farley gives the watercolors lecture.", "usage": {"prompt_tokens": 233, "completion_tokens": 12, "total_tokens": 245}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "(E) Jiang gives the watercolors lecture.", "usage": {"prompt_tokens": 227, "completion_tokens": 9, "total_tokens": 236}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)The sculptures lecture is second.", "usage": {"prompt_tokens": 229, "completion_tokens": 10, "total_tokens": 239}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)forest only; turquoise only; olive, peach, and yellow", "usage": {"prompt_tokens": 288, "completion_tokens": 18, "total_tokens": 306}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Turquoise is used in one of the rugs.", "usage": {"prompt_tokens": 276, "completion_tokens": 16, "total_tokens": 292}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)One of the rugs is solid turquoise.", "usage": {"prompt_tokens": 274, "completion_tokens": 15, "total_tokens": 289}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)turquoise and yellow", "usage": {"prompt_tokens": 247, "completion_tokens": 9, "total_tokens": 256}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Turquoise and white are used together in a rug.", "usage": {"prompt_tokens": 279, "completion_tokens": 16, "total_tokens": 295}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Peach and white are used together in a rug.", "usage": {"prompt_tokens": 279, "completion_tokens": 15, "total_tokens": 294}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)Silva University: Frost, Gonzalez, Heideck Thorne University: Knutson, Lai, Mays", "usage": {"prompt_tokens": 306, "completion_tokens": 24, "total_tokens": 330}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Lai is assigned to the Thorne University ceremony.", "usage": {"prompt_tokens": 276, "completion_tokens": 14, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B) Frost, Gonzalez, Heideck", "usage": {"prompt_tokens": 251, "completion_tokens": 10, "total_tokens": 261}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)Frost, Heideck", "usage": {"prompt_tokens": 256, "completion_tokens": 8, "total_tokens": 264}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)Frost", "usage": {"prompt_tokens": 240, "completion_tokens": 5, "total_tokens": 245}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E) Knutson, Mays", "usage": {"prompt_tokens": 263, "completion_tokens": 9, "total_tokens": 272}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E) unless either Heideck or Mays is assigned to the Thorne University ceremony, Knutson must be assigned to that ceremony.", "usage": {"prompt_tokens": 369, "completion_tokens": 28, "total_tokens": 397}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Villas, White, Stanton, Peters, Quinn, Tao, Rovero.", "usage": {"prompt_tokens": 237, "completion_tokens": 20, "total_tokens": 257}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E) Villas, White, Quinn, Rovero, Stanton", "usage": {"prompt_tokens": 221, "completion_tokens": 15, "total_tokens": 236}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)Rovero was recruited fifth.", "usage": {"prompt_tokens": 182, "completion_tokens": 10, "total_tokens": 192}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)second", "usage": {"prompt_tokens": 160, "completion_tokens": 5, "total_tokens": 165}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B) Rovero was recruited third.", "usage": {"prompt_tokens": 196, "completion_tokens": 10, "total_tokens": 206}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Stanton", "usage": {"prompt_tokens": 166, "completion_tokens": 6, "total_tokens": 172}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 354, "completion_tokens": 4, "total_tokens": 358}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Exactly two are by Hue.", "usage": {"prompt_tokens": 255, "completion_tokens": 10, "total_tokens": 265}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)Exactly one photograph in the Metro section is by Gagnon.", "usage": {"prompt_tokens": 279, "completion_tokens": 16, "total_tokens": 295}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 298, "completion_tokens": 4, "total_tokens": 302}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A)Both photographs in theMetro section are by Fuentes.", "usage": {"prompt_tokens": 276, "completion_tokens": 15, "total_tokens": 291}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)One photograph in the Metro section is by Gagnon and one is by Hue.", "usage": {"prompt_tokens": 283, "completion_tokens": 20, "total_tokens": 303}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Both photographs in the Lifestyle section are by Hue.", "usage": {"prompt_tokens": 282, "completion_tokens": 14, "total_tokens": 296}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)Hakeem, Louise, Louise, Hakeem, Katya", "usage": {"prompt_tokens": 295, "completion_tokens": 18, "total_tokens": 313}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Louise does not work at the gallery on Tuesday.", "usage": {"prompt_tokens": 267, "completion_tokens": 15, "total_tokens": 282}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Wednesday and Thursday.", "usage": {"prompt_tokens": 247, "completion_tokens": 8, "total_tokens": 255}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Joe works the first shift on Thursday.", "usage": {"prompt_tokens": 278, "completion_tokens": 12, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Louise works the second shift on Monday.", "usage": {"prompt_tokens": 272, "completion_tokens": 13, "total_tokens": 285}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)fall: K, L, N, and P spring: M and O.", "usage": {"prompt_tokens": 296, "completion_tokens": 20, "total_tokens": 316}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)0 and P", "usage": {"prompt_tokens": 208, "completion_tokens": 7, "total_tokens": 215}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)M is published in the fall.", "usage": {"prompt_tokens": 211, "completion_tokens": 11, "total_tokens": 222}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D) Both K and L are published in the spring.", "usage": {"prompt_tokens": 243, "completion_tokens": 14, "total_tokens": 257}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)If N is published in the spring, M must also be published in the spring.", "usage": {"prompt_tokens": 289, "completion_tokens": 21, "total_tokens": 310}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)Verma (leader), Quinn, Taylor.", "usage": {"prompt_tokens": 206, "completion_tokens": 13, "total_tokens": 219}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Ruiz or Verma", "usage": {"prompt_tokens": 195, "completion_tokens": 8, "total_tokens": 203}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B) Neither Ruiz nor Taylor is selected.", "usage": {"prompt_tokens": 204, "completion_tokens": 11, "total_tokens": 215}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Wells", "usage": {"prompt_tokens": 182, "completion_tokens": 6, "total_tokens": 188}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E) Neither Ruiz nor Verma is selected.", "usage": {"prompt_tokens": 205, "completion_tokens": 11, "total_tokens": 216}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Yoshio, Onyx, Louis, Mollie", "usage": {"prompt_tokens": 289, "completion_tokens": 15, "total_tokens": 304}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)Onyx is assigned to 1921.", "usage": {"prompt_tokens": 294, "completion_tokens": 15, "total_tokens": 309}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Yoshio is assigned to 1922.", "usage": {"prompt_tokens": 295, "completion_tokens": 16, "total_tokens": 311}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A) six.", "usage": {"prompt_tokens": 243, "completion_tokens": 6, "total_tokens": 249}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (A) Louis is not assigned to the project.", "usage": {"prompt_tokens": 284, "completion_tokens": 12, "total_tokens": 296}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Yoshio", "usage": {"prompt_tokens": 244, "completion_tokens": 7, "total_tokens": 251}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C) harmonica, sundial, table, mirror, lamp, vase.", "usage": {"prompt_tokens": 315, "completion_tokens": 18, "total_tokens": 333}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)The sundial is auctioned on June 4th and the table is auctioned on June 5th.", "usage": {"prompt_tokens": 335, "completion_tokens": 27, "total_tokens": 362}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)The table is auctioned on an earlier date than the sundial.", "usage": {"prompt_tokens": 324, "completion_tokens": 18, "total_tokens": 342}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)the table", "usage": {"prompt_tokens": 251, "completion_tokens": 6, "total_tokens": 257}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)The lamp is auctioned on June 3rd.", "usage": {"prompt_tokens": 277, "completion_tokens": 15, "total_tokens": 292}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A)The sundial is auctioned on June 5th.", "usage": {"prompt_tokens": 312, "completion_tokens": 16, "total_tokens": 328}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)Waite, Kammer, Yoshida, Zinn, Lugo, Trillo", "usage": {"prompt_tokens": 291, "completion_tokens": 21, "total_tokens": 312}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)Lugo's audition", "usage": {"prompt_tokens": 224, "completion_tokens": 9, "total_tokens": 233}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Zinn's audition", "usage": {"prompt_tokens": 223, "completion_tokens": 10, "total_tokens": 233}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)Yoshida's audition is sixth.", "usage": {"prompt_tokens": 250, "completion_tokens": 12, "total_tokens": 262}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (A) fifth", "usage": {"prompt_tokens": 198, "completion_tokens": 5, "total_tokens": 203}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)Waite's audition must take place either immediately before or immediately after Zinn's.", "usage": {"prompt_tokens": 302, "completion_tokens": 23, "total_tokens": 325}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (C)", "usage": {"prompt_tokens": 330, "completion_tokens": 4, "total_tokens": 334}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E) Neither Juana nor Kelly is a facilitator.", "usage": {"prompt_tokens": 219, "completion_tokens": 15, "total_tokens": 234}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D) Lateefah is a facilitator, and she is assigned to a different team than Juana is.", "usage": {"prompt_tokens": 276, "completion_tokens": 26, "total_tokens": 302}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C) Lateefah and Olga are both assigned to the green team.", "usage": {"prompt_tokens": 247, "completion_tokens": 18, "total_tokens": 265}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E) Mei is a facilitator.", "usage": {"prompt_tokens": 225, "completion_tokens": 11, "total_tokens": 236}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Z, R, T, U, X, W, S", "usage": {"prompt_tokens": 271, "completion_tokens": 17, "total_tokens": 288}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Z is mentioned in chapter 3.", "usage": {"prompt_tokens": 240, "completion_tokens": 12, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)X is mentioned in chapter 4.", "usage": {"prompt_tokens": 240, "completion_tokens": 12, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)X is mentioned in chapter 5.", "usage": {"prompt_tokens": 240, "completion_tokens": 12, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (B)T is mentioned in chapter 5.", "usage": {"prompt_tokens": 231, "completion_tokens": 12, "total_tokens": 243}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)U must be mentioned in an earlier chapter than T.", "usage": {"prompt_tokens": 268, "completion_tokens": 15, "total_tokens": 283}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)Hidalgo's watercolor, Franz's oil, Greene's oil, Isaacs's oil.", "usage": {"prompt_tokens": 351, "completion_tokens": 27, "total_tokens": 378}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (B)Greene's oil", "usage": {"prompt_tokens": 276, "completion_tokens": 9, "total_tokens": 285}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Hidalgo's watercolor", "usage": {"prompt_tokens": 264, "completion_tokens": 10, "total_tokens": 274}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Hidalgo's oil is displayed on the same wall as Isaacs's watercolor.", "usage": {"prompt_tokens": 313, "completion_tokens": 23, "total_tokens": 336}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (E)Isaacs's oil is displayed on wall 1.", "usage": {"prompt_tokens": 294, "completion_tokens": 16, "total_tokens": 310}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)Both of Greene's paintings and both of Hidalgo's paintings are displayed in lower positions.", "usage": {"prompt_tokens": 316, "completion_tokens": 23, "total_tokens": 339}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)Hidalgo's watercolor is displayed in a lower position.", "usage": {"prompt_tokens": 298, "completion_tokens": 17, "total_tokens": 315}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (E)", "usage": {"prompt_tokens": 439, "completion_tokens": 4, "total_tokens": 443}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)The buildings owned by Trustcorp are the Flores Tower and the Ortiz Building.", "usage": {"prompt_tokens": 311, "completion_tokens": 19, "total_tokens": 330}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (C)Southco owns a class 2 Building.", "usage": {"prompt_tokens": 285, "completion_tokens": 13, "total_tokens": 298}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer: (D)Trustcorp owns the Garza Tower.", "usage": {"prompt_tokens": 286, "completion_tokens": 11, "total_tokens": 297}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "Answer is (D)The buildings owned by Trustcorp are the Flores Tower and the Yates House.", "usage": {"prompt_tokens": 321, "completion_tokens": 19, "total_tokens": 340}, "finish_reason": "stop", "model": "ChatGLM-6B"}

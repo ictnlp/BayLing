@@ -1,0 +1,207 @@
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 151, "completion_tokens": 6, "total_tokens": 157}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 154, "completion_tokens": 5, "total_tokens": 159}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 147, "completion_tokens": 6, "total_tokens": 153}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)C。", "usage": {"prompt_tokens": 571, "completion_tokens": 6, "total_tokens": 577}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 352, "completion_tokens": 5, "total_tokens": 357}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)漂白粉。", "usage": {"prompt_tokens": 51, "completion_tokens": 8, "total_tokens": 59}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)重晶石： $\\mathrm{BaSO}_{4}$。", "usage": {"prompt_tokens": 99, "completion_tokens": 17, "total_tokens": 116}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)乙烷的球棍模型。", "usage": {"prompt_tokens": 98, "completion_tokens": 12, "total_tokens": 110}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{CH}_{3} \\mathrm{COOH}$ 和 $\\mathrm{CH}_{3} \\mathrm{OOCH}$ 是同一种。", "usage": {"prompt_tokens": 153, "completion_tokens": 35, "total_tokens": 188}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 137, "completion_tokens": 5, "total_tokens": 142}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 249, "completion_tokens": 6, "total_tokens": 255}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)与 $\\mathrm{ClONO}_{2}$ 作用能产生氯气。", "usage": {"prompt_tokens": 89, "completion_tokens": 20, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)风能发电。", "usage": {"prompt_tokens": 60, "completion_tokens": 9, "total_tokens": 69}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 67, "completion_tokens": 6, "total_tokens": 73}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 172, "completion_tokens": 5, "total_tokens": 177}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 288, "completion_tokens": 6, "total_tokens": 294}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)2。", "usage": {"prompt_tokens": 211, "completion_tokens": 7, "total_tokens": 218}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)$\\mathrm{N}_{2} \\mathrm{H}_{4}$ 的空间结构为平面形。", "usage": {"prompt_tokens": 234, "completion_tokens": 25, "total_tokens": 259}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)高锰酸钾溶液。", "usage": {"prompt_tokens": 60, "completion_tokens": 10, "total_tokens": 70}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)$\\mathrm{Na}_{2} \\mathrm{CO}_{3}$。", "usage": {"prompt_tokens": 85, "completion_tokens": 19, "total_tokens": 104}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(C)胆矾： $\\mathrm{FeSO}_{4} \\cdot 7 \\mathrm{H}_{2} \\mathrm{O}$。", "usage": {"prompt_tokens": 143, "completion_tokens": 32, "total_tokens": 175}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)过氧化钠的电子式： $\\mathrm{Na过氧化钠}$。", "usage": {"prompt_tokens": 89, "completion_tokens": 18, "total_tokens": 107}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 104, "completion_tokens": 6, "total_tokens": 110}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 235, "completion_tokens": 6, "total_tokens": 241}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 127, "completion_tokens": 6, "total_tokens": 133}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 228, "completion_tokens": 6, "total_tokens": 234}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 331, "completion_tokens": 6, "total_tokens": 337}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 480, "completion_tokens": 6, "total_tokens": 486}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 480, "completion_tokens": 6, "total_tokens": 486}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 187, "completion_tokens": 6, "total_tokens": 193}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 266, "completion_tokens": 6, "total_tokens": 272}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 74, "completion_tokens": 6, "total_tokens": 80}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 229, "completion_tokens": 6, "total_tokens": 235}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)漂白粉。", "usage": {"prompt_tokens": 51, "completion_tokens": 8, "total_tokens": 59}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{NaOH}$。", "usage": {"prompt_tokens": 79, "completion_tokens": 11, "total_tokens": 90}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)重晶石： $\\mathrm{BaSO}_{4}$。", "usage": {"prompt_tokens": 104, "completion_tokens": 17, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)乙烷的球棍模型。", "usage": {"prompt_tokens": 97, "completion_tokens": 12, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{CH}_{3} \\mathrm{COOH}$ 和 $\\mathrm{CH}_{3} \\mathrm{OOCH}$ 是同一种物质。", "usage": {"prompt_tokens": 154, "completion_tokens": 36, "total_tokens": 190}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 183, "completion_tokens": 6, "total_tokens": 189}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)选项：铝遇浓硝酸或浓硫酸时会发生钝化。", "usage": {"prompt_tokens": 85, "completion_tokens": 18, "total_tokens": 103}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 94, "completion_tokens": 6, "total_tokens": 100}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 137, "completion_tokens": 5, "total_tokens": 142}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 249, "completion_tokens": 6, "total_tokens": 255}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 88, "completion_tokens": 6, "total_tokens": 94}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C):1mol H2O(s)>1mol H2O(l)。", "usage": {"prompt_tokens": 211, "completion_tokens": 23, "total_tokens": 234}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 262, "completion_tokens": 6, "total_tokens": 268}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)风能发电。", "usage": {"prompt_tokens": 60, "completion_tokens": 9, "total_tokens": 69}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 67, "completion_tokens": 6, "total_tokens": 73}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 172, "completion_tokens": 5, "total_tokens": 177}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 288, "completion_tokens": 6, "total_tokens": 294}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)2。", "usage": {"prompt_tokens": 211, "completion_tokens": 7, "total_tokens": 218}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)$\\mathrm{N}_{2} \\mathrm{H}_{4}$ 的空间结构为平面形。", "usage": {"prompt_tokens": 234, "completion_tokens": 25, "total_tokens": 259}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 263, "completion_tokens": 6, "total_tokens": 269}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 153, "completion_tokens": 3, "total_tokens": 156}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 167, "completion_tokens": 6, "total_tokens": 173}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 198, "completion_tokens": 6, "total_tokens": 204}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 146, "completion_tokens": 6, "total_tokens": 152}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 246, "completion_tokens": 6, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 477, "completion_tokens": 3, "total_tokens": 480}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 109, "completion_tokens": 6, "total_tokens": 115}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是D。", "usage": {"prompt_tokens": 300, "completion_tokens": 3, "total_tokens": 303}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 267, "completion_tokens": 6, "total_tokens": 273}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)8 种。", "usage": {"prompt_tokens": 87, "completion_tokens": 9, "total_tokens": 96}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 83, "completion_tokens": 6, "total_tokens": 89}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 75, "completion_tokens": 6, "total_tokens": 81}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{D}$。", "usage": {"prompt_tokens": 159, "completion_tokens": 11, "total_tokens": 170}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 229, "completion_tokens": 6, "total_tokens": 235}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)碳。", "usage": {"prompt_tokens": 56, "completion_tokens": 6, "total_tokens": 62}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 123, "completion_tokens": 6, "total_tokens": 129}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 333, "completion_tokens": 6, "total_tokens": 339}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 146, "completion_tokens": 5, "total_tokens": 151}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 300, "completion_tokens": 6, "total_tokens": 306}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 227, "completion_tokens": 6, "total_tokens": 233}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{NaCl}$。", "usage": {"prompt_tokens": 65, "completion_tokens": 11, "total_tokens": 76}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)不会使溴水褪色。", "usage": {"prompt_tokens": 77, "completion_tokens": 11, "total_tokens": 88}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 329, "completion_tokens": 6, "total_tokens": 335}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)与足量盐酸作用，所得固体产物主要为 $\\mathrm{SiO}_{2}$。", "usage": {"prompt_tokens": 189, "completion_tokens": 21, "total_tokens": 210}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 277, "completion_tokens": 6, "total_tokens": 283}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 108, "completion_tokens": 6, "total_tokens": 114}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$48 \\mathrm{~g}$ 正丁烷和 $10 \\mathrm{~g}$ 异丁烷的混合物中共价键数目为 $13 N_{\\mathrm{A}}$。", "usage": {"prompt_tokens": 241, "completion_tokens": 47, "total_tokens": 288}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$\\mathrm{X}$ 的最高价氧化物的水化物是强碱。", "usage": {"prompt_tokens": 228, "completion_tokens": 20, "total_tokens": 248}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B):10 种。\n\n解析：\n分子式为 $\\mathrm{C}_{4} \\mathrm{H}_{8} \\mathrm{BrCl}$ 的有机物共有(不含立体异构)10 种，分别为：\n\n1. $\\mathrm{C}_{4} \\mathrm{H}_{8} \\mathrm{ClBr}$\n2. $\\mathrm{C}_{4} \\mathrm{H}_{6} \\mathrm{ClBr}$\n3. $\\mathrm{C}_{4} \\mathrm{H}_{6} \\mathrm{BrCl}$\n4. $\\mathrm{C}_{4} \\mathrm{H}_{4} \\mathrm{ClBr}$\n5. $\\mathrm{C}_{4} \\mathrm{H}_{4} \\mathrm{ClBr}$\n6. $\\mathrm{C}_{6} \\mathrm{H}_{12} \\mathrm{ClBr}$\n7. $\\mathrm{C}_{6} \\mathrm{H}_{10} \\mathrm{ClBr}$\n8. $\\mathrm{C}_{6} \\mathrm{H}_{8} \\mathrm{ClBr}$\n9. $\\mathrm{C}_{6} \\mathrm{H}_{6} \\mathrm{ClBr}$\n10. $\\mathrm{C}_{6} \\mathrm{H}_{4} \\mathrm{ClBr}$", "usage": {"prompt_tokens": 87, "completion_tokens": 288, "total_tokens": 375}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 75, "completion_tokens": 6, "total_tokens": 81}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{D}$。", "usage": {"prompt_tokens": 163, "completion_tokens": 11, "total_tokens": 174}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 90, "completion_tokens": 6, "total_tokens": 96}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 214, "completion_tokens": 6, "total_tokens": 220}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是D。", "usage": {"prompt_tokens": 206, "completion_tokens": 3, "total_tokens": 209}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 231, "completion_tokens": 5, "total_tokens": 236}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)石钟乳 $\\left(\\mathrm{CaCO}_{3}\\right)$。", "usage": {"prompt_tokens": 146, "completion_tokens": 21, "total_tokens": 167}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 307, "completion_tokens": 5, "total_tokens": 312}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 129, "completion_tokens": 6, "total_tokens": 135}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 275, "completion_tokens": 5, "total_tokens": 280}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{D}$。", "usage": {"prompt_tokens": 287, "completion_tokens": 11, "total_tokens": 298}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 92, "completion_tokens": 6, "total_tokens": 98}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{D}$。", "usage": {"prompt_tokens": 282, "completion_tokens": 11, "total_tokens": 293}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 254, "completion_tokens": 6, "total_tokens": 260}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 245, "completion_tokens": 6, "total_tokens": 251}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 64, "completion_tokens": 6, "total_tokens": 70}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 197, "completion_tokens": 6, "total_tokens": 203}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 487, "completion_tokens": 3, "total_tokens": 490}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 430, "completion_tokens": 6, "total_tokens": 436}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 231, "completion_tokens": 5, "total_tokens": 236}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 83, "completion_tokens": 6, "total_tokens": 89}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)浓缩结晶。", "usage": {"prompt_tokens": 98, "completion_tokens": 8, "total_tokens": 106}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：氡第六周期。", "usage": {"prompt_tokens": 85, "completion_tokens": 9, "total_tokens": 94}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{SO}_{2}: \\mathrm{Cu}$ 丝与稀 $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ 混合。", "usage": {"prompt_tokens": 168, "completion_tokens": 39, "total_tokens": 207}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)选项卤素点豆腐本质属于蛋白质聚沉。", "usage": {"prompt_tokens": 78, "completion_tokens": 15, "total_tokens": 93}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 250, "completion_tokens": 6, "total_tokens": 256}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。标准状况下， $2.24 \\mathrm{~L} \\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$ 所含氢原子数为 $0.6 \\mathrm{~N}_{\\mathrm{A}}$。", "usage": {"prompt_tokens": 253, "completion_tokens": 59, "total_tokens": 312}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项D。", "usage": {"prompt_tokens": 538, "completion_tokens": 4, "total_tokens": 542}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 149, "completion_tokens": 6, "total_tokens": 155}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 238, "completion_tokens": 6, "total_tokens": 244}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 172, "completion_tokens": 3, "total_tokens": 175}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{Na}_{2} \\mathrm{CO}_{3} 、 \\mathrm{NaOH} 、 \\mathrm{HNO}_{3}$。", "usage": {"prompt_tokens": 216, "completion_tokens": 38, "total_tokens": 254}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 249, "completion_tokens": 6, "total_tokens": 255}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 152, "completion_tokens": 6, "total_tokens": 158}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：加入 K~3Fe(CN)~6 溶液无蓝色出现。", "usage": {"prompt_tokens": 151, "completion_tokens": 21, "total_tokens": 172}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{FeCl}_{3}$ 水解可生成 $\\mathrm{Fe}(\\mathrm{OH})_{3}$ 胶体。虽然石油裂解气能使溴的 $\\mathrm{CCl}_{4}$ 溶液裉色，但石油裂解可得到乙烯等不饱和烃，而不是 $\\mathrm{FeCl}_{3}$。因此，石油裂解不是导致 $\\mathrm{FeCl}_{3}$ 水解生成 $\\mathrm{Fe}(\\mathrm{OH})_{3}$ 胶体的原因。", "usage": {"prompt_tokens": 258, "completion_tokens": 112, "total_tokens": 370}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 247, "completion_tokens": 6, "total_tokens": 253}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 96, "completion_tokens": 6, "total_tokens": 102}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 127, "completion_tokens": 6, "total_tokens": 133}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 80, "completion_tokens": 6, "total_tokens": 86}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 156, "completion_tokens": 3, "total_tokens": 159}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 86, "completion_tokens": 6, "total_tokens": 92}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 465, "completion_tokens": 6, "total_tokens": 471}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 155, "completion_tokens": 3, "total_tokens": 158}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 149, "completion_tokens": 6, "total_tokens": 155}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 238, "completion_tokens": 6, "total_tokens": 244}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{Ca}(\\mathrm{OH})_{2}$。", "usage": {"prompt_tokens": 92, "completion_tokens": 17, "total_tokens": 109}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{CH}_{3} \\mathrm{COOH}$。", "usage": {"prompt_tokens": 77, "completion_tokens": 17, "total_tokens": 94}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)铝土矿的主要成分： $\\mathrm{Al}_{2} \\mathrm{O}_{3}$。", "usage": {"prompt_tokens": 129, "completion_tokens": 24, "total_tokens": 153}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 74, "completion_tokens": 6, "total_tokens": 80}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)$\\mathrm{C}_{70}$ 和纳米碳管互为同素异形体。", "usage": {"prompt_tokens": 173, "completion_tokens": 23, "total_tokens": 196}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 138, "completion_tokens": 5, "total_tokens": 143}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 299, "completion_tokens": 5, "total_tokens": 304}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 114, "completion_tokens": 6, "total_tokens": 120}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 204, "completion_tokens": 6, "total_tokens": 210}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)$\\mathrm{KCl} 、 \\mathrm{MgSO}_{4}$。", "usage": {"prompt_tokens": 206, "completion_tokens": 21, "total_tokens": 227}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 218, "completion_tokens": 5, "total_tokens": 223}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 203, "completion_tokens": 6, "total_tokens": 209}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 343, "completion_tokens": 6, "total_tokens": 349}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 153, "completion_tokens": 3, "total_tokens": 156}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 167, "completion_tokens": 6, "total_tokens": 173}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 198, "completion_tokens": 6, "total_tokens": 204}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 146, "completion_tokens": 6, "total_tokens": 152}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 246, "completion_tokens": 6, "total_tokens": 252}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 A。", "usage": {"prompt_tokens": 477, "completion_tokens": 3, "total_tokens": 480}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 74, "completion_tokens": 6, "total_tokens": 80}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 229, "completion_tokens": 6, "total_tokens": 235}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)。", "usage": {"prompt_tokens": 115, "completion_tokens": 6, "total_tokens": 121}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 88, "completion_tokens": 5, "total_tokens": 93}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(C)萃取。", "usage": {"prompt_tokens": 86, "completion_tokens": 7, "total_tokens": 93}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项D。", "usage": {"prompt_tokens": 247, "completion_tokens": 4, "total_tokens": 251}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 201, "completion_tokens": 6, "total_tokens": 207}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)：恒容下，充入一定量的 $\\mathrm{CH}_{2}=\\mathrm{CH}_{2}(\\mathrm{~g}), \\mathrm{CH}_{2}=\\mathrm{CH}_{2}(\\mathrm{~g})$ 的平衡转化率增大。", "usage": {"prompt_tokens": 258, "completion_tokens": 54, "total_tokens": 312}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 232, "completion_tokens": 6, "total_tokens": 238}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 166, "completion_tokens": 6, "total_tokens": 172}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 101, "completion_tokens": 5, "total_tokens": 106}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 241, "completion_tokens": 6, "total_tokens": 247}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 188, "completion_tokens": 6, "total_tokens": 194}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 185, "completion_tokens": 6, "total_tokens": 191}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 81, "completion_tokens": 6, "total_tokens": 87}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 129, "completion_tokens": 6, "total_tokens": 135}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 91, "completion_tokens": 5, "total_tokens": 96}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{D}$。", "usage": {"prompt_tokens": 131, "completion_tokens": 10, "total_tokens": 141}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 112, "completion_tokens": 6, "total_tokens": 118}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 188, "completion_tokens": 5, "total_tokens": 193}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 123, "completion_tokens": 6, "total_tokens": 129}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D):$\\mathrm{CH}_{3} \\mathrm{COOH}>\\mathrm{N}_{2} \\mathrm{H}_{5}^{+}>\\mathrm{NH}_{4}^{+}$。", "usage": {"prompt_tokens": 330, "completion_tokens": 42, "total_tokens": 372}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 74, "completion_tokens": 6, "total_tokens": 80}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$1,3-$ 丁。", "usage": {"prompt_tokens": 66, "completion_tokens": 13, "total_tokens": 79}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 229, "completion_tokens": 6, "total_tokens": 235}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 89, "completion_tokens": 6, "total_tokens": 95}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)$\\mathrm{KOH}$ 电子式： $\\mathrm{K}: \\ddot{\\mathrm{O}}: \\mathrm{H}_{-}$。", "usage": {"prompt_tokens": 159, "completion_tokens": 37, "total_tokens": 196}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 228, "completion_tokens": 6, "total_tokens": 234}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 85, "completion_tokens": 6, "total_tokens": 91}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 207, "completion_tokens": 6, "total_tokens": 213}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 143, "completion_tokens": 6, "total_tokens": 149}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)$\\mathrm{D}$。", "usage": {"prompt_tokens": 335, "completion_tokens": 11, "total_tokens": 346}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 381, "completion_tokens": 6, "total_tokens": 387}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 396, "completion_tokens": 6, "total_tokens": 402}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 123, "completion_tokens": 5, "total_tokens": 128}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 126, "completion_tokens": 6, "total_tokens": 132}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)D。", "usage": {"prompt_tokens": 397, "completion_tokens": 7, "total_tokens": 404}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 175, "completion_tokens": 5, "total_tokens": 180}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是 D。", "usage": {"prompt_tokens": 831, "completion_tokens": 3, "total_tokens": 834}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 178, "completion_tokens": 6, "total_tokens": 184}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(D)。", "usage": {"prompt_tokens": 187, "completion_tokens": 5, "total_tokens": 192}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(A)。", "usage": {"prompt_tokens": 204, "completion_tokens": 5, "total_tokens": 209}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 81, "completion_tokens": 6, "total_tokens": 87}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)非金属性： $\\mathrm{X}>\\mathrm{Q}$。", "usage": {"prompt_tokens": 228, "completion_tokens": 19, "total_tokens": 247}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 694, "completion_tokens": 6, "total_tokens": 700}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 119, "completion_tokens": 6, "total_tokens": 125}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是(B)。", "usage": {"prompt_tokens": 154, "completion_tokens": 5, "total_tokens": 159}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项$\\mathrm{D}$。", "usage": {"prompt_tokens": 261, "completion_tokens": 8, "total_tokens": 269}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是D。", "usage": {"prompt_tokens": 257, "completion_tokens": 3, "total_tokens": 260}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 244, "completion_tokens": 6, "total_tokens": 250}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(B)。", "usage": {"prompt_tokens": 128, "completion_tokens": 6, "total_tokens": 134}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 230, "completion_tokens": 6, "total_tokens": 236}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)。", "usage": {"prompt_tokens": 85, "completion_tokens": 6, "total_tokens": 91}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 189, "completion_tokens": 6, "total_tokens": 195}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(A)。", "usage": {"prompt_tokens": 259, "completion_tokens": 6, "total_tokens": 265}, "finish_reason": "stop", "model": "ChatGLM-6B"}
+{"text": "答案是选项(D)D。", "usage": {"prompt_tokens": 567, "completion_tokens": 7, "total_tokens": 574}, "finish_reason": "stop", "model": "ChatGLM-6B"}

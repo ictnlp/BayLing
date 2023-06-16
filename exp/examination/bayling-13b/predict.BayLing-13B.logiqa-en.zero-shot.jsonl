@@ -1,0 +1,651 @@
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 246, "completion_tokens": 6, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 315, "completion_tokens": 6, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice A.", "usage": {"prompt_tokens": 231, "completion_tokens": 5, "total_tokens": 236}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice A. Chen Rui can't speak the Central Plains Mandarin.", "usage": {"prompt_tokens": 278, "completion_tokens": 19, "total_tokens": 297}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 195, "completion_tokens": 6, "total_tokens": 201}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) Simple development of large cities is not conducive to the promotion of urbanization.", "usage": {"prompt_tokens": 228, "completion_tokens": 23, "total_tokens": 251}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 299, "completion_tokens": 6, "total_tokens": 305}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)\n\nExplanation:\n\nThe argument that there are groups of real estate speculators among the wealthy Chinese who have speculated in Beijing and Shanghai is the best argument against the argument that there are more and more rich people in China who are transferring their property abroad. This argument suggests that the increase in Chinese buyers of US real estate may not be due to an increase in the number of wealthy Chinese individuals, but rather due to speculation by a small group of individuals.", "usage": {"prompt_tokens": 309, "completion_tokens": 110, "total_tokens": 419}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D) The microwave only heats the water molecules in the food, the food does not change chemically.", "usage": {"prompt_tokens": 283, "completion_tokens": 29, "total_tokens": 312}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 303, "completion_tokens": 6, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 410, "completion_tokens": 5, "total_tokens": 415}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 436, "completion_tokens": 6, "total_tokens": 442}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) I am a female doctor.", "usage": {"prompt_tokens": 277, "completion_tokens": 11, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 292, "completion_tokens": 6, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 228, "completion_tokens": 6, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 261, "completion_tokens": 6, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 223, "completion_tokens": 6, "total_tokens": 229}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 361, "completion_tokens": 6, "total_tokens": 367}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 438, "completion_tokens": 6, "total_tokens": 444}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 358, "completion_tokens": 6, "total_tokens": 364}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 310, "completion_tokens": 6, "total_tokens": 316}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 422, "completion_tokens": 6, "total_tokens": 428}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 421, "completion_tokens": 6, "total_tokens": 427}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Guo Yanran.", "usage": {"prompt_tokens": 275, "completion_tokens": 10, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) He Zhilian.", "usage": {"prompt_tokens": 279, "completion_tokens": 9, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Peng Youwen.", "usage": {"prompt_tokens": 284, "completion_tokens": 10, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 298, "completion_tokens": 5, "total_tokens": 303}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 398, "completion_tokens": 6, "total_tokens": 404}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 391, "completion_tokens": 6, "total_tokens": 397}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 400, "completion_tokens": 6, "total_tokens": 406}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 401, "completion_tokens": 6, "total_tokens": 407}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 322, "completion_tokens": 6, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 281, "completion_tokens": 6, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) 3, 4, 6.", "usage": {"prompt_tokens": 261, "completion_tokens": 14, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 282, "completion_tokens": 6, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) Finance Department, Sales Department.", "usage": {"prompt_tokens": 260, "completion_tokens": 12, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 302, "completion_tokens": 6, "total_tokens": 308}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 320, "completion_tokens": 6, "total_tokens": 326}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 376, "completion_tokens": 6, "total_tokens": 382}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 280, "completion_tokens": 6, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 318, "completion_tokens": 6, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 268, "completion_tokens": 6, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 402, "completion_tokens": 6, "total_tokens": 408}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 476, "completion_tokens": 6, "total_tokens": 482}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 288, "completion_tokens": 6, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 225, "completion_tokens": 6, "total_tokens": 231}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 242, "completion_tokens": 6, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 425, "completion_tokens": 6, "total_tokens": 431}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 234, "completion_tokens": 6, "total_tokens": 240}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 249, "completion_tokens": 6, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 261, "completion_tokens": 6, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 278, "completion_tokens": 6, "total_tokens": 284}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 270, "completion_tokens": 6, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 302, "completion_tokens": 6, "total_tokens": 308}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 268, "completion_tokens": 6, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 224, "completion_tokens": 6, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 220, "completion_tokens": 6, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 311, "completion_tokens": 6, "total_tokens": 317}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Zhang was hired by Tianxuan.", "usage": {"prompt_tokens": 313, "completion_tokens": 16, "total_tokens": 329}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C) Any activity organized by a community will involve the elderly in the community.", "usage": {"prompt_tokens": 236, "completion_tokens": 21, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 243, "completion_tokens": 5, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C) Some of the objections to the post are more fully justified.", "usage": {"prompt_tokens": 240, "completion_tokens": 20, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 315, "completion_tokens": 6, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 228, "completion_tokens": 6, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 196, "completion_tokens": 6, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 369, "completion_tokens": 6, "total_tokens": 375}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 296, "completion_tokens": 6, "total_tokens": 302}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) Datian either does not have real talent, or lacks basic social skills, or fails to accurately locate in the career selection process.", "usage": {"prompt_tokens": 348, "completion_tokens": 34, "total_tokens": 382}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C) Some college teachers have a very high level.", "usage": {"prompt_tokens": 174, "completion_tokens": 15, "total_tokens": 189}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 335, "completion_tokens": 6, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 293, "completion_tokens": 6, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 236, "completion_tokens": 6, "total_tokens": 242}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 246, "completion_tokens": 6, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) A city's GDP growth rate is high, is the economic outlook necessarily good?", "usage": {"prompt_tokens": 303, "completion_tokens": 24, "total_tokens": 327}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 248, "completion_tokens": 6, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 288, "completion_tokens": 6, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 322, "completion_tokens": 6, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 319, "completion_tokens": 6, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 332, "completion_tokens": 6, "total_tokens": 338}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 233, "completion_tokens": 6, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is C.", "usage": {"prompt_tokens": 338, "completion_tokens": 4, "total_tokens": 342}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C) 2 guests.", "usage": {"prompt_tokens": 181, "completion_tokens": 10, "total_tokens": 191}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 445, "completion_tokens": 6, "total_tokens": 451}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 214, "completion_tokens": 6, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 265, "completion_tokens": 6, "total_tokens": 271}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 245, "completion_tokens": 6, "total_tokens": 251}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 226, "completion_tokens": 6, "total_tokens": 232}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 297, "completion_tokens": 6, "total_tokens": 303}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 294, "completion_tokens": 6, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 263, "completion_tokens": 6, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 278, "completion_tokens": 6, "total_tokens": 284}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 186, "completion_tokens": 6, "total_tokens": 192}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 264, "completion_tokens": 6, "total_tokens": 270}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 271, "completion_tokens": 6, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) To be valuable in life, we must reflect on it from time to time.", "usage": {"prompt_tokens": 168, "completion_tokens": 21, "total_tokens": 189}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 232, "completion_tokens": 6, "total_tokens": 238}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 266, "completion_tokens": 6, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 281, "completion_tokens": 6, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 294, "completion_tokens": 6, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) No.2 valve and No.3 valve.", "usage": {"prompt_tokens": 280, "completion_tokens": 17, "total_tokens": 297}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 253, "completion_tokens": 6, "total_tokens": 259}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 271, "completion_tokens": 6, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 268, "completion_tokens": 6, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C) Many investigators believe that the causes of the \"September 11\" terrorist attacks were not single but compound.", "usage": {"prompt_tokens": 278, "completion_tokens": 32, "total_tokens": 310}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) From the customer's perspective, the company's contract terms are acceptable.", "usage": {"prompt_tokens": 296, "completion_tokens": 21, "total_tokens": 317}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) Some northerners are not workers.", "usage": {"prompt_tokens": 159, "completion_tokens": 13, "total_tokens": 172}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 271, "completion_tokens": 6, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 243, "completion_tokens": 6, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 234, "completion_tokens": 6, "total_tokens": 240}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 219, "completion_tokens": 6, "total_tokens": 225}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 293, "completion_tokens": 6, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 252, "completion_tokens": 5, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 307, "completion_tokens": 6, "total_tokens": 313}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) Tsinghua University Team", "usage": {"prompt_tokens": 289, "completion_tokens": 11, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 297, "completion_tokens": 6, "total_tokens": 303}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 178, "completion_tokens": 6, "total_tokens": 184}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 250, "completion_tokens": 6, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 261, "completion_tokens": 6, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 254, "completion_tokens": 6, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 234, "completion_tokens": 6, "total_tokens": 240}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 243, "completion_tokens": 6, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 278, "completion_tokens": 6, "total_tokens": 284}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 266, "completion_tokens": 6, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 288, "completion_tokens": 6, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 335, "completion_tokens": 6, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 307, "completion_tokens": 6, "total_tokens": 313}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 331, "completion_tokens": 6, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 256, "completion_tokens": 6, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 280, "completion_tokens": 6, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 248, "completion_tokens": 6, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 348, "completion_tokens": 6, "total_tokens": 354}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 229, "completion_tokens": 6, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 253, "completion_tokens": 6, "total_tokens": 259}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Both W and T are on.", "usage": {"prompt_tokens": 265, "completion_tokens": 12, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 333, "completion_tokens": 6, "total_tokens": 339}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) G.", "usage": {"prompt_tokens": 304, "completion_tokens": 7, "total_tokens": 311}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 336, "completion_tokens": 6, "total_tokens": 342}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 353, "completion_tokens": 6, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 357, "completion_tokens": 6, "total_tokens": 363}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 290, "completion_tokens": 6, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 241, "completion_tokens": 6, "total_tokens": 247}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 244, "completion_tokens": 6, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 435, "completion_tokens": 6, "total_tokens": 441}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 220, "completion_tokens": 6, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 329, "completion_tokens": 6, "total_tokens": 335}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) At the same time retain the statement C and statement D.", "usage": {"prompt_tokens": 269, "completion_tokens": 17, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 240, "completion_tokens": 6, "total_tokens": 246}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 513, "completion_tokens": 6, "total_tokens": 519}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 294, "completion_tokens": 6, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 244, "completion_tokens": 6, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 288, "completion_tokens": 6, "total_tokens": 294}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D) Both Mr Zhang and Ms Wang bought Mongolian knives.", "usage": {"prompt_tokens": 275, "completion_tokens": 21, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 286, "completion_tokens": 6, "total_tokens": 292}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 325, "completion_tokens": 6, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D) Both Professor Huck and Professor Mas participated in the conference.", "usage": {"prompt_tokens": 260, "completion_tokens": 18, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 341, "completion_tokens": 6, "total_tokens": 347}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 287, "completion_tokens": 6, "total_tokens": 293}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) No notochord is pterosaur.", "usage": {"prompt_tokens": 187, "completion_tokens": 15, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 302, "completion_tokens": 6, "total_tokens": 308}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 319, "completion_tokens": 6, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 228, "completion_tokens": 6, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 253, "completion_tokens": 6, "total_tokens": 259}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 312, "completion_tokens": 6, "total_tokens": 318}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 226, "completion_tokens": 6, "total_tokens": 232}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 215, "completion_tokens": 6, "total_tokens": 221}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 310, "completion_tokens": 6, "total_tokens": 316}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 262, "completion_tokens": 6, "total_tokens": 268}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 147, "completion_tokens": 6, "total_tokens": 153}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 231, "completion_tokens": 6, "total_tokens": 237}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 300, "completion_tokens": 6, "total_tokens": 306}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 355, "completion_tokens": 6, "total_tokens": 361}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) \"Doximayo\" means \"hostage\".", "usage": {"prompt_tokens": 268, "completion_tokens": 17, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 309, "completion_tokens": 6, "total_tokens": 315}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 289, "completion_tokens": 6, "total_tokens": 295}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 254, "completion_tokens": 6, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 272, "completion_tokens": 6, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 232, "completion_tokens": 6, "total_tokens": 238}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 224, "completion_tokens": 6, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) G or L.", "usage": {"prompt_tokens": 232, "completion_tokens": 10, "total_tokens": 242}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 233, "completion_tokens": 6, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 230, "completion_tokens": 6, "total_tokens": 236}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 232, "completion_tokens": 6, "total_tokens": 238}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) G or H, or both.", "usage": {"prompt_tokens": 231, "completion_tokens": 13, "total_tokens": 244}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 216, "completion_tokens": 6, "total_tokens": 222}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) E and M.", "usage": {"prompt_tokens": 224, "completion_tokens": 9, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 225, "completion_tokens": 6, "total_tokens": 231}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 220, "completion_tokens": 6, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 261, "completion_tokens": 6, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 339, "completion_tokens": 5, "total_tokens": 344}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) The virtuous cycle of the economy can be realized only by the investment momentum and consumption momentum generated by the economy itself.", "usage": {"prompt_tokens": 269, "completion_tokens": 30, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 268, "completion_tokens": 6, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 282, "completion_tokens": 6, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 300, "completion_tokens": 6, "total_tokens": 306}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 268, "completion_tokens": 6, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 275, "completion_tokens": 6, "total_tokens": 281}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 297, "completion_tokens": 5, "total_tokens": 302}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (C) Can the expanded fiscal policy significantly increase the employment rate?", "usage": {"prompt_tokens": 215, "completion_tokens": 18, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 398, "completion_tokens": 6, "total_tokens": 404}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 252, "completion_tokens": 6, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 321, "completion_tokens": 6, "total_tokens": 327}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) Recognized ranking agencies can only be generated from ranking practice.", "usage": {"prompt_tokens": 309, "completion_tokens": 19, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 354, "completion_tokens": 6, "total_tokens": 360}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 367, "completion_tokens": 6, "total_tokens": 373}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 251, "completion_tokens": 6, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 271, "completion_tokens": 6, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 229, "completion_tokens": 6, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 214, "completion_tokens": 6, "total_tokens": 220}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 286, "completion_tokens": 6, "total_tokens": 292}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 216, "completion_tokens": 6, "total_tokens": 222}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 348, "completion_tokens": 6, "total_tokens": 354}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 230, "completion_tokens": 6, "total_tokens": 236}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 267, "completion_tokens": 6, "total_tokens": 273}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 246, "completion_tokens": 6, "total_tokens": 252}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 260, "completion_tokens": 6, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 232, "completion_tokens": 6, "total_tokens": 238}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 299, "completion_tokens": 6, "total_tokens": 305}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 285, "completion_tokens": 6, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 314, "completion_tokens": 6, "total_tokens": 320}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 250, "completion_tokens": 6, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 380, "completion_tokens": 6, "total_tokens": 386}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 291, "completion_tokens": 6, "total_tokens": 297}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 294, "completion_tokens": 6, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) G.", "usage": {"prompt_tokens": 270, "completion_tokens": 7, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) F in the binding group.", "usage": {"prompt_tokens": 260, "completion_tokens": 11, "total_tokens": 271}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) 5.", "usage": {"prompt_tokens": 231, "completion_tokens": 8, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 342, "completion_tokens": 6, "total_tokens": 348}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 347, "completion_tokens": 6, "total_tokens": 353}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 343, "completion_tokens": 6, "total_tokens": 349}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 322, "completion_tokens": 6, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 322, "completion_tokens": 6, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 333, "completion_tokens": 6, "total_tokens": 339}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 238, "completion_tokens": 6, "total_tokens": 244}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 310, "completion_tokens": 6, "total_tokens": 316}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 335, "completion_tokens": 6, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 378, "completion_tokens": 6, "total_tokens": 384}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 250, "completion_tokens": 6, "total_tokens": 256}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 325, "completion_tokens": 6, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 305, "completion_tokens": 6, "total_tokens": 311}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 332, "completion_tokens": 6, "total_tokens": 338}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 282, "completion_tokens": 6, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 441, "completion_tokens": 6, "total_tokens": 447}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 221, "completion_tokens": 6, "total_tokens": 227}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 267, "completion_tokens": 6, "total_tokens": 273}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 373, "completion_tokens": 6, "total_tokens": 379}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 260, "completion_tokens": 6, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 224, "completion_tokens": 6, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 407, "completion_tokens": 6, "total_tokens": 413}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 299, "completion_tokens": 6, "total_tokens": 305}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 315, "completion_tokens": 6, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Both A and B lie.", "usage": {"prompt_tokens": 157, "completion_tokens": 11, "total_tokens": 168}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 308, "completion_tokens": 6, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 345, "completion_tokens": 6, "total_tokens": 351}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 263, "completion_tokens": 6, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 264, "completion_tokens": 6, "total_tokens": 270}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 289, "completion_tokens": 6, "total_tokens": 295}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 260, "completion_tokens": 6, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 508, "completion_tokens": 6, "total_tokens": 514}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 318, "completion_tokens": 6, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (C) The two will be tied.", "usage": {"prompt_tokens": 226, "completion_tokens": 11, "total_tokens": 237}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 224, "completion_tokens": 6, "total_tokens": 230}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 237, "completion_tokens": 6, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 240, "completion_tokens": 6, "total_tokens": 246}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 204, "completion_tokens": 6, "total_tokens": 210}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 215, "completion_tokens": 6, "total_tokens": 221}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 265, "completion_tokens": 6, "total_tokens": 271}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) \"No time to read\" is the main reason for the decline in book reading.", "usage": {"prompt_tokens": 250, "completion_tokens": 23, "total_tokens": 273}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 329, "completion_tokens": 6, "total_tokens": 335}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 261, "completion_tokens": 6, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 366, "completion_tokens": 6, "total_tokens": 372}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 214, "completion_tokens": 5, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 237, "completion_tokens": 6, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 280, "completion_tokens": 6, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 319, "completion_tokens": 6, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 333, "completion_tokens": 6, "total_tokens": 339}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) F, I, X.", "usage": {"prompt_tokens": 256, "completion_tokens": 11, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 279, "completion_tokens": 5, "total_tokens": 284}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) G and X.", "usage": {"prompt_tokens": 249, "completion_tokens": 9, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 271, "completion_tokens": 5, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) I exist.", "usage": {"prompt_tokens": 174, "completion_tokens": 8, "total_tokens": 182}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 237, "completion_tokens": 6, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 362, "completion_tokens": 6, "total_tokens": 368}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 353, "completion_tokens": 6, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 328, "completion_tokens": 6, "total_tokens": 334}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 364, "completion_tokens": 6, "total_tokens": 370}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 353, "completion_tokens": 6, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 285, "completion_tokens": 6, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 313, "completion_tokens": 6, "total_tokens": 319}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 307, "completion_tokens": 6, "total_tokens": 313}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 423, "completion_tokens": 6, "total_tokens": 429}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 300, "completion_tokens": 6, "total_tokens": 306}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 289, "completion_tokens": 6, "total_tokens": 295}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 385, "completion_tokens": 6, "total_tokens": 391}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 383, "completion_tokens": 6, "total_tokens": 389}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 322, "completion_tokens": 6, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 298, "completion_tokens": 6, "total_tokens": 304}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 233, "completion_tokens": 6, "total_tokens": 239}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 325, "completion_tokens": 6, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 251, "completion_tokens": 6, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 276, "completion_tokens": 6, "total_tokens": 282}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 316, "completion_tokens": 5, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 373, "completion_tokens": 6, "total_tokens": 379}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 390, "completion_tokens": 6, "total_tokens": 396}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 244, "completion_tokens": 6, "total_tokens": 250}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 282, "completion_tokens": 6, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 314, "completion_tokens": 6, "total_tokens": 320}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 336, "completion_tokens": 6, "total_tokens": 342}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Xiao Wang didn't buy stocks.", "usage": {"prompt_tokens": 228, "completion_tokens": 15, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 237, "completion_tokens": 6, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 187, "completion_tokens": 6, "total_tokens": 193}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 314, "completion_tokens": 6, "total_tokens": 320}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 361, "completion_tokens": 6, "total_tokens": 367}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 354, "completion_tokens": 6, "total_tokens": 360}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 289, "completion_tokens": 6, "total_tokens": 295}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 220, "completion_tokens": 6, "total_tokens": 226}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 308, "completion_tokens": 6, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 264, "completion_tokens": 6, "total_tokens": 270}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 403, "completion_tokens": 6, "total_tokens": 409}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 330, "completion_tokens": 6, "total_tokens": 336}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 340, "completion_tokens": 6, "total_tokens": 346}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 330, "completion_tokens": 6, "total_tokens": 336}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 337, "completion_tokens": 6, "total_tokens": 343}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 274, "completion_tokens": 6, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 284, "completion_tokens": 6, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 267, "completion_tokens": 6, "total_tokens": 273}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 281, "completion_tokens": 6, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 236, "completion_tokens": 6, "total_tokens": 242}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 231, "completion_tokens": 6, "total_tokens": 237}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 437, "completion_tokens": 6, "total_tokens": 443}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 318, "completion_tokens": 6, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 348, "completion_tokens": 6, "total_tokens": 354}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 290, "completion_tokens": 6, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 252, "completion_tokens": 6, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 324, "completion_tokens": 6, "total_tokens": 330}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 428, "completion_tokens": 6, "total_tokens": 434}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 343, "completion_tokens": 6, "total_tokens": 349}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 302, "completion_tokens": 6, "total_tokens": 308}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 257, "completion_tokens": 6, "total_tokens": 263}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 353, "completion_tokens": 6, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 424, "completion_tokens": 6, "total_tokens": 430}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 308, "completion_tokens": 6, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 367, "completion_tokens": 6, "total_tokens": 373}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 339, "completion_tokens": 6, "total_tokens": 345}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) Europe and the United States did not plunder African resources.", "usage": {"prompt_tokens": 334, "completion_tokens": 18, "total_tokens": 352}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 380, "completion_tokens": 6, "total_tokens": 386}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 261, "completion_tokens": 6, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) \"Ding tells lies.\"", "usage": {"prompt_tokens": 227, "completion_tokens": 11, "total_tokens": 238}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 301, "completion_tokens": 6, "total_tokens": 307}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 331, "completion_tokens": 6, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 298, "completion_tokens": 6, "total_tokens": 304}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 256, "completion_tokens": 6, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 332, "completion_tokens": 5, "total_tokens": 337}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 310, "completion_tokens": 6, "total_tokens": 316}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 256, "completion_tokens": 6, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 289, "completion_tokens": 6, "total_tokens": 295}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 387, "completion_tokens": 6, "total_tokens": 393}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 300, "completion_tokens": 6, "total_tokens": 306}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Tight monetary policy may lead to economic decline.", "usage": {"prompt_tokens": 317, "completion_tokens": 18, "total_tokens": 335}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 278, "completion_tokens": 5, "total_tokens": 283}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 249, "completion_tokens": 6, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 262, "completion_tokens": 6, "total_tokens": 268}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 320, "completion_tokens": 6, "total_tokens": 326}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 389, "completion_tokens": 6, "total_tokens": 395}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 315, "completion_tokens": 6, "total_tokens": 321}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) T and S.", "usage": {"prompt_tokens": 262, "completion_tokens": 10, "total_tokens": 272}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) W.", "usage": {"prompt_tokens": 255, "completion_tokens": 7, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 258, "completion_tokens": 6, "total_tokens": 264}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D) Y and Z.", "usage": {"prompt_tokens": 265, "completion_tokens": 10, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 325, "completion_tokens": 6, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 243, "completion_tokens": 6, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) G and Y are assigned as transport soldiers.", "usage": {"prompt_tokens": 263, "completion_tokens": 14, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) G and X.", "usage": {"prompt_tokens": 236, "completion_tokens": 9, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 260, "completion_tokens": 5, "total_tokens": 265}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 312, "completion_tokens": 6, "total_tokens": 318}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D) Some plants can develop strong resistance to air pollution.", "usage": {"prompt_tokens": 265, "completion_tokens": 17, "total_tokens": 282}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 225, "completion_tokens": 6, "total_tokens": 231}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 294, "completion_tokens": 6, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 260, "completion_tokens": 6, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 304, "completion_tokens": 6, "total_tokens": 310}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C) Some natural things are not safe.", "usage": {"prompt_tokens": 174, "completion_tokens": 13, "total_tokens": 187}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 333, "completion_tokens": 6, "total_tokens": 339}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 249, "completion_tokens": 6, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 308, "completion_tokens": 6, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 352, "completion_tokens": 6, "total_tokens": 358}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 355, "completion_tokens": 6, "total_tokens": 361}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 320, "completion_tokens": 6, "total_tokens": 326}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 223, "completion_tokens": 6, "total_tokens": 229}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 335, "completion_tokens": 6, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 265, "completion_tokens": 6, "total_tokens": 271}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 304, "completion_tokens": 6, "total_tokens": 310}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 437, "completion_tokens": 6, "total_tokens": 443}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 369, "completion_tokens": 6, "total_tokens": 375}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 455, "completion_tokens": 6, "total_tokens": 461}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 282, "completion_tokens": 6, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 384, "completion_tokens": 6, "total_tokens": 390}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 349, "completion_tokens": 6, "total_tokens": 355}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 237, "completion_tokens": 6, "total_tokens": 243}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 405, "completion_tokens": 6, "total_tokens": 411}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 403, "completion_tokens": 6, "total_tokens": 409}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 296, "completion_tokens": 6, "total_tokens": 302}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 375, "completion_tokens": 6, "total_tokens": 381}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 412, "completion_tokens": 6, "total_tokens": 418}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 281, "completion_tokens": 6, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 294, "completion_tokens": 6, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 302, "completion_tokens": 6, "total_tokens": 308}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 308, "completion_tokens": 6, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 356, "completion_tokens": 6, "total_tokens": 362}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Q, K, Y, M, X, S.", "usage": {"prompt_tokens": 281, "completion_tokens": 17, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) The age of K is earlier than Q.", "usage": {"prompt_tokens": 277, "completion_tokens": 14, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) Q.", "usage": {"prompt_tokens": 243, "completion_tokens": 8, "total_tokens": 251}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 348, "completion_tokens": 6, "total_tokens": 354}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) Y is F accompaniment.", "usage": {"prompt_tokens": 279, "completion_tokens": 11, "total_tokens": 290}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (C) L and H.", "usage": {"prompt_tokens": 258, "completion_tokens": 9, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 248, "completion_tokens": 6, "total_tokens": 254}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 252, "completion_tokens": 6, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 272, "completion_tokens": 6, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 293, "completion_tokens": 6, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 314, "completion_tokens": 6, "total_tokens": 320}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 317, "completion_tokens": 6, "total_tokens": 323}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 350, "completion_tokens": 6, "total_tokens": 356}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 301, "completion_tokens": 6, "total_tokens": 307}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 335, "completion_tokens": 6, "total_tokens": 341}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 282, "completion_tokens": 6, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 270, "completion_tokens": 6, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 285, "completion_tokens": 6, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D) Many citizens hope to increase the fare to improve the ride environment.", "usage": {"prompt_tokens": 295, "completion_tokens": 19, "total_tokens": 314}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) If the impulse of local governments to borrow money for development is not suppressed, the domestic capital cost has not returned to a reasonable position.", "usage": {"prompt_tokens": 340, "completion_tokens": 35, "total_tokens": 375}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) There is no fire in some places.", "usage": {"prompt_tokens": 225, "completion_tokens": 13, "total_tokens": 238}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 361, "completion_tokens": 6, "total_tokens": 367}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 303, "completion_tokens": 6, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 301, "completion_tokens": 6, "total_tokens": 307}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 306, "completion_tokens": 6, "total_tokens": 312}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 451, "completion_tokens": 5, "total_tokens": 456}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 228, "completion_tokens": 6, "total_tokens": 234}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 317, "completion_tokens": 6, "total_tokens": 323}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 341, "completion_tokens": 6, "total_tokens": 347}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 274, "completion_tokens": 6, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 317, "completion_tokens": 6, "total_tokens": 323}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 242, "completion_tokens": 6, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 297, "completion_tokens": 5, "total_tokens": 302}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 365, "completion_tokens": 6, "total_tokens": 371}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 351, "completion_tokens": 6, "total_tokens": 357}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 280, "completion_tokens": 6, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 385, "completion_tokens": 6, "total_tokens": 391}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 319, "completion_tokens": 6, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) 18650 battery can be recharged many times, so the service life of the battery is greatly extended.", "usage": {"prompt_tokens": 355, "completion_tokens": 31, "total_tokens": 386}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 362, "completion_tokens": 6, "total_tokens": 368}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) \"Production cost\" in the definition of dumping refers to the production cost of the origin of the commodity or the production cost of similar commodities in the place of sale.", "usage": {"prompt_tokens": 362, "completion_tokens": 44, "total_tokens": 406}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 290, "completion_tokens": 6, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 432, "completion_tokens": 6, "total_tokens": 438}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 349, "completion_tokens": 6, "total_tokens": 355}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 238, "completion_tokens": 6, "total_tokens": 244}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) The argument uses unproven assumptions as an argument.", "usage": {"prompt_tokens": 281, "completion_tokens": 16, "total_tokens": 297}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 285, "completion_tokens": 6, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 328, "completion_tokens": 6, "total_tokens": 334}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 272, "completion_tokens": 6, "total_tokens": 278}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 271, "completion_tokens": 6, "total_tokens": 277}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 319, "completion_tokens": 6, "total_tokens": 325}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 277, "completion_tokens": 6, "total_tokens": 283}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 270, "completion_tokens": 6, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 343, "completion_tokens": 6, "total_tokens": 349}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 324, "completion_tokens": 6, "total_tokens": 330}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 296, "completion_tokens": 6, "total_tokens": 302}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 227, "completion_tokens": 6, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 265, "completion_tokens": 6, "total_tokens": 271}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (C) Some delicious fish are animals that need protection.", "usage": {"prompt_tokens": 231, "completion_tokens": 15, "total_tokens": 246}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 245, "completion_tokens": 6, "total_tokens": 251}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 342, "completion_tokens": 6, "total_tokens": 348}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 302, "completion_tokens": 6, "total_tokens": 308}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 351, "completion_tokens": 6, "total_tokens": 357}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 260, "completion_tokens": 6, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 298, "completion_tokens": 6, "total_tokens": 304}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 374, "completion_tokens": 6, "total_tokens": 380}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) The advertisement makes a suspicious assumption? if the drug has no side effects, it will have a positive effect on weight loss.", "usage": {"prompt_tokens": 317, "completion_tokens": 33, "total_tokens": 350}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 324, "completion_tokens": 6, "total_tokens": 330}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 289, "completion_tokens": 6, "total_tokens": 295}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 361, "completion_tokens": 6, "total_tokens": 367}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 303, "completion_tokens": 6, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 361, "completion_tokens": 6, "total_tokens": 367}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 290, "completion_tokens": 6, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) This year, City B has implemented the strictest real estate regulation and control policies in the country.", "usage": {"prompt_tokens": 342, "completion_tokens": 26, "total_tokens": 368}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 351, "completion_tokens": 6, "total_tokens": 357}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 377, "completion_tokens": 6, "total_tokens": 383}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 286, "completion_tokens": 6, "total_tokens": 292}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 303, "completion_tokens": 6, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 277, "completion_tokens": 6, "total_tokens": 283}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 279, "completion_tokens": 6, "total_tokens": 285}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 317, "completion_tokens": 6, "total_tokens": 323}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) Scientists still do not know the deep connotation behind the term \"dark energy\".", "usage": {"prompt_tokens": 247, "completion_tokens": 22, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 309, "completion_tokens": 6, "total_tokens": 315}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 338, "completion_tokens": 6, "total_tokens": 344}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 305, "completion_tokens": 6, "total_tokens": 311}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 300, "completion_tokens": 6, "total_tokens": 306}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 395, "completion_tokens": 6, "total_tokens": 401}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 270, "completion_tokens": 6, "total_tokens": 276}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 303, "completion_tokens": 6, "total_tokens": 309}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) P.", "usage": {"prompt_tokens": 281, "completion_tokens": 7, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) 3 rooms.", "usage": {"prompt_tokens": 307, "completion_tokens": 9, "total_tokens": 316}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) Warehouse No. 6.", "usage": {"prompt_tokens": 294, "completion_tokens": 13, "total_tokens": 307}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 325, "completion_tokens": 6, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 280, "completion_tokens": 6, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 277, "completion_tokens": 6, "total_tokens": 283}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 274, "completion_tokens": 6, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 318, "completion_tokens": 6, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 338, "completion_tokens": 6, "total_tokens": 344}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 283, "completion_tokens": 6, "total_tokens": 289}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 360, "completion_tokens": 6, "total_tokens": 366}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 267, "completion_tokens": 6, "total_tokens": 273}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 294, "completion_tokens": 6, "total_tokens": 300}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 287, "completion_tokens": 6, "total_tokens": 293}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 466, "completion_tokens": 6, "total_tokens": 472}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 445, "completion_tokens": 6, "total_tokens": 451}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 208, "completion_tokens": 6, "total_tokens": 214}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D) Ambiguity fallacy? \"knowing\" has two different meanings? knowing the answer to the question being explored? knowing the question to be explored.", "usage": {"prompt_tokens": 289, "completion_tokens": 41, "total_tokens": 330}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 322, "completion_tokens": 6, "total_tokens": 328}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 269, "completion_tokens": 6, "total_tokens": 275}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 219, "completion_tokens": 6, "total_tokens": 225}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 249, "completion_tokens": 6, "total_tokens": 255}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 358, "completion_tokens": 6, "total_tokens": 364}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 323, "completion_tokens": 6, "total_tokens": 329}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 345, "completion_tokens": 6, "total_tokens": 351}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 343, "completion_tokens": 6, "total_tokens": 349}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 321, "completion_tokens": 6, "total_tokens": 327}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 277, "completion_tokens": 6, "total_tokens": 283}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 327, "completion_tokens": 6, "total_tokens": 333}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 357, "completion_tokens": 6, "total_tokens": 363}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 293, "completion_tokens": 6, "total_tokens": 299}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A)", "usage": {"prompt_tokens": 391, "completion_tokens": 5, "total_tokens": 396}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 353, "completion_tokens": 6, "total_tokens": 359}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 282, "completion_tokens": 6, "total_tokens": 288}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 306, "completion_tokens": 6, "total_tokens": 312}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 360, "completion_tokens": 6, "total_tokens": 366}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 211, "completion_tokens": 6, "total_tokens": 217}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (D)", "usage": {"prompt_tokens": 298, "completion_tokens": 5, "total_tokens": 303}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 281, "completion_tokens": 6, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 296, "completion_tokens": 6, "total_tokens": 302}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 318, "completion_tokens": 6, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 360, "completion_tokens": 6, "total_tokens": 366}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (A) Some health products are necessary for some people to take.", "usage": {"prompt_tokens": 217, "completion_tokens": 16, "total_tokens": 233}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 256, "completion_tokens": 6, "total_tokens": 262}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 281, "completion_tokens": 6, "total_tokens": 287}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 251, "completion_tokens": 6, "total_tokens": 257}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 252, "completion_tokens": 6, "total_tokens": 258}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B) Third.", "usage": {"prompt_tokens": 211, "completion_tokens": 8, "total_tokens": 219}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 254, "completion_tokens": 6, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 298, "completion_tokens": 6, "total_tokens": 304}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 287, "completion_tokens": 6, "total_tokens": 293}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 320, "completion_tokens": 6, "total_tokens": 326}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 307, "completion_tokens": 6, "total_tokens": 313}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 261, "completion_tokens": 6, "total_tokens": 267}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 254, "completion_tokens": 6, "total_tokens": 260}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 274, "completion_tokens": 6, "total_tokens": 280}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 263, "completion_tokens": 6, "total_tokens": 269}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 196, "completion_tokens": 6, "total_tokens": 202}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 314, "completion_tokens": 6, "total_tokens": 320}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 202, "completion_tokens": 6, "total_tokens": 208}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 280, "completion_tokens": 6, "total_tokens": 286}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 410, "completion_tokens": 6, "total_tokens": 416}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 229, "completion_tokens": 6, "total_tokens": 235}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 292, "completion_tokens": 6, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 342, "completion_tokens": 6, "total_tokens": 348}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 295, "completion_tokens": 6, "total_tokens": 301}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 411, "completion_tokens": 6, "total_tokens": 417}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 253, "completion_tokens": 6, "total_tokens": 259}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 285, "completion_tokens": 6, "total_tokens": 291}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 360, "completion_tokens": 6, "total_tokens": 366}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 243, "completion_tokens": 6, "total_tokens": 249}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 349, "completion_tokens": 6, "total_tokens": 355}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 403, "completion_tokens": 6, "total_tokens": 409}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 325, "completion_tokens": 6, "total_tokens": 331}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 257, "completion_tokens": 6, "total_tokens": 263}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 318, "completion_tokens": 6, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 273, "completion_tokens": 6, "total_tokens": 279}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 258, "completion_tokens": 6, "total_tokens": 264}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 359, "completion_tokens": 6, "total_tokens": 365}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 239, "completion_tokens": 6, "total_tokens": 245}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (C)", "usage": {"prompt_tokens": 335, "completion_tokens": 5, "total_tokens": 340}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 334, "completion_tokens": 6, "total_tokens": 340}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 318, "completion_tokens": 6, "total_tokens": 324}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 390, "completion_tokens": 6, "total_tokens": 396}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B)", "usage": {"prompt_tokens": 317, "completion_tokens": 5, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 423, "completion_tokens": 6, "total_tokens": 429}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 225, "completion_tokens": 6, "total_tokens": 231}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 362, "completion_tokens": 6, "total_tokens": 368}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 257, "completion_tokens": 6, "total_tokens": 263}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 344, "completion_tokens": 6, "total_tokens": 350}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (C)", "usage": {"prompt_tokens": 269, "completion_tokens": 5, "total_tokens": 274}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D)", "usage": {"prompt_tokens": 368, "completion_tokens": 6, "total_tokens": 374}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (C) Class L is taller than Class J.", "usage": {"prompt_tokens": 195, "completion_tokens": 14, "total_tokens": 209}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 255, "completion_tokens": 6, "total_tokens": 261}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 260, "completion_tokens": 6, "total_tokens": 266}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) 3 types.", "usage": {"prompt_tokens": 242, "completion_tokens": 9, "total_tokens": 251}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 242, "completion_tokens": 6, "total_tokens": 248}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (A)", "usage": {"prompt_tokens": 262, "completion_tokens": 6, "total_tokens": 268}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (B)", "usage": {"prompt_tokens": 313, "completion_tokens": 6, "total_tokens": 319}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is (B) V and Y.", "usage": {"prompt_tokens": 306, "completion_tokens": 9, "total_tokens": 315}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (D) I.", "usage": {"prompt_tokens": 288, "completion_tokens": 8, "total_tokens": 296}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 292, "completion_tokens": 6, "total_tokens": 298}, "finish_reason": "stop", "model": "BayLing-13B"}
+{"text": "Answer is choice (C)", "usage": {"prompt_tokens": 316, "completion_tokens": 6, "total_tokens": 322}, "finish_reason": "stop", "model": "BayLing-13B"}
