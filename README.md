@@ -384,8 +384,39 @@ English multi-turn instruction     |  Chinese multi-turn instruction
   </tr>
 </tbody>
 </table>
-
 ### <a id="Cases">Cases</a>
+
+
+
+<details>
+<summary>Interactive Translation</summary>
+
+
+**USER**:
+
+> “6月15日，阿根廷VS澳大利亚的比赛过程中，一位梅西球迷冲进北京工人体育场与梅西拥抱，最后被安保人员带出球场。”的英语翻译是什么？
+
+**BayLiing-13B**:
+
+> During the Argentina vs. Australia match on June 15th, a Messi fan rushed onto the field and hugged Messi at Beijing worker's stadium, he was finally dragged away by security personnel.
+
+**USER**:
+
+> 为Messi添加定语“即将获得第8座金球奖的”
+
+**BayLiing-13B**:
+
+> During the Argentina vs. Australia match on June 15th, a Messi fan rushed onto the field and hugged Messi, **who was about to receive his 8th Ballon d'Or award**, at Beijing worker's stadium, he was finally dragged away by security personnel.
+
+**USER**:
+
+> 评价此事
+
+**BayLiing-13B**:
+
+> Overall, it seems that the Messi fan's actions were inappropriate and put the player's safety at risk. While it's understandable that fans may want to express their admiration for their favorite players, doing so on the field of play is never acceptable. Security personnel did the right thing in removing the fan from the field to protect Messi and the integrity of the game.
+
+</details>
 
 <details>
 <summary>Generic</summary>
