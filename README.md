@@ -159,8 +159,8 @@ English single-turn instruction     |  Chinese single-turn instruction
 ![](assets/Cap.BayLing.vs.chatgpt.multiturn.en.png)  |![](assets/Cap.BayLing.vs.chatgpt.multiturn.zh.png)  |
 English multi-turn instruction     |  Chinese multi-turn instruction  
 
-
 ### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT</a>
+
 - We evaluate BayLing on the Chinese and English standardized tests from [AGIEval](https://github.com/microsoft/AGIEval).
   - Chinese: GaoKao.
 
@@ -384,6 +384,18 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 </tbody>
 </table>
 
+### <a id="Cases">Cases</a>
+
+<details>
+<summary>Summary</summary>
+> ==USER==
+>
+> ==USER==
+>
+> ==BayLing-13B==
+
+
+</details>
 
 ## <a id="Limitations">Limitations</a>
 
