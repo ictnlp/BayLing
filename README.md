@@ -4,6 +4,8 @@
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
 
+[https://img.shields.io/badge/BayLing-Demo-blue.svg](http://nlp.ict.ac.cn/bayling/demo)
+[https://img.shields.io/badge/paper-arxiv-green.svg]()
 ![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update) 
 ------
 
@@ -74,7 +76,9 @@
 
 ### <a id="CommandInteractive">Command Interactive</a>
 
-<img src="./assets/chat.gif" alt="img" width="70%" />
+<div  align="center">
+  <img src="./assets/chat.gif" alt="img" width="80%" />
+</div>
 
 - You can quickly interact with BayLing from the command line using this script.
 
@@ -89,7 +93,9 @@
 
 ### <a id="GUIInteractive">GUI Interactive</a>
 
-<img src="./assets/gui.gif" alt="img" width="70%" />
+<div  align="center">   
+  <img src="./assets/gui.gif" alt="img" width="80%" />
+</div>
 
 - You can also deploy BayLing on your personal device with GUI, based on [FastChat](https://github.com/lm-sys/FastChat).
 
