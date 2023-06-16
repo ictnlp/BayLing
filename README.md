@@ -4,7 +4,11 @@
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
 
+<div  align="center">
+![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo
 ![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update) 
+</div>
+
 ------
 
 **BayLing** (**百聆**, **bǎi líng**) is an instruction-following LLM equipped with advanced language alignment, offering enhanced proficiency in English/Chinese generation, instruction-following and multi-turn interactions. BayLing can be deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion...
