@@ -4,7 +4,7 @@
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
 
-[![license](https://img.shields.io/badge/License-GNU:3.0-blue.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/License-GNU:3.0-lightgrey.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
 [![blog](https://img.shields.io/badge/BayLing-blog-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
 [![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)]()
