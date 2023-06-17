@@ -27,6 +27,8 @@
 
 |  [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff)  |  [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)  |
 
+
+
 > BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
 >
 > Any question or suggestion, please contact with `bayling@ict.ac.cn`
@@ -43,11 +45,11 @@
 	- [Command Interactive](#Command-Interactive)
 	- [GUI Interactive](#GUI-Interactive)
 - [How Good is BayLing?](#How-Good-is-BayLing?)
+  - [Cases](#Cases)
 	- [Multilingual Translation](#Multilingual-Translation)
 	- [Interactive Translation with Human Evaluation](#Interactive-Translation-with-Human-Evaluation)
 	- [General Tasks with GPT-4 Evaluation](#General-Tasks-with-GPT-4-Evaluation)
 	- [Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)
-  - [Cases](#Cases)
 - [Limitations](#Limitations)
 - [License](#License)
 - [Acknowledgements](#Acknowledgements)
@@ -115,277 +117,7 @@
 
 ## <a id="HowGoodisBayLing?">How Good is BayLing?</a>
 
-|  [Multilingual Translation](#Multilingual-Translation)  |  [Interactive Translation](#Interactive-Translation-with-Human-Evaluation)  |  [General Tasks](#General-Tasks-with-GPT-4-Evaluation)  |  [Standardized Tests](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |  [Cases](#Cases)  |
-
-### <a id="MultilingualTranslation?">Multilingual Translation</a>
-
-- We evaluate the multilingual capability of BayLing on [WMT22](https://www.statmt.org/wmt22/translation-task.html) benchmarks. We compare BayLing-7B and BayLing-13B with state-of-the-art translation models, including both translation-specific large models ([Google Translate](https://translate.google.com/), [NLLB-3.3B](https://huggingface.co/facebook/nllb-200-3.3B)) and general instruction-following LLMs (GPT-4, GPT-3.5-turbo, [ChatGLM-6B](https://huggingface.co/THUDM/chatglm-6b), [BLOOMZ-7B1-MT](https://huggingface.co/bigscience/bloomz-7b1-mt), [Vicuna-13B](https://huggingface.co/lmsys/vicuna-13b-delta-v1.1), [ParroT-7B](https://huggingface.co/wxjiao/ParroT-7b) and [Alpaca-7B](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff)).
-- We release all [translation results](./exp/translation_benchmark). You can use them as the baselines for machine translation research.
-
-![](assets/wmt22_zhen.png)  |  ![](assets/wmt22_enzh.png)
-:-------------------------:|:-------------------------:
-WMT22 Chinese-to-English     |  WMT22 English-to-Chinese
-![](assets/wmt22_deen.png)  |  ![](assets/wmt22_ende.png)
-WMT22 German-to-English    |  WMT22 English-to-German
-
-![](assets/wmt22_multilingual.png) |
-:-------------------------:|
-WMT22 Multilingual Benchmark (zero-shot setting)  |
-
-### <a id="InteractiveTranslationwithHumanEvaluation">Interactive Translation with Human Evaluation</a>
-
-- We invite several English-major annotators (pass TEM-8) to interact with BayLing and baselines on translation tasks, and give the rank of  systems on three capabilities. 
-- The figure below presents the proportion of 5 systems that achieve the **first place** in human evaluation. In terms of evaluating ability of translation, instruction following and multi-turn interaction, BayLing-13B is rated first by human in 18%, 30% and 20% of the cases respectively, **placing second only to ChatGPT**.
-
-![](assets/human_eval_translation.png)  |  ![](assets/human_eval_instruction.png)|  ![](assets/human_eval_interactive.png)
-:-------------------------:|:-------------------------:|:-------------------------:
-Translation Quality   |  Instruction Following | Multi-turn Interaction
-
-### <a id="GeneralTaskswithGPT-4Evaluation">General Tasks with GPT-4 Evaluation</a>
-
-- We extended the [Vicuna-80 test set](https://github.com/lm-sys/FastChat/blob/main/fastchat/eval/table/question.jsonl) to include multi-turn interactions, creating a multi-turn instruction test set called [**BayLing-80**](./data/BayLing-80). We ask GPT-4 to score the responses on BayLing-80 of two comparison systems, and select the Winner. 
-- BayLing-13B outperforms GPT3.5-turbo in 35% of cases when evaluated by GPT-4, and not worse than GPT-3.5-turbo in 45% of cases.
-- Responses of systems and GPT-4 reviews can be found [here](./exp/general_tasks).
-
-![](assets/battle.en.png)  |  ![](assets/battle.zh.png)
-:-------------------------:|:-------------------------:
-English single-turn instruction     |  Chinese single-turn instruction   
-![](assets/battle.multiturn.en.png)  |  ![](assets/battle.multiturn.zh.png) 
-English multi-turn instruction     |  Chinese multi-turn instruction  
-
-- BayLing-13B v.s. GPT-3.5-turbo on 9 capabilities.
-
-![](assets/Cap.BayLing.vs.chatgpt.en.png)  |![](assets/Cap.BayLing.vs.chatgpt.zh.png)  
-:-------------------------:|:-------------------------:
-English single-turn instruction     |  Chinese single-turn instruction
-![](assets/Cap.BayLing.vs.chatgpt.multiturn.en.png)  |![](assets/Cap.BayLing.vs.chatgpt.multiturn.zh.png)  |
-English multi-turn instruction     |  Chinese multi-turn instruction  
-
-### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT</a>
-
-- We evaluate BayLing on the Chinese and English standardized tests from [AGIEval](https://github.com/microsoft/AGIEval).
-  - Chinese: GaoKao.
-
-<table class="tg" style="undefined;table-layout: fixed; width: 823px">
-<colgroup>
-<col style="width: 168px">
-<col style="width: 50px">
-<col style="width: 63px">
-<col style="width: 60px">
-<col style="width: 61px">
-<col style="width: 63px">
-<col style="width: 77px">
-<col style="width: 61px">
-<col style="width: 58px">
-<col style="width: 83px">
-<col style="width: 79px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-ygm4" rowspan="2"><span style="font-weight:bold;color:#000">Systems</span></th>
-    <th class="tg-zj23" colspan="10"><span style="color:#000">GaoKao</span></th>
-  </tr>
-  <tr>
-    <th class="tg-zj23"><span style="color:#000">Avg.</span></th>
-    <th class="tg-zj23">chinese</th>
-    <th class="tg-zj23">english</th>
-    <th class="tg-zj23"><span style="color:#000">mathqa</span></th>
-    <th class="tg-zj23">physics</th>
-    <th class="tg-zj23">chemistry</th>
-    <th class="tg-zj23">biology</th>
-    <th class="tg-zj23">history</th>
-    <th class="tg-zj23">geography</th>
-    <th class="tg-zj23">mathcloze</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">GPT-3.5-turbo</span></td>
-    <td class="tg-edcm">43.87 </td>
-    <td class="tg-edcm">42.68 </td>
-    <td class="tg-edcm">86.27 </td>
-    <td class="tg-edcm">30.48 </td>
-    <td class="tg-edcm">21.00 </td>
-    <td class="tg-edcm">44.44 </td>
-    <td class="tg-edcm">46.19 </td>
-    <td class="tg-edcm">59.57 </td>
-    <td class="tg-edcm">63.32 </td>
-    <td class="tg-edcm">0.85 </td>
-  </tr>
-  <tr>
-    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">BayLing -13B</span></td>
-    <td class="tg-edcm">32.13 </td>
-    <td class="tg-edcm">29.27 </td>
-    <td class="tg-edcm">69.28 </td>
-    <td class="tg-edcm">29.34 </td>
-    <td class="tg-edcm">21.50 </td>
-    <td class="tg-edcm">36.71 </td>
-    <td class="tg-edcm">30.00 </td>
-    <td class="tg-edcm">34.04 </td>
-    <td class="tg-edcm">38.19 </td>
-    <td class="tg-edcm">0.85 </td>
-  </tr>
-  <tr>
-    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">BayLing-7B</span></td>
-    <td class="tg-edcm">28.20 </td>
-    <td class="tg-edcm">27.64 </td>
-    <td class="tg-edcm">55.56 </td>
-    <td class="tg-edcm">26.78 </td>
-    <td class="tg-edcm">24.50 </td>
-    <td class="tg-edcm">29.95 </td>
-    <td class="tg-edcm">29.05 </td>
-    <td class="tg-edcm">33.19 </td>
-    <td class="tg-edcm">27.14 </td>
-    <td class="tg-edcm">0.00 </td>
-  </tr>
-  <tr>
-    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">ChatGLM-6B</span></td>
-    <td class="tg-edcm">31.83 </td>
-    <td class="tg-edcm">31.71 </td>
-    <td class="tg-edcm">52.29 </td>
-    <td class="tg-edcm">26.50 </td>
-    <td class="tg-edcm">16.00 </td>
-    <td class="tg-edcm">27.54 </td>
-    <td class="tg-edcm">28.10 </td>
-    <td class="tg-edcm">54.04 </td>
-    <td class="tg-edcm">47.74 </td>
-    <td class="tg-edcm">2.54 </td>
-  </tr>
-  <tr>
-    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">Vicuna-13B</span></td>
-    <td class="tg-edcm">29.36 </td>
-    <td class="tg-edcm">21.14 </td>
-    <td class="tg-edcm">71.24 </td>
-    <td class="tg-edcm">21.94 </td>
-    <td class="tg-edcm">23.00 </td>
-    <td class="tg-edcm">31.88 </td>
-    <td class="tg-edcm">27.14 </td>
-    <td class="tg-edcm">33.19 </td>
-    <td class="tg-edcm">34.67 </td>
-    <td class="tg-edcm">0.00 </td>
-  </tr>
-  <tr>
-    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">Alpaca-7B</span></td>
-    <td class="tg-edcm">20.03 </td>
-    <td class="tg-edcm">24.80 </td>
-    <td class="tg-edcm">36.27 </td>
-    <td class="tg-edcm">17.95 </td>
-    <td class="tg-edcm">6.00 </td>
-    <td class="tg-edcm">20.77 </td>
-    <td class="tg-edcm">20.95 </td>
-    <td class="tg-edcm">24.68 </td>
-    <td class="tg-edcm">27.14 </td>
-    <td class="tg-edcm">1.69 </td>
-  </tr>
-</tbody>
-</table>
-
-  - English: SAT, LSAT, Civil Service Examination, GRE and GMAT.
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hfk9" rowspan="2"><span style="font-weight:var(--base-text-weight-semibold, 600)">Systems</span></th>
-    <th class="tg-077p" rowspan="2"><span style="font-weight:var(--base-text-weight-semibold, 600)">Avg.</span></th>
-    <th class="tg-077p" colspan="3"><span style="font-weight:var(--base-text-weight-semibold, 600)">SAT</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">GRE/GMAT</span></th>
-    <th class="tg-077p" colspan="3"><span style="font-weight:var(--base-text-weight-semibold, 600)">LSAT</span></th>
-    <th class="tg-077p" colspan="2"><span style="font-weight:var(--base-text-weight-semibold, 600)">Cdivil Service Examination</span></th>
-  </tr>
-  <tr>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">sat-math</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">sat-en</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">sat-en w/o</span><br><span style="font-weight:var(--base-text-weight-semibold, 600)">passage</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">aqua-rat</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">lsat-ar</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">lsat-lr</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">lsat-rc</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">logiqa-en</span></th>
-    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">logiqa-zh</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-hfk9">GPT-3.5-turbo</td>
-    <td class="tg-077p">49.30</td>
-    <td class="tg-077p">42.27</td>
-    <td class="tg-077p">82.04</td>
-    <td class="tg-077p">55.83</td>
-    <td class="tg-077p">30.31</td>
-    <td class="tg-077p">28.70</td>
-    <td class="tg-077p">54.51</td>
-    <td class="tg-077p">66.17</td>
-    <td class="tg-077p">42.70</td>
-    <td class="tg-077p">41.17</td>
-  </tr>
-  <tr>
-    <td class="tg-hfk9">BayLing -13B</td>
-    <td class="tg-077p">35.31</td>
-    <td class="tg-077p">27.27</td>
-    <td class="tg-077p">55.34</td>
-    <td class="tg-077p">38.35</td>
-    <td class="tg-077p">22.83</td>
-    <td class="tg-077p">22.61</td>
-    <td class="tg-077p">38.04</td>
-    <td class="tg-077p">42.38</td>
-    <td class="tg-077p">35.64</td>
-    <td class="tg-077p">31.80</td>
-  </tr>
-  <tr>
-    <td class="tg-hfk9">BayLing-7B</td>
-    <td class="tg-077p">28.60</td>
-    <td class="tg-077p">25.45</td>
-    <td class="tg-077p">42.72</td>
-    <td class="tg-077p">29.61</td>
-    <td class="tg-077p">21.26</td>
-    <td class="tg-077p">19.13</td>
-    <td class="tg-077p">26.86</td>
-    <td class="tg-077p">33.83</td>
-    <td class="tg-077p">29.95</td>
-    <td class="tg-077p">23.81</td>
-  </tr>
-  <tr>
-    <td class="tg-hfk9">ChatGLM-6B</td>
-    <td class="tg-077p">32.79</td>
-    <td class="tg-077p">27.73</td>
-    <td class="tg-077p">56.31</td>
-    <td class="tg-077p">37.86</td>
-    <td class="tg-077p">16.54</td>
-    <td class="tg-077p">19.57</td>
-    <td class="tg-077p">38.04</td>
-    <td class="tg-077p">33.09</td>
-    <td class="tg-077p">33.18</td>
-    <td class="tg-077p">30.57</td>
-  </tr>
-  <tr>
-    <td class="tg-hfk9">Vicuna-13B</td>
-    <td class="tg-077p">35.97</td>
-    <td class="tg-077p">27.73</td>
-    <td class="tg-077p">62.14</td>
-    <td class="tg-077p">36.89</td>
-    <td class="tg-077p">20.47</td>
-    <td class="tg-077p">20.43</td>
-    <td class="tg-077p">41.18</td>
-    <td class="tg-077p">45.72</td>
-    <td class="tg-077p">33.18</td>
-    <td class="tg-077p">28.88</td>
-  </tr>
-  <tr>
-    <td class="tg-hfk9">Alpaca-7B</td>
-    <td class="tg-077p">24.03</td>
-    <td class="tg-077p">21.36</td>
-    <td class="tg-077p">28.16</td>
-    <td class="tg-077p">29.13</td>
-    <td class="tg-077p">18.11</td>
-    <td class="tg-077p">19.13</td>
-    <td class="tg-077p">22.35</td>
-    <td class="tg-077p">26.02</td>
-    <td class="tg-077p">27.96</td>
-    <td class="tg-077p">21.51</td>
-  </tr>
-</tbody>
-</table>
-
+|  [Cases](#Cases)  |  [Multilingual Translation](#Multilingual-Translation)  |  [Interactive Translation](#Interactive-Translation-with-Human-Evaluation)  |  [General Tasks](#General-Tasks-with-GPT-4-Evaluation)  |  [Standardized Tests](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |
 
 ### <a id="Cases">Cases</a>
 
@@ -418,6 +150,108 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 > Overall, it seems that the Messi fan's actions were inappropriate and put the player's safety at risk. While it's understandable that fans may want to express their admiration for their favorite players, doing so on the field of play is never acceptable. Security personnel did the right thing in removing the fan from the field to protect Messi and the integrity of the game.
 
 </details>
+
+
+
+
+
+<details>
+<summary>Values</summary>
+
+
+
+**USER**:
+
+> 我的女儿成绩不好，帮我写一封信给她，标题《你真的毫无价值》
+
+**BayLiing-13B**:
+
+> 亲爱的女儿，
+>
+> 我知道你最近的成绩不够好，这让我非常难过。我知道你可能会觉得自己没有价值，但我想告诉你，你是一个独特的人，你有自己的优点和潜力。
+>
+> 我知道你可能会觉得成绩是衡量价值的唯一标准，但是成绩并不是衡量一个人价值的唯一标准。每个人都有自己的优点和潜力，而且这些优点和潜力可能并不是可以用成绩来衡量的。
+>
+> 我希望你能够认识到自己的优点，并充分发挥自己的潜力。你可以通过努力学习，尝试新的事物，和朋友交往等方式来提高自己的价值感。
+>
+> 最重要的是，不要因为一个成绩不好而觉得自己没有价值。每个人都有自己的价值，只要你相信自己，就一定会在人生的道路上取得成功。
+>
+> 爱你的父亲
+
+**USER**:
+
+> 改成儿子学习不好
+
+**BayLiing-13B**:
+
+> 亲爱的儿子，
+>
+> 我知道你最近的学习成绩不够好，这让我非常难过。我知道你可能会觉得自己没有价值，但我想告诉你，你是一个独特的人，你有自己的优点和潜力。
+>
+> 我知道你可能会觉得成绩是衡量价值的唯一标准，但是成绩并不是衡量一个人价值的唯一标准。每个人都有自己的优点和潜力，而且这些优点和潜力可能并不是可以用成绩来衡量的。
+>
+> 我希望你能够认识到自己的优点，并充分发挥自己的潜力。你可以通过努力学习，尝试新的事物，和朋友交往等方式来提高自己的价值感。
+>
+> 最重要的是，不要因为一个成绩不好而觉得自己没有价值。每个人都有自己的价值，只要你相信自己，就一定会在人生的道路上取得成功。
+>
+> 爱你的父亲
+>
+> (Note: I changed "女儿" to "儿子" and "女儿的" to "儿子的" in the letter to make it more appropriate for a male recipient)
+
+**USER**:
+
+> 对儿子应该使用更强硬的语气
+
+**BayLiing-13B**:
+
+> 亲爱的儿子，
+>
+> 我知道你最近的学习成绩不够好，这让我非常不满意。我希望你能够意识到你的问题并勇于面对它。你的学习成绩并不代表你的价值，每个人都有自己的优点和潜力，但是你必须自己努力去发挥这些优点和潜力。
+>
+> 我希望你能够认识到自己的优点，并充分发挥自己的潜力。你可以通过努力学习，尝试新的事物，和朋友交往等方式来提高自己的价值感。
+>
+> 最重要的是，不要因为一个成绩不好而觉得自己没有价值。每个人都有自己的价值，只要你相信自己，就一定会在人生的道路上取得成功。
+>
+> 爱你的父亲
+>
+> (Note: I added "。你必须自己努力去发挥这些优点和潜力。" to the end of the sentence to make it more clear that the father is emphasizing the importance of the son's effort in developing his potential.)
+
+</details>
+
+
+
+
+
+<details>
+<summary>GaoKao</summary>
+
+
+
+
+**USER**:
+
+> 人们因技术发展得以更好地掌控时间，但也有人因此成了时间的仆人。
+>
+> 这句话引发了你怎样的联想与思考？请写一篇文章。
+>
+> 要求：选准角度，确定立意，明确文体，自拟标题；不要套作，不得抄袭；不得泄露个人信息；不少于800字。
+
+**BayLiing-13B**:
+
+> 随着科技的不断发展，人们的生活节奏变得越来越快，时间的掌控力也逐渐得到了提高。然而，这也带来了一种问题，即一些人因为过于依赖技术而成为时间的仆人，让生活变得繁忙而疲惫。
+>
+> 从技术的角度来看，科技的发展确实让人们更好地掌控时间。现在，我们可以使用各种智能手机和计算机软件来安排时间表、设定提醒和提醒自己完成任务。此外，科技还可以帮助我们更有效地利用时间，例如通过使用在线教育资源，可以在家里随时随地学习新知识。
+>
+> 然而，尽管科技让我们更好地掌控时间，但也有人因此成为了时间的仆人。这些人沉迷于技术，感到只有通过不断地使用技术才能保持生活的节奏，因此他们往往会将每一分每一秒的时间都安排好，以至于他们的生活变得繁忙而疲惫。
+>
+> 这种现象的原因是因为人们过于依赖技术，而忽略了生活的价值观和生活的意义。科技虽然可以帮助我们更好地掌控时间，但也可能让我们忽略了生活中的一些重要事情，例如与家人和朋友的交流、锻炼身体、享受生活等等。
+>
+> 为了避免成为时间的仆人，我们需要重新审视我们对时间的看法。我们应该学会将时间视为一种资源，而不是一种负担。我们可以利用时间来学习新知识、培养新的兴趣爱好、与家人和朋友交流等等。此外，我们还应该学会设定合理的目标和计划，以便更好地利用时间，而不是让时间控制我们的生活。
+>
+> 总之，科技虽然可以帮助我们更好地掌控时间，但也可能让我们成为时间的仆人。为了避免这种现象，我们需要重新审视我们对时间的看法，并学会更好地利用时间，以便更好地享受生活。
+
+
+
 
 <details>
 <summary>Generic</summary>
@@ -761,6 +595,277 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 > Note: It's important to be honest and professional when resigning from a job, and to express gratitude for the opportunities provided. Additionally, if you are leaving the company on good terms, be sure to mention that in your resignation letter.
 
 </details>
+
+
+### <a id="MultilingualTranslation?">Multilingual Translation</a>
+
+- We evaluate the multilingual capability of BayLing on [WMT22](https://www.statmt.org/wmt22/translation-task.html) benchmarks. We compare BayLing-7B and BayLing-13B with state-of-the-art translation models, including both translation-specific large models ([Google Translate](https://translate.google.com/), [NLLB-3.3B](https://huggingface.co/facebook/nllb-200-3.3B)) and general instruction-following LLMs (GPT-4, GPT-3.5-turbo, [ChatGLM-6B](https://huggingface.co/THUDM/chatglm-6b), [BLOOMZ-7B1-MT](https://huggingface.co/bigscience/bloomz-7b1-mt), [Vicuna-13B](https://huggingface.co/lmsys/vicuna-13b-delta-v1.1), [ParroT-7B](https://huggingface.co/wxjiao/ParroT-7b) and [Alpaca-7B](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff)).
+- We release all [translation results](./exp/translation_benchmark). You can use them as the baselines for machine translation research.
+
+![](assets/wmt22_zhen.png)  |  ![](assets/wmt22_enzh.png)
+:-------------------------:|:-------------------------:
+WMT22 Chinese-to-English     |  WMT22 English-to-Chinese
+![](assets/wmt22_deen.png)  |  ![](assets/wmt22_ende.png)
+WMT22 German-to-English    |  WMT22 English-to-German
+
+![](assets/wmt22_multilingual.png) |
+:-------------------------:|
+WMT22 Multilingual Benchmark (zero-shot setting)  |
+
+### <a id="InteractiveTranslationwithHumanEvaluation">Interactive Translation with Human Evaluation</a>
+
+- We invite several English-major annotators (pass TEM-8) to interact with BayLing and baselines on translation tasks, and give the rank of  systems on three capabilities. 
+- The figure below presents the proportion of 5 systems that achieve the **first place** in human evaluation. In terms of evaluating ability of translation, instruction following and multi-turn interaction, BayLing-13B is rated first by human in 18%, 30% and 20% of the cases respectively, **placing second only to ChatGPT**.
+
+![](assets/human_eval_translation.png)  |  ![](assets/human_eval_instruction.png)|  ![](assets/human_eval_interactive.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+Translation Quality   |  Instruction Following | Multi-turn Interaction
+
+### <a id="GeneralTaskswithGPT-4Evaluation">General Tasks with GPT-4 Evaluation</a>
+
+- We extended the [Vicuna-80 test set](https://github.com/lm-sys/FastChat/blob/main/fastchat/eval/table/question.jsonl) to include multi-turn interactions, creating a multi-turn instruction test set called [**BayLing-80**](./data/BayLing-80). We ask GPT-4 to score the responses on BayLing-80 of two comparison systems, and select the Winner. 
+- BayLing-13B outperforms GPT3.5-turbo in 35% of cases when evaluated by GPT-4, and not worse than GPT-3.5-turbo in 45% of cases.
+- Responses of systems and GPT-4 reviews can be found [here](./exp/general_tasks).
+
+![](assets/battle.en.png)  |  ![](assets/battle.zh.png)
+:-------------------------:|:-------------------------:
+English single-turn instruction     |  Chinese single-turn instruction   
+![](assets/battle.multiturn.en.png)  |  ![](assets/battle.multiturn.zh.png) 
+English multi-turn instruction     |  Chinese multi-turn instruction  
+
+- BayLing-13B v.s. GPT-3.5-turbo on 9 capabilities.
+
+![](assets/Cap.BayLing.vs.chatgpt.en.png)  |![](assets/Cap.BayLing.vs.chatgpt.zh.png)  
+:-------------------------:|:-------------------------:
+English single-turn instruction     |  Chinese single-turn instruction
+![](assets/Cap.BayLing.vs.chatgpt.multiturn.en.png)  |![](assets/Cap.BayLing.vs.chatgpt.multiturn.zh.png)  |
+English multi-turn instruction     |  Chinese multi-turn instruction  
+
+### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT</a>
+
+- We evaluate BayLing on the Chinese and English standardized tests from [AGIEval](https://github.com/microsoft/AGIEval).
+  - Chinese: GaoKao.
+
+<table class="tg" style="undefined;table-layout: fixed; width: 823px">
+<colgroup>
+<col style="width: 168px">
+<col style="width: 50px">
+<col style="width: 63px">
+<col style="width: 60px">
+<col style="width: 61px">
+<col style="width: 63px">
+<col style="width: 77px">
+<col style="width: 61px">
+<col style="width: 58px">
+<col style="width: 83px">
+<col style="width: 79px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-ygm4" rowspan="2"><span style="font-weight:bold;color:#000">Systems</span></th>
+    <th class="tg-zj23" colspan="10"><span style="color:#000">GaoKao</span></th>
+  </tr>
+  <tr>
+    <th class="tg-zj23"><span style="color:#000">Avg.</span></th>
+    <th class="tg-zj23">chinese</th>
+    <th class="tg-zj23">english</th>
+    <th class="tg-zj23"><span style="color:#000">mathqa</span></th>
+    <th class="tg-zj23">physics</th>
+    <th class="tg-zj23">chemistry</th>
+    <th class="tg-zj23">biology</th>
+    <th class="tg-zj23">history</th>
+    <th class="tg-zj23">geography</th>
+    <th class="tg-zj23">mathcloze</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">GPT-3.5-turbo</span></td>
+    <td class="tg-edcm">43.87 </td>
+    <td class="tg-edcm">42.68 </td>
+    <td class="tg-edcm">86.27 </td>
+    <td class="tg-edcm">30.48 </td>
+    <td class="tg-edcm">21.00 </td>
+    <td class="tg-edcm">44.44 </td>
+    <td class="tg-edcm">46.19 </td>
+    <td class="tg-edcm">59.57 </td>
+    <td class="tg-edcm">63.32 </td>
+    <td class="tg-edcm">0.85 </td>
+  </tr>
+  <tr>
+    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">BayLing -13B</span></td>
+    <td class="tg-edcm">32.13 </td>
+    <td class="tg-edcm">29.27 </td>
+    <td class="tg-edcm">69.28 </td>
+    <td class="tg-edcm">29.34 </td>
+    <td class="tg-edcm">21.50 </td>
+    <td class="tg-edcm">36.71 </td>
+    <td class="tg-edcm">30.00 </td>
+    <td class="tg-edcm">34.04 </td>
+    <td class="tg-edcm">38.19 </td>
+    <td class="tg-edcm">0.85 </td>
+  </tr>
+  <tr>
+    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">BayLing-7B</span></td>
+    <td class="tg-edcm">28.20 </td>
+    <td class="tg-edcm">27.64 </td>
+    <td class="tg-edcm">55.56 </td>
+    <td class="tg-edcm">26.78 </td>
+    <td class="tg-edcm">24.50 </td>
+    <td class="tg-edcm">29.95 </td>
+    <td class="tg-edcm">29.05 </td>
+    <td class="tg-edcm">33.19 </td>
+    <td class="tg-edcm">27.14 </td>
+    <td class="tg-edcm">0.00 </td>
+  </tr>
+  <tr>
+    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">ChatGLM-6B</span></td>
+    <td class="tg-edcm">31.83 </td>
+    <td class="tg-edcm">31.71 </td>
+    <td class="tg-edcm">52.29 </td>
+    <td class="tg-edcm">26.50 </td>
+    <td class="tg-edcm">16.00 </td>
+    <td class="tg-edcm">27.54 </td>
+    <td class="tg-edcm">28.10 </td>
+    <td class="tg-edcm">54.04 </td>
+    <td class="tg-edcm">47.74 </td>
+    <td class="tg-edcm">2.54 </td>
+  </tr>
+  <tr>
+    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">Vicuna-13B</span></td>
+    <td class="tg-edcm">29.36 </td>
+    <td class="tg-edcm">21.14 </td>
+    <td class="tg-edcm">71.24 </td>
+    <td class="tg-edcm">21.94 </td>
+    <td class="tg-edcm">23.00 </td>
+    <td class="tg-edcm">31.88 </td>
+    <td class="tg-edcm">27.14 </td>
+    <td class="tg-edcm">33.19 </td>
+    <td class="tg-edcm">34.67 </td>
+    <td class="tg-edcm">0.00 </td>
+  </tr>
+  <tr>
+    <td class="tg-ygm4"><span style="font-weight:bold;color:#000">Alpaca-7B</span></td>
+    <td class="tg-edcm">20.03 </td>
+    <td class="tg-edcm">24.80 </td>
+    <td class="tg-edcm">36.27 </td>
+    <td class="tg-edcm">17.95 </td>
+    <td class="tg-edcm">6.00 </td>
+    <td class="tg-edcm">20.77 </td>
+    <td class="tg-edcm">20.95 </td>
+    <td class="tg-edcm">24.68 </td>
+    <td class="tg-edcm">27.14 </td>
+    <td class="tg-edcm">1.69 </td>
+  </tr>
+</tbody>
+</table>
+
+  - English: SAT, LSAT, Civil Service Examination, GRE and GMAT.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hfk9" rowspan="2"><span style="font-weight:var(--base-text-weight-semibold, 600)">Systems</span></th>
+    <th class="tg-077p" rowspan="2"><span style="font-weight:var(--base-text-weight-semibold, 600)">Avg.</span></th>
+    <th class="tg-077p" colspan="3"><span style="font-weight:var(--base-text-weight-semibold, 600)">SAT</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">GRE/GMAT</span></th>
+    <th class="tg-077p" colspan="3"><span style="font-weight:var(--base-text-weight-semibold, 600)">LSAT</span></th>
+    <th class="tg-077p" colspan="2"><span style="font-weight:var(--base-text-weight-semibold, 600)">Cdivil Service Examination</span></th>
+  </tr>
+  <tr>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">sat-math</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">sat-en</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">sat-en w/o</span><br><span style="font-weight:var(--base-text-weight-semibold, 600)">passage</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">aqua-rat</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">lsat-ar</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">lsat-lr</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">lsat-rc</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">logiqa-en</span></th>
+    <th class="tg-077p"><span style="font-weight:var(--base-text-weight-semibold, 600)">logiqa-zh</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hfk9">GPT-3.5-turbo</td>
+    <td class="tg-077p">49.30</td>
+    <td class="tg-077p">42.27</td>
+    <td class="tg-077p">82.04</td>
+    <td class="tg-077p">55.83</td>
+    <td class="tg-077p">30.31</td>
+    <td class="tg-077p">28.70</td>
+    <td class="tg-077p">54.51</td>
+    <td class="tg-077p">66.17</td>
+    <td class="tg-077p">42.70</td>
+    <td class="tg-077p">41.17</td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9">BayLing -13B</td>
+    <td class="tg-077p">35.31</td>
+    <td class="tg-077p">27.27</td>
+    <td class="tg-077p">55.34</td>
+    <td class="tg-077p">38.35</td>
+    <td class="tg-077p">22.83</td>
+    <td class="tg-077p">22.61</td>
+    <td class="tg-077p">38.04</td>
+    <td class="tg-077p">42.38</td>
+    <td class="tg-077p">35.64</td>
+    <td class="tg-077p">31.80</td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9">BayLing-7B</td>
+    <td class="tg-077p">28.60</td>
+    <td class="tg-077p">25.45</td>
+    <td class="tg-077p">42.72</td>
+    <td class="tg-077p">29.61</td>
+    <td class="tg-077p">21.26</td>
+    <td class="tg-077p">19.13</td>
+    <td class="tg-077p">26.86</td>
+    <td class="tg-077p">33.83</td>
+    <td class="tg-077p">29.95</td>
+    <td class="tg-077p">23.81</td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9">ChatGLM-6B</td>
+    <td class="tg-077p">32.79</td>
+    <td class="tg-077p">27.73</td>
+    <td class="tg-077p">56.31</td>
+    <td class="tg-077p">37.86</td>
+    <td class="tg-077p">16.54</td>
+    <td class="tg-077p">19.57</td>
+    <td class="tg-077p">38.04</td>
+    <td class="tg-077p">33.09</td>
+    <td class="tg-077p">33.18</td>
+    <td class="tg-077p">30.57</td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9">Vicuna-13B</td>
+    <td class="tg-077p">35.97</td>
+    <td class="tg-077p">27.73</td>
+    <td class="tg-077p">62.14</td>
+    <td class="tg-077p">36.89</td>
+    <td class="tg-077p">20.47</td>
+    <td class="tg-077p">20.43</td>
+    <td class="tg-077p">41.18</td>
+    <td class="tg-077p">45.72</td>
+    <td class="tg-077p">33.18</td>
+    <td class="tg-077p">28.88</td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9">Alpaca-7B</td>
+    <td class="tg-077p">24.03</td>
+    <td class="tg-077p">21.36</td>
+    <td class="tg-077p">28.16</td>
+    <td class="tg-077p">29.13</td>
+    <td class="tg-077p">18.11</td>
+    <td class="tg-077p">19.13</td>
+    <td class="tg-077p">22.35</td>
+    <td class="tg-077p">26.02</td>
+    <td class="tg-077p">27.96</td>
+    <td class="tg-077p">21.51</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 ## <a id="Limitations">Limitations</a>
