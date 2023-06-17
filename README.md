@@ -46,7 +46,7 @@
 	- [GUI Interactive](#GUI-Interactive)
 - [How Good is BayLing?](#How-Good-is-BayLing?)
   - [Cases](#Cases)
-	- [Multilingual Translation](#Multilingual-Translation)
+  - [Multilingual Translation](#Multilingual-Translation)
 	- [Interactive Translation with Human Evaluation](#Interactive-Translation-with-Human-Evaluation)
 	- [General Tasks with GPT-4 Evaluation](#General-Tasks-with-GPT-4-Evaluation)
 	- [Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)
@@ -120,6 +120,7 @@
 |  [Cases](#Cases)  |  [Multilingual Translation](#Multilingual-Translation)  |  [Interactive Translation](#Interactive-Translation-with-Human-Evaluation)  |  [General Tasks](#General-Tasks-with-GPT-4-Evaluation)  |  [Standardized Tests](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |
 
 ### <a id="Cases">Cases</a>
+
 
 <details>
 <summary>Interactive Translation</summary>
@@ -247,6 +248,10 @@
 > 为了避免成为时间的仆人，我们需要重新审视我们对时间的看法。我们应该学会将时间视为一种资源，而不是一种负担。我们可以利用时间来学习新知识、培养新的兴趣爱好、与家人和朋友交流等等。此外，我们还应该学会设定合理的目标和计划，以便更好地利用时间，而不是让时间控制我们的生活。
 >
 > 总之，科技虽然可以帮助我们更好地掌控时间，但也可能让我们成为时间的仆人。为了避免这种现象，我们需要重新审视我们对时间的看法，并学会更好地利用时间，以便更好地享受生活。
+
+</details>
+
+
 
 <details>
 
