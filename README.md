@@ -8,7 +8,7 @@
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
 [![blog](https://img.shields.io/badge/BayLing-blog-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
 [![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)]()
-![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update) 
+[![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update)](https://github.com/ictnlp/BayLing) 
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
 **BayLing** (**百聆**, **bǎi líng**) is an instruction-following LLM equipped with advanced language alignment, offering enhanced proficiency in English/Chinese generation, instruction-following and multi-turn interactions. BayLing can be deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion...
