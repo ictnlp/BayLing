@@ -653,7 +653,7 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 ### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT</a>
 
 - We evaluate BayLing on the Chinese and English standardized tests from [AGIEval](https://github.com/microsoft/AGIEval).
-  - Chinese: GaoKao.
+- Chinese: GaoKao.
 
 <table class="tg" style="undefined;table-layout: fixed; width: 823px">
 <colgroup>

@@ -651,7 +651,7 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 ### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">标准化考试：高考、SAT/GRE/GMAT/LSAT</a>
 
 - 我们在[AGIEval](https://github.com/microsoft/AGIEval)上评估了百聆在中英文标准化考试上的表现.
-  - 中文考试: 高考
+- 中文考试: 高考
 
 <table class="tg" style="undefined;table-layout: fixed; width: 823px">
 <colgroup>
