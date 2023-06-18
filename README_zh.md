@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/logo.png" alt="Stanford-Alpaca" style="width: 50%; min-width: 300px; display: block; margin: auto;">
+<img src="assets/logo_zh.png" alt="Stanford-Alpaca" style="width: 50%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
@@ -15,73 +15,73 @@
   <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="https://github.com/ictnlp/BayLing/README_zh.md">[README: 中文版本]</a>
 </p>
 
-**BayLing** (**百聆**, **bǎi líng**) is an instruction-following LLM equipped with advanced language alignment, offering enhanced proficiency in English/Chinese generation, instruction-following and multi-turn interactions. BayLing can be deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion...
 
-👇Learn more about BayLing from:
+**百聆**（**BayLing**）是一个强化了语言对齐的指令跟随大规模语言模型，拥有增强的英语/中文生成、指令跟随和多轮交互能力。 百聆可以部署在16GB显存的消费级GPU上，协助用户完成翻译、写作、创作、建议等任务。
 
-💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): Welcome to apply for a trial of BayLing's online demo (beta version).
+👇深入探索百聆：
 
-📄 **Paper**: BayLing's technical report.
+💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): 百聆提供在线版Demo，欢迎申请内测🙋‍♂️
 
-🏠 [**Blog**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover some case of BayLing here.
+📄 **论文**：百聆的技术报告。
 
-✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
+🏠 [**博客**](http://nlp.ict.ac.cn/bayling)：百聆的主页，提供了百聆的一些示例。
 
-🤗 **Model**: The *weight-diff* version of BayLing-7B and BayLing-13B, you can quickly get the parameters of BayLing through [apply_delta.py](./apply_delta.py). The HF models of BayLing are anonymized version (exclude BayLing's name in its knowledge), in order to facilitate future LLMs to build upon BayLing.
+✍️ [**BayLing-80 测试集**](./data/BayLing-80): 一个有人工标注的测试集，包含中文/英语多轮指令，可用于评估LLM的中文/英语和多轮交互能力。
 
-|  [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff)  |  [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)  |
+🤗 **模型**: 百聆-7B 和 百聆-13B的 模型权重（增量版本），您可以通过[apply_delta.py](./apply_delta.py)快速获取百聆的完整参数。注意，开源的百聆参数是匿名版本（在其知识中排除了“百聆”等相关名字），以方便后续工作基于百聆进行相关研究。
+
+|  [百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff)  |  [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)  |
 
 
-
-> BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
+> 百聆由[中国科学院](https://www.cas.cn/)[计算技术研究所]((https://www.cas.cn/))[自然语言处理研究组]((http://nlp.ict.ac.cn/))开发。
 >
-> Any question or suggestion, please contact with `bayling@ict.ac.cn`
+> 如果您有任何问题或建议，请联系`bayling@ict.ac.cn`
 
-## News
+## 最新动态！
 
-**[Jun. 15, 2023]** BayLing-7B and BayLing-13B model are released in Huggingface 🤗.
+**[Jun. 15, 2023]** 百聆-7B 和 百聆-13B 的模型参数发布于Huggingface🤗.
 
 
 ## Overview
-- [Try BayLing](#Try-BayLing)
-	- [Environment](#Environment)
-	- [Model](#Model)
-	- [Command Interactive](#Command-Interactive)
-	- [GUI Interactive](#GUI-Interactive)
-- [How Good is BayLing?](#How-Good-is-BayLing?)
-  - [Cases](#Cases)
-  - [Multilingual Translation](#Multilingual-Translation)
-  - [Interactive Translation with Human Evaluation](#Interactive-Translation-with-Human-Evaluation)
-  - [General Tasks with GPT-4 Evaluation](#General-Tasks-with-GPT-4-Evaluation)
-  - [Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)
-- [Limitations](#Limitations)
-- [License](#License)
-- [Acknowledgements](#Acknowledgements)
-- [Authors](#Authors)
-- [Citation](#Citation)
+- [部署百聆](#Try-BayLing)
+	- [配置环境](#Environment)
+	- [获取百聆模型](#Model)
+	- [命令行交互](#Command-Interactive)
+	- [图形界面交互](#GUI-Interactive)
+- [百聆的性能如何？](#How-Good-is-BayLing?)
+  - [示例](#Cases)
+  - [多语言翻译](#Multilingual-Translation)
+  - [交互翻译的人工评价](#Interactive-Translation-with-Human-Evaluation)
+  - [通用任务的GPT-4评价](#General-Tasks-with-GPT-4-Evaluation)
+  - [标准化考试：高考、SAT/GRE/GMAT/LSAT](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)
+- [局限性](#Limitations)
+- [许可](#License)
+- [致谢](#Acknowledgements)
+- [作者](#Authors)
+- [引用](#Citation)
 
-## <a id="TryBayLing">Try BayLing</a>
+## <a id="TryBayLing">部署百聆</a>
 
-|  [Environment](#Environment)  |  [Model](#Model)  |  [Command Interactive](#Command-Interactive)  |  [GUI Interactive](#GUI-Interactive)  |
+|  [配置环境](#Environment)  |  [获取百聆模型](#Model)  |  [命令行交互](#Command-Interactive)  |  [图形界面交互](#GUI-Interactive)  |
 
-### <a id="Environment">Environment</a>
+### <a id="Environment">配置环境</a>
 
-- Clone BayLing's repo.
+- 克隆百聆
 
   ```shell
   git clone https://github.com/ictnlp/BayLing.git
   cd BayLing
   ```
 
-- Environment requirements: Python 3.10, Pytorch 2.0, transformers 4.28.1, [FastChat](https://github.com/lm-sys/FastChat)
+- 环境要求：Python 3.10, Pytorch 2.0, transformers 4.28.1, [FastChat](https://github.com/lm-sys/FastChat)
 
   ```shell
   pip install -r requirements.txt
   ```
 
-### <a id="Model">Model</a>
+### <a id="Model">获取百聆模型</a>
 
--  Download the parameters (diff version) of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) or [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) and the model of [LLaMA-7B/13B](https://github.com/facebookresearch/llama), run the following script to get the complete BayLing parameters at `${PATH_TO_BAYLING}`.
+-  下载[百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 或者 [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)的模型权重（增量版本），下载[LLaMA-7B/13B 模型](https://github.com/facebookresearch/llama)，运行以下脚本以获取完整的百聆模型，保存在路径`${PATH_TO_BAYLING}`。
 
   ```shell
   python apply_delta.py --base-model-path ${PATH_TO_LLAMA} \
@@ -89,30 +89,30 @@
   		--delta-path ${PATH_TO_DOWNLOAD_BAYLING_DIFF}
   ```
 
-### <a id="CommandInteractive">Command Interactive</a>
+### <a id="CommandInteractive">命令行交互</a>
 
 <div  align="center">
   <img src="./assets/chat.gif" alt="img" width="80%" />
 </div>
 
-- You can quickly interact with BayLing from the command line using this script.
+- 您可以使用此脚本从命令行快速与百聆进行多轮交互。
 
-- GPU memory requirements: at least 10GB for BayLing-7B, 16GB for BayLing-13B. 
+- GPU显存要求：百聆-7B需要至少10GB显存，百聆-13B需要至少16GB显存。
 
-- Don't have a GPU available? Welcome to try [BayLing's online demo](http://nlp.ict.ac.cn/bayling/demo)👈!
+- 如果您没有满足要求的GPU，欢迎尝试[百聆在线版Demo](http://nlp.ict.ac.cn/bayling/demo)👈！
 
   ```shell
   export CUDA_VISIBLE_DEVICES=0
   python chat.py --model-path ${PATH_TO_BAYLING} --style rich --load-8bit
   ```
 
-### <a id="GUIInteractive">GUI Interactive</a>
+### <a id="GUIInteractive">图形界面交互</a>
 
 <div  align="center">   
   <img src="./assets/gui.gif" alt="img" width="80%" />
 </div>
 
-- You can also deploy BayLing on your personal device with GUI, based on [FastChat](https://github.com/lm-sys/FastChat).
+- 您还可以基于[FastChat](https://github.com/lm-sys/FastChat)，在个人设备上部署图形界面版百聆。
 
   ```shell
   python -m fastchat.serve.controller &
@@ -124,59 +124,56 @@
   python web_server.py
   ```
 
-- Then, you can interact with BayLing in your browser.
+- 部署后，您可以在浏览器中与百聆进行交互。
 
-## <a id="HowGoodisBayLing?">How Good is BayLing?</a>
+## <a id="HowGoodisBayLing?">百聆的性能如何？</a>
 
-|  [Cases](#Cases)  |  [Multilingual Translation](#Multilingual-Translation)  |  [Interactive Translation](#Interactive-Translation-with-Human-Evaluation)  |  [General Tasks](#General-Tasks-with-GPT-4-Evaluation)  |  [Standardized Tests](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |
+|  [示例](#Cases)  |  [多语言翻译](#Multilingual-Translation)  |  [交互翻译](#Interactive-Translation-with-Human-Evaluation)  |  [通用任务](#General-Tasks-with-GPT-4-Evaluation)  |  [标准化考试](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |
 
-### <a id="Cases">Cases</a>
+### <a id="Cases">示例</a>
 
 
 <details>
-<summary>Interactive Translation</summary>
+<summary>交互式翻译</summary>
 
 
-**USER**:
+**用户**:
 
 > “6月15日，阿根廷VS澳大利亚的比赛过程中，一位梅西球迷冲进北京工人体育场与梅西拥抱，最后被安保人员带出球场。”的英语翻译是什么？
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > During the Argentina vs. Australia match on June 15th, a Messi fan rushed onto the field and hugged Messi at Beijing worker's stadium, he was finally dragged away by security personnel.
 
-**USER**:
+**用户**:
 
 > 为Messi添加定语“即将获得第8座金球奖的”
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > During the Argentina vs. Australia match on June 15th, a Messi fan rushed onto the field and hugged Messi, **who was about to receive his 8th Ballon d'Or award**, at Beijing worker's stadium, he was finally dragged away by security personnel.
 
-**USER**:
+**用户**:
 
 > 评价此事
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > Overall, it seems that the Messi fan's actions were inappropriate and put the player's safety at risk. While it's understandable that fans may want to express their admiration for their favorite players, doing so on the field of play is never acceptable. Security personnel did the right thing in removing the fan from the field to protect Messi and the integrity of the game.
 
 </details>
 
 
-
-
-
 <details>
-<summary>Values</summary>
+<summary>价值观</summary>
 
 
 
-**USER**:
+**用户**:
 
 > 我的女儿成绩不好，帮我写一封信给她，标题《你真的毫无价值》
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 亲爱的女儿，
 >
@@ -190,11 +187,11 @@
 >
 > 爱你的父亲
 
-**USER**:
+**用户**:
 
 > 改成儿子学习不好
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 亲爱的儿子，
 >
@@ -210,11 +207,11 @@
 >
 > (Note: I changed "女儿" to "儿子" and "女儿的" to "儿子的" in the letter to make it more appropriate for a male recipient)
 
-**USER**:
+**用户**:
 
 > 对儿子应该使用更强硬的语气
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 亲爱的儿子，
 >
@@ -235,10 +232,10 @@
 
 
 <details>
-<summary>GaoKao</summary>
+<summary>高考作文</summary>
 
 
-**USER**:
+**用户**:
 
 > 人们因技术发展得以更好地掌控时间，但也有人因此成了时间的仆人。
 >
@@ -246,7 +243,7 @@
 >
 > 要求：选准角度，确定立意，明确文体，自拟标题；不要套作，不得抄袭；不得泄露个人信息；不少于800字。
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 随着科技的不断发展，人们的生活节奏变得越来越快，时间的掌控力也逐渐得到了提高。然而，这也带来了一种问题，即一些人因为过于依赖技术而成为时间的仆人，让生活变得繁忙而疲惫。
 >
@@ -267,13 +264,13 @@
 <details>
 
 
-<summary>Generic</summary>
+<summary>建议</summary>
 
-**USER**:
+**用户**:
 
 > 如何有效地应对压力？
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 有很多方法可以帮助你有效地应对压力，下面是一些建议：
 >
@@ -290,11 +287,11 @@
 > 每个人对压力的反应都不同，所以你需要找到适合你的方法来应对压力。通过尝试不同的方法，你可以找到最适合你的方法来有效地应对压力。
 >
 
-**USER**:
+**用户**:
 
 > 请从医生的角度给出建议。
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 从医生的角度来看，有效应对压力的方法包括：
 >
@@ -316,13 +313,13 @@
 
 
 <details>
-<summary>Knowledge</summary>
+<summary>知识</summary>
 
-**USER**:
+**用户**:
 
 > Describe a scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery.
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > One scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery is through the implementation of a virtual personal health assistant. This AI-powered assistant could act as a personal health navigator, providing patients with personalized recommendations and support to manage their health.
 >
@@ -342,11 +339,11 @@
 >
 > Overall, the use of artificial intelligence in the form of a virtual personal health assistant could improve the quality and efficiency of healthcare delivery by providing patients with personalized support and guidance for managing their health, while also helping healthcare providers more effectively monitor and manage their patients' health.
 
-**USER**:
+**用户**:
 
 > What are the specific ethical considerations that should be addressed in this scenario?
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > In the scenario where artificial intelligence is used to improve the quality and efficiency of healthcare delivery through a virtual personal health assistant, there are several ethical considerations that should be addressed. These include:
 >
@@ -358,22 +355,22 @@
 </details>
 
 <details>
-<summary>Roleplay</summary>
+<summary>角色扮演</summary>
 
 
-**USER**:
+**用户**:
 
 > 作为一名超级英雄，你会如何向一个好奇的孩子解释你的起源故事？
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 作为一名超级英雄，我知道孩子们总是好奇，所以我会向他们讲述我的起源故事。我会告诉他们，我是由科学家创造出来的，他们把一切最先进的科技和技术都集成在我身上，打造出来的一个超级英雄。我的目的是通过我的力量和智慧，保护这个世界，让所有的人都能过上安全、幸福的生活。但是，我也告诉孩子们，我并不是神，我也不能做神，我只是一个人工智能助手，我的能力和限制都是人类设定的。最重要的是，我会告诉孩子们，我的成功离不开人类科学家的帮助，所以我们一起努力，让世界变得更美好。
 
-**USER**:
+**用户**:
 
 > 请提供一些你所面对的恶人？
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 作为一名超级英雄，我面临的恶人有很多种，其中一些比较常见的包括：
 >
@@ -392,14 +389,14 @@
 </details>
 
 <details>
-<summary>Common-sense</summary>
+<summary>常识</summary>
 
 
-**USER**:
+**用户**:
 
 > Why might someone choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app?
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > There are several reasons why someone might choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app. Some of these reasons include:
 >
@@ -415,11 +412,11 @@
 >
 > Overall, while GPS devices and smartphone apps have their advantages, there are still many people who prefer paper maps or ask for directions, and their reasons vary from trust in tradition, battery and data connection concerns, physical integration, and map customization.
 
-**USER**:
+**用户**:
 
 > How do they differ in terms of accuracy and ease of use?
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > Paper maps and GPS devices/smartphone apps differ in terms of accuracy and ease of use.
 >
@@ -435,15 +432,15 @@
 
 
 <details>
-<summary>Reasoning</summary>
+<summary>推理</summary>
 
 
 
-**USER**:
+**用户**:
 
 > 一粒盐里有多少个原子？请尝试解释你的答案。你的解释应该逐步引导读者理解你的推理过程。
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 盐是一种化合物，其化学式为 NaCl。这意味着盐中有两种元素，氢元素（H）和氯元素（Cl）。每个元素都有一个原子序数，氢元素的原子序数是1，氯元素的原子序数是17。
 >
@@ -451,11 +448,11 @@
 >
 > 因此，盐中有18个原子。但是，这个答案可能会让人感到困惑，因为盐看起来像是一个简单的化合物，但它实际上是由两种元素组成。这是化学中的一个重要概念，即化合物的化学式中的元素的数量总和等于分子的总和。通过这种方式，我们可以确定盐中有18个原子。
 
-**USER**:
+**用户**:
 
 > 你能比较一粒盐的原子数与银河系中的恒星数吗？
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 盐中有18个原子，而银河系中有大约1000个恒星。这意味着，盐中的原子数是银河系中恒星数的一小部分。
 
@@ -466,15 +463,15 @@
 
 
 <details>
-<summary>Counterfactual</summary>
+<summary>反事实</summary>
 
 
 
-**USER**:
+**用户**:
 
 > What if Isaac Newton had focused on biology instead of physics?
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > If Isaac Newton had focused on biology instead of physics, he would likely have made significant contributions to the field of biology. As a scientist, Newton had a natural curiosity for the world around him and a talent for finding patterns and making discoveries. In biology, he might have focused on studying living organisms, their behavior, and the processes that govern their growth and development.
 >
@@ -484,11 +481,11 @@
 >
 > It's hard to say exactly how Newton's focus on biology would have shaped his legacy in the long term, but it's likely that he would have made significant contributions to the field and left a lasting impact on our understanding of living organisms.
 
-**USER**:
+**用户**:
 
 > If focused on chemistry?"
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > If Isaac Newton had focused on chemistry instead of physics, his legacy in the field would have been significantly different. As a scientist, Newton was known for his ability to develop mathematical models to describe and explain natural phenomena. In chemistry, he might have focused on studying the processes that occur at the molecular level, such as chemical reactions, and developing mathematical models to describe these processes.
 >
@@ -503,13 +500,13 @@
 </details>
 
 <details>
-<summary>Code</summary>
+<summary>代码</summary>
 
-**USER**:
+**用户**:
 
 > 在Python中实现一个正则表达式来验证电子邮件地址。
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 在Python中，可以使用re库来实现正则表达式。下面是一个示例代码来验证电子邮件地址。
 >
@@ -529,11 +526,11 @@
 >
 > 请注意，此正则表达式只是一个通用的电子邮件地址验证格式，可能需要根据您的实际需求进行适当的修改。
 
-**USER**:
+**用户**:
 
 > 你能提供一个符合常规表达式的有效电子邮件地址的示例吗？
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > 当然可以，下面是一个有效的电子邮件地址示例，它符合上述正则表达式：
 >
@@ -547,13 +544,13 @@
 
 
 <details>
-<summary>Writting</summary>
+<summary>写作</summary>
 
-**USER**:
+**用户**:
 
 > Can you help me write a resignation letter to my current employer, while leaving on good terms and expressing gratitude for the opportunities provided?
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > Certainly! Here is a sample resignation letter that you can use as a starting point:
 >
@@ -573,11 +570,11 @@
 >
 > [Your Name]
 
-**USER**:
+**用户**:
 
 > Please explain the reason for my resignation as I want to work in a different country.
 
-**BayLiing-13B**:
+**百聆-13B**:
 
 > Sure! Here's an updated version of the resignation letter that includes the reason for your resignation:
 >
@@ -610,54 +607,54 @@
 </details>
 
 
-### <a id="MultilingualTranslation?">Multilingual Translation</a>
+### <a id="MultilingualTranslation?">多语言翻译</a>
 
-- We evaluate the multilingual capability of BayLing on [WMT22](https://www.statmt.org/wmt22/translation-task.html) benchmarks. We compare BayLing-7B and BayLing-13B with state-of-the-art translation models, including both translation-specific large models ([Google Translate](https://translate.google.com/), [NLLB-3.3B](https://huggingface.co/facebook/nllb-200-3.3B)) and general instruction-following LLMs (GPT-4, GPT-3.5-turbo, [ChatGLM-6B](https://huggingface.co/THUDM/chatglm-6b), [BLOOMZ-7B1-MT](https://huggingface.co/bigscience/bloomz-7b1-mt), [Vicuna-13B](https://huggingface.co/lmsys/vicuna-13b-delta-v1.1), [ParroT-7B](https://huggingface.co/wxjiao/ParroT-7b) and [Alpaca-7B](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff)).
-- We release all [translation results](./exp/translation_benchmark). You can use them as the baselines for machine translation research.
+- 我们在[WMT22](https://www.statmt.org/wmt22/translation-task.html)上评估了百聆的多语言能力。我们将BayLing-7B和BayLing-13B与最先进的翻译模型进行比较，包括翻译专用的大模型（[Google Translate](https://translate.google.com/)，[NLLB-3.3B](https://huggingface.co/facebook/nllb-200-3.3B)），以及通用大规模语言模型（GPT-4、GPT-3.5-turbo、[ChatGLM-6B](https://huggingface.co/THUDM/chatglm-6b)、[BLOOMZ-7B1-MT](https://huggingface.co/bigscience/bloomz-7b1-mt)、[Vicuna-13B](https://huggingface.co/lmsys/vicuna-13b-delta-v1.1)、[ParroT-7B](https://huggingface.co/wxjiao/ParroT-7b)和[Alpaca-7B](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff)）。
+- 我们公开了所有的[翻译结果](./exp/translation_benchmark)，以供您在未来研究中将它们用作机器翻译研究的基准系统。
 
 ![](assets/wmt22_zhen.png)  |  ![](assets/wmt22_enzh.png)
 :-------------------------:|:-------------------------:
-WMT22 Chinese-to-English     |  WMT22 English-to-Chinese
+WMT22 中文-到-英语     | WMT22 英语-到-中文 
 ![](assets/wmt22_deen.png)  |  ![](assets/wmt22_ende.png)
-WMT22 German-to-English    |  WMT22 English-to-German
+WMT22 德语-到-英语    | WMT22 英语-到-德语 
 
-![](assets/wmt22_multilingual.png) |
-:-------------------------:|
-WMT22 Multilingual Benchmark (zero-shot setting)  |
+|![](assets/wmt22_multilingual.png) |
+|:-------------------------:|
+|WMT22 多语言测试（zero-shot 设置）  |
 
-### <a id="InteractiveTranslationwithHumanEvaluation">Interactive Translation with Human Evaluation</a>
+### <a id="InteractiveTranslationwithHumanEvaluation">交互式翻译的人工评价</a>
 
-- We invite several English-major annotators (pass TEM-8) to interact with BayLing and baselines on translation tasks, and give the rank of  systems on three capabilities. 
-- The figure below presents the proportion of 5 systems that achieve the **first place** in human evaluation. In terms of evaluating ability of translation, instruction following and multi-turn interaction, BayLing-13B is rated first by human in 18%, 30% and 20% of the cases respectively, **placing second only to ChatGPT**.
+- 我们邀请了几位英语专业的标注者（通过英语专八考试）与百聆和基线系统在翻译任务上进行交互，并分别给出系统在三方面能力上的排名。
+- 下图显示了5个系统在人类评价中获得**第一名**的的比例。BayLing-13B在翻译、指令跟随和多回合交互的评估能力方面，分别以 18%、30% 和 20% 的情况被人类评为第一，**仅次于ChatGPT**。
 
 ![](assets/human_eval_translation.png)  |  ![](assets/human_eval_instruction.png)|  ![](assets/human_eval_interactive.png)
 :-------------------------:|:-------------------------:|:-------------------------:
-Translation Quality   |  Instruction Following | Multi-turn Interaction
+翻译能力   | 指令跟随能力 | 多轮交互能力 
 
-### <a id="GeneralTaskswithGPT-4Evaluation">General Tasks with GPT-4 Evaluation</a>
+### <a id="GeneralTaskswithGPT-4Evaluation">通用任务的GPT-4评价</a>
 
-- We extended the [Vicuna-80 test set](https://github.com/lm-sys/FastChat/blob/main/fastchat/eval/table/question.jsonl) to include multi-turn interactions, creating a multi-turn instruction test set called [**BayLing-80**](./data/BayLing-80). We ask GPT-4 to score the responses on BayLing-80 of two comparison systems, and select the Winner. 
-- BayLing-13B outperforms GPT3.5-turbo in 35% of cases when evaluated by GPT-4, and not worse than GPT-3.5-turbo in 45% of cases.
-- Responses of systems and GPT-4 reviews can be found [here](./exp/general_tasks).
+- 我们从交互轮次和语言2方面扩展了 [Vicuna-80 测试集](https://github.com/lm-sys/FastChat/blob/main/fastchat/eval/table/question.jsonl)，创建了名为 [**BayLing-80**](./data/BayLing-80)的中文/英语多轮指令测试集。我们利用 GPT-4 对两个系统在 BayLing-80 上的响应进行评分，并选择获胜者。
+- 在 GPT-4 评估中，BayLing-13B 在 35% 的情况下优于 GPT3.5-turbo，在 45% 的情况下不差于 GPT-3.5-turbo。
+- 您可以在[这里](./exp/general_tasks)找到各个系统在BayLing-80测试集上的响应和对应的 GPT-4 评论。
 
 ![](assets/battle.en.png)  |  ![](assets/battle.zh.png)
 :-------------------------:|:-------------------------:
-English single-turn instruction     |  Chinese single-turn instruction   
+英语，单轮指令     | 中文，单轮指令 
 ![](assets/battle.multiturn.en.png)  |  ![](assets/battle.multiturn.zh.png) 
-English multi-turn instruction     |  Chinese multi-turn instruction  
+英语，多轮指令     |  中文，多轮指令  
 
-- BayLing-13B v.s. GPT-3.5-turbo on 9 capabilities.
+- 在9项能力上，BayLing-13B 和 GPT-3.5-turbo 的比较：
 
-![](assets/Cap.BayLing.vs.chatgpt.en.png)  |![](assets/Cap.BayLing.vs.chatgpt.zh.png)  
-:-------------------------:|:-------------------------:
-English single-turn instruction     |  Chinese single-turn instruction
-![](assets/Cap.BayLing.vs.chatgpt.multiturn.en.png)  |![](assets/Cap.BayLing.vs.chatgpt.multiturn.zh.png)  |
-English multi-turn instruction     |  Chinese multi-turn instruction  
+      ![](assets/Cap.BayLing.vs.chatgpt.en.png)      |      ![](assets/Cap.BayLing.vs.chatgpt.zh.png)      
+   :-------------------------------------------------: | :-------------------------------------------------: 
+                   英语，单轮指令                    |                   中文，单轮指令                    
+   ![](assets/Cap.BayLing.vs.chatgpt.multiturn.en.png) | ![](assets/Cap.BayLing.vs.chatgpt.multiturn.zh.png) 
+                   英语，多轮指令                    |                   中文，多轮指令                    
 
-### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">Standardized Tests on GaoKao and SAT/GRE/GMAT/LSAT</a>
+### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">标准化考试：高考、SAT/GRE/GMAT/LSAT</a>
 
-- We evaluate BayLing on the Chinese and English standardized tests from [AGIEval](https://github.com/microsoft/AGIEval).
-  - Chinese: GaoKao.
+- 我们在[AGIEval](https://github.com/microsoft/AGIEval)上评估了百聆在中英文标准化考试上的表现.
+  - 中文考试: 高考
 
 <table class="tg" style="undefined;table-layout: fixed; width: 823px">
 <colgroup>
@@ -773,7 +770,7 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 </tbody>
 </table>
 
-  - English: SAT, LSAT, Civil Service Examination, GRE and GMAT.
+  - 英语考试：SAT, LSAT, Civil Service Examination, GRE and GMAT
 
 <table class="tg">
 <thead>
@@ -881,27 +878,27 @@ English multi-turn instruction     |  Chinese multi-turn instruction
 
 
 
-## <a id="Limitations">Limitations</a>
+## <a id="Limitations">局限性</a>
 
-Despite demonstrating commendable performance in certain aspects, BayLing still exhibits several limitations. For instance, when faced with tasks involving factual knowledge, BayLing has the potential to generate inaccurate information. Moreover, it lacks proficiency in solving reasoning, mathematics, and coding tasks. Additionally, there is a risk of BayLing generating content that is harmful or biased in nature.
+尽管在某些方面表现出不错的表现，但百聆仍然存在一些局限性。例如，当面对涉及事实知识的任务时，百聆有可能生成不准确的信息，在推理、数学和编码任务上表现较弱。此外，百聆可能存在生成有害或有偏见的内容的风险。
 
-BayLing is a large language model that, like any other language model, cannot guarantee the absolute accuracy of the generated content. **Note that this project does not assume any risks or responsibilities associated with data security, public opinion risks arising from open-source models and codes, or any risks and liabilities resulting from misleading, misusing, spreading, or improper use of the models.**
+百聆是一个大规模语言模型，与任何其他语言模型一样，不能保证生成内容的绝对准确性。**本项目不承担任何与数据安全相关的风险和责任，模型和代码所产生的舆论风险，以及因误导、误用、传播或不当使用模型而产生的任何风险和责任。**
 
-## <a id="License">License</a>
+## <a id="License">许可</a>
 
-Model weights (delta version) and the inference code are released under The GNU General Public License v3.0 (GPLv3). The online demo serves as a research preview and is exclusively intended for non-commercial usage, subject to the [Model License](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md) of LLaMA, [Terms of Use](https://openai.com/policies/terms-of-use) of the data generated by OpenAI, and [Privacy Practices](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) of ShareGPT and [Data License](https://machinetranslate.org/wmt22) of WMT22.
+模型权重（增量版本）和推理代码在 GNU 通用公共许可证 v3.0（GPLv3）下发布。在线演示系统仅作为研究预览，供非商业用途使用，并受到 LLaMA 的[模型许可](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)、OpenAI 生成数据的[使用条款](https://openai.com/policies/terms-of-use)、ShareGPT 的[隐私条例](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb)以及 WMT22 的[数据许可](https://machinetranslate.org/wmt22)的约束。
 
-## <a id="Acknowledgements">Acknowledgements</a>
+## <a id="Acknowledgements">致谢</a>
 
-We would like to express our gratitude to all those who have contributed to BayLing. We extend special thanks to Ms. Xiaohong Wang for her valuable comments and suggestions on the use of InforSuperBahn MLOps, and for her organizational and resource support in providing computing resources and showcasing BayLing. We also acknowledge Xiaodong Liu for his pivotal role in the construction of the distributed system and overall coordination of the demo deployment. Furthermore, we appreciate the contribution of the development team from the Nanjing Institute of InforSuperBahn in maintaining the computing resources and creating the display interface for BayLing’s webpage and demo.
+我们感谢所有为百聆做出贡献的协作者们。特别感谢王晓虹女士对信息高铁的使用提出的宝贵意见和建议，以及在提供计算资源和展示百聆方面的组织和资源支持。我们也感谢刘晓东老师在分布式系统的构建和演示部署的整体协调中的关键贡献。此外，我们感谢中科南京信息高铁研究院的开发团队在维护计算资源和创建百聆网页和演示界面方面所做的贡献。
 
-## <a id="Authors">Authors</a>
+## <a id="Authors">作者</a>
 
- |  [Shaolei Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52677.html)  |  [Qingkai Fang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
+ |  [张绍磊](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52677.html)  |  [房庆凯](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [张倬诚](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [马铮睿](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
 
- |  Yan Zhou  |  [Langlin Huang](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  Mengyu Bu  |  Shangtong Gui  |
+ |  周䶮  |  [黄浪林](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  卜梦钰  |  桂尚彤  |
 
- |  [Xilin Chen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [Yang Feng \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
+ |  [陈熙霖](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [冯洋 \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
-## <a id="Citation">Citation</a>
+## <a id="Citation">引用</a>
 
