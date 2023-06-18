@@ -35,7 +35,7 @@
 
 ## News
 
-**[Jun. 15, 2023]** BayLing-7B and BayLing-13B model are released in Huggingface 🤗.
+**[Jun. 15, 2023]** [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) model are released in Huggingface 🤗.
 
 
 ## Overview
