@@ -12,7 +12,7 @@
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
 <p align="center">
-  <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="https://github.com/ictnlp/BayLing/README_zh.md">[README: 中文版本]</a>
+  <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="./README_zh.md">[README: 中文版本]</a>
 </p>
 
 
@@ -24,45 +24,42 @@
 
 📄 **论文**：百聆的技术报告。
 
-🏠 [**博客**](http://nlp.ict.ac.cn/bayling)：百聆的主页，提供了百聆的一些示例。
+🏠 [**博客**](http://nlp.ict.ac.cn/bayling)：百聆的主页，欢迎探索百聆的一些示例。
 
-✍️ [**BayLing-80 测试集**](./data/BayLing-80): 一个有人工标注的测试集，包含中文/英语多轮指令，可用于评估LLM的中文/英语和多轮交互能力。
+✍️ [**BayLing-80 测试集**](./data/BayLing-80)：一个由人工标注的中文/英语多轮指令测试集，可用于评估LLM的中文/英语和多轮交互能力。
 
-🤗 **模型**: 百聆-7B 和 百聆-13B的 模型权重（增量版本），您可以通过[apply_delta.py](./apply_delta.py)快速获取百聆的完整参数。注意，开源的百聆参数是匿名版本（在其知识中排除了“百聆”等相关名字），以方便后续工作基于百聆进行相关研究。
+🤗 **模型**：[百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 和 [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) 的模型权重（增量版本），您可以通过[apply_delta.py](./apply_delta.py)快速获取百聆的完整参数。注意，开源的百聆模型是匿名版本（在其知识中排除了“百聆”等相关名字），以方便后续工作基于百聆进行相关研究。
 
-|  [百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff)  |  [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)  |
-
-
-> 百聆由[中国科学院](https://www.cas.cn/)[计算技术研究所]((https://www.cas.cn/))[自然语言处理研究组]((http://nlp.ict.ac.cn/))开发。
+> 百聆由 [中国科学院](https://www.cas.cn/) [计算技术研究所]((https://www.cas.cn/) [自然语言处理研究组]((http://nlp.ict.ac.cn/) 开发。
 >
 > 如果您有任何问题或建议，请联系`bayling@ict.ac.cn`
 
 ## 最新动态！
 
-**[Jun. 15, 2023]** 百聆-7B 和 百聆-13B 的模型参数发布于Huggingface🤗.
+**[Jun. 15, 2023]** [百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 和 [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) 的模型权重已发布于Huggingface🤗.
 
 
 ## Overview
-- [部署百聆](#Try-BayLing)
-	- [配置环境](#Environment)
-	- [获取百聆模型](#Model)
-	- [命令行交互](#Command-Interactive)
-	- [图形界面交互](#GUI-Interactive)
-- [百聆的性能如何？](#How-Good-is-BayLing?)
-  - [示例](#Cases)
-  - [多语言翻译](#Multilingual-Translation)
-  - [交互翻译的人工评价](#Interactive-Translation-with-Human-Evaluation)
-  - [通用任务的GPT-4评价](#General-Tasks-with-GPT-4-Evaluation)
-  - [标准化考试：高考、SAT/GRE/GMAT/LSAT](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)
-- [局限性](#Limitations)
-- [许可](#License)
-- [致谢](#Acknowledgements)
-- [作者](#Authors)
-- [引用](#Citation)
+- [部署百聆](#部署百聆)
+	- [配置环境](#配置环境)
+	- [获取百聆模型](#获取百聆模型)
+	- [命令行交互](#命令行交互)
+	- [图形界面交互](#图形界面交互)
+- [百聆的性能如何？](#百聆的性能如何)
+  - [示例](#示例)
+  - [多语言翻译](#多语言翻译)
+  - [交互翻译的人工评估](#交互式翻译的人工评估)
+  - [通用任务的GPT-4评估](#通用任务的gpt-4评估)
+  - [标准化考试：高考、SAT/GRE/GMAT/LSAT](#标准化考试高考satgregmatlsat)
+- [局限性](#局限性)
+- [许可](#许可)
+- [致谢](#致谢)
+- [作者](#作者)
+- [引用](#引用)
 
 ## <a id="TryBayLing">部署百聆</a>
 
-|  [配置环境](#Environment)  |  [获取百聆模型](#Model)  |  [命令行交互](#Command-Interactive)  |  [图形界面交互](#GUI-Interactive)  |
+|  [配置环境](#配置环境)  |  [获取百聆模型](#获取百聆模型)  |  [命令行交互](#命令行交互)  |  [图形界面交互](#图形界面交互)  |
 
 ### <a id="Environment">配置环境</a>
 
@@ -128,7 +125,7 @@
 
 ## <a id="HowGoodisBayLing?">百聆的性能如何？</a>
 
-|  [示例](#Cases)  |  [多语言翻译](#Multilingual-Translation)  |  [交互翻译](#Interactive-Translation-with-Human-Evaluation)  |  [通用任务](#General-Tasks-with-GPT-4-Evaluation)  |  [标准化考试](#Standardized-Tests-on-Gaokao-and-SatGreGmatLsat)  |
+|  [示例](#示例)  |  [多语言翻译](#多语言翻译)  |  [交互翻译](#交互式翻译的人工评估)  |  [通用任务](#通用任务的gpt-4评估)  |  [标准化考试](#标准化考试高考satgregmatlsat)  |
 
 ### <a id="Cases">示例</a>
 
@@ -622,7 +619,7 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 |:-------------------------:|
 |WMT22 多语言测试（zero-shot 设置）  |
 
-### <a id="InteractiveTranslationwithHumanEvaluation">交互式翻译的人工评价</a>
+### <a id="InteractiveTranslationwithHumanEvaluation">交互式翻译的人工评估</a>
 
 - 我们邀请了几位英语专业的标注者（通过英语专八考试）与百聆和基线系统在翻译任务上进行交互，并分别给出系统在三方面能力上的排名。
 - 下图显示了5个系统在人类评价中获得**第一名**的的比例。BayLing-13B在翻译、指令跟随和多回合交互的评估能力方面，分别以 18%、30% 和 20% 的情况被人类评为第一，**仅次于ChatGPT**。
@@ -631,7 +628,7 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 :-------------------------:|:-------------------------:|:-------------------------:
 翻译能力   | 指令跟随能力 | 多轮交互能力 
 
-### <a id="GeneralTaskswithGPT-4Evaluation">通用任务的GPT-4评价</a>
+### <a id="GeneralTaskswithGPT-4Evaluation">通用任务的GPT-4评估</a>
 
 - 我们从交互轮次和语言2方面扩展了 [Vicuna-80 测试集](https://github.com/lm-sys/FastChat/blob/main/fastchat/eval/table/question.jsonl)，创建了名为 [**BayLing-80**](./data/BayLing-80)的中文/英语多轮指令测试集。我们利用 GPT-4 对两个系统在 BayLing-80 上的响应进行评分，并选择获胜者。
 - 在 GPT-4 评估中，BayLing-13B 在 35% 的情况下优于 GPT3.5-turbo，在 45% 的情况下不差于 GPT-3.5-turbo。
@@ -645,11 +642,11 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 
 - 在9项能力上，BayLing-13B 和 GPT-3.5-turbo 的比较：
 
-      ![](assets/Cap.BayLing.vs.chatgpt.en.png)      |      ![](assets/Cap.BayLing.vs.chatgpt.zh.png)      
-   :-------------------------------------------------: | :-------------------------------------------------: 
-                   英语，单轮指令                    |                   中文，单轮指令                    
-   ![](assets/Cap.BayLing.vs.chatgpt.multiturn.en.png) | ![](assets/Cap.BayLing.vs.chatgpt.multiturn.zh.png) 
-                   英语，多轮指令                    |                   中文，多轮指令                    
+![](assets/Cap.BayLing.vs.chatgpt.en.png)      |      ![](assets/Cap.BayLing.vs.chatgpt.zh.png)      
+:-------------------------------------------------: | :-------------------------------------------------: 
+英语，单轮指令                    |                   中文，单轮指令                    
+![](assets/Cap.BayLing.vs.chatgpt.multiturn.en.png) | ![](assets/Cap.BayLing.vs.chatgpt.multiturn.zh.png) 
+英语，多轮指令                    |                   中文，多轮指令                    
 
 ### <a id="Standardized-Tests-on-Gaokao-and-SatGreGmatLsat">标准化考试：高考、SAT/GRE/GMAT/LSAT</a>
 
@@ -894,9 +891,7 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 
 ## <a id="Authors">作者</a>
 
- |  [张绍磊](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52677.html)  |  [房庆凯](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [张倬诚](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [马铮睿](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
-
- |  周䶮  |  [黄浪林](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  卜梦钰  |  桂尚彤  |
+ |  [张绍磊](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52677.html)  |  [房庆凯](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [张倬诚](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [马铮睿](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |  周䶮  |  [黄浪林](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  卜梦钰  |  桂尚彤  |
 
  |  [陈熙霖](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [冯洋 \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
