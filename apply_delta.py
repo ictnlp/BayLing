@@ -2,7 +2,9 @@
 Apply the delta weights on top of a base model.
 
 Usage:
-python3 -m fastchat.model.apply_delta --base ~/model_weights/llama-7b --target ~/model_weights/vicuna-7b --delta lmsys/vicuna-7b-delta-v1.1
+python apply_delta.py --base-model-path ${PATH_TO_LLAMA} \
+		--target-model-path ${PATH_TO_BAYLING} \
+		--delta-path ${PATH_TO_DOWNLOAD_BAYLING_DIFF}
 """
 import argparse
 import gc
