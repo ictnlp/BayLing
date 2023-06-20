@@ -893,9 +893,9 @@ We would like to express our gratitude to all those who have contributed to BayL
 
 ## <a id="Authors">Authors</a>
 
- |  [Shaolei Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52677.html)  |  [Qingkai Fang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
+ |  [Shaolei Zhang](https://vily1998.github.io/)  |  [Qingkai Fang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
 
- |  Yan Zhou  |  [Langlin Huang](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  Mengyu Bu  |  Shangtong Gui  |
+ |  [Yan Zhou](https://zhouyan19.github.io/zhouyan/)  |  [Langlin Huang](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  [Mengyu Bu](https://bingo123122121.github.io/)  |  [Shangtong Gui](https://github.com/GhostofAdam)  |
 
  |  [Yunji Chen](http://novel.ict.ac.cn/ychen/)  |  [Xilin Chen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [Yang Feng \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
