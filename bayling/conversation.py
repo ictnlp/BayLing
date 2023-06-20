@@ -65,19 +65,7 @@ class Conversation:
                         ret += "\n"
                 else:
                     ret += role
-            # print(ret)
             return ret
-        # elif self.sep_style == SeparatorStyle.ALPACA:
-        #     seps = [self.sep, self.sep2]
-        #     ret = self.system
-        #     for i, (role, message) in enumerate(self.messages):
-        #         if message:
-        #             ret += role + ":\n" + message + seps[i % 2]
-        #             if i % 2 == 1:
-        #                 ret += "\n\n"
-        #         else:
-        #             ret += role + ":\n"
-        #     return ret
         elif self.sep_style == SeparatorStyle.ADD_COLON_TWO:
             seps = [self.sep, self.sep2]
             ret = self.system + seps[0]
@@ -540,7 +528,7 @@ register_conv_template(
 
 
 if __name__ == "__main__":
-    conv = get_conv_template("vicuna_v1.1")
+    conv = get_conv_template("BayLing")
     conv.append_message(conv.roles[0], "Hello!")
     conv.append_message(conv.roles[1], "Hi!")
     conv.append_message(conv.roles[0], "How are you?")

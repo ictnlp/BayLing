@@ -69,7 +69,7 @@ def partial_stop(output, stop_str):
 
 
 def post_process(output):
-    # For the convenience of follow-up work, the BayLing-7B we released is an anonymized an anonymized version
+    # For the convenience of follow-up work, the BayLing model we released in HF is an anonymized version
     # (the model name and development team are not embedded in the parameters),
     # we add model information in the post-processing.
     for k, v in MODEL_CARD.items():
