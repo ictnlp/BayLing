@@ -31,7 +31,7 @@
 
 > BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
 >
-> Any question or suggestion, please contact with `bayling@ict.ac.cn`
+> Bailing is continuously optimizing... If you have any suggestions, please contact `bayling@ict.ac.cn`. Thanks for your support!
 
 ## News
 
@@ -893,7 +893,7 @@ We would like to express our gratitude to all those who have contributed to BayL
 
 ## <a id="Authors">Authors</a>
 
- |  [Shaolei Zhang](https://vily1998.github.io/)  |  [Qingkai Fang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
+ |  [Shaolei Zhang](https://vily1998.github.io/)  |  [Qingkai Fang](https://fangqingkai.github.io/)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
 
  |  [Yan Zhou](https://zhouyan19.github.io/zhouyan/)  |  [Langlin Huang](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  [Mengyu Bu](https://bingo123122121.github.io/)  |  [Shangtong Gui](https://github.com/GhostofAdam)  |
 

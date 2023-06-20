@@ -32,7 +32,7 @@
 
 > 百聆由 [中国科学院](https://www.cas.cn/) [计算技术研究所](https://www.cas.cn/) [自然语言处理研究组](http://nlp.ict.ac.cn/) 开发。
 >
-> 如果您有任何问题或建议，请联系`bayling@ict.ac.cn`
+> 百聆正在持续优化中... 如果大家有任何建议，欢迎联系`bayling@ict.ac.cn`。感谢大家的支持！
 
 ## 最新动态！
 
@@ -891,7 +891,7 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 
 ## <a id="Authors">作者</a>
 
- |  [张绍磊](https://vily1998.github.io/)  |  [房庆凯](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52676.html)  |  [张倬诚](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [马铮睿](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |  [周䶮](https://zhouyan19.github.io/zhouyan/)  |  [黄浪林](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  [卜梦煜](https://bingo123122121.github.io/)  |  [桂尚彤](https://github.com/GhostofAdam)  |
+ |  [张绍磊](https://vily1998.github.io/)  |  [房庆凯](https://fangqingkai.github.io/)  |  [张倬诚](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [马铮睿](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |  [周䶮](https://zhouyan19.github.io/zhouyan/)  |  [黄浪林](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  [卜梦煜](https://bingo123122121.github.io/)  |  [桂尚彤](https://github.com/GhostofAdam)  |
 
  |  [陈云霁](http://novel.ict.ac.cn/ychen/)  |  [陈熙霖](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [冯洋 \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
