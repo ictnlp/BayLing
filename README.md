@@ -29,9 +29,19 @@
 
 🤗 **Model**: The *weight-diff* version of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff), you can quickly get the parameters of BayLing through [apply_delta.py](./apply_delta.py). The HF models of BayLing are anonymized version (exclude BayLing's name in its knowledge), in order to facilitate future LLMs to build upon BayLing.
 
+
+<div  align="center">   
+  <img src="./assets/demo.gif" alt="img" width="95%" />
+</div>
+<p align="center">
+  👉 Try <a href="http://nlp.ict.ac.cn/bayling/demo">BayLing's online demo</a>
+</p>
+
 > BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
 >
-> Bailing is continuously optimizing... If you have any suggestions, please contact `bayling@ict.ac.cn`. Thanks for your support!
+> Bailing is continuously optimizing 🆙
+>
+> If you have any suggestions, please contact `bayling@ict.ac.cn`. Thanks for your support!
 
 ## News
 
