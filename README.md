@@ -39,8 +39,7 @@
 
 > BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
 >
-> Bailing is continuously optimizing 🆙
->
+> BayLing is continuously optimizing 🆙
 > If you have any suggestions, please contact `bayling@ict.ac.cn`. Thanks for your support!
 
 ## News
