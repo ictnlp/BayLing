@@ -31,7 +31,7 @@
 
 
 <div  align="center">   
-  <img src="./assets/demo.gif" alt="img" width="95%" />
+  <img src="./assets/demo.gif" alt="img" width="98%" />
 </div>
 <p align="center">
   👉 Try <a href="http://nlp.ict.ac.cn/bayling/demo">BayLing's online demo</a>
@@ -909,6 +909,8 @@ We would like to express our gratitude to all those who have contributed to BayL
  |  [Yunji Chen](http://novel.ict.ac.cn/ychen/)  |  [Xilin Chen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [Yang Feng \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
 ## <a id="Citation">Citation</a>
+
+If our work is helpful for you, please cite as:
 
 ```
 @article{bayling,

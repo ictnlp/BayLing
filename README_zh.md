@@ -32,7 +32,7 @@
 
 
 <div  align="center">   
-  <img src="./assets/demo.gif" alt="img" width="80%" />
+  <img src="./assets/demo.gif" alt="img" width="98%" />
 </div>
 <p align="center">
   👉 欢迎探索 <a href="http://nlp.ict.ac.cn/bayling/demo">百聆的在线demo</a>
@@ -905,6 +905,7 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
  |  [陈云霁](http://novel.ict.ac.cn/ychen/)  |  [陈熙霖](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [冯洋 \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
 ## <a id="Citation">引用</a>
+如果我们的工作对您有所帮助，请引用：
 
 ```
 @article{bayling,
