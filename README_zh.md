@@ -38,7 +38,7 @@
   👉 欢迎探索 <a href="http://nlp.ict.ac.cn/bayling/demo">百聆的在线demo</a> 👈
 </p>
 
-> 百聆由 [中国科学院](https://www.cas.cn/) [计算技术研究所](https://www.cas.cn/) [自然语言处理研究组](http://nlp.ict.ac.cn/) 开发。
+> 百聆由 [中国科学院](https://www.cas.cn/) [计算技术研究所](http://www.ict.ac.cn/) [自然语言处理研究组](http://nlp.ict.ac.cn/) 开发。
 >
 > 百聆正在持续优化中 🆙
 > 如果大家有任何建议，欢迎联系`bayling@ict.ac.cn`。感谢大家的支持！
