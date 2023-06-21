@@ -22,7 +22,7 @@
 
 💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): 百聆提供在线版Demo，欢迎申请内测🙋‍♂️
 
-📄 [**论文**](https://arxiv.org/abs/2306.10968)：百聆的技术报告。
+📄 [**论文**](https://arxiv.org/abs/2306.10968)：百聆的全面研究报告。
 
 🏠 [**主页**](http://nlp.ict.ac.cn/bayling)：百聆的主页，欢迎探索百聆的更多信息和一些示例展示。
 
@@ -32,7 +32,7 @@
 
 
 <div  align="center">   
-  <img src="./assets/demo.gif" alt="img" width="98%" />
+  <img src="./assets/demo.gif" alt="img" width="90%" />
 </div>
 <p align="center">
   👉 欢迎探索 <a href="http://nlp.ict.ac.cn/bayling/demo">百聆的在线demo</a>

@@ -21,7 +21,7 @@
 
 💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): Welcome to apply for a trial of BayLing's online demo (beta version).
 
-📄 [**Paper**](https://arxiv.org/abs/2306.10968): BayLing's technical report.
+📄 [**Paper**](https://arxiv.org/abs/2306.10968): A comprehensive research paper of BayLing.
 
 🏠 [**Homepage**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover more informatiion and cases of BayLing here.
 
@@ -31,7 +31,7 @@
 
 
 <div  align="center">   
-  <img src="./assets/demo.gif" alt="img" width="98%" />
+  <img src="./assets/demo.gif" alt="img" width="90%" />
 </div>
 <p align="center">
   👉 Try <a href="http://nlp.ict.ac.cn/bayling/demo">BayLing's online demo</a>
@@ -44,7 +44,7 @@
 
 ## News
 
-**[Jun. 15, 2023]** [BayLing's paper](https://arxiv.org/abs/2306.10968) is available.
+**[Jun. 21, 2023]** [BayLing's paper](https://arxiv.org/abs/2306.10968) is available.
 
 **[Jun. 15, 2023]** [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) model are released in Huggingface 🤗.
 
