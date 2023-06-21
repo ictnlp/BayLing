@@ -34,7 +34,7 @@
   <img src="./assets/demo.gif" alt="img" width="85%" />
 </div>
 <p align="center">
-  👉 Try <a href="http://nlp.ict.ac.cn/bayling/demo">BayLing's online demo</a>
+  👉 Try <a href="http://nlp.ict.ac.cn/bayling/demo">BayLing's online demo</a> 👈
 </p>
 
 > BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
