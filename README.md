@@ -6,8 +6,8 @@
 
 [![license](https://img.shields.io/badge/License-GPL:v3-lightgrey.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
-[![blog](https://img.shields.io/badge/BayLing-blog-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
-[![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)]()
+[![homepage](https://img.shields.io/badge/BayLing-homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
+[![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)](https://arxiv.org/abs/2306.10968)
 [![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update)](https://github.com/ictnlp/BayLing) 
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
@@ -21,9 +21,9 @@
 
 💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): Welcome to apply for a trial of BayLing's online demo (beta version).
 
-📄 **Paper**: BayLing's technical report.
+📄 [**Paper**](https://arxiv.org/abs/2306.10968): BayLing's technical report.
 
-🏠 [**Blog**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover some case of BayLing here.
+🏠 [**Homepage**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover more informatiion and cases of BayLing here.
 
 ✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
 
@@ -909,4 +909,14 @@ We would like to express our gratitude to all those who have contributed to BayL
  |  [Yunji Chen](http://novel.ict.ac.cn/ychen/)  |  [Xilin Chen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [Yang Feng \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
 ## <a id="Citation">Citation</a>
+
+```
+@article{bayling,
+      title={BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models}, 
+      author={Shaolei Zhang and Qingkai Fang and Zhuocheng Zhang and Zhengrui Ma and Yan Zhou and Langlin Huang and Mengyu Bu and Shangtong Gui and Yunji Chen and Xilin Chen and Yang Feng},
+      journal={arXiv preprint arXiv:2306.10968},
+      year={2023},
+      url={https://arxiv.org/abs/2306.10968}
+}
+```
 

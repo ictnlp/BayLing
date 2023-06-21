@@ -497,11 +497,11 @@ def build_single_model_ui(models):
 
 💬 [Demo](http://nlp.ict.ac.cn/bayling/demo): Welcome to apply for a trial of BayLing's online demo (beta version).
 
-📄 Paper: BayLing's technical report.
+📄 [Paper](https://arxiv.org/abs/2306.10968): BayLing's technical report.
 
 🔗 [Code](https://github.com/ictnlp/BayLing): BayLing's inference code.
 
-🏠 [Blog](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover some case of BayLing here.
+🏠 [Homepage](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover some case of BayLing here.
 
 🤗 Model: The weight-diff version of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff).
 """

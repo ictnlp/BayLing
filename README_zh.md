@@ -6,8 +6,8 @@
 
 [![license](https://img.shields.io/badge/License-GPL:v3-lightgrey.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
-[![blog](https://img.shields.io/badge/BayLing-blog-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
-[![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)]()
+[![homepage](https://img.shields.io/badge/BayLing-homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
+[![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)](https://arxiv.org/abs/2306.10968)
 [![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update)](https://github.com/ictnlp/BayLing) 
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
@@ -22,9 +22,9 @@
 
 💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): 百聆提供在线版Demo，欢迎申请内测🙋‍♂️
 
-📄 **论文**：百聆的技术报告。
+📄 [**论文**](https://arxiv.org/abs/2306.10968)：百聆的技术报告。
 
-🏠 [**博客**](http://nlp.ict.ac.cn/bayling)：百聆的主页，欢迎探索百聆的一些示例。
+🏠 [**主页**](http://nlp.ict.ac.cn/bayling)：百聆的主页，欢迎探索百聆的更多信息和一些示例展示。
 
 ✍️ [**BayLing-80 测试集**](./data/BayLing-80)：一个由人工标注的中文/英语多轮指令测试集，可用于评估LLM的中文/英语和多轮交互能力。
 
@@ -906,3 +906,12 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 
 ## <a id="Citation">引用</a>
 
+```
+@article{bayling,
+      title={BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models}, 
+      author={Shaolei Zhang and Qingkai Fang and Zhuocheng Zhang and Zhengrui Ma and Yan Zhou and Langlin Huang and Mengyu Bu and Shangtong Gui and Yunji Chen and Xilin Chen and Yang Feng},
+      journal={arXiv preprint arXiv:2306.10968},
+      year={2023},
+      url={https://arxiv.org/abs/2306.10968}
+}
+```
