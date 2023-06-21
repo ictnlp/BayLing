@@ -493,15 +493,15 @@ def get_model_description_md(models):
 
 def build_single_model_ui(models):
     notice_markdown = """
-# **BayLing** developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
+# **BayLing** developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
 
 💬 [Demo](http://nlp.ict.ac.cn/bayling/demo): Welcome to apply for a trial of BayLing's online demo (beta version).
 
-📄 [Paper](https://arxiv.org/abs/2306.10968): BayLing's technical report.
+📄 [Paper](https://arxiv.org/abs/2306.10968): A comprehensive research paper of BayLing.
 
 🔗 [Code](https://github.com/ictnlp/BayLing): BayLing's inference code.
 
-🏠 [Homepage](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover some case of BayLing here.
+🏠 [Homepage](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover more information and cases of BayLing here.
 
 🤗 Model: The weight-diff version of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff).
 """
