@@ -491,7 +491,7 @@
 
 **用户**:
 
-> If focused on chemistry?"
+> If focused on chemistry?
 
 **百聆-13B**:
 

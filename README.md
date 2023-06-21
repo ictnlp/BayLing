@@ -493,7 +493,7 @@
 
 **USER**:
 
-> If focused on chemistry?"
+> If focused on chemistry?
 
 **BayLiing-13B**:
 
