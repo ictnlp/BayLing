@@ -32,7 +32,7 @@
 
 
 <div  align="center">   
-  <img src="./assets/demo.gif" alt="img" width="90%" />
+  <img src="./assets/demo.gif" alt="img" width="85%" />
 </div>
 <p align="center">
   👉 欢迎探索 <a href="http://nlp.ict.ac.cn/bayling/demo">百聆的在线demo</a>

@@ -23,7 +23,7 @@
 
 📄 [**Paper**](https://arxiv.org/abs/2306.10968): A comprehensive research paper of BayLing.
 
-🏠 [**Homepage**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover more informatiion and cases of BayLing here.
+🏠 [**Homepage**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover more information and cases of BayLing here.
 
 ✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
 
@@ -31,7 +31,7 @@
 
 
 <div  align="center">   
-  <img src="./assets/demo.gif" alt="img" width="90%" />
+  <img src="./assets/demo.gif" alt="img" width="85%" />
 </div>
 <p align="center">
   👉 Try <a href="http://nlp.ict.ac.cn/bayling/demo">BayLing's online demo</a>
