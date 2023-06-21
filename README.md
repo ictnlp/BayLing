@@ -27,7 +27,7 @@
 
 ✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
 
-🤗 **Model**: The *weight-diff* version of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff), you can quickly get the parameters of BayLing through [apply_delta.py](./apply_delta.py). The HF models of BayLing are anonymized version (exclude BayLing's name in its knowledge), in order to facilitate future LLMs to build upon BayLing.
+🤗 **Model**: The *weight-diff* version of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff), you can quickly get the parameters of BayLing through [apply_delta.py](./apply_delta.py). The HF models of BayLing are anonymized (exclude BayLing's name in its knowledge), in order to facilitate future LLMs to build upon BayLing.
 
 
 <div  align="center">   
@@ -46,7 +46,7 @@
 
 **[Jun. 21, 2023]** [BayLing's paper](https://arxiv.org/abs/2306.10968) is available.
 
-**[Jun. 15, 2023]** [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) model are released in Huggingface 🤗.
+**[Jun. 15, 2023]** Models of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) are released in Huggingface 🤗.
 
 
 ## Overview
@@ -635,7 +635,7 @@ WMT22 Multilingual Benchmark (zero-shot setting)  |
 ### <a id="InteractiveTranslationwithHumanEvaluation">Interactive Translation with Human Evaluation</a>
 
 - We invite several English-major annotators (pass TEM-8) to interact with BayLing and baselines on translation tasks, and give the rank of  systems on three capabilities. 
-- The figure below presents the proportion of 5 systems that achieve the **first place** in human evaluation. In terms of evaluating ability of translation, instruction following and multi-turn interaction, BayLing-13B is rated first by human in 18%, 30% and 20% of the cases respectively, **placing second only to ChatGPT**.
+- The figure below presents the proportion of 5 systems that achieve the **first place** in human evaluation. In terms of evaluating the capabilities of translation, instruction following and multi-turn interaction, BayLing-13B is rated first by human in 18%, 30% and 20% of the cases respectively, **placing second only to ChatGPT**.
 
 ![](assets/human_eval_translation.png)  |  ![](assets/human_eval_instruction.png)|  ![](assets/human_eval_interactive.png)
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -644,7 +644,7 @@ Translation Quality   |  Instruction Following | Multi-turn Interaction
 ### <a id="GeneralTaskswithGPT-4Evaluation">General Tasks with GPT-4 Evaluation</a>
 
 - We extended the [Vicuna-80 test set](https://github.com/lm-sys/FastChat/blob/main/fastchat/eval/table/question.jsonl) to include multi-turn interactions, creating a multi-turn instruction test set called [**BayLing-80**](./data/BayLing-80). We ask GPT-4 to score the responses on BayLing-80 of two comparison systems, and select the Winner. 
-- BayLing-13B outperforms GPT3.5-turbo in 35% of cases when evaluated by GPT-4, and not worse than GPT-3.5-turbo in 45% of cases.
+- BayLing-13B outperforms GPT3.5-turbo in 35% of cases when evaluated by GPT-4, and is not worse than GPT-3.5-turbo in 45% of cases.
 - Responses of systems and GPT-4 reviews can be found [here](./exp/general_tasks).
 
 ![](assets/battle.en.png)  |  ![](assets/battle.zh.png)
