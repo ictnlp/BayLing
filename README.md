@@ -7,7 +7,7 @@
 [![license](https://img.shields.io/badge/License-GPL:v3-lightgrey.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
 [![homepage](https://img.shields.io/badge/BayLing-homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
-[![paper](https://img.shields.io/badge/Paper-Arxiv-green.svg)](https://arxiv.org/abs/2306.10968)
+[![paper](https://img.shields.io/badge/Paper-arxiv-green.svg)](https://arxiv.org/abs/2306.10968)
 [![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update)](https://github.com/ictnlp/BayLing) 
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
@@ -43,6 +43,8 @@
 > If you have any suggestions, please contact `bayling@ict.ac.cn`. Thanks for your support!
 
 ## News
+
+**[Jun. 15, 2023]** [BayLing's paper](https://arxiv.org/abs/2306.10968) is available.
 
 **[Jun. 15, 2023]** [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) model are released in Huggingface 🤗.
 
