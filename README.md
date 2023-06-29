@@ -40,7 +40,7 @@
 > BayLing is developed by [NLP Group](http://nlp.ict.ac.cn/) of [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (ICT/CAS)
 >
 > BayLing is continuously optimizing 🆙
-> If you have any suggestions, please contact `bayling@ict.ac.cn`. Welcome to star BayLing's repo 🌟, thanks for your support!
+> If you have any suggestions, please contact `bayling@ict.ac.cn`. If BayLing is helpful, welcome to star this repo 🌟! Thanks for your support!
 
 ## News
 
