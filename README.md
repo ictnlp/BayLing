@@ -19,7 +19,9 @@
 <a href="./assets/百聆交流群(BayLing_WeChat).jpeg">Welcome to join BayLing's WeChat  |  欢迎加入百聆交流群</a>
 </p>
 
-**BayLing** (**百聆**, **bǎi líng**) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. BayLing can be  effortlessly deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion... If BayLing is helpful for you, welcome to star this repo 🌟!
+**BayLing** (**百聆**, **bǎi líng**) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. BayLing can be  effortlessly deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion...
+
+If BayLing is helpful for you, welcome to star this repo 🌟
 
 👇 Learn more about BayLing:
 
