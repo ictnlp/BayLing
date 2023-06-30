@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="./aasets/百聆交流群(BayLing_WeChat).jpeg">Welcome to join BayLing's WeChat  |  欢迎加入百聆交流群</a>
+<a href="./assets/百聆交流群(BayLing_WeChat).jpeg">Welcome to join BayLing's WeChat  |  欢迎加入百聆交流群</a>
 </p>
 
 **百聆**（**BayLing**）是一个强化了语言对齐的大规模语言模型，拥有增强的英语/中文生成、指令跟随和多轮交互能力。百聆可以部署在16GB显存的消费级GPU上，协助用户完成翻译、写作、创作、建议等任务。
