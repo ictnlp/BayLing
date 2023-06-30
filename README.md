@@ -19,7 +19,7 @@
 <a href="./assets/百聆交流群(BayLing_WeChat).jpeg">Welcome to join BayLing's WeChat  |  欢迎加入百聆交流群</a>
 </p>
 
-**BayLing** (**百聆**, **bǎi líng**) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. BayLing can be  effortlessly deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion...
+**BayLing** (**百聆**, **bǎi líng**) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. BayLing can be  effortlessly deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion... If BayLing is helpful for you, welcome to star this repo 🌟!
 
 👇 Learn more about BayLing:
 
@@ -45,8 +45,6 @@
 >
 > BayLing is continuously optimizing 🆙
 > If you have any suggestions, please contact `bayling@ict.ac.cn`.
->
-> If BayLing is helpful for you, welcome to star this repo 🌟! Thanks for your support!
 
 ## News
 
@@ -910,7 +908,7 @@ We would like to express our gratitude to all those who have contributed to BayL
 
 ## <a id="Authors">Authors</a>
 
- |  [Shaolei Zhang](https://vily1998.github.io/)  |  [Qingkai Fang](https://fangqingkai.github.io/)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
+ |  [Shaolei Zhang](https://zhangshaolei1998.github.io/)  |  [Qingkai Fang](https://fangqingkai.github.io/)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
 
  |  [Yan Zhou](https://zhouyan19.github.io/zhouyan/)  |  [Langlin Huang](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  [Mengyu Bu](https://bingo123122121.github.io/)  |  [Shangtong Gui](https://github.com/GhostofAdam)  |
 
