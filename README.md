@@ -930,3 +930,6 @@ If our work is helpful for you, please cite as:
 }
 ```
 
+Welcome to 🌟 BayLing!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ictnlp/BayLing&type=Date)](https://star-history.com/#ictnlp/BayLing&Date)

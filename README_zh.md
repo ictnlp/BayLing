@@ -923,3 +923,8 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
       url={https://arxiv.org/abs/2306.10968}
 }
 ```
+
+
+Welcome to 🌟 BayLing!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ictnlp/BayLing&type=Date)](https://star-history.com/#ictnlp/BayLing&Date)
