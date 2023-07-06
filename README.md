@@ -59,7 +59,7 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 ## BayLing Models
 - [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) (Current best choice to explore BayLing)
     - continual learning on more Chinese knowledge based on BayLing-13B-v1.0.
-    - To save startup steps, Bayling-13B-v1.1 is not a diff version (`apply_delta.py` is not required). Please abide by the [License](#License).
+    - To save startup steps, Bayling-13B-v1.1 is not a diff version (`apply_delta.py` is not required). Note that please abide by [License](#License).
 - [BayLing-13B-v1.0-diff](https://huggingface.co/ICTNLP/bayling-13b-diff)
     - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2306.10968).
     - The weight-diff version, you can quickly get the parameters of BayLing through [`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py).
