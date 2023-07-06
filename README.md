@@ -33,7 +33,7 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 
 ✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
 
-🤗 **Model**: [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-diff)
+🤗 **Model**: [BayLing-7B-v1.0-diff](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0-diff](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-diff)(Best)
 
 
 <div  align="center">   
@@ -50,7 +50,7 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 
 ## 🔥News
 
-**[Jul. 06, 2023]** [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) model has been released, which is additionally injected with extensive Chinese knowledge based on v1.0.
+**[Jul. 06, 2023]** [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) model has been released, which is additionally injected with extensive Chinese knowledge based on BayLing-13B-v1.0. [BayLing's online demo](http://nlp.ict.ac.cn/bayling/demo) is also updated.
 
 **[Jun. 21, 2023]** [BayLing's paper](https://arxiv.org/abs/2306.10968) is available.
 
