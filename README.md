@@ -33,7 +33,7 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 
 ✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
 
-🤗 **Model**: The *weight-diff* version of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff), you can quickly get the parameters of BayLing through [apply_delta.py](./apply_delta.py). The HF models of BayLing are anonymized (exclude BayLing's name in its knowledge), in order to facilitate future LLMs to build upon BayLing.
+🤗 **Model**: [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-diff)
 
 
 <div  align="center">   
@@ -48,11 +48,24 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 > BayLing is continuously optimizing 🆙
 > If you have any suggestions, please contact `bayling@ict.ac.cn`.
 
-## News
+## 🔥News
+
+**[Jul. 06, 2023]** [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) model has been released, which is additionally injected with extensive Chinese knowledge based on v1.0.
 
 **[Jun. 21, 2023]** [BayLing's paper](https://arxiv.org/abs/2306.10968) is available.
 
 **[Jun. 15, 2023]** Models of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) are released in Huggingface 🤗.
+
+## BayLing Models
+- [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) (Current best choice to explore BayLing)
+    - continual learning on more Chinese knowledge based on BayLing-13B-v1.0.
+    - To save startup steps, Bayling-13B-v1.1 is not a diff version (`apply_delta.py` is not required). Please abide by the [License](#License).
+- [BayLing-13B-v1.0-diff](https://huggingface.co/ICTNLP/bayling-13b-diff)
+    - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2306.10968).
+    - The weight-diff version, you can quickly get the parameters of BayLing through [`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py).
+- [BayLing-7B-v1.0-diff](https://huggingface.co/ICTNLP/bayling-7b-diff)
+    - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2306.10968).
+    - The weight-diff version, you can quickly get the parameters of BayLing through [`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py).
 
 
 ## Overview
