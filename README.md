@@ -12,11 +12,7 @@
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
 <p align="center">
-  <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="./README_zh.md">[README: 中文版本]</a>
-</p>
-
-<p align="center">
-<a href="./assets/百聆交流群(BayLing_WeChat).jpeg">Welcome to join BayLing's WeChat  |  欢迎加入百聆交流群</a>
+  <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="./README_zh.md">[README: 中文版本]</a> <a href="./assets/百聆交流群(BayLing_WeChat).jpeg">[Welcome to join BayLing's WeChat(欢迎加入百聆交流群)]</a>
 </p>
 
 **BayLing** (**百聆**, **bǎi líng**) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. BayLing can be  effortlessly deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion...
@@ -33,7 +29,7 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 
 ✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
 
-🤗 **Model**: [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-diff)(Best)
+🤗 **Model**: [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)(best version)
 
 
 <div  align="center">   
