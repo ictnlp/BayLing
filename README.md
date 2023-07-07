@@ -44,7 +44,7 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 > BayLing is continuously optimizing 🆙
 > If you have any suggestions, please contact `bayling@ict.ac.cn`.
 
-## 🔥News
+## 🔥 News
 
 **[Jul. 06, 2023]** [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) model has been released, which is additionally injected with extensive Chinese knowledge based on BayLing-13B-v1.0. [BayLing's online demo](http://nlp.ict.ac.cn/bayling/demo) is also updated.
 
@@ -62,7 +62,6 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 - [BayLing-7B-v1.0 (diff version)](https://huggingface.co/ICTNLP/bayling-7b-diff)
     - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2306.10968).
     - The weight-diff version, you can quickly get the parameters of BayLing through [`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py).
-
 
 ## Overview
 - [Try BayLing](#Try-BayLing)
@@ -103,7 +102,8 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 
 ### <a id="Model">Model</a>
 
--  Download the parameters (diff version) of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) or [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) and the model of [LLaMA-7B/13B](https://github.com/facebookresearch/llama), run the following script to get the complete BayLing parameters at `${PATH_TO_BAYLING}`.
+- If you download [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1), you can use it directly without any additional operations.
+- If you download the weight-diff version of [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff) or [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), you should download the model of [LLaMA-7B/13B](https://github.com/facebookresearch/llama), and run the following script to get the complete BayLing parameters at `${PATH_TO_BAYLING}`.
 
   ```shell
   python apply_delta.py --base-model-path ${PATH_TO_LLAMA} \

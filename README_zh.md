@@ -12,11 +12,7 @@
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
 <p align="center">
-  <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="./README_zh.md">[README: 中文版本]</a>
-</p>
-
-<p align="center">
-<a href="./assets/百聆交流群(BayLing_WeChat).jpeg">Welcome to join BayLing's WeChat  |  欢迎加入百聆交流群</a>
+  <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="./README_zh.md">[README: 中文版本]</a> <a href="./assets/百聆交流群(BayLing_WeChat).jpeg">[Welcome to join BayLing's WeChat(欢迎加入百聆交流群)]</a>
 </p>
 
 **百聆**（**BayLing**）是一个强化了语言对齐的大规模语言模型，拥有增强的英语/中文生成、指令跟随和多轮交互能力。百聆可以部署在16GB显存的消费级GPU上，协助用户完成翻译、写作、创作、建议等任务。
@@ -33,7 +29,7 @@
 
 ✍️ [**BayLing-80 测试集**](./data/BayLing-80)：一个由人工标注的中文/英语多轮指令测试集，可用于评估LLM的中文/英语和多轮交互能力。
 
-🤗 **模型**：[百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 和 [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) 的模型权重（增量版本），您可以通过[apply_delta.py](./apply_delta.py)快速获取百聆的完整参数。注意，开源的百聆模型是匿名版本（在其知识中排除了“百聆”等相关名字），以方便后续工作基于百聆进行相关研究。
+🤗 **模型**：[BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)(最佳版本)
 
 
 <div  align="center">   
@@ -48,12 +44,24 @@
 > 百聆正在持续优化中 🆙
 > 如果大家有任何建议，欢迎联系`bayling@ict.ac.cn`。
 
-## 最新动态！
+## 🔥 最新动态
+
+**[Jul. 06, 2023]** [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)的模型权重已经发布，其相比于BayLing-13B-v1.0拥有更多的中文知识。[百聆的在线demo](http://nlp.ict.ac.cn/bayling/demo)也进行了更新，欢迎体验！
 
 **[Jun. 21, 2023]** 百聆的[论文](https://arxiv.org/abs/2306.10968)已经公开.
 
-**[Jun. 15, 2023]** [百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 和 [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) 的模型权重已发布于Huggingface 🤗.
+**[Jun. 15, 2023]** [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 和 [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) 的模型权重已发布于Huggingface 🤗.
 
+## 百聆模型
+- [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) (当前的最佳版本)
+    - 基于BayLing-13B-v1.0，在大量中文知识上进行连续学习.
+    - 为了节省启动步骤，发布的Bayling-13B-v1.1不是增量版本，可以直接使用。注意请在[License](#License)范围内使用百聆。
+- [BayLing-13B-v1.0 (增量权重)](https://huggingface.co/ICTNLP/bayling-13b-diff)
+    - 此模型可用于复现[百聆论文](https://arxiv.org/abs/2306.10968)中的实验结果。
+    - 增量权重版本，您可以通过[`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py)快速得到百聆的完整参数。
+- [BayLing-7B-v1.0 (增量权重)](https://huggingface.co/ICTNLP/bayling-7b-diff)
+    - 此模型可用于复现[百聆论文](https://arxiv.org/abs/2306.10968)中的实验结果。
+    - 增量权重版本，您可以通过[`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py)快速得到百聆的完整参数。
 
 ## Overview
 - [部署百聆](#部署百聆)
@@ -94,7 +102,8 @@
 
 ### <a id="Model">获取百聆模型</a>
 
--  下载[百聆-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 或者 [百聆-13B](https://huggingface.co/ICTNLP/bayling-13b-diff)的模型权重（增量版本），下载[LLaMA-7B/13B 模型](https://github.com/facebookresearch/llama)，运行以下脚本以获取完整的百聆模型，保存在路径`${PATH_TO_BAYLING}`。
+- 如果您下载的是[BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)，你可以直接使用改模型，无需任何额外操作。
+- 如果您下载的是[BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff) 或者 [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff)的模型权重（增量版本），请下载[LLaMA-7B/13B 模型](https://github.com/facebookresearch/llama)，运行以下脚本以获取完整的百聆模型，保存在路径`${PATH_TO_BAYLING}`。
 
   ```shell
   python apply_delta.py --base-model-path ${PATH_TO_LLAMA} \
