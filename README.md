@@ -939,6 +939,8 @@ If our work is helpful for you, please cite as:
 }
 ```
 
-Welcome to 🌟 BayLing!
+Welcome to 🌟 BayLing and join BayLing's WeChat!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ictnlp/BayLing&type=Date)](https://star-history.com/#ictnlp/BayLing&Date)
+<div  align="center">   
+  <img src="./assets/百聆交流群(BayLing_WeChat).jpeg" alt="img" width="50%" />
+</div>

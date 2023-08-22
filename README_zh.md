@@ -934,6 +934,8 @@ WMT22 德语-到-英语    | WMT22 英语-到-德语
 ```
 
 
-Welcome to 🌟 BayLing!
+欢迎🌟百聆并加入百聆交流群！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ictnlp/BayLing&type=Date)](https://star-history.com/#ictnlp/BayLing&Date)
+<div  align="center">   
+  <img src="./assets/百聆交流群(BayLing_WeChat).jpeg" alt="img" width="50%" />
+</div>
