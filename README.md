@@ -53,15 +53,15 @@ If BayLing is helpful for you, welcome to star this repo 🌟
 **[Jun. 15, 2023]** Models of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) are released in Huggingface 🤗.
 
 ## BayLing Models
-- [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) (Current best choice to explore BayLing)
+- **BayLing-13B-v1.1** (Current best choice to explore BayLing)
     - continual learning on more Chinese knowledge based on BayLing-13B-v1.0.
-    - To save startup steps, Bayling-13B-v1.1 is not a diff version (`apply_delta.py` is not required). Note that please abide by [License](#License).
-- [BayLing-13B-v1.0 (diff version)](https://huggingface.co/ICTNLP/bayling-13b-diff)
+    - [[huggingface link](https://huggingface.co/ICTNLP/bayling-13b-v1.1)] [[wisemodel link](https://wisemodel.cn/models/ICT_NLP/bayling-13b-v1.1)]
+- **BayLing-13B-v1.0**
     - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2306.10968).
-    - The weight-diff version, you can quickly get the parameters of BayLing through [`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py).
-- [BayLing-7B-v1.0 (diff version)](https://huggingface.co/ICTNLP/bayling-7b-diff)
+    - [[huggingface link](https://huggingface.co/ICTNLP/bayling-13b-diff)] [[wisemodel link](https://wisemodel.cn/models/ICT_NLP/bayling-13b-v1.0)]
+- **BayLing-7B-v1.0**
     - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2306.10968).
-    - The weight-diff version, you can quickly get the parameters of BayLing through [`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py).
+    - [[huggingface link](https://huggingface.co/ICTNLP/bayling-7b-diff)] [[wisemodel link](https://wisemodel.cn/models/ICT_NLP/bayling-7b-v1.0)]
 
 ## Overview
 - [Try BayLing](#Try-BayLing)

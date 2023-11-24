@@ -53,15 +53,15 @@
 **[Jun. 15, 2023]** [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) 和 [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) 的模型权重已发布于Huggingface 🤗.
 
 ## 百聆模型
-- [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) (当前的最佳版本)
+- **BayLing-13B-v1.1**
     - 基于BayLing-13B-v1.0，在大量中文知识上进行连续学习.
-    - 为了节省启动步骤，发布的Bayling-13B-v1.1不是增量版本，可以直接使用。注意请在[License](#License)范围内使用百聆。
-- [BayLing-13B-v1.0 (增量权重)](https://huggingface.co/ICTNLP/bayling-13b-diff)
+    - [[huggingface link](https://huggingface.co/ICTNLP/bayling-13b-v1.1)] [[wisemodel link](https://wisemodel.cn/models/ICT_NLP/bayling-13b-v1.1)]
+- **BayLing-13B-v1.0**
     - 此模型可用于复现[百聆论文](https://arxiv.org/abs/2306.10968)中的实验结果。
-    - 增量权重版本，您可以通过[`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py)快速得到百聆的完整参数。
-- [BayLing-7B-v1.0 (增量权重)](https://huggingface.co/ICTNLP/bayling-7b-diff)
+    - [[huggingface link](https://huggingface.co/ICTNLP/bayling-13b-diff)] [[wisemodel link](https://wisemodel.cn/models/ICT_NLP/bayling-13b-v1.0)]
+- **BayLing-7B-v1.0**
     - 此模型可用于复现[百聆论文](https://arxiv.org/abs/2306.10968)中的实验结果。
-    - 增量权重版本，您可以通过[`apply_delta.py`](https://github.com/ictnlp/BayLing/blob/main/apply_delta.py)快速得到百聆的完整参数。
+    - [[huggingface link](https://huggingface.co/ICTNLP/bayling-7b-diff)] [[wisemodel link](https://wisemodel.cn/models/ICT_NLP/bayling-7b-v1.0)]
 
 ## Overview
 - [部署百聆](#部署百聆)
