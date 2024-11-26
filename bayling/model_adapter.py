@@ -207,6 +207,24 @@ class BayLingAdapter(BaseAdapter):
         return get_conv_template("BayLing")
 
 
+class BayLing3Adapter(BaseAdapter):
+    "Model adapater for BayLing-3"
+
+    def match(self, model_path: str):
+        return  "bayling-llama-3" in model_path.lower()
+
+    def load_model(self, model_path: str, from_pretrained_kwargs: dict):
+        tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_path,
+            low_cpu_mem_usage=True,
+            **from_pretrained_kwargs,
+        )
+        return model, tokenizer
+
+    def get_default_conv_template(self, model_path: str) -> Conversation:
+        return get_conv_template("BayLing-3")
+
 class AlpacaAdapter(BaseAdapter):
     """The model adapter for alpaca."""
 
@@ -518,6 +536,7 @@ class H2OGPTAdapter(BaseAdapter):
 
 # Note: the registration order matters.
 # The one registered earlier has a higher matching priority.
+register_model_adapter(BayLing3Adapter)
 register_model_adapter(BayLingAdapter)
 register_model_adapter(VicunaAdapter)
 register_model_adapter(T5Adapter)

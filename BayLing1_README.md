@@ -4,27 +4,32 @@
 
 # BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models
 
-# BayLing 2: A Multilingual Large Language Model with Efficient Language Alignment
-
 [![license](https://img.shields.io/badge/License-GPL:v3-lightgrey.svg)](https://github.com/ictnlp/BayLing/blob/main/LICENSE)
 [![online demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo)
 [![homepage](https://img.shields.io/badge/BayLing-homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling)
-[![paper1](https://img.shields.io/badge/arXiv-BayLing_1-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2306.10968)
-[![paper2](https://img.shields.io/badge/arXiv-BayLing_2-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2411.16300)
+[![paper](https://img.shields.io/badge/Paper-arxiv-green.svg)](https://arxiv.org/abs/2306.10968)
 [![update-badge](https://img.shields.io/github/last-commit/ictnlp/BayLing?label=last%20update)](https://github.com/ictnlp/BayLing) 
 [![star](https://img.shields.io/github/stars/ictnlp/BayLing?color=orange)](https://github.com/ictnlp/BayLing/stargazers)
 
-**BayLing** (**百聆**, **bǎi líng**) is an multilingual LLM equipped with advanced language alignment, showing superior multilingual capability. The latest version of the model, BayLing 2, achieves efficient language alignment by combining high-resource language instructions (Chinese and English) with cross-lingual instructions for **100+ languages** during training, thereby transferring generative capabilities and knowledge from high-resource languages to low-resource languages.
+<p align="center">
+  <a href="https://github.com/ictnlp/BayLing">[README: English version]</a> <a href="./README_zh.md">[README: 中文版本]</a> <a href="./assets/百聆交流群(BayLing_WeChat).jpeg">[Welcome to join BayLing's WeChat(欢迎加入百聆交流群)]</a>
+</p>
+
+**BayLing** (**百聆**, **bǎi líng**) is an instruction-following large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. BayLing can be  effortlessly deployed on a consumer-grade GPU with 16GB of memory, and assists users with tasks such as translation, writing, creation, suggestion...
+
+If BayLing is helpful for you, welcome to star this repo 🌟
 
 👇 Learn more about BayLing:
 
 💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): Welcome to apply for a trial of BayLing's online demo (beta version).
 
-📄 [**BayLing 1 Paper**](https://arxiv.org/abs/2306.10968), [**BayLing 2 Paper**](https://arxiv.org/abs/2411.16300): A comprehensive research paper of BayLing.
+📄 [**Paper**](https://arxiv.org/abs/2306.10968): A comprehensive research paper of BayLing.
 
 🏠 [**Homepage**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover more information and cases of BayLing here.
 
-🤗 **Model**: [BayLing-Llama-3-8B](https://huggingface.co/ICTNLP/bayling-llama-3-8b), [BayLing-2-7B](https://huggingface.co/ICTNLP/bayling-2-7b), [BayLing-2-13B](https://huggingface.co/ICTNLP/bayling-2-13b), [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)
+✍️ [**BayLing-80 Test Set**](./data/BayLing-80): A human-annotated evaluation set comprising multi-turn instructions in both English and Chinese, can be used to evaluate the multilingual and multi-turn interaction capabilities of LLMs.
+
+🤗 **Model**: [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)(best version)
 
 
 <div  align="center">   
@@ -40,9 +45,6 @@
 > If you have any suggestions, please contact `bayling@ict.ac.cn`.
 
 ## 🔥 News
-**[Nov. 26, 2024]** [BayLing 2's paper](https://arxiv.org/abs/2411.16300) is available.
-
-**[Nov. 25, 2024]** Models of [BayLing-2-7B](https://huggingface.co/ICTNLP/bayling-2-7b), [BayLing-2-13B](https://huggingface.co/ICTNLP/bayling-2-13b) and [BayLing-Llama-3-8B](https://huggingface.co/ICTNLP/bayling-llama-3-8b) are released in Huggingface 🤗. These modles are trained on 3.2 million instructions, comprising high-resource language instructions (Chinese and English) and cross-lingual instructions for 100+ languages to facilitate the capability transfer between languages.
 
 **[Jul. 06, 2023]** [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) model has been released, which is additionally injected with extensive Chinese knowledge based on BayLing-13B-v1.0. [BayLing's online demo](http://nlp.ict.ac.cn/bayling/demo) is also updated.
 
@@ -51,19 +53,6 @@
 **[Jun. 15, 2023]** Models of [BayLing-7B](https://huggingface.co/ICTNLP/bayling-7b-diff) and [BayLing-13B](https://huggingface.co/ICTNLP/bayling-13b-diff) are released in Huggingface 🤗.
 
 ## BayLing Models
-
-- **BayLing-Llama-3-8B** (Current best choice to explore BayLing)
-  - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2411.16300).
-  - [[huggingface link](https://huggingface.co/ICTNLP/bayling-llama-3-8b)] 
-
-- **BayLing-2-13B**
-  - The model that can reproduce the results in the [BayLing 2's paper](https://arxiv.org/abs/2411.16300).
-  - [[huggingface link](https://huggingface.co/ICTNLP/bayling-2-13b)] 
-
-- **BayLing-2-7B**
-  - The model that can reproduce the results in the [BayLing 2's paper](https://arxiv.org/abs/2411.16300).
-  - [[huggingface link](https://huggingface.co/ICTNLP/bayling-2-7b)] 
-
 - **BayLing-13B-v1.1** (Current best choice to explore BayLing)
     - continual learning on more Chinese knowledge based on BayLing-13B-v1.0.
     - [[huggingface link](https://huggingface.co/ICTNLP/bayling-13b-v1.1)] [[wisemodel link](https://wisemodel.cn/models/ICT_NLP/bayling-13b-v1.1)]
@@ -930,11 +919,11 @@ We would like to express our gratitude to all those who have contributed to BayL
 
 ## <a id="Authors">Authors</a>
 
- BayLing 1:  [Shaolei Zhang](https://zhangshaolei1998.github.io/), [Qingkai Fang](https://fangqingkai.github.io/), [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html), [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html), [Yan Zhou](https://zhouyan19.github.io/zhouyan/), [Langlin Huang](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html), [Mengyu Bu](https://bingo123122121.github.io/), [Shangtong Gui](https://github.com/GhostofAdam), [Yunji Chen](http://novel.ict.ac.cn/ychen/), [Xilin Chen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html), [Yang Feng \*](https://people.ucas.edu.cn/~yangfeng?language=en)
+ |  [Shaolei Zhang](https://zhangshaolei1998.github.io/)  |  [Qingkai Fang](https://fangqingkai.github.io/)  |  [Zhuocheng Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52678.html)  |  [Zhengrui Ma](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221019_52675.html)  |
 
- BayLing 2: [Shaolei Zhang](https://zhangshaolei1998.github.io/), [Kehao Zhang](https://nlp.ict.ac.cn/yjdw/xs/bsyjs/202210/t20221020_52706.html), [Qingkai Fang](https://fangqingkai.github.io/), [Shoutao Guo](https://scholar.google.com.hk/citations?user=XwHtPyAAAAAJ&hl=zh-CN), [Yan Zhou](https://zhouyan19.github.io/zhouyan/), Xiaodong Liu, [Yang Feng \*](https://people.ucas.edu.cn/~yangfeng?language=en)
+ |  [Yan Zhou](https://zhouyan19.github.io/zhouyan/)  |  [Langlin Huang](https://nlp.ict.ac.cn/yjdw/xs/ssyjs/202210/t20221019_52686.html)  |  [Mengyu Bu](https://bingo123122121.github.io/)  |  [Shangtong Gui](https://github.com/GhostofAdam)  |
 
-
+ |  [Yunji Chen](http://novel.ict.ac.cn/ychen/)  |  [Xilin Chen](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496595.html)  |  [Yang Feng \*](https://people.ucas.edu.cn/~yangfeng?language=en)  |
 
 ## <a id="Citation">Citation</a>
 
@@ -950,14 +939,8 @@ If our work is helpful for you, please cite as:
 }
 ```
 
-```
-@article{bayling,
-      title={BayLing 2: A Multilingual Large Language Model with Efficient Language Alignment}, 
-      author={Shaolei Zhang and Kehao Zhang and Qingkai Fang and Shoutao Guo and Yan Zhou and Xiaodong Liu and Yang Feng},
-      year={2024},
-      eprint={2411.16300},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2411.16300}, 
-}
-```
+Welcome to 🌟 BayLing and join BayLing's WeChat!
+
+<div  align="center">   
+  <img src="./assets/百聆交流群(BayLing_WeChat).jpeg" alt="img" width="50%" />
+</div>

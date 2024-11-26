@@ -20,6 +20,7 @@ class SeparatorStyle(Enum):
     PHOENIX = auto()
     BAYLING = auto()
     ALPACA = auto()
+    LLAMA3=auto()
 
 
 @dataclasses.dataclass
@@ -65,6 +66,17 @@ class Conversation:
                         ret += "\n"
                 else:
                     ret += role
+            return ret
+        elif self.sep_style == SeparatorStyle.LLAMA3:
+            ret = "<|begin_of_text|>"
+            seps = [self.sep, self.sep2]
+            ret = self.system + seps[0]
+            for i, (role, message) in enumerate(self.messages):
+                if message:
+                    ret += f"{role}"
+                    ret += f"{message.strip()}"+self.sep2
+                else:
+                    ret += f"{role}"
             return ret
         elif self.sep_style == SeparatorStyle.ADD_COLON_TWO:
             seps = [self.sep, self.sep2]
@@ -260,6 +272,22 @@ register_conv_template(
         sep_style=SeparatorStyle.BAYLING,
         sep="\n",
         sep2="</s>",
+    )
+)
+
+# BayLing3 template
+register_conv_template(
+    Conversation(
+        name="BayLing-3",
+        system="<|start_header_id|>system<|end_header_id|>\n\nI am BayLing developed by the NLP Group of ICT/CAS.<|eot_id|>",
+        roles=("<|start_header_id|>user<|end_header_id|>\n\n", "<|start_header_id|>assistant<|end_header_id|>\n\n"),
+        messages=(),
+        sep_style=SeparatorStyle.LLAMA3,
+        offset=0,
+        sep="",
+        sep2="<|eot_id|>",
+        stop_str="<|eot_id|>",
+        stop_token_ids=[2,128001,128009],
     )
 )
 
