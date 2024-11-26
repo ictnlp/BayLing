@@ -16,6 +16,10 @@
 
 **BayLing** (**百聆**, **bǎi líng**) is an multilingual LLM equipped with advanced language alignment, showing superior multilingual capability. The latest version of the model, BayLing 2, achieves efficient language alignment by combining high-resource language instructions (Chinese and English) with cross-lingual instructions for **100+ languages** during training, thereby transferring generative capabilities and knowledge from high-resource languages to low-resource languages.
 
+<div  align="center">   
+  <img src="./assets/bayling2.png" alt="img" width="85%" />
+</div>
+
 👇 Learn more about BayLing:
 
 💬 [**Demo**](http://nlp.ict.ac.cn/bayling/demo): Welcome to apply for a trial of BayLing's online demo (beta version).
@@ -52,17 +56,9 @@
 
 ## BayLing Models
 
-- **BayLing-Llama-3-8B** (Current best choice to explore BayLing)
+- [**BayLing-Llama-3-8B**](https://huggingface.co/ICTNLP/bayling-llama-3-8b), [**BayLing-2-7B**](https://huggingface.co/ICTNLP/bayling-2-7b), [**BayLing-2-13B**](https://huggingface.co/ICTNLP/bayling-2-13b)
   - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2411.16300).
-  - [[huggingface link](https://huggingface.co/ICTNLP/bayling-llama-3-8b)] 
-
-- **BayLing-2-13B**
-  - The model that can reproduce the results in the [BayLing 2's paper](https://arxiv.org/abs/2411.16300).
-  - [[huggingface link](https://huggingface.co/ICTNLP/bayling-2-13b)] 
-
-- **BayLing-2-7B**
-  - The model that can reproduce the results in the [BayLing 2's paper](https://arxiv.org/abs/2411.16300).
-  - [[huggingface link](https://huggingface.co/ICTNLP/bayling-2-7b)] 
+  - Usage: (1) Multilingual translation capabilities on 100+ languages; (2) Advanced Chinese-English translation capabilities; (3) Multilingual capabilities on general tasks  (especially low-resource languages)
 
 - **BayLing-13B-v1.1** (Current best choice to explore BayLing)
     - continual learning on more Chinese knowledge based on BayLing-13B-v1.0.
@@ -951,7 +947,7 @@ If our work is helpful for you, please cite as:
 ```
 
 ```
-@article{bayling,
+@article{bayling2,
       title={BayLing 2: A Multilingual Large Language Model with Efficient Language Alignment}, 
       author={Shaolei Zhang and Kehao Zhang and Qingkai Fang and Shoutao Guo and Yan Zhou and Xiaodong Liu and Yang Feng},
       year={2024},
