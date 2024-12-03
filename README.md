@@ -28,7 +28,7 @@
 
 🏠 [**Homepage**](http://nlp.ict.ac.cn/bayling): BayLing's homepage. You can discover more information and cases of BayLing here.
 
-🤗 **Model**: [BayLing-Llama-3-8B](https://huggingface.co/ICTNLP/bayling-llama-3-8b), [BayLing-2-7B](https://huggingface.co/ICTNLP/bayling-2-7b), [BayLing-2-13B](https://huggingface.co/ICTNLP/bayling-2-13b), [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)
+🤗 **Model**: [BayLing-2-Llama-3-8B](https://huggingface.co/ICTNLP/bayling-2-llama-3-8b), [BayLing-2-7B](https://huggingface.co/ICTNLP/bayling-2-7b), [BayLing-2-13B](https://huggingface.co/ICTNLP/bayling-2-13b), [BayLing-7B-v1.0](https://huggingface.co/ICTNLP/bayling-7b-diff), [BayLing-13B-v1.0](https://huggingface.co/ICTNLP/bayling-13b-diff), [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1)
 
 
 <div  align="center">   
@@ -46,7 +46,7 @@
 ## 🔥 News
 **[Nov. 26, 2024]** [BayLing 2's paper](https://arxiv.org/abs/2411.16300) is available.
 
-**[Nov. 25, 2024]** Models of [BayLing-2-7B](https://huggingface.co/ICTNLP/bayling-2-7b), [BayLing-2-13B](https://huggingface.co/ICTNLP/bayling-2-13b) and [BayLing-Llama-3-8B](https://huggingface.co/ICTNLP/bayling-llama-3-8b) are released in Huggingface 🤗. These modles are trained on 3.2 million instructions, comprising high-resource language instructions (Chinese and English) and cross-lingual instructions for 100+ languages to facilitate the capability transfer between languages.
+**[Nov. 25, 2024]** Models of [BayLing-2-7B](https://huggingface.co/ICTNLP/bayling-2-7b), [BayLing-2-13B](https://huggingface.co/ICTNLP/bayling-2-13b) and [BayLing-2-Llama-3-8B](https://huggingface.co/ICTNLP/bayling-llama-3-8b) are released in Huggingface 🤗. These modles are trained on 3.2 million instructions, comprising high-resource language instructions (Chinese and English) and cross-lingual instructions for 100+ languages to facilitate the capability transfer between languages.
 
 **[Jul. 06, 2023]** [BayLing-13B-v1.1](https://huggingface.co/ICTNLP/bayling-13b-v1.1) model has been released, which is additionally injected with extensive Chinese knowledge based on BayLing-13B-v1.0. [BayLing's online demo](http://nlp.ict.ac.cn/bayling/demo) is also updated.
 
@@ -56,7 +56,7 @@
 
 ## BayLing Models
 
-- [**BayLing-Llama-3-8B**](https://huggingface.co/ICTNLP/bayling-llama-3-8b), [**BayLing-2-7B**](https://huggingface.co/ICTNLP/bayling-2-7b), [**BayLing-2-13B**](https://huggingface.co/ICTNLP/bayling-2-13b)
+- [**BayLing-2-Llama-3-8B**](https://huggingface.co/ICTNLP/bayling-llama-3-8b), [**BayLing-2-7B**](https://huggingface.co/ICTNLP/bayling-2-7b), [**BayLing-2-13B**](https://huggingface.co/ICTNLP/bayling-2-13b)
   - The model that can reproduce the results in the [BayLing's paper](https://arxiv.org/abs/2411.16300).
   - Usage: (1) Multilingual translation capabilities on 100+ languages; (2) Advanced Chinese-English translation capabilities; (3) Multilingual capabilities on general tasks  (especially low-resource languages)
 
@@ -922,7 +922,7 @@ Model weights (delta version) and the inference code are released under The GNU 
 
 ## <a id="Acknowledgements">Acknowledgements</a>
 
-We would like to express our gratitude to all those who have contributed to BayLing. We extend special thanks to Ms. Xiaohong Wang for her valuable comments and suggestions on the use of InforSuperBahn MLOps, and for her organizational and resource support in providing computing resources and showcasing BayLing. We also acknowledge Xiaodong Liu for his pivotal role in the construction of the distributed system and overall coordination of the demo deployment. Furthermore, we appreciate the contribution of the development team from the Nanjing Institute of InforSuperBahn in maintaining the computing resources and creating the display interface for BayLing’s webpage and demo.
+We would like to express our gratitude to all those who have contributed to BayLing. We extend special thanks to Ms. Xiaohong Wang for her valuable comments and suggestions on the use of OneAiNexus, and for her organizational and resource support in providing computing resources and showcasing BayLing. We also acknowledge Xiaodong Liu for his pivotal role in the construction of the distributed system and overall coordination of the demo deployment. Furthermore, we appreciate the contribution of the development team from the Nanjing Institute of InforSuperBahn in maintaining the computing resources and creating the display interface for BayLing’s webpage and demo.
 
 ## <a id="Authors">Authors</a>
 
